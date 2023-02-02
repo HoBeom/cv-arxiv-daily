@@ -19,6 +19,7 @@ layout: default
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
     <li><a href=#Action-Recognition>Action Recognition</a></li>
+    <li><a href=#Human-Pose-Estimation>Human Pose Estimation</a></li>
   </ol>
 </details>
 
@@ -1190,6 +1191,23 @@ layout: default
 |**2023-01-19**|**Revisiting the Spatial and Temporal Modeling for Few-shot Action Recognition**|Jiazheng Xing et.al.|[2301.07944v1](http://arxiv.org/abs/2301.07944v1)|null|
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
+
+## Human Pose Estimation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-26**|**Attacking Important Pixels for Anchor-free Detectors**|Yunxu Xie et.al.|[2301.11457v1](http://arxiv.org/abs/2301.11457v1)|null|
+|**2023-01-25**|**Bias-Compensated Integral Regression for Human Pose Estimation**|Kerui Gu et.al.|[2301.10431v1](http://arxiv.org/abs/2301.10431v1)|null|
+|**2023-01-18**|**HSTFormer: Hierarchical Spatial-Temporal Transformers for 3D Human Pose Estimation**|Xiaoye Qian et.al.|[2301.07322v1](http://arxiv.org/abs/2301.07322v1)|null|
+|**2023-01-27**|**Neuromorphic High-Frequency 3D Dancing Pose Estimation in Dynamic Environment**|Zhongyang Zhang et.al.|[2301.06648v2](http://arxiv.org/abs/2301.06648v2)|null|
+|**2023-01-12**|**Poses of People in Art: A Data Set for Human Pose Estimation in Digital Art History**|Stefanie Schneider et.al.|[2301.05124v1](http://arxiv.org/abs/2301.05124v1)|null|
+|**2023-01-12**|**Towards High Performance One-Stage Human Pose Estimation**|Ling Li et.al.|[2301.04842v1](http://arxiv.org/abs/2301.04842v1)|null|
+|**2023-01-10**|**Robust Human Identity Anonymization using Pose Estimation**|Hengyuan Zhang et.al.|[2301.04243v1](http://arxiv.org/abs/2301.04243v1)|**[link](https://github.com/autonomousvehiclelaboratory/anonymization)**|
+|**2023-01-08**|**CameraPose: Weakly-Supervised Monocular 3D Human Pose Estimation by Leveraging In-the-wild 2D Annotations**|Cheng-Yen Yang et.al.|[2301.02979v1](http://arxiv.org/abs/2301.02979v1)|null|
+|**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
+|**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230202>back to top</a>)</p>
 
