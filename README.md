@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
+|**2023-02-05**|**Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition**|Binqian Xu et.al.|[2302.02327v1](http://arxiv.org/abs/2302.02327v1)|**[link](https://github.com/1xbq1/psp-learning)**|
+|**2023-02-05**|**Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition**|Binqian Xu et.al.|[2302.02316v1](http://arxiv.org/abs/2302.02316v1)|null|
 |**2023-02-01**|**Transforming CLIP to an Open-vocabulary Video Model via Interpolated Weight Optimization**|Zejia Weng et.al.|[2302.00624v1](http://arxiv.org/abs/2302.00624v1)|null|
 |**2023-01-31**|**Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN)**|Ayman Ali et.al.|[2301.13360v1](http://arxiv.org/abs/2301.13360v1)|null|
 |**2023-01-30**|**Action Capsules: Human Skeleton Action Recognition**|Ali Farajzadeh Bavil et.al.|[2301.13090v1](http://arxiv.org/abs/2301.13090v1)|null|
