@@ -41,6 +41,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-13**|**Capsules as viewpoint learners for human pose estimation**|Nicola Garau et.al.|[2302.06194v1](http://arxiv.org/abs/2302.06194v1)|null|
 |**2023-02-09**|**To Perceive or Not to Perceive: Lightweight Stacked Hourglass Network**|Jameel Hassan Abdul Samadh et.al.|[2302.04815v1](http://arxiv.org/abs/2302.04815v1)|**[link](https://github.com/jameelhassan/poseestimation)**|
 |**2023-02-03**|**HDFormer: High-order Directed Transformer for 3D Human Pose Estimation**|Hanyuan Chen et.al.|[2302.01825v1](http://arxiv.org/abs/2302.01825v1)|null|
 |**2023-01-26**|**Attacking Important Pixels for Anchor-free Detectors**|Yunxu Xie et.al.|[2301.11457v1](http://arxiv.org/abs/2301.11457v1)|null|
