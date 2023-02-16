@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Audio-Visual Contrastive Learning with Temporal Self-Supervision**|Simon Jenni et.al.|[2302.07702v1](http://arxiv.org/abs/2302.07702v1)|null|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-05**|**Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition**|Binqian Xu et.al.|[2302.02327v1](http://arxiv.org/abs/2302.02327v1)|**[link](https://github.com/1xbq1/psp-learning)**|
 |**2023-02-05**|**Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition**|Binqian Xu et.al.|[2302.02316v1](http://arxiv.org/abs/2302.02316v1)|null|
@@ -37,6 +38,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-15**|**Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation**|Han Li et.al.|[2302.07408v1](http://arxiv.org/abs/2302.07408v1)|null|
 |**2023-02-13**|**Capsules as viewpoint learners for human pose estimation**|Nicola Garau et.al.|[2302.06194v1](http://arxiv.org/abs/2302.06194v1)|null|
 |**2023-02-09**|**To Perceive or Not to Perceive: Lightweight Stacked Hourglass Network**|Jameel Hassan Abdul Samadh et.al.|[2302.04815v1](http://arxiv.org/abs/2302.04815v1)|**[link](https://github.com/jameelhassan/poseestimation)**|
 |**2023-02-03**|**HDFormer: High-order Directed Transformer for 3D Human Pose Estimation**|Hanyuan Chen et.al.|[2302.01825v1](http://arxiv.org/abs/2302.01825v1)|null|
