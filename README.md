@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences**|Yujie Zhou et.al.|[2302.09018v1](http://arxiv.org/abs/2302.09018v1)|null|
+|**2023-02-17**|**Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition**|Shengqin Wang et.al.|[2302.08689v1](http://arxiv.org/abs/2302.08689v1)|null|
 |**2023-02-15**|**Audio-Visual Contrastive Learning with Temporal Self-Supervision**|Simon Jenni et.al.|[2302.07702v1](http://arxiv.org/abs/2302.07702v1)|null|
 |**2023-02-06**|**AIM: Adapting Image Models for Efficient Video Action Recognition**|Taojiannan Yang et.al.|[2302.03024v1](http://arxiv.org/abs/2302.03024v1)|null|
 |**2023-02-05**|**Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition**|Binqian Xu et.al.|[2302.02327v1](http://arxiv.org/abs/2302.02327v1)|**[link](https://github.com/1xbq1/psp-learning)**|
