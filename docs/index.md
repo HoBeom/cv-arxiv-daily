@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-19**|**Table Tennis Stroke Detection and Recognition Using Ball Trajectory Data**|Kaustubh Milind Kulkarni et.al.|[2302.09657v1](http://arxiv.org/abs/2302.09657v1)|null|
+|**2023-02-17**|**Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer**|Nguyen Huu Phong et.al.|[2302.09187v1](http://arxiv.org/abs/2302.09187v1)|**[link](https://github.com/leonlha/Video-Action-Recognition-via-PSO-ConvNet-Transformer-Collaborative-Learning-with-Dynamics)**|
 |**2023-02-17**|**Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences**|Yujie Zhou et.al.|[2302.09018v1](http://arxiv.org/abs/2302.09018v1)|null|
 |**2023-02-17**|**Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition**|Shengqin Wang et.al.|[2302.08689v1](http://arxiv.org/abs/2302.08689v1)|null|
 |**2023-02-15**|**Audio-Visual Contrastive Learning with Temporal Self-Supervision**|Simon Jenni et.al.|[2302.07702v1](http://arxiv.org/abs/2302.07702v1)|null|
@@ -44,6 +46,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-20**|**HTNet: Human Topology Aware Network for 3D Human Pose Estimation**|Jialun Cai et.al.|[2302.09790v1](http://arxiv.org/abs/2302.09790v1)|**[link](https://github.com/vefalun/HTNet)**|
 |**2023-02-15**|**Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation**|Han Li et.al.|[2302.07408v1](http://arxiv.org/abs/2302.07408v1)|null|
 |**2023-02-13**|**Capsules as viewpoint learners for human pose estimation**|Nicola Garau et.al.|[2302.06194v1](http://arxiv.org/abs/2302.06194v1)|null|
 |**2023-02-09**|**To Perceive or Not to Perceive: Lightweight Stacked Hourglass Network**|Jameel Hassan Abdul Samadh et.al.|[2302.04815v1](http://arxiv.org/abs/2302.04815v1)|**[link](https://github.com/jameelhassan/poseestimation)**|
