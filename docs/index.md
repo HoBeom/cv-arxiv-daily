@@ -51,6 +51,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**HopFIR: Hop-wise GraphFormer with Intragroup Joint Refinement for 3D Human Pose Estimation**|Kai Zhai et.al.|[2302.14581v1](http://arxiv.org/abs/2302.14581v1)|null|
 |**2023-02-23**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan et.al.|[2302.11301v2](http://arxiv.org/abs/2302.11301v2)|null|
 |**2023-02-20**|**HTNet: Human Topology Aware Network for 3D Human Pose Estimation**|Jialun Cai et.al.|[2302.09790v1](http://arxiv.org/abs/2302.09790v1)|**[link](https://github.com/vefalun/HTNet)**|
 |**2023-02-15**|**Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation**|Han Li et.al.|[2302.07408v1](http://arxiv.org/abs/2302.07408v1)|null|
