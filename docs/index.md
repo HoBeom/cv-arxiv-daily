@@ -9,14 +9,9 @@ layout: default
 
 ## Updated on 2023.03.02
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#Action-Recognition>Action Recognition</a></li>
-    <li><a href=#Human-Pose-Estimation>Human Pose Estimation</a></li>
-  </ol>
-</details>
-
+Table of Contents
+ * [Action Recognition](Action-Recognition)
+ * [Human Pose Estimation](Human-Pose-Estimation)
 ## Action Recognition
 
 | Publish Date | Title | Authors | PDF | Code |
