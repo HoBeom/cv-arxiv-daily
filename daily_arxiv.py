@@ -288,7 +288,7 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 kw = keyword.replace(' ','-')      
-                f.write(f" * [{keyword}]({kw})\n")
+                f.write(f" * [{keyword}](#{kw})\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
