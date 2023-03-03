@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-02**|**Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning**|Chihiro Noguchi et.al.|[2303.00977v1](http://arxiv.org/abs/2303.00977v1)|null|
 |**2023-02-26**|**Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition**|Yifan Jiang et.al.|[2302.13434v1](http://arxiv.org/abs/2302.13434v1)|null|
 |**2023-02-25**|**Real-Time Recognition of In-Place Body Actions and Head Gestures using Only a Head-Mounted Display**|Jingbo Zhao et.al.|[2302.13096v1](http://arxiv.org/abs/2302.13096v1)|null|
 |**2023-02-25**|**Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition**|Jinzhao Luo et.al.|[2302.12967v1](http://arxiv.org/abs/2302.12967v1)|null|
