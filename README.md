@@ -7,6 +7,9 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
+|**2023-03-07**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v1](http://arxiv.org/abs/2303.03729v1)|null|
+|**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
 |**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
 |**2023-03-05**|**MITFAS: Mutual Information based Temporal Feature Alignment and Sampling for Aerial Video Action Recognition**|Ruiqi Xian et.al.|[2303.02575v1](http://arxiv.org/abs/2303.02575v1)|null|
 |**2023-03-02**|**AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning**|Xijun Wang et.al.|[2303.01589v1](http://arxiv.org/abs/2303.01589v1)|null|
@@ -41,6 +44,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
 |**2023-03-05**|**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**|Xuan Ju et.al.|[2303.02760v1](http://arxiv.org/abs/2303.02760v1)|null|
 |**2023-03-04**|**DistilPose: Tokenized Pose Regression with Heatmap Distillation**|Suhang Ye et.al.|[2303.02455v1](http://arxiv.org/abs/2303.02455v1)|null|
 |**2023-02-28**|**HopFIR: Hop-wise GraphFormer with Intragroup Joint Refinement for 3D Human Pose Estimation**|Kai Zhai et.al.|[2302.14581v1](http://arxiv.org/abs/2302.14581v1)|null|
