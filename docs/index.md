@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|null|
+|**2023-03-10**|**HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations**|Luca Franco et.al.|[2303.06242v1](http://arxiv.org/abs/2303.06242v1)|**[link](https://github.com/paolomandica/hysp)**|
 |**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
 |**2023-03-07**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v1](http://arxiv.org/abs/2303.03729v1)|null|
 |**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
@@ -48,6 +50,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**An Improved Baseline Framework for Pose Estimation Challenge at ECCV 2022 Visual Perception for Navigation in Human Environments Workshop**|Jiajun Fu et.al.|[2303.07141v1](http://arxiv.org/abs/2303.07141v1)|null|
 |**2023-03-10**|**Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers**|Vandad Davoodnia et.al.|[2303.05691v1](http://arxiv.org/abs/2303.05691v1)|null|
 |**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-03-08**|**Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module**|Linzhi Huang et.al.|[2303.04346v1](http://arxiv.org/abs/2303.04346v1)|**[link](https://github.com/hlz0606/sspcm)**|
