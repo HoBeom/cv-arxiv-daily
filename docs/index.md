@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -14,7 +14,7 @@ Table of Contents
 |**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|null|
 |**2023-03-10**|**HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations**|Luca Franco et.al.|[2303.06242v1](http://arxiv.org/abs/2303.06242v1)|**[link](https://github.com/paolomandica/hysp)**|
 |**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
-|**2023-03-07**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v1](http://arxiv.org/abs/2303.03729v1)|null|
+|**2023-03-14**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v2](http://arxiv.org/abs/2303.03729v2)|null|
 |**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
 |**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
 |**2023-03-05**|**MITFAS: Mutual Information based Temporal Feature Alignment and Sampling for Aerial Video Action Recognition**|Ruiqi Xian et.al.|[2303.02575v1](http://arxiv.org/abs/2303.02575v1)|null|
@@ -44,7 +44,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -75,5 +75,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
 
