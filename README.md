@@ -7,10 +7,11 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-14**|**Simultaneous Action Recognition and Human Whole-Body Motion and Dynamics Prediction from Wearable Sensors**|Kourosh Darvish et.al.|[2303.07655v1](http://arxiv.org/abs/2303.07655v1)|null|
 |**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|null|
 |**2023-03-10**|**HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations**|Luca Franco et.al.|[2303.06242v1](http://arxiv.org/abs/2303.06242v1)|**[link](https://github.com/paolomandica/hysp)**|
 |**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
-|**2023-03-14**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v2](http://arxiv.org/abs/2303.03729v2)|null|
+|**2023-03-14**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v2](http://arxiv.org/abs/2303.03729v2)|**[link](https://github.com/zhysora/fr-head)**|
 |**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
 |**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
 |**2023-03-05**|**MITFAS: Mutual Information based Temporal Feature Alignment and Sampling for Aerial Video Action Recognition**|Ruiqi Xian et.al.|[2303.02575v1](http://arxiv.org/abs/2303.02575v1)|null|
