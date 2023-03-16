@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -11,7 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-14**|**Simultaneous Action Recognition and Human Whole-Body Motion and Dynamics Prediction from Wearable Sensors**|Kourosh Darvish et.al.|[2303.07655v1](http://arxiv.org/abs/2303.07655v1)|null|
+|**2023-03-14**|**Simultaneous Action Recognition and Human Whole-Body Motion and Dynamics Prediction from Wearable Sensors**|Kourosh Darvish et.al.|[2303.07655v1](http://arxiv.org/abs/2303.07655v1)|**[link](https://github.com/ami-iit/paper_darvish_2022_humanoids_action-kindyn-predicition)**|
 |**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|null|
 |**2023-03-10**|**HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations**|Luca Franco et.al.|[2303.06242v1](http://arxiv.org/abs/2303.06242v1)|**[link](https://github.com/paolomandica/hysp)**|
 |**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
@@ -45,7 +45,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -76,5 +76,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
 
