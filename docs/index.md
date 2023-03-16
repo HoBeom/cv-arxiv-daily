@@ -51,6 +51,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-15**|**Economical Quaternion Extraction from a Human Skeletal Pose Estimate using 2-D Cameras**|Sriram Radhakrishna et.al.|[2303.08657v1](http://arxiv.org/abs/2303.08657v1)|null|
+|**2023-03-15**|**Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video**|Runyang Feng et.al.|[2303.08475v1](http://arxiv.org/abs/2303.08475v1)|null|
 |**2023-03-13**|**An Improved Baseline Framework for Pose Estimation Challenge at ECCV 2022 Visual Perception for Navigation in Human Environments Workshop**|Jiajun Fu et.al.|[2303.07141v1](http://arxiv.org/abs/2303.07141v1)|null|
 |**2023-03-10**|**Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers**|Vandad Davoodnia et.al.|[2303.05691v1](http://arxiv.org/abs/2303.05691v1)|null|
 |**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
