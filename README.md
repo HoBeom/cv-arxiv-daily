@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
+|**2023-03-17**|**Video Action Recognition with Attentive Semantic Units**|Yifei Chen et.al.|[2303.09756v1](http://arxiv.org/abs/2303.09756v1)|null|
 |**2023-03-15**|**EgoViT: Pyramid Video Transformer for Egocentric Action Recognition**|Chenbin Pan et.al.|[2303.08920v1](http://arxiv.org/abs/2303.08920v1)|null|
 |**2023-03-15**|**MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge**|Wei Lin et.al.|[2303.08914v1](http://arxiv.org/abs/2303.08914v1)|**[link](https://github.com/wlin-at/maxi)**|
 |**2023-03-14**|**Simultaneous Action Recognition and Human Whole-Body Motion and Dynamics Prediction from Wearable Sensors**|Kourosh Darvish et.al.|[2303.07655v1](http://arxiv.org/abs/2303.07655v1)|**[link](https://github.com/ami-iit/paper_darvish_2022_humanoids_action-kindyn-predicition)**|
@@ -49,6 +51,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-16**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v1](http://arxiv.org/abs/2303.09681v1)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
 |**2023-03-16**|**SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**|Yudi Dai et.al.|[2303.09095v1](http://arxiv.org/abs/2303.09095v1)|**[link](https://github.com/climbingdaily/SLOPER4D)**|
 |**2023-03-15**|**Economical Quaternion Extraction from a Human Skeletal Pose Estimate using 2-D Cameras**|Sriram Radhakrishna et.al.|[2303.08657v1](http://arxiv.org/abs/2303.08657v1)|null|
 |**2023-03-15**|**Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video**|Runyang Feng et.al.|[2303.08475v1](http://arxiv.org/abs/2303.08475v1)|null|
