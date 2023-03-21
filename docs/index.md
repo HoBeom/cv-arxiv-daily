@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904v1](http://arxiv.org/abs/2303.10904v1)|null|
+|**2023-03-18**|**Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation**|Yuecong Xu et.al.|[2303.10451v1](http://arxiv.org/abs/2303.10451v1)|null|
+|**2023-03-17**|**Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances**|Arun V. Reddy et.al.|[2303.10280v1](http://arxiv.org/abs/2303.10280v1)|**[link](https://github.com/reddyav1/rocog-v2)**|
 |**2023-03-17**|**Dual-path Adaptation from Image to Video Transformers**|Jungin Park et.al.|[2303.09857v1](http://arxiv.org/abs/2303.09857v1)|**[link](https://github.com/park-jungin/dualpath)**|
 |**2023-03-17**|**Video Action Recognition with Attentive Semantic Units**|Yifei Chen et.al.|[2303.09756v1](http://arxiv.org/abs/2303.09756v1)|null|
 |**2023-03-15**|**EgoViT: Pyramid Video Transformer for Egocentric Action Recognition**|Chenbin Pan et.al.|[2303.08920v1](http://arxiv.org/abs/2303.08920v1)|null|
@@ -55,6 +58,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation**|Zhehan Kan et.al.|[2303.11180v1](http://arxiv.org/abs/2303.11180v1)|null|
+|**2023-03-19**|**Markerless Motion Capture and Biomechanical Analysis Pipeline**|R. James Cotton et.al.|[2303.10654v1](http://arxiv.org/abs/2303.10654v1)|null|
 |**2023-03-16**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v1](http://arxiv.org/abs/2303.09681v1)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
 |**2023-03-18**|**SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**|Yudi Dai et.al.|[2303.09095v2](http://arxiv.org/abs/2303.09095v2)|**[link](https://github.com/climbingdaily/SLOPER4D)**|
 |**2023-03-15**|**Economical Quaternion Extraction from a Human Skeletal Pose Estimate using 2-D Cameras**|Sriram Radhakrishna et.al.|[2303.08657v1](http://arxiv.org/abs/2303.08657v1)|null|
