@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Automatic evaluation of herding behavior in towed fishing gear using end-to-end training of CNN and attention-based networks**|Orri Steinn Guðfinnsson et.al.|[2303.12016v1](http://arxiv.org/abs/2303.12016v1)|null|
 |**2023-03-21**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904v2](http://arxiv.org/abs/2303.10904v2)|null|
 |**2023-03-18**|**Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation**|Yuecong Xu et.al.|[2303.10451v1](http://arxiv.org/abs/2303.10451v1)|null|
 |**2023-03-17**|**Synthetic-to-Real Domain Adaptation for Action Recognition: A Dataset and Baseline Performances**|Arun V. Reddy et.al.|[2303.10280v1](http://arxiv.org/abs/2303.10280v1)|**[link](https://github.com/reddyav1/rocog-v2)**|
@@ -54,6 +55,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-21**|**Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation**|Wenkang Shan et.al.|[2303.11579v1](http://arxiv.org/abs/2303.11579v1)|**[link](https://github.com/patrick-swk/d3dp)**|
 |**2023-03-20**|**Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation**|Zhehan Kan et.al.|[2303.11180v1](http://arxiv.org/abs/2303.11180v1)|null|
 |**2023-03-19**|**Markerless Motion Capture and Biomechanical Analysis Pipeline**|R. James Cotton et.al.|[2303.10654v1](http://arxiv.org/abs/2303.10654v1)|null|
 |**2023-03-16**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v1](http://arxiv.org/abs/2303.09681v1)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
