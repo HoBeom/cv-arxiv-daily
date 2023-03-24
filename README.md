@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
+|**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915v1](http://arxiv.org/abs/2303.12915v1)|null|
 |**2023-03-21**|**Automatic evaluation of herding behavior in towed fishing gear using end-to-end training of CNN and attention-based networks**|Orri Steinn Guðfinnsson et.al.|[2303.12016v1](http://arxiv.org/abs/2303.12016v1)|null|
 |**2023-03-21**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904v2](http://arxiv.org/abs/2303.10904v2)|null|
 |**2023-03-18**|**Augmenting and Aligning Snippets for Few-Shot Video Domain Adaptation**|Yuecong Xu et.al.|[2303.10451v1](http://arxiv.org/abs/2303.10451v1)|null|
