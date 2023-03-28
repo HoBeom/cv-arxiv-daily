@@ -11,6 +11,11 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling**|Ryo Hachiuma et.al.|[2303.15270v1](http://arxiv.org/abs/2303.15270v1)|null|
+|**2023-03-27**|**Temporal Alignment of Human Motion Data: A Geometric Point of View**|Alice Barbara Tumpach et.al.|[2303.15259v1](http://arxiv.org/abs/2303.15259v1)|null|
+|**2023-03-27**|**Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features**|Fumiaki Sato et.al.|[2303.15167v1](http://arxiv.org/abs/2303.15167v1)|null|
+|**2023-03-25**|**3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition**|Lei Wang et.al.|[2303.14474v1](http://arxiv.org/abs/2303.14474v1)|null|
+|**2023-03-25**|**Multi-view knowledge distillation transformer for human action recognition**|Ying-Chen Lin et.al.|[2303.14358v1](http://arxiv.org/abs/2303.14358v1)|null|
 |**2023-03-24**|**Towards Scalable Neural Representation for Diverse Videos**|Bo He et.al.|[2303.14124v1](http://arxiv.org/abs/2303.14124v1)|null|
 |**2023-03-23**|**A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition**|Andong Deng et.al.|[2303.13505v1](http://arxiv.org/abs/2303.13505v1)|**[link](https://github.com/andongdeng/bear)**|
 |**2023-03-22**|**Self-distillation for surgical action recognition**|Amine Yamlahi et.al.|[2303.12915v1](http://arxiv.org/abs/2303.12915v1)|null|
@@ -62,6 +67,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Human Pose Estimation in Extremely Low-Light Conditions**|Sohyun Lee et.al.|[2303.15410v1](http://arxiv.org/abs/2303.15410v1)|null|
+|**2023-03-27**|**Global Relation Modeling and Refinement for Bottom-Up Human Pose Estimation**|Ruoqi Yin et.al.|[2303.14888v1](http://arxiv.org/abs/2303.14888v1)|null|
 |**2023-03-24**|**A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception**|Asude Aydin et.al.|[2303.14176v1](http://arxiv.org/abs/2303.14176v1)|null|
 |**2023-03-21**|**Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation**|Wenkang Shan et.al.|[2303.11579v1](http://arxiv.org/abs/2303.11579v1)|**[link](https://github.com/patrick-swk/d3dp)**|
 |**2023-03-25**|**Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation**|Zhehan Kan et.al.|[2303.11180v2](http://arxiv.org/abs/2303.11180v2)|null|
