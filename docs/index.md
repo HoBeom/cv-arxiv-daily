@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -13,7 +13,7 @@ Table of Contents
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|null|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao et.al.|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
-|**2023-03-30**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v1](http://arxiv.org/abs/2303.17218v1)|null|
+|**2023-04-01**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v2](http://arxiv.org/abs/2303.17218v2)|null|
 |**2023-03-29**|**A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants**|Shaotong Zhu et.al.|[2303.16867v1](http://arxiv.org/abs/2303.16867v1)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
 |**2023-03-28**|**Spatiotemporally Discriminative Video-Language Pre-Training with Text Grounding**|Yuanhao Xiong et.al.|[2303.16341v1](http://arxiv.org/abs/2303.16341v1)|null|
 |**2023-03-28**|**TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2303.16268v1](http://arxiv.org/abs/2303.16268v1)|null|
@@ -71,7 +71,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -116,5 +116,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
 
