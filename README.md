@@ -1,4 +1,4 @@
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -8,11 +8,11 @@ Table of Contents
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-03**|**On the Benefits of 3D Pose and Tracking for Human Action Recognition**|Jathushan Rajasegaran et.al.|[2304.01199v1](http://arxiv.org/abs/2304.01199v1)|null|
-|**2023-04-03**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zara et.al.|[2304.01110v1](http://arxiv.org/abs/2304.01110v1)|**[link](https://github.com/gzaraunitn/autolabel)**|
+|**2023-04-04**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zara et.al.|[2304.01110v2](http://arxiv.org/abs/2304.01110v2)|**[link](https://github.com/gzaraunitn/autolabel)**|
 |**2023-04-03**|**MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition**|Xiang Wang et.al.|[2304.00946v1](http://arxiv.org/abs/2304.00946v1)|null|
 |**2023-04-03**|**Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition**|Qianhui Men et.al.|[2304.00858v1](http://arxiv.org/abs/2304.00858v1)|null|
 |**2023-04-01**|**HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions**|Anshul Shah et.al.|[2304.00387v1](http://arxiv.org/abs/2304.00387v1)|null|
-|**2023-04-01**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v1](http://arxiv.org/abs/2304.00254v1)|null|
+|**2023-04-04**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v2](http://arxiv.org/abs/2304.00254v2)|null|
 |**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|null|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao et.al.|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
 |**2023-04-01**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v2](http://arxiv.org/abs/2303.17218v2)|null|
@@ -73,7 +73,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -118,5 +118,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
