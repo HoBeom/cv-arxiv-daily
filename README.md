@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**DIR-AS: Decoupling Individual Identification and Temporal Reasoning for Action Segmentation**|Peiyao Wang et.al.|[2304.02110v1](http://arxiv.org/abs/2304.02110v1)|null|
 |**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
 |**2023-04-03**|**On the Benefits of 3D Pose and Tracking for Human Action Recognition**|Jathushan Rajasegaran et.al.|[2304.01199v1](http://arxiv.org/abs/2304.01199v1)|null|
 |**2023-04-04**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zara et.al.|[2304.01110v2](http://arxiv.org/abs/2304.01110v2)|**[link](https://github.com/gzaraunitn/autolabel)**|
@@ -80,6 +81,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349v1](http://arxiv.org/abs/2304.02349v1)|null|
+|**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147v1](http://arxiv.org/abs/2304.02147v1)|null|
 |**2023-04-04**|**SportsPose -- A Dynamic 3D sports pose dataset**|Christian Keilstrup Ingwersen et.al.|[2304.01865v1](http://arxiv.org/abs/2304.01865v1)|**[link](https://github.com/ChristianIngwersen/SportsPose)**|
 |**2023-03-31**|**3D Human Pose Estimation via Intuitive Physics**|Shashank Tripathi et.al.|[2303.18246v1](http://arxiv.org/abs/2303.18246v1)|null|
 |**2023-03-31**|**CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions**|Ming Yan et.al.|[2303.17948v1](http://arxiv.org/abs/2303.17948v1)|null|
