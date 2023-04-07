@@ -1,4 +1,4 @@
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -75,7 +75,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -84,7 +84,7 @@ Table of Contents
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349v1](http://arxiv.org/abs/2304.02349v1)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147v1](http://arxiv.org/abs/2304.02147v1)|null|
 |**2023-04-04**|**SportsPose -- A Dynamic 3D sports pose dataset**|Christian Keilstrup Ingwersen et.al.|[2304.01865v1](http://arxiv.org/abs/2304.01865v1)|**[link](https://github.com/ChristianIngwersen/SportsPose)**|
-|**2023-03-31**|**3D Human Pose Estimation via Intuitive Physics**|Shashank Tripathi et.al.|[2303.18246v1](http://arxiv.org/abs/2303.18246v1)|null|
+|**2023-04-06**|**3D Human Pose Estimation via Intuitive Physics**|Shashank Tripathi et.al.|[2303.18246v2](http://arxiv.org/abs/2303.18246v2)|null|
 |**2023-03-31**|**CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions**|Ming Yan et.al.|[2303.17948v1](http://arxiv.org/abs/2303.17948v1)|null|
 |**2023-03-30**|**PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation**|Qitao Zhao et.al.|[2303.17472v1](http://arxiv.org/abs/2303.17472v1)|**[link](https://github.com/qitaozhao/poseformerv2)**|
 |**2023-03-29**|**Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation**|Wenhao Chai et.al.|[2303.16456v1](http://arxiv.org/abs/2303.16456v1)|null|
@@ -123,5 +123,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230407>back to top</a>)</p>
 
