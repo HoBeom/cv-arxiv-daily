@@ -101,14 +101,14 @@ Table of Contents
 |**2023-03-19**|**Markerless Motion Capture and Biomechanical Analysis Pipeline**|R. James Cotton et.al.|[2303.10654v1](http://arxiv.org/abs/2303.10654v1)|null|
 |**2023-03-31**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v2](http://arxiv.org/abs/2303.09681v2)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
 |**2023-03-18**|**SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments**|Yudi Dai et.al.|[2303.09095v2](http://arxiv.org/abs/2303.09095v2)|**[link](https://github.com/climbingdaily/SLOPER4D)**|
-|**2023-03-30**|**Economical Quaternion Extraction from a Human Skeletal Pose Estimate using 2-D Cameras**|Sriram Radhakrishna et.al.|[2303.08657v2](http://arxiv.org/abs/2303.08657v2)|null|
+|**2023-03-30**|**Economical Quaternion Extraction from a Human Skeletal Pose Estimate using 2-D Cameras**|Sriram Radhakrishna et.al.|[2303.08657v2](http://arxiv.org/abs/2303.08657v2)|**[link](https://github.com/SR42-dev/human-pose-quaternion-extraction)**|
 |**2023-03-15**|**Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video**|Runyang Feng et.al.|[2303.08475v1](http://arxiv.org/abs/2303.08475v1)|null|
 |**2023-03-13**|**An Improved Baseline Framework for Pose Estimation Challenge at ECCV 2022 Visual Perception for Navigation in Human Environments Workshop**|Jiajun Fu et.al.|[2303.07141v1](http://arxiv.org/abs/2303.07141v1)|null|
 |**2023-03-10**|**Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers**|Vandad Davoodnia et.al.|[2303.05691v1](http://arxiv.org/abs/2303.05691v1)|null|
 |**2023-03-08**|**GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research**|Elia Bonetto et.al.|[2303.04466v1](http://arxiv.org/abs/2303.04466v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-03-08**|**Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module**|Linzhi Huang et.al.|[2303.04346v1](http://arxiv.org/abs/2303.04346v1)|**[link](https://github.com/hlz0606/sspcm)**|
 |**2023-03-07**|**Proactive Multi-Camera Collaboration For 3D Human Pose Estimation**|Hai Ci et.al.|[2303.03767v1](http://arxiv.org/abs/2303.03767v1)|null|
-|**2023-03-05**|**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**|Xuan Ju et.al.|[2303.02760v1](http://arxiv.org/abs/2303.02760v1)|null|
+|**2023-03-05**|**Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes**|Xuan Ju et.al.|[2303.02760v1](http://arxiv.org/abs/2303.02760v1)|**[link](https://github.com/IDEA-Research/HumanArt)**|
 |**2023-03-16**|**DistilPose: Tokenized Pose Regression with Heatmap Distillation**|Suhang Ye et.al.|[2303.02455v3](http://arxiv.org/abs/2303.02455v3)|**[link](https://github.com/yshMars/DistilPose)**|
 |**2023-02-28**|**HopFIR: Hop-wise GraphFormer with Intragroup Joint Refinement for 3D Human Pose Estimation**|Kai Zhai et.al.|[2302.14581v1](http://arxiv.org/abs/2302.14581v1)|null|
 |**2023-02-23**|**View Consistency Aware Holistic Triangulation for 3D Human Pose Estimation**|Xiaoyue Wan et.al.|[2302.11301v2](http://arxiv.org/abs/2302.11301v2)|null|
