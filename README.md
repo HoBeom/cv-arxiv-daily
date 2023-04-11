@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023v1](http://arxiv.org/abs/2304.04023v1)|null|
 |**2023-04-06**|**Therbligs in Action: Video Understanding through Motion Primitives**|Eadom Dessalene et.al.|[2304.03631v1](http://arxiv.org/abs/2304.03631v1)|null|
 |**2023-04-06**|**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**|Syed Talal Wasim et.al.|[2304.03307v1](http://arxiv.org/abs/2304.03307v1)|**[link](https://github.com/talalwasim/vita-clip)**|
 |**2023-04-04**|**DIR-AS: Decoupling Individual Identification and Temporal Reasoning for Action Segmentation**|Peiyao Wang et.al.|[2304.02110v1](http://arxiv.org/abs/2304.02110v1)|null|
@@ -83,6 +84,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**|Tobias Baumgartner et.al.|[2304.04437v1](http://arxiv.org/abs/2304.04437v1)|**[link](https://github.com/tobibaum/partialsportsfieldreg_3dhpe)**|
 |**2023-04-06**|**All Keypoints You Need: Detecting Arbitrary Keypoints on the Body of Triple, High, and Long Jump Athletes**|Katja Ludwig et.al.|[2304.02939v1](http://arxiv.org/abs/2304.02939v1)|null|
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349v1](http://arxiv.org/abs/2304.02349v1)|null|
 |**2023-04-04**|**ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention**|Alec Diaz-Arias et.al.|[2304.02147v1](http://arxiv.org/abs/2304.02147v1)|null|
