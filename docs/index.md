@@ -88,6 +88,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**Distilling Token-Pruned Pose Transformer for 2D Human Pose Estimation**|Feixiang Ren et.al.|[2304.05548v1](http://arxiv.org/abs/2304.05548v1)|null|
 |**2023-04-10**|**Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**|Tobias Baumgartner et.al.|[2304.04437v1](http://arxiv.org/abs/2304.04437v1)|**[link](https://github.com/tobibaum/partialsportsfieldreg_3dhpe)**|
 |**2023-04-06**|**All Keypoints You Need: Detecting Arbitrary Keypoints on the Body of Triple, High, and Long Jump Athletes**|Katja Ludwig et.al.|[2304.02939v1](http://arxiv.org/abs/2304.02939v1)|null|
 |**2023-04-05**|**Self-supervised 3D Human Pose Estimation from a Single Image**|Jose Sosa et.al.|[2304.02349v1](http://arxiv.org/abs/2304.02349v1)|null|
