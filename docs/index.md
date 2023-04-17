@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**PMI Sampler: Patch similarity guided frame selection for Aerial Action Recognition**|Ruiqi Xian et.al.|[2304.06866v1](http://arxiv.org/abs/2304.06866v1)|null|
 |**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023v1](http://arxiv.org/abs/2304.04023v1)|null|
 |**2023-04-06**|**Therbligs in Action: Video Understanding through Motion Primitives**|Eadom Dessalene et.al.|[2304.03631v1](http://arxiv.org/abs/2304.03631v1)|null|
 |**2023-04-06**|**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**|Syed Talal Wasim et.al.|[2304.03307v1](http://arxiv.org/abs/2304.03307v1)|**[link](https://github.com/talalwasim/vita-clip)**|
