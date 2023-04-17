@@ -20,7 +20,7 @@ Table of Contents
 |**2023-04-04**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v2](http://arxiv.org/abs/2304.00254v2)|null|
 |**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|null|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao et.al.|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
-|**2023-04-05**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v3](http://arxiv.org/abs/2303.17218v3)|null|
+|**2023-04-05**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v3](http://arxiv.org/abs/2303.17218v3)|**[link](https://github.com/ptoupas/harflow3d)**|
 |**2023-03-29**|**A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants**|Shaotong Zhu et.al.|[2303.16867v1](http://arxiv.org/abs/2303.16867v1)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
 |**2023-03-28**|**Spatiotemporally Discriminative Video-Language Pre-Training with Text Grounding**|Yuanhao Xiong et.al.|[2303.16341v1](http://arxiv.org/abs/2303.16341v1)|null|
 |**2023-03-28**|**TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2303.16268v1](http://arxiv.org/abs/2303.16268v1)|null|
