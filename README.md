@@ -7,6 +7,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**ATTACH Dataset: Annotated Two-Handed Assembly Actions for Human Action Understanding**|Dustin Aganian et.al.|[2304.08210v1](http://arxiv.org/abs/2304.08210v1)|null|
+|**2023-04-16**|**Robust Cross-Modal Knowledge Distillation for Unconstrained Videos**|Wenke Xia et.al.|[2304.07775v1](http://arxiv.org/abs/2304.07775v1)|null|
+|**2023-04-14**|**Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition**|Liangqi Yuan et.al.|[2304.07421v1](http://arxiv.org/abs/2304.07421v1)|null|
+|**2023-04-14**|**NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery**|Zahid Hasan et.al.|[2304.07354v1](http://arxiv.org/abs/2304.07354v1)|null|
 |**2023-04-14**|**PMI Sampler: Patch similarity guided frame selection for Aerial Action Recognition**|Ruiqi Xian et.al.|[2304.06866v1](http://arxiv.org/abs/2304.06866v1)|null|
 |**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023v1](http://arxiv.org/abs/2304.04023v1)|null|
 |**2023-04-06**|**Therbligs in Action: Video Understanding through Motion Primitives**|Eadom Dessalene et.al.|[2304.03631v1](http://arxiv.org/abs/2304.03631v1)|null|
@@ -85,6 +89,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey**|Jingrui Yu et.al.|[2304.08193v1](http://arxiv.org/abs/2304.08193v1)|null|
+|**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186v1](http://arxiv.org/abs/2304.08186v1)|null|
 |**2023-04-12**|**Distilling Token-Pruned Pose Transformer for 2D Human Pose Estimation**|Feixiang Ren et.al.|[2304.05548v1](http://arxiv.org/abs/2304.05548v1)|null|
 |**2023-04-10**|**Monocular 3D Human Pose Estimation for Sports Broadcasts using Partial Sports Field Registration**|Tobias Baumgartner et.al.|[2304.04437v1](http://arxiv.org/abs/2304.04437v1)|**[link](https://github.com/tobibaum/partialsportsfieldreg_3dhpe)**|
 |**2023-04-06**|**All Keypoints You Need: Detecting Arbitrary Keypoints on the Body of Triple, High, and Long Jump Athletes**|Katja Ludwig et.al.|[2304.02939v1](http://arxiv.org/abs/2304.02939v1)|null|
