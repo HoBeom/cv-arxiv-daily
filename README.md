@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**GoferBot: A Visual Guided Human-Robot Collaborative Assembly System**|Zheyu Zhuang et.al.|[2304.08840v1](http://arxiv.org/abs/2304.08840v1)|null|
+|**2023-04-18**|**Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization**|Siyuan Yang et.al.|[2304.08799v1](http://arxiv.org/abs/2304.08799v1)|null|
 |**2023-04-17**|**ATTACH Dataset: Annotated Two-Handed Assembly Actions for Human Action Understanding**|Dustin Aganian et.al.|[2304.08210v1](http://arxiv.org/abs/2304.08210v1)|null|
 |**2023-04-16**|**Robust Cross-Modal Knowledge Distillation for Unconstrained Videos**|Wenke Xia et.al.|[2304.07775v1](http://arxiv.org/abs/2304.07775v1)|null|
 |**2023-04-14**|**Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition**|Liangqi Yuan et.al.|[2304.07421v1](http://arxiv.org/abs/2304.07421v1)|null|
