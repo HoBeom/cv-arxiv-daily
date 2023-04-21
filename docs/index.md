@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**A baseline on continual learning methods for video action recognition**|Giulia Castagnolo et.al.|[2304.10335v1](http://arxiv.org/abs/2304.10335v1)|null|
+|**2023-04-20**|**Search-Map-Search: A Frame Selection Paradigm for Action Recognition**|Mingjun Zhao et.al.|[2304.10316v1](http://arxiv.org/abs/2304.10316v1)|null|
+|**2023-04-20**|**Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis**|Mindi Ruan et.al.|[2304.10073v1](http://arxiv.org/abs/2304.10073v1)|null|
 |**2023-04-14**|**Skeleton-based action analysis for ADHD diagnosis**|Yichun Li et.al.|[2304.09751v1](http://arxiv.org/abs/2304.09751v1)|null|
 |**2023-04-18**|**GoferBot: A Visual Guided Human-Robot Collaborative Assembly System**|Zheyu Zhuang et.al.|[2304.08840v1](http://arxiv.org/abs/2304.08840v1)|null|
 |**2023-04-19**|**Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization**|Siyuan Yang et.al.|[2304.08799v2](http://arxiv.org/abs/2304.08799v2)|null|
