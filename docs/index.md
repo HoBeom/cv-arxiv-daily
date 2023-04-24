@@ -29,7 +29,7 @@ Table of Contents
 |**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
 |**2023-04-03**|**On the Benefits of 3D Pose and Tracking for Human Action Recognition**|Jathushan Rajasegaran et.al.|[2304.01199v1](http://arxiv.org/abs/2304.01199v1)|null|
 |**2023-04-04**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zara et.al.|[2304.01110v2](http://arxiv.org/abs/2304.01110v2)|**[link](https://github.com/gzaraunitn/autolabel)**|
-|**2023-04-03**|**MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition**|Xiang Wang et.al.|[2304.00946v1](http://arxiv.org/abs/2304.00946v1)|null|
+|**2023-04-03**|**MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition**|Xiang Wang et.al.|[2304.00946v1](http://arxiv.org/abs/2304.00946v1)|**[link](https://github.com/alibaba-mmai-research/molo)**|
 |**2023-04-03**|**Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition**|Qianhui Men et.al.|[2304.00858v1](http://arxiv.org/abs/2304.00858v1)|null|
 |**2023-04-01**|**HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions**|Anshul Shah et.al.|[2304.00387v1](http://arxiv.org/abs/2304.00387v1)|null|
 |**2023-04-04**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v2](http://arxiv.org/abs/2304.00254v2)|null|
@@ -42,7 +42,7 @@ Table of Contents
 |**2023-03-28**|**CycleACR: Cycle Modeling of Actor-Context Relations for Video Action Detection**|Lei Chen et.al.|[2303.16118v1](http://arxiv.org/abs/2303.16118v1)|null|
 |**2023-03-28**|**Rethinking matching-based few-shot action recognition**|Juliette Bertrand et.al.|[2303.16084v1](http://arxiv.org/abs/2303.16084v1)|null|
 |**2023-03-28**|**Colo-SCRL: Self-Supervised Contrastive Representation Learning for Colonoscopic Video Retrieval**|Qingzhong Chen et.al.|[2303.15671v1](http://arxiv.org/abs/2303.15671v1)|null|
-|**2023-03-25**|**Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition**|Jun Cen et.al.|[2303.15467v1](http://arxiv.org/abs/2303.15467v1)|null|
+|**2023-03-25**|**Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition**|Jun Cen et.al.|[2303.15467v1](http://arxiv.org/abs/2303.15467v1)|**[link](https://github.com/jun-cen/psl)**|
 |**2023-03-27**|**Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling**|Ryo Hachiuma et.al.|[2303.15270v1](http://arxiv.org/abs/2303.15270v1)|null|
 |**2023-03-27**|**Temporal Alignment of Human Motion Data: A Geometric Point of View**|Alice Barbara Tumpach et.al.|[2303.15259v1](http://arxiv.org/abs/2303.15259v1)|null|
 |**2023-03-27**|**Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features**|Fumiaki Sato et.al.|[2303.15167v1](http://arxiv.org/abs/2303.15167v1)|null|
