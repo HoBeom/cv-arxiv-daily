@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-23**|**TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential**|Dongjingdin Liu et.al.|[2304.11631v1](http://arxiv.org/abs/2304.11631v1)|**[link](https://github.com/vvhj/TSGCNeXt)**|
 |**2023-04-20**|**A baseline on continual learning methods for video action recognition**|Giulia Castagnolo et.al.|[2304.10335v1](http://arxiv.org/abs/2304.10335v1)|null|
 |**2023-04-20**|**Search-Map-Search: A Frame Selection Paradigm for Action Recognition**|Mingjun Zhao et.al.|[2304.10316v1](http://arxiv.org/abs/2304.10316v1)|null|
 |**2023-04-21**|**Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis**|Mindi Ruan et.al.|[2304.10073v2](http://arxiv.org/abs/2304.10073v2)|null|
@@ -95,6 +96,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Occlusion Robust 3D Human Pose Estimation with StridedPoseGraphFormer and Data Augmentation**|Soubarna Banik et.al.|[2304.12069v1](http://arxiv.org/abs/2304.12069v1)|null|
 |**2023-04-17**|**Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey**|Jingrui Yu et.al.|[2304.08193v1](http://arxiv.org/abs/2304.08193v1)|null|
 |**2023-04-17**|**Human Pose Estimation in Monocular Omnidirectional Top-View Images**|Jingrui Yu et.al.|[2304.08186v1](http://arxiv.org/abs/2304.08186v1)|null|
 |**2023-04-12**|**Distilling Token-Pruned Pose Transformer for 2D Human Pose Estimation**|Feixiang Ren et.al.|[2304.05548v1](http://arxiv.org/abs/2304.05548v1)|null|
