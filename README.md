@@ -96,6 +96,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Interweaved Graph and Attention Network for 3D Human Pose Estimation**|Ti Wang et.al.|[2304.14045v1](http://arxiv.org/abs/2304.14045v1)|**[link](https://github.com/xiu-cs/iganet)**|
 |**2023-04-26**|**What Happened 3 Seconds Ago? Inferring the Past with Thermal Imaging**|Zitian Tang et.al.|[2304.13651v1](http://arxiv.org/abs/2304.13651v1)|**[link](https://github.com/zitiantang/thermal-im)**|
 |**2023-04-24**|**Occlusion Robust 3D Human Pose Estimation with StridedPoseGraphFormer and Data Augmentation**|Soubarna Banik et.al.|[2304.12069v1](http://arxiv.org/abs/2304.12069v1)|null|
 |**2023-04-17**|**Applications of Deep Learning for Top-View Omnidirectional Imaging: A Survey**|Jingrui Yu et.al.|[2304.08193v1](http://arxiv.org/abs/2304.08193v1)|null|
