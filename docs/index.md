@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**Deep Graph Reprogramming**|Yongcheng Jing et.al.|[2304.14593v1](http://arxiv.org/abs/2304.14593v1)|null|
+|**2023-04-18**|**Human activity recognition using deep learning approaches and single frame cnn and convolutional lstm**|Sheryl Mathew et.al.|[2304.14499v1](http://arxiv.org/abs/2304.14499v1)|null|
 |**2023-04-23**|**TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential**|Dongjingdin Liu et.al.|[2304.11631v1](http://arxiv.org/abs/2304.11631v1)|**[link](https://github.com/vvhj/tsgcnext)**|
 |**2023-04-26**|**A baseline on continual learning methods for video action recognition**|Giulia Castagnolo et.al.|[2304.10335v2](http://arxiv.org/abs/2304.10335v2)|null|
 |**2023-04-20**|**Search-Map-Search: A Frame Selection Paradigm for Action Recognition**|Mingjun Zhao et.al.|[2304.10316v1](http://arxiv.org/abs/2304.10316v1)|null|
