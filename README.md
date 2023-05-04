@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733v1](http://arxiv.org/abs/2305.01733v1)|null|
 |**2023-05-01**|**Physical Adversarial Attacks for Surveillance: A Survey**|Kien Nguyen et.al.|[2305.01074v1](http://arxiv.org/abs/2305.01074v1)|null|
 |**2023-05-01**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666v1](http://arxiv.org/abs/2305.00666v1)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
 |**2023-04-28**|**Deep Graph Reprogramming**|Yongcheng Jing et.al.|[2304.14593v1](http://arxiv.org/abs/2304.14593v1)|null|
