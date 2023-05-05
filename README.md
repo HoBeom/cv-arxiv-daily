@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Modelling Spatio-Temporal Interactions for Compositional Action Recognition**|Ramanathan Rajendiran et.al.|[2305.02673v1](http://arxiv.org/abs/2305.02673v1)|null|
+|**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324v1](http://arxiv.org/abs/2305.02324v1)|null|
 |**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733v1](http://arxiv.org/abs/2305.01733v1)|null|
 |**2023-05-01**|**Physical Adversarial Attacks for Surveillance: A Survey**|Kien Nguyen et.al.|[2305.01074v1](http://arxiv.org/abs/2305.01074v1)|null|
 |**2023-05-01**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666v1](http://arxiv.org/abs/2305.00666v1)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
