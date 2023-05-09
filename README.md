@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-08**|**Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach**|Xuan Son Nguyen et.al.|[2305.04560v1](http://arxiv.org/abs/2305.04560v1)|null|
 |**2023-05-04**|**Modelling Spatio-Temporal Interactions for Compositional Action Recognition**|Ramanathan Rajendiran et.al.|[2305.02673v1](http://arxiv.org/abs/2305.02673v1)|null|
 |**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324v1](http://arxiv.org/abs/2305.02324v1)|null|
 |**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733v1](http://arxiv.org/abs/2305.01733v1)|null|
@@ -103,6 +104,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v1](http://arxiv.org/abs/2305.04286v1)|null|
+|**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282v1](http://arxiv.org/abs/2305.04282v1)|null|
 |**2023-05-02**|**Hybrid model for Single-Stage Multi-Person Pose Estimation**|Jonghyun Kim et.al.|[2305.01167v1](http://arxiv.org/abs/2305.01167v1)|null|
 |**2023-04-30**|**Synthetic Data-based Detection of Zebras in Drone Imagery**|Elia Bonetto et.al.|[2305.00432v1](http://arxiv.org/abs/2305.00432v1)|null|
 |**2023-04-27**|**Interweaved Graph and Attention Network for 3D Human Pose Estimation**|Ti Wang et.al.|[2304.14045v1](http://arxiv.org/abs/2304.14045v1)|**[link](https://github.com/xiu-cs/iganet)**|
