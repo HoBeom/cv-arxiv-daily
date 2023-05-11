@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Learning Video-Conditioned Policies for Unseen Manipulation Tasks**|Elliot Chane-Sane et.al.|[2305.06289v1](http://arxiv.org/abs/2305.06289v1)|null|
+|**2023-05-10**|**Few-shot Action Recognition via Intra- and Inter-Video Information Maximization**|Huabin Liu et.al.|[2305.06114v1](http://arxiv.org/abs/2305.06114v1)|null|
 |**2023-05-08**|**Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach**|Xuan Son Nguyen et.al.|[2305.04560v1](http://arxiv.org/abs/2305.04560v1)|null|
 |**2023-05-04**|**Modelling Spatio-Temporal Interactions for Compositional Action Recognition**|Ramanathan Rajendiran et.al.|[2305.02673v1](http://arxiv.org/abs/2305.02673v1)|null|
 |**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324v1](http://arxiv.org/abs/2305.02324v1)|null|
@@ -104,6 +106,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Regular Splitting Graph Network for 3D Human Pose Estimation**|Tanvir Hassan et.al.|[2305.05785v1](http://arxiv.org/abs/2305.05785v1)|**[link](https://github.com/nies14/rs-net)**|
 |**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v1](http://arxiv.org/abs/2305.04286v1)|null|
 |**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282v1](http://arxiv.org/abs/2305.04282v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-05-02**|**Hybrid model for Single-Stage Multi-Person Pose Estimation**|Jonghyun Kim et.al.|[2305.01167v1](http://arxiv.org/abs/2305.01167v1)|null|
