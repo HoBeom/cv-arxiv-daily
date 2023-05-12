@@ -1,4 +1,4 @@
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -14,7 +14,7 @@ Table of Contents
 |**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324v1](http://arxiv.org/abs/2305.02324v1)|null|
 |**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733v1](http://arxiv.org/abs/2305.01733v1)|null|
 |**2023-05-01**|**Physical Adversarial Attacks for Surveillance: A Survey**|Kien Nguyen et.al.|[2305.01074v1](http://arxiv.org/abs/2305.01074v1)|null|
-|**2023-05-01**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666v1](http://arxiv.org/abs/2305.00666v1)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
+|**2023-05-11**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666v2](http://arxiv.org/abs/2305.00666v2)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
 |**2023-04-28**|**Deep Graph Reprogramming**|Yongcheng Jing et.al.|[2304.14593v1](http://arxiv.org/abs/2304.14593v1)|null|
 |**2023-04-18**|**Human activity recognition using deep learning approaches and single frame cnn and convolutional lstm**|Sheryl Mathew et.al.|[2304.14499v1](http://arxiv.org/abs/2304.14499v1)|null|
 |**2023-04-23**|**TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential**|Dongjingdin Liu et.al.|[2304.11631v1](http://arxiv.org/abs/2304.11631v1)|**[link](https://github.com/vvhj/tsgcnext)**|
@@ -100,7 +100,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -161,5 +161,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230512>back to top</a>)</p>
 
