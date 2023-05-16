@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-14**|**Is end-to-end learning enough for fitness activity recognition?**|Antoine Mercier et.al.|[2305.08191v1](http://arxiv.org/abs/2305.08191v1)|null|
+|**2023-05-13**|**Lightweight Delivery Detection on Doorbell Cameras**|Pirazh Khorramshahi et.al.|[2305.07812v1](http://arxiv.org/abs/2305.07812v1)|null|
 |**2023-05-12**|**MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition**|Xinyu Gong et.al.|[2305.07214v1](http://arxiv.org/abs/2305.07214v1)|null|
 |**2023-05-10**|**Self-Supervised Video Representation Learning via Latent Time Navigation**|Di Yang et.al.|[2305.06437v1](http://arxiv.org/abs/2305.06437v1)|null|
 |**2023-05-10**|**Learning Video-Conditioned Policies for Unseen Manipulation Tasks**|Elliot Chane-Sane et.al.|[2305.06289v1](http://arxiv.org/abs/2305.06289v1)|null|
@@ -112,6 +114,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation**|Jiefeng Li et.al.|[2305.08590v1](http://arxiv.org/abs/2305.08590v1)|**[link](https://github.com/jeff-sjtu/niki)**|
 |**2023-05-09**|**Regular Splitting Graph Network for 3D Human Pose Estimation**|Tanvir Hassan et.al.|[2305.05785v1](http://arxiv.org/abs/2305.05785v1)|**[link](https://github.com/nies14/rs-net)**|
 |**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v1](http://arxiv.org/abs/2305.04286v1)|null|
 |**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282v1](http://arxiv.org/abs/2305.04282v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
