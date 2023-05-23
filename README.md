@@ -7,6 +7,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning**|Xiaoxiao Sheng et.al.|[2305.12959v1](http://arxiv.org/abs/2305.12959v1)|null|
+|**2023-05-22**|**Spatiotemporal Attention-based Semantic Compression for Real-time Video Recognition**|Nan Li et.al.|[2305.12796v1](http://arxiv.org/abs/2305.12796v1)|null|
+|**2023-05-21**|**Prompt Learning for Action Recognition**|Xijun Wang et.al.|[2305.12437v1](http://arxiv.org/abs/2305.12437v1)|null|
+|**2023-05-21**|**Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition**|Haojun Xu et.al.|[2305.12398v1](http://arxiv.org/abs/2305.12398v1)|null|
 |**2023-05-19**|**Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness**|Yuxuan Zhou et.al.|[2305.11468v1](http://arxiv.org/abs/2305.11468v1)|**[link](https://github.com/zhouyuxuanyx/blockgcn)**|
 |**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
 |**2023-05-16**|**Learning Higher-order Object Interactions for Keypoint-based Video Understanding**|Yi Huang et.al.|[2305.09539v1](http://arxiv.org/abs/2305.09539v1)|null|
