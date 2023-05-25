@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**High Speed Human Action Recognition using a Photonic Reservoir Computer**|Enrico Picco et.al.|[2305.15283v1](http://arxiv.org/abs/2305.15283v1)|null|
 |**2023-05-22**|**Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning**|Xiaoxiao Sheng et.al.|[2305.12959v1](http://arxiv.org/abs/2305.12959v1)|null|
 |**2023-05-22**|**Spatiotemporal Attention-based Semantic Compression for Real-time Video Recognition**|Nan Li et.al.|[2305.12796v1](http://arxiv.org/abs/2305.12796v1)|null|
 |**2023-05-21**|**Prompt Learning for Action Recognition**|Xijun Wang et.al.|[2305.12437v1](http://arxiv.org/abs/2305.12437v1)|null|
