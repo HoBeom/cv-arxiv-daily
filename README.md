@@ -1,4 +1,4 @@
-## Updated on 2023.05.28
+## Updated on 2023.05.29
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -14,7 +14,7 @@ Table of Contents
 |**2023-05-22**|**Spatiotemporal Attention-based Semantic Compression for Real-time Video Recognition**|Nan Li et.al.|[2305.12796v1](http://arxiv.org/abs/2305.12796v1)|null|
 |**2023-05-21**|**Prompt Learning for Action Recognition**|Xijun Wang et.al.|[2305.12437v1](http://arxiv.org/abs/2305.12437v1)|null|
 |**2023-05-21**|**Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition**|Haojun Xu et.al.|[2305.12398v1](http://arxiv.org/abs/2305.12398v1)|**[link](https://github.com/damnull/lagcn)**|
-|**2023-05-19**|**Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness**|Yuxuan Zhou et.al.|[2305.11468v1](http://arxiv.org/abs/2305.11468v1)|**[link](https://github.com/zhouyuxuanyx/blockgcn)**|
+|**2023-05-25**|**Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness**|Yuxuan Zhou et.al.|[2305.11468v2](http://arxiv.org/abs/2305.11468v2)|**[link](https://github.com/zhouyuxuanyx/blockgcn)**|
 |**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
 |**2023-05-16**|**Learning Higher-order Object Interactions for Keypoint-based Video Understanding**|Yi Huang et.al.|[2305.09539v1](http://arxiv.org/abs/2305.09539v1)|null|
 |**2023-05-13**|**M $^2$ DAR: Multi-View Multi-Scale Driver Action Recognition with Vision Transformer**|Yunsheng Ma et.al.|[2305.08877v1](http://arxiv.org/abs/2305.08877v1)|**[link](https://github.com/purduedigitaltwin/m2dar)**|
@@ -115,7 +115,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -125,8 +125,8 @@ Table of Contents
 |**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
 |**2023-05-15**|**NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation**|Jiefeng Li et.al.|[2305.08590v1](http://arxiv.org/abs/2305.08590v1)|**[link](https://github.com/jeff-sjtu/niki)**|
 |**2023-05-09**|**Regular Splitting Graph Network for 3D Human Pose Estimation**|Tanvir Hassan et.al.|[2305.05785v1](http://arxiv.org/abs/2305.05785v1)|**[link](https://github.com/nies14/rs-net)**|
-|**2023-05-07**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v1](http://arxiv.org/abs/2305.04286v1)|null|
-|**2023-05-07**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282v1](http://arxiv.org/abs/2305.04282v1)|**[link](https://github.com/eliabntt/GRADE-RR)**|
+|**2023-05-26**|**Simulation of Dynamic Environments for SLAM**|Elia Bonetto et.al.|[2305.04286v2](http://arxiv.org/abs/2305.04286v2)|null|
+|**2023-05-26**|**Learning from synthetic data generated with GRADE**|Elia Bonetto et.al.|[2305.04282v2](http://arxiv.org/abs/2305.04282v2)|**[link](https://github.com/eliabntt/GRADE-RR)**|
 |**2023-05-02**|**Hybrid model for Single-Stage Multi-Person Pose Estimation**|Jonghyun Kim et.al.|[2305.01167v1](http://arxiv.org/abs/2305.01167v1)|null|
 |**2023-04-30**|**Synthetic Data-based Detection of Zebras in Drone Imagery**|Elia Bonetto et.al.|[2305.00432v1](http://arxiv.org/abs/2305.00432v1)|null|
 |**2023-04-27**|**Interweaved Graph and Attention Network for 3D Human Pose Estimation**|Ti Wang et.al.|[2304.14045v1](http://arxiv.org/abs/2304.14045v1)|**[link](https://github.com/xiu-cs/iganet)**|
@@ -179,5 +179,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
