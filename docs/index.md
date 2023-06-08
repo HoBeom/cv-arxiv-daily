@@ -134,6 +134,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Efficient Vision Transformer for Human Pose Estimation via Patch Selection**|Kaleab A. Kinfu et.al.|[2306.04225v1](http://arxiv.org/abs/2306.04225v1)|null|
 |**2023-05-23**|**Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models**|Luke K. Topham et.al.|[2305.13765v1](http://arxiv.org/abs/2305.13765v1)|null|
 |**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
 |**2023-05-15**|**NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation**|Jiefeng Li et.al.|[2305.08590v1](http://arxiv.org/abs/2305.08590v1)|**[link](https://github.com/jeff-sjtu/niki)**|
