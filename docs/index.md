@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Human Action Recognition in Egocentric Perspective Using 2D Object and Hands Pose**|Wiktor Mucha et.al.|[2306.05147v1](http://arxiv.org/abs/2306.05147v1)|null|
+|**2023-06-07**|**Optimizing ViViT Training: Time and Memory Reduction for Action Recognition**|Shreyank N Gowda et.al.|[2306.04822v1](http://arxiv.org/abs/2306.04822v1)|null|
 |**2023-06-02**|**HomE: Homography-Equivariant Video Representation Learning**|Anirudh Sriram et.al.|[2306.01623v1](http://arxiv.org/abs/2306.01623v1)|**[link](https://github.com/anirudhs123/home)**|
 |**2023-06-02**|**Deep recurrent spiking neural networks capture both static and dynamic representations of the visual cortex under movie stimuli**|Liwei Huang et.al.|[2306.01354v1](http://arxiv.org/abs/2306.01354v1)|null|
 |**2023-06-01**|**Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints**|Jiachen Li et.al.|[2306.01075v1](http://arxiv.org/abs/2306.01075v1)|null|
