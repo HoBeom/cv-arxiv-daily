@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**How Object Information Improves Skeleton-based Human Action Recognition in Assembly Tasks**|Dustin Aganian et.al.|[2306.05844v1](http://arxiv.org/abs/2306.05844v1)|null|
 |**2023-06-08**|**Human Action Recognition in Egocentric Perspective Using 2D Object and Hands Pose**|Wiktor Mucha et.al.|[2306.05147v1](http://arxiv.org/abs/2306.05147v1)|null|
 |**2023-06-07**|**Optimizing ViViT Training: Time and Memory Reduction for Action Recognition**|Shreyank N Gowda et.al.|[2306.04822v1](http://arxiv.org/abs/2306.04822v1)|null|
 |**2023-06-02**|**HomE: Homography-Equivariant Video Representation Learning**|Anirudh Sriram et.al.|[2306.01623v1](http://arxiv.org/abs/2306.01623v1)|**[link](https://github.com/anirudhs123/home)**|
@@ -132,6 +133,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Motion-DVAE: Unsupervised learning for fast human motion denoising**|Guénolé Fiche et.al.|[2306.05846v1](http://arxiv.org/abs/2306.05846v1)|null|
 |**2023-06-07**|**Efficient Vision Transformer for Human Pose Estimation via Patch Selection**|Kaleab A. Kinfu et.al.|[2306.04225v1](http://arxiv.org/abs/2306.04225v1)|null|
 |**2023-05-23**|**Human Body Pose Estimation for Gait Identification: A Comprehensive Survey of Datasets and Models**|Luke K. Topham et.al.|[2305.13765v1](http://arxiv.org/abs/2305.13765v1)|null|
 |**2023-05-12**|**MM-Fi: Multi-Modal Non-Intrusive 4D Human Dataset for Versatile Wireless Sensing**|Jianfei Yang et.al.|[2305.10345v1](http://arxiv.org/abs/2305.10345v1)|null|
