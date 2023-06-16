@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-15**|**Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers**|Dominick Reilly et.al.|[2306.09331v1](http://arxiv.org/abs/2306.09331v1)|**[link](https://github.com/dominickrei/poseawarevt)**|
+|**2023-06-14**|**What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations**|Chiara Plizzari et.al.|[2306.08713v1](http://arxiv.org/abs/2306.08713v1)|null|
 |**2023-06-13**|**Action Recognition with Multi-stream Motion Modeling and Mutual Information Maximization**|Yuheng Yang et.al.|[2306.07576v1](http://arxiv.org/abs/2306.07576v1)|null|
 |**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|**[link](https://github.com/rupertluo/valley)**|
 |**2023-06-09**|**How Object Information Improves Skeleton-based Human Action Recognition in Assembly Tasks**|Dustin Aganian et.al.|[2306.05844v1](http://arxiv.org/abs/2306.05844v1)|null|
