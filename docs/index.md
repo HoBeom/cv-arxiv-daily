@@ -11,6 +11,11 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726v1](http://arxiv.org/abs/2306.11726v1)|**[link](https://github.com/google-research/scenic)**|
+|**2023-06-20**|**Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition**|Yiting Dong et.al.|[2306.11546v1](http://arxiv.org/abs/2306.11546v1)|null|
+|**2023-06-20**|**Dynamic Perceiver for Efficient Visual Recognition**|Yizeng Han et.al.|[2306.11248v1](http://arxiv.org/abs/2306.11248v1)|**[link](https://github.com/leaplabthu/dynamic_perceiver)**|
+|**2023-06-19**|**FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation**|Jingwen Guo et.al.|[2306.11046v1](http://arxiv.org/abs/2306.11046v1)|null|
+|**2023-06-19**|**FHA-Kitchens: A Novel Dataset for Fine-Grained Hand Action Recognition in Kitchen Scenes**|Ting Zhe et.al.|[2306.10858v1](http://arxiv.org/abs/2306.10858v1)|**[link](https://github.com/tingz123/fha-kitchens)**|
 |**2023-06-15**|**Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers**|Dominick Reilly et.al.|[2306.09331v1](http://arxiv.org/abs/2306.09331v1)|**[link](https://github.com/dominickrei/poseawarevt)**|
 |**2023-06-14**|**What can a cook in Italy teach a mechanic in India? Action Recognition Generalisation Over Scenarios and Locations**|Chiara Plizzari et.al.|[2306.08713v1](http://arxiv.org/abs/2306.08713v1)|null|
 |**2023-06-13**|**Action Recognition with Multi-stream Motion Modeling and Mutual Information Maximization**|Yuheng Yang et.al.|[2306.07576v1](http://arxiv.org/abs/2306.07576v1)|null|
