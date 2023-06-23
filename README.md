@@ -142,6 +142,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Data-Free Backbone Fine-Tuning for Pruned Neural Networks**|Adrian Holzbock et.al.|[2306.12881v1](http://arxiv.org/abs/2306.12881v1)|null|
+|**2023-06-21**|**LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**|Dongqiangzi Ye et.al.|[2306.12525v1](http://arxiv.org/abs/2306.12525v1)|null|
 |**2023-06-16**|**EVOPOSE: A Recursive Transformer For 3D Human Pose Estimation With Kinematic Structure Priors**|Yaqi Zhang et.al.|[2306.09615v1](http://arxiv.org/abs/2306.09615v1)|null|
 |**2023-06-13**|**Rethinking pose estimation in crowds: overcoming the detection information-bottleneck and ambiguity**|Mu Zhou et.al.|[2306.07879v1](http://arxiv.org/abs/2306.07879v1)|**[link](https://github.com/amathislab/condtopdown)**|
 |**2023-06-10**|**D3L: Decomposition of 3D Rotation and Lift from 2D Joint to 3D for Human Mesh Recovery**|Xiaoyang Hao et.al.|[2306.06406v1](http://arxiv.org/abs/2306.06406v1)|null|
