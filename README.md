@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-23**|**Learning Scene Flow With Skeleton Guidance For 3D Action Recognition**|Vasileios Magoulianitis et.al.|[2306.13285v1](http://arxiv.org/abs/2306.13285v1)|null|
 |**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726v1](http://arxiv.org/abs/2306.11726v1)|**[link](https://github.com/google-research/scenic)**|
 |**2023-06-20**|**Bullying10K: A Neuromorphic Dataset towards Privacy-Preserving Bullying Recognition**|Yiting Dong et.al.|[2306.11546v1](http://arxiv.org/abs/2306.11546v1)|null|
 |**2023-06-20**|**Dynamic Perceiver for Efficient Visual Recognition**|Yizeng Han et.al.|[2306.11248v1](http://arxiv.org/abs/2306.11248v1)|**[link](https://github.com/leaplabthu/dynamic_perceiver)**|
