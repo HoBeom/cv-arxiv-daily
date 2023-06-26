@@ -74,11 +74,11 @@ Table of Contents
 |**2023-04-06**|**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**|Syed Talal Wasim et.al.|[2304.03307v1](http://arxiv.org/abs/2304.03307v1)|**[link](https://github.com/talalwasim/vita-clip)**|
 |**2023-04-04**|**DIR-AS: Decoupling Individual Identification and Temporal Reasoning for Action Segmentation**|Peiyao Wang et.al.|[2304.02110v1](http://arxiv.org/abs/2304.02110v1)|null|
 |**2023-04-04**|**A real-time algorithm for human action recognition in RGB and thermal video**|Hannes Fassold et.al.|[2304.01567v1](http://arxiv.org/abs/2304.01567v1)|null|
-|**2023-04-03**|**On the Benefits of 3D Pose and Tracking for Human Action Recognition**|Jathushan Rajasegaran et.al.|[2304.01199v1](http://arxiv.org/abs/2304.01199v1)|null|
+|**2023-04-03**|**On the Benefits of 3D Pose and Tracking for Human Action Recognition**|Jathushan Rajasegaran et.al.|[2304.01199v1](http://arxiv.org/abs/2304.01199v1)|**[link](https://github.com/brjathu/LART)**|
 |**2023-04-04**|**AutoLabel: CLIP-based framework for Open-set Video Domain Adaptation**|Giacomo Zara et.al.|[2304.01110v2](http://arxiv.org/abs/2304.01110v2)|**[link](https://github.com/gzaraunitn/autolabel)**|
 |**2023-04-03**|**MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition**|Xiang Wang et.al.|[2304.00946v1](http://arxiv.org/abs/2304.00946v1)|**[link](https://github.com/alibaba-mmai-research/molo)**|
 |**2023-04-03**|**Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition**|Qianhui Men et.al.|[2304.00858v1](http://arxiv.org/abs/2304.00858v1)|null|
-|**2023-04-01**|**HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions**|Anshul Shah et.al.|[2304.00387v1](http://arxiv.org/abs/2304.00387v1)|null|
+|**2023-04-01**|**HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions**|Anshul Shah et.al.|[2304.00387v1](http://arxiv.org/abs/2304.00387v1)|**[link](https://github.com/anshulbshah/halp)**|
 |**2023-04-04**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v2](http://arxiv.org/abs/2304.00254v2)|null|
 |**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|null|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao et.al.|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
