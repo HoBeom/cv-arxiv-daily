@@ -146,6 +146,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074v1](http://arxiv.org/abs/2306.17074v1)|null|
 |**2023-06-28**|**GoalieNet: A Multi-Stage Network for Joint Goalie, Equipment, and Net Pose Estimation in Ice Hockey**|Marjan Shahi et.al.|[2306.15853v1](http://arxiv.org/abs/2306.15853v1)|null|
 |**2023-06-22**|**Data-Free Backbone Fine-Tuning for Pruned Neural Networks**|Adrian Holzbock et.al.|[2306.12881v1](http://arxiv.org/abs/2306.12881v1)|null|
 |**2023-06-21**|**LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**|Dongqiangzi Ye et.al.|[2306.12525v1](http://arxiv.org/abs/2306.12525v1)|null|
