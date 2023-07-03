@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Miniaturized Graph Convolutional Networks with Topologically Consistent Pruning**|Hichem Sahbi et.al.|[2306.17590v1](http://arxiv.org/abs/2306.17590v1)|null|
+|**2023-06-30**|**SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network**|Hamza Bouzid et.al.|[2306.17574v1](http://arxiv.org/abs/2306.17574v1)|null|
 |**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357v1](http://arxiv.org/abs/2306.16357v1)|null|
 |**2023-06-27**|**Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition**|Sheng-Lan Liu et.al.|[2306.15321v1](http://arxiv.org/abs/2306.15321v1)|null|
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783v1](http://arxiv.org/abs/2306.13783v1)|null|
@@ -146,6 +148,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558v1](http://arxiv.org/abs/2306.17558v1)|null|
+|**2023-06-29**|**MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling**|Zhenyu Zhang et.al.|[2306.17201v1](http://arxiv.org/abs/2306.17201v1)|null|
 |**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074v1](http://arxiv.org/abs/2306.17074v1)|null|
 |**2023-06-28**|**GoalieNet: A Multi-Stage Network for Joint Goalie, Equipment, and Net Pose Estimation in Ice Hockey**|Marjan Shahi et.al.|[2306.15853v1](http://arxiv.org/abs/2306.15853v1)|null|
 |**2023-06-22**|**Data-Free Backbone Fine-Tuning for Pruned Neural Networks**|Adrian Holzbock et.al.|[2306.12881v1](http://arxiv.org/abs/2306.12881v1)|null|
