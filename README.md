@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**Make A Long Image Short: Adaptive Token Length for Vision Transformers**|Qiqi Zhou et.al.|[2307.02092v1](http://arxiv.org/abs/2307.02092v1)|null|
+|**2023-07-05**|**Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition**|Fei Guo et.al.|[2307.01985v1](http://arxiv.org/abs/2307.01985v1)|null|
 |**2023-06-30**|**Miniaturized Graph Convolutional Networks with Topologically Consistent Pruning**|Hichem Sahbi et.al.|[2306.17590v1](http://arxiv.org/abs/2306.17590v1)|null|
 |**2023-06-30**|**SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network**|Hamza Bouzid et.al.|[2306.17574v1](http://arxiv.org/abs/2306.17574v1)|null|
 |**2023-06-28**|**Theater Aid System for the Visually Impaired Through Transfer Learning of Spatio-Temporal Graph Convolution Networks**|Leyla Benhamida et.al.|[2306.16357v1](http://arxiv.org/abs/2306.16357v1)|null|
