@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**EgoAdapt: A multi-stream evaluation study of adaptation to real-world egocentric user video**|Matthias De Lange et.al.|[2307.05784v1](http://arxiv.org/abs/2307.05784v1)|**[link](https://github.com/facebookresearch/egocentricuseradaptation)**|
+|**2023-07-09**|**HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**|Hao Zheng et.al.|[2307.05721v1](http://arxiv.org/abs/2307.05721v1)|null|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
 |**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|null|
@@ -153,6 +155,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896v1](http://arxiv.org/abs/2307.05896v1)|**[link](https://github.com/nyquixt/kinematicnet)**|
+|**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853v1](http://arxiv.org/abs/2307.05853v1)|**[link](https://github.com/bruceyo/GLA-GCN)**|
 |**2023-07-07**|**Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation**|Zhongyu Jiang et.al.|[2307.03833v1](http://arxiv.org/abs/2307.03833v1)|null|
 |**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
