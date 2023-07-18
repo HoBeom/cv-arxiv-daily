@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -14,7 +14,7 @@ Table of Contents
 |**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v1](http://arxiv.org/abs/2307.07483v1)|null|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|**[link](https://github.com/Necolizer/ISTA-Net)**|
 |**2023-07-14**|**One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching**|Siyuan Yang et.al.|[2307.07286v1](http://arxiv.org/abs/2307.07286v1)|null|
-|**2023-07-13**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v1](http://arxiv.org/abs/2307.06947v1)|**[link](https://github.com/talalwasim/video-focalnets)**|
+|**2023-07-16**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v2](http://arxiv.org/abs/2307.06947v2)|**[link](https://github.com/talalwasim/video-focalnets)**|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942v1](http://arxiv.org/abs/2307.06942v1)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**A Study on Differentiable Logic and LLMs for EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2023**|Yi Cheng et.al.|[2307.06569v1](http://arxiv.org/abs/2307.06569v1)|null|
 |**2023-07-13**|**Free-Form Composition Networks for Egocentric Action Recognition**|Haoran Wang et.al.|[2307.06527v1](http://arxiv.org/abs/2307.06527v1)|null|
@@ -160,7 +160,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -241,5 +241,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
