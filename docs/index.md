@@ -11,6 +11,10 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training**|Hong Yan et.al.|[2307.08476v1](http://arxiv.org/abs/2307.08476v1)|**[link](https://github.com/hongyan1123/skeletonmae)**|
+|**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|**[link](https://github.com/liujf69/ipp-net-parsing)**|
+|**2023-07-15**|**Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition**|Tianyu Guo et.al.|[2307.07791v1](http://arxiv.org/abs/2307.07791v1)|**[link](https://github.com/levigty/acl)**|
+|**2023-07-15**|**SoccerKDNet: A Knowledge Distillation Framework for Action Recognition in Soccer Videos**|Sarosij Bose et.al.|[2307.07768v1](http://arxiv.org/abs/2307.07768v1)|null|
 |**2023-07-14**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v1](http://arxiv.org/abs/2307.07483v1)|null|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|**[link](https://github.com/Necolizer/ISTA-Net)**|
 |**2023-07-14**|**One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching**|Siyuan Yang et.al.|[2307.07286v1](http://arxiv.org/abs/2307.07286v1)|null|
@@ -166,6 +170,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|null|
 |**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
 |**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896v1](http://arxiv.org/abs/2307.05896v1)|**[link](https://github.com/nyquixt/kinematicnet)**|
 |**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853v1](http://arxiv.org/abs/2307.05853v1)|**[link](https://github.com/bruceyo/GLA-GCN)**|
