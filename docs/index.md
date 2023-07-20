@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**AGAR: Attention Graph-RNN for Adaptative Motion Prediction of Point Clouds of Deformable Objects**|Pedro Gomes et.al.|[2307.09936v1](http://arxiv.org/abs/2307.09936v1)|null|
 |**2023-07-18**|**Measuring Student Behavioral Engagement using Histogram of Actions**|Ahmed Abdelkawy et.al.|[2307.09420v1](http://arxiv.org/abs/2307.09420v1)|null|
 |**2023-07-18**|**Fusing Hand and Body Skeletons for Human Action Recognition in Assembly**|Dustin Aganian et.al.|[2307.09238v1](http://arxiv.org/abs/2307.09238v1)|null|
 |**2023-07-18**|**Human Action Recognition in Still Images Using ConViT**|Seyed Rohollah Hosseyni et.al.|[2307.08994v1](http://arxiv.org/abs/2307.08994v1)|null|
