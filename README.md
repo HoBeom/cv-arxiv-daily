@@ -1,4 +1,4 @@
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -10,7 +10,7 @@ Table of Contents
 |**2023-07-18**|**Measuring Student Behavioral Engagement using Histogram of Actions**|Ahmed Abdelkawy et.al.|[2307.09420v1](http://arxiv.org/abs/2307.09420v1)|null|
 |**2023-07-18**|**Fusing Hand and Body Skeletons for Human Action Recognition in Assembly**|Dustin Aganian et.al.|[2307.09238v1](http://arxiv.org/abs/2307.09238v1)|null|
 |**2023-07-18**|**Human Action Recognition in Still Images Using ConViT**|Seyed Rohollah Hosseyni et.al.|[2307.08994v1](http://arxiv.org/abs/2307.08994v1)|null|
-|**2023-07-17**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v1](http://arxiv.org/abs/2307.08779v1)|null|
+|**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training**|Hong Yan et.al.|[2307.08476v1](http://arxiv.org/abs/2307.08476v1)|**[link](https://github.com/hongyan1123/skeletonmae)**|
 |**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|**[link](https://github.com/liujf69/ipp-net-parsing)**|
 |**2023-07-15**|**Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition**|Tianyu Guo et.al.|[2307.07791v1](http://arxiv.org/abs/2307.07791v1)|**[link](https://github.com/levigty/acl)**|
@@ -164,14 +164,14 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## Human Pose Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
-|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|null|
+|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|**[link](https://github.com/andreaszachariae/petra_dataset_human_emergency_detection)**|
 |**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
 |**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896v1](http://arxiv.org/abs/2307.05896v1)|**[link](https://github.com/nyquixt/kinematicnet)**|
 |**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853v1](http://arxiv.org/abs/2307.05853v1)|**[link](https://github.com/bruceyo/GLA-GCN)**|
@@ -247,5 +247,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
