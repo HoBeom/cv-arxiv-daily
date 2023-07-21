@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|
+|**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
 |**2023-07-19**|**AGAR: Attention Graph-RNN for Adaptative Motion Prediction of Point Clouds of Deformable Objects**|Pedro Gomes et.al.|[2307.09936v1](http://arxiv.org/abs/2307.09936v1)|null|
 |**2023-07-18**|**Measuring Student Behavioral Engagement using Histogram of Actions**|Ahmed Abdelkawy et.al.|[2307.09420v1](http://arxiv.org/abs/2307.09420v1)|null|
 |**2023-07-18**|**Fusing Hand and Body Skeletons for Human Action Recognition in Assembly**|Dustin Aganian et.al.|[2307.09238v1](http://arxiv.org/abs/2307.09238v1)|null|
