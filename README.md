@@ -18,7 +18,7 @@ Table of Contents
 |**2023-07-16**|**Integrating Human Parsing and Pose Network for Human Action Recognition**|Runwei Ding et.al.|[2307.07977v1](http://arxiv.org/abs/2307.07977v1)|**[link](https://github.com/liujf69/ipp-net-parsing)**|
 |**2023-07-15**|**Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition**|Tianyu Guo et.al.|[2307.07791v1](http://arxiv.org/abs/2307.07791v1)|**[link](https://github.com/levigty/acl)**|
 |**2023-07-15**|**SoccerKDNet: A Knowledge Distillation Framework for Action Recognition in Soccer Videos**|Sarosij Bose et.al.|[2307.07768v1](http://arxiv.org/abs/2307.07768v1)|null|
-|**2023-07-18**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v2](http://arxiv.org/abs/2307.07483v2)|null|
+|**2023-07-18**|**Multimodal Distillation for Egocentric Action Recognition**|Gorjan Radevski et.al.|[2307.07483v2](http://arxiv.org/abs/2307.07483v2)|**[link](https://github.com/gorjanradevski/multimodal-distillation)**|
 |**2023-07-14**|**Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition**|Yuhang Wen et.al.|[2307.07469v1](http://arxiv.org/abs/2307.07469v1)|**[link](https://github.com/Necolizer/ISTA-Net)**|
 |**2023-07-14**|**One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching**|Siyuan Yang et.al.|[2307.07286v1](http://arxiv.org/abs/2307.07286v1)|null|
 |**2023-07-16**|**Video-FocalNets: Spatio-Temporal Focal Modulation for Video Action Recognition**|Syed Talal Wasim et.al.|[2307.06947v2](http://arxiv.org/abs/2307.06947v2)|**[link](https://github.com/talalwasim/video-focalnets)**|
@@ -112,7 +112,7 @@ Table of Contents
 |**2023-04-05**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v3](http://arxiv.org/abs/2303.17218v3)|**[link](https://github.com/ptoupas/harflow3d)**|
 |**2023-03-29**|**A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants**|Shaotong Zhu et.al.|[2303.16867v1](http://arxiv.org/abs/2303.16867v1)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
 |**2023-03-28**|**Spatiotemporally Discriminative Video-Language Pre-Training with Text Grounding**|Yuanhao Xiong et.al.|[2303.16341v1](http://arxiv.org/abs/2303.16341v1)|null|
-|**2023-03-28**|**TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2303.16268v1](http://arxiv.org/abs/2303.16268v1)|null|
+|**2023-03-28**|**TimeBalance: Temporally-Invariant and Temporally-Distinctive Video Representations for Semi-Supervised Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2303.16268v1](http://arxiv.org/abs/2303.16268v1)|**[link](https://github.com/daveishan/timebalance)**|
 |**2023-03-28**|**CycleACR: Cycle Modeling of Actor-Context Relations for Video Action Detection**|Lei Chen et.al.|[2303.16118v1](http://arxiv.org/abs/2303.16118v1)|null|
 |**2023-03-28**|**Rethinking matching-based few-shot action recognition**|Juliette Bertrand et.al.|[2303.16084v1](http://arxiv.org/abs/2303.16084v1)|null|
 |**2023-03-28**|**Colo-SCRL: Self-Supervised Contrastive Representation Learning for Colonoscopic Video Retrieval**|Qingzhong Chen et.al.|[2303.15671v1](http://arxiv.org/abs/2303.15671v1)|null|
