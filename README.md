@@ -7,6 +7,11 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v1](http://arxiv.org/abs/2307.12853v1)|null|
+|**2023-07-24**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge: Mixed Sequences Prediction**|Amirshayan Nasirimajd et.al.|[2307.12837v1](http://arxiv.org/abs/2307.12837v1)|null|
+|**2023-07-22**|**An X3D Neural Network Analysis for Runner's Performance Assessment in a Wild Sporting Environment**|David Freire-Obregón et.al.|[2307.12183v1](http://arxiv.org/abs/2307.12183v1)|null|
+|**2023-07-22**|**AI on the Road: A Comprehensive Analysis of Traffic Accidents and Accident Detection System in Smart Cities**|Victor Adewopo et.al.|[2307.12128v1](http://arxiv.org/abs/2307.12128v1)|null|
+|**2023-07-22**|**Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition**|Yao Liu et.al.|[2307.11973v1](http://arxiv.org/abs/2307.11973v1)|null|
 |**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
 |**2023-07-19**|**AGAR: Attention Graph-RNN for Adaptative Motion Prediction of Point Clouds of Deformable Objects**|Pedro Gomes et.al.|[2307.09936v1](http://arxiv.org/abs/2307.09936v1)|null|
