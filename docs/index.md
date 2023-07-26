@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -11,7 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-24**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v1](http://arxiv.org/abs/2307.12853v1)|null|
+|**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
 |**2023-07-24**|**EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge: Mixed Sequences Prediction**|Amirshayan Nasirimajd et.al.|[2307.12837v1](http://arxiv.org/abs/2307.12837v1)|null|
 |**2023-07-22**|**An X3D Neural Network Analysis for Runner's Performance Assessment in a Wild Sporting Environment**|David Freire-Obregón et.al.|[2307.12183v1](http://arxiv.org/abs/2307.12183v1)|null|
 |**2023-07-22**|**AI on the Road: A Comprehensive Analysis of Traffic Accidents and Accident Detection System in Smart Cities**|Victor Adewopo et.al.|[2307.12128v1](http://arxiv.org/abs/2307.12128v1)|null|
@@ -176,7 +176,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -259,5 +259,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230725>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
 
