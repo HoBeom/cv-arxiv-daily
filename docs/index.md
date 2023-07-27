@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -176,7 +176,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -259,5 +259,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
