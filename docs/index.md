@@ -186,6 +186,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v1](http://arxiv.org/abs/2308.00628v1)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519v1](http://arxiv.org/abs/2308.00519v1)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765v1](http://arxiv.org/abs/2307.16765v1)|**[link](https://github.com/haonanwang0522/srpose)**|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687v1](http://arxiv.org/abs/2307.16687v1)|null|
 |**2023-07-29**|**Iterative Graph Filtering Network for 3D Human Pose Estimation**|Zaedul Islam et.al.|[2307.16074v1](http://arxiv.org/abs/2307.16074v1)|**[link](https://github.com/zaedulislam/gs-net)**|
