@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**TS-RGBD Dataset: a Novel Dataset for Theatre Scenes Description for People with Visual Impairments**|Leyla Benhamida et.al.|[2308.01035v1](http://arxiv.org/abs/2308.01035v1)|null|
 |**2023-07-31**|**Capturing Co-existing Distortions in User-Generated Content for No-reference Video Quality Assessment**|Kun Yuan et.al.|[2307.16813v1](http://arxiv.org/abs/2307.16813v1)|null|
 |**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|null|
 |**2023-07-26**|**Human-centric Scene Understanding for 3D Large-scale Scenarios**|Yiteng Xu et.al.|[2307.14392v1](http://arxiv.org/abs/2307.14392v1)|**[link](https://github.com/4dvlab/hucenlife)**|
