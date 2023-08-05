@@ -1,4 +1,4 @@
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -8,9 +8,9 @@ Table of Contents
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-03**|**Multimodal Adaptation of CLIP for Few-Shot Action Recognition**|Jiazheng Xing et.al.|[2308.01532v1](http://arxiv.org/abs/2308.01532v1)|null|
-|**2023-08-02**|**TS-RGBD Dataset: a Novel Dataset for Theatre Scenes Description for People with Visual Impairments**|Leyla Benhamida et.al.|[2308.01035v1](http://arxiv.org/abs/2308.01035v1)|null|
+|**2023-08-02**|**TS-RGBD Dataset: a Novel Dataset for Theatre Scenes Description for People with Visual Impairments**|Leyla Benhamida et.al.|[2308.01035v1](http://arxiv.org/abs/2308.01035v1)|**[link](https://github.com/khadidja-delloul/rgb-d-theatre-scenes-dataset)**|
 |**2023-07-31**|**Capturing Co-existing Distortions in User-Generated Content for No-reference Video Quality Assessment**|Kun Yuan et.al.|[2307.16813v1](http://arxiv.org/abs/2307.16813v1)|null|
-|**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|null|
+|**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|**[link](https://github.com/xacheng1996/sllm)**|
 |**2023-07-26**|**Human-centric Scene Understanding for 3D Large-scale Scenarios**|Yiteng Xu et.al.|[2307.14392v1](http://arxiv.org/abs/2307.14392v1)|**[link](https://github.com/4dvlab/hucenlife)**|
 |**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332v1](http://arxiv.org/abs/2307.14332v1)|null|
 |**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
@@ -178,7 +178,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230805>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -267,5 +267,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230805>back to top</a>)</p>
 
