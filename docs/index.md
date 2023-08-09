@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization**|Yujie Zhou et.al.|[2308.03950v1](http://arxiv.org/abs/2308.03950v1)|**[link](https://github.com/yujieouo/smie)**|
+|**2023-08-07**|**ViLP: Knowledge Exploration using Vision, Language, and Pose Embeddings for Video Action Recognition**|Soumyabrata Chaudhuri et.al.|[2308.03908v1](http://arxiv.org/abs/2308.03908v1)|null|
 |**2023-08-01**|**MAiVAR-T: Multimodal Audio-image and Video Action Recognizer using Transformers**|Muhammad Bilal Shaikh et.al.|[2308.03741v1](http://arxiv.org/abs/2308.03741v1)|null|
 |**2023-08-06**|**M $^3$ Net: Multi-view Encoding, Matching, and Fusion for Few-shot Fine-grained Action Recognition**|Hao Tang et.al.|[2308.03063v1](http://arxiv.org/abs/2308.03063v1)|null|
 |**2023-08-03**|**Multimodal Adaptation of CLIP for Few-Shot Action Recognition**|Jiazheng Xing et.al.|[2308.01532v1](http://arxiv.org/abs/2308.01532v1)|null|
@@ -191,7 +193,7 @@ Table of Contents
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-06**|**Source-free Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2308.03202v1](http://arxiv.org/abs/2308.03202v1)|null|
-|**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397v1](http://arxiv.org/abs/2308.02397v1)|null|
+|**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397v1](http://arxiv.org/abs/2308.02397v1)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
 |**2023-08-06**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v2](http://arxiv.org/abs/2308.00628v2)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
 |**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519v1](http://arxiv.org/abs/2308.00519v1)|null|
 |**2023-07-31**|**Lightweight Super-Resolution Head for Human Pose Estimation**|Haonan Wang et.al.|[2307.16765v1](http://arxiv.org/abs/2307.16765v1)|**[link](https://github.com/haonanwang0522/srpose)**|
