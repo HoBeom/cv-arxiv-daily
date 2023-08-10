@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**JEDI: Joint Expert Distillation in a Semi-Supervised Multi-Dataset Student-Teacher Scenario for Video Action Recognition**|Lucian Bicsi et.al.|[2308.04934v1](http://arxiv.org/abs/2308.04934v1)|null|
+|**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang et.al.|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
 |**2023-08-07**|**Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization**|Yujie Zhou et.al.|[2308.03950v1](http://arxiv.org/abs/2308.03950v1)|**[link](https://github.com/yujieouo/smie)**|
 |**2023-08-07**|**ViLP: Knowledge Exploration using Vision, Language, and Pose Embeddings for Video Action Recognition**|Soumyabrata Chaudhuri et.al.|[2308.03908v1](http://arxiv.org/abs/2308.03908v1)|null|
 |**2023-08-01**|**MAiVAR-T: Multimodal Audio-image and Video Action Recognizer using Transformers**|Muhammad Bilal Shaikh et.al.|[2308.03741v1](http://arxiv.org/abs/2308.03741v1)|null|
