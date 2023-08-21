@@ -7,11 +7,14 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346v1](http://arxiv.org/abs/2308.09346v1)|**[link](https://github.com/jiazheng-xing/gghm)**|
+|**2023-08-18**|**Unlimited Knowledge Distillation for Action Recognition in the Dark**|Ruibing Jin et.al.|[2308.09327v1](http://arxiv.org/abs/2308.09327v1)|null|
+|**2023-08-17**|**The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation**|Giacomo Zara et.al.|[2308.09139v1](http://arxiv.org/abs/2308.09139v1)|null|
 |**2023-08-15**|**Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition**|Dongqi Cai et.al.|[2308.07571v1](http://arxiv.org/abs/2308.07571v1)|**[link](https://github.com/osvai/ske2grid)**|
 |**2023-08-15**|**Action Class Relation Detection and Classification Across Multiple Video Datasets**|Yuya Yoshikawa et.al.|[2308.07558v1](http://arxiv.org/abs/2308.07558v1)|null|
 |**2023-08-14**|**On the Importance of Spatial Relations for Few-shot Action Recognition**|Yilun Zhang et.al.|[2308.07119v1](http://arxiv.org/abs/2308.07119v1)|null|
 |**2023-08-14**|**Masked Motion Predictors are Strong 3D Action Representation Learners**|Yunyao Mao et.al.|[2308.07092v1](http://arxiv.org/abs/2308.07092v1)|null|
-|**2023-08-10**|**Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient**|Zhengzhi Lu et.al.|[2308.05681v1](http://arxiv.org/abs/2308.05681v1)|**[link](https://github.com/luyg45/hardnoboxattack)**|
+|**2023-08-18**|**Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient**|Zhengzhi Lu et.al.|[2308.05681v2](http://arxiv.org/abs/2308.05681v2)|**[link](https://github.com/luyg45/hardnoboxattack)**|
 |**2023-08-10**|**Ensemble Modeling for Multimodal Visual Action Recognition**|Jyoti Kini et.al.|[2308.05430v1](http://arxiv.org/abs/2308.05430v1)|null|
 |**2023-08-09**|**JEDI: Joint Expert Distillation in a Semi-Supervised Multi-Dataset Student-Teacher Scenario for Video Action Recognition**|Lucian Bicsi et.al.|[2308.04934v1](http://arxiv.org/abs/2308.04934v1)|null|
 |**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang et.al.|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
@@ -196,6 +199,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678v1](http://arxiv.org/abs/2308.09678v1)|**[link](https://github.com/hbing-l/posynda)**|
+|**2023-08-18**|**ResQ: Residual Quantization for Video Perception**|Davide Abati et.al.|[2308.09511v1](http://arxiv.org/abs/2308.09511v1)|null|
+|**2023-08-17**|**MovePose: A High-performance Human Pose Estimation Algorithm on Mobile and Edge Devices**|Dongyang Yu et.al.|[2308.09084v1](http://arxiv.org/abs/2308.09084v1)|null|
+|**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080v1](http://arxiv.org/abs/2308.09080v1)|null|
 |**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298v1](http://arxiv.org/abs/2308.05298v1)|**[link](https://github.com/KHB1698/DC-GCT)**|
 |**2023-08-15**|**Source-free Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2308.03202v3](http://arxiv.org/abs/2308.03202v3)|**[link](https://github.com/davidpengucf/sfdahpe)**|
 |**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397v1](http://arxiv.org/abs/2308.02397v1)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
