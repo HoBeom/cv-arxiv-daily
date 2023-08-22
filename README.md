@@ -7,9 +7,13 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Local Spherical Harmonics Improve Skeleton-Based Hand Action Recognition**|Katharina Prasse et.al.|[2308.10557v1](http://arxiv.org/abs/2308.10557v1)|**[link](https://github.com/kathpra/lshr_lsht)**|
+|**2023-08-21**|**Joint learning of images and videos with a single Vision Transformer**|Shuki Shimizu et.al.|[2308.10533v1](http://arxiv.org/abs/2308.10533v1)|null|
+|**2023-08-19**|**TTPOINT: A Tensorized Point Cloud Network for Lightweight Action Recognition with Event Cameras**|Hongwei Ren et.al.|[2308.09993v1](http://arxiv.org/abs/2308.09993v1)|null|
+|**2023-08-19**|**Spatial-Temporal Alignment Network for Action Recognition**|Jinhui Ye et.al.|[2308.09897v1](http://arxiv.org/abs/2308.09897v1)|null|
 |**2023-08-18**|**Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching**|Jiazheng Xing et.al.|[2308.09346v1](http://arxiv.org/abs/2308.09346v1)|**[link](https://github.com/jiazheng-xing/gghm)**|
 |**2023-08-18**|**Unlimited Knowledge Distillation for Action Recognition in the Dark**|Ruibing Jin et.al.|[2308.09327v1](http://arxiv.org/abs/2308.09327v1)|null|
-|**2023-08-17**|**The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation**|Giacomo Zara et.al.|[2308.09139v1](http://arxiv.org/abs/2308.09139v1)|null|
+|**2023-08-17**|**The Unreasonable Effectiveness of Large Language-Vision Models for Source-free Video Domain Adaptation**|Giacomo Zara et.al.|[2308.09139v1](http://arxiv.org/abs/2308.09139v1)|**[link](https://github.com/giaczara/dallv)**|
 |**2023-08-15**|**Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition**|Dongqi Cai et.al.|[2308.07571v1](http://arxiv.org/abs/2308.07571v1)|**[link](https://github.com/osvai/ske2grid)**|
 |**2023-08-15**|**Action Class Relation Detection and Classification Across Multiple Video Datasets**|Yuya Yoshikawa et.al.|[2308.07558v1](http://arxiv.org/abs/2308.07558v1)|null|
 |**2023-08-14**|**On the Importance of Spatial Relations for Few-shot Action Recognition**|Yilun Zhang et.al.|[2308.07119v1](http://arxiv.org/abs/2308.07119v1)|null|
@@ -199,6 +203,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
+|**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
+|**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305v1](http://arxiv.org/abs/2308.10305v1)|**[link](https://github.com/kasvii/pmce)**|
+|**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123v1](http://arxiv.org/abs/2308.10123v1)|**[link](https://github.com/edz-o/3dnbf)**|
 |**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678v1](http://arxiv.org/abs/2308.09678v1)|**[link](https://github.com/hbing-l/posynda)**|
 |**2023-08-18**|**ResQ: Residual Quantization for Video Perception**|Davide Abati et.al.|[2308.09511v1](http://arxiv.org/abs/2308.09511v1)|null|
 |**2023-08-17**|**MovePose: A High-performance Human Pose Estimation Algorithm on Mobile and Edge Devices**|Dongyang Yu et.al.|[2308.09084v1](http://arxiv.org/abs/2308.09084v1)|null|
