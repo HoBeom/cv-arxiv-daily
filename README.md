@@ -7,6 +7,9 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
+|**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501v1](http://arxiv.org/abs/2308.12501v1)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
+|**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|null|
 |**2023-08-22**|**Opening the Vocabulary of Egocentric Actions**|Dibyadip Chatterjee et.al.|[2308.11488v1](http://arxiv.org/abs/2308.11488v1)|null|
 |**2023-08-22**|**Video BagNet: short temporal receptive fields increase robustness in long-term action recognition**|Ombretta Strafforello et.al.|[2308.11249v1](http://arxiv.org/abs/2308.11249v1)|**[link](https://github.com/ombretta/videobagnet)**|
 |**2023-08-22**|**Are current long-term video understanding datasets long-term?**|Ombretta Strafforello et.al.|[2308.11244v1](http://arxiv.org/abs/2308.11244v1)|**[link](https://github.com/ombretta/longterm_datasets)**|
