@@ -7,6 +7,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Balanced Representation Learning for Long-tailed Skeleton-based Action Recognition**|Hongda Liu et.al.|[2308.14024v1](http://arxiv.org/abs/2308.14024v1)|**[link](https://github.com/firework8/brl)**|
+|**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
+|**2023-08-26**|**Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds**|Yukun Su et.al.|[2308.13866v1](http://arxiv.org/abs/2308.13866v1)|null|
+|**2023-08-25**|**EventTransAct: A video transformer-based framework for Event-camera based action recognition**|Tristan de Blegiers et.al.|[2308.13711v1](http://arxiv.org/abs/2308.13711v1)|null|
 |**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501v1](http://arxiv.org/abs/2308.12501v1)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
@@ -211,6 +215,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-26**|**Prior-guided Source-free Domain Adaptation for Human Pose Estimation**|Dripta S. Raychaudhuri et.al.|[2308.13954v1](http://arxiv.org/abs/2308.13954v1)|null|
+|**2023-08-26**|**Vision-Based Human Pose Estimation via Deep Learning: A Survey**|Gongjin Lan et.al.|[2308.13872v1](http://arxiv.org/abs/2308.13872v1)|null|
 |**2023-08-22**|**Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape**|Jiacong Xu et.al.|[2308.11737v1](http://arxiv.org/abs/2308.11737v1)|null|
 |**2023-08-22**|**PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation**|Soubarna Banik et.al.|[2308.11440v1](http://arxiv.org/abs/2308.11440v1)|null|
 |**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
