@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -7,7 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501v1](http://arxiv.org/abs/2308.12501v1)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
 |**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|null|
@@ -205,7 +205,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -307,5 +307,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
