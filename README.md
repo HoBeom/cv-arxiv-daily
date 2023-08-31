@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**Topology-aware MLP for Skeleton-based Action Recognition**|Shaojie Zhang et.al.|[2308.16018v1](http://arxiv.org/abs/2308.16018v1)|null|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345v1](http://arxiv.org/abs/2308.15345v1)|null|
 |**2023-08-27**|**Balanced Representation Learning for Long-tailed Skeleton-based Action Recognition**|Hongda Liu et.al.|[2308.14024v1](http://arxiv.org/abs/2308.14024v1)|**[link](https://github.com/firework8/brl)**|
 |**2023-08-26**|**Sparse Models for Machine Learning**|Jianyi Lin et.al.|[2308.13960v1](http://arxiv.org/abs/2308.13960v1)|null|
@@ -216,6 +217,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**SignDiff: Learning Diffusion Models for American Sign Language Production**|Sen Fang et.al.|[2308.16082v1](http://arxiv.org/abs/2308.16082v1)|null|
 |**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313v1](http://arxiv.org/abs/2308.15313v1)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
 |**2023-08-26**|**Prior-guided Source-free Domain Adaptation for Human Pose Estimation**|Dripta S. Raychaudhuri et.al.|[2308.13954v1](http://arxiv.org/abs/2308.13954v1)|null|
 |**2023-08-26**|**Vision-Based Human Pose Estimation via Deep Learning: A Survey**|Gongjin Lan et.al.|[2308.13872v1](http://arxiv.org/abs/2308.13872v1)|null|
