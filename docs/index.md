@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -217,7 +217,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -225,7 +225,7 @@ Table of Contents
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612v1](http://arxiv.org/abs/2309.01612v1)|null|
 |**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575v1](http://arxiv.org/abs/2309.01575v1)|null|
-|**2023-09-04**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Li et.al.|[2309.01365v1](http://arxiv.org/abs/2309.01365v1)|null|
+|**2023-09-06**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Liu et.al.|[2309.01365v2](http://arxiv.org/abs/2309.01365v2)|null|
 |**2023-08-30**|**Two-Stage Violence Detection Using ViTPose and Classification Models at Smart Airports**|İrem Üstek et.al.|[2308.16325v1](http://arxiv.org/abs/2308.16325v1)|**[link](https://github.com/asami-1/gdp)**|
 |**2023-08-30**|**SignDiff: Learning Diffusion Models for American Sign Language Production**|Sen Fang et.al.|[2308.16082v1](http://arxiv.org/abs/2308.16082v1)|null|
 |**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313v1](http://arxiv.org/abs/2308.15313v1)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
@@ -327,5 +327,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
 
