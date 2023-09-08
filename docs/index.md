@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549v1](http://arxiv.org/abs/2309.03549v1)|null|
 |**2023-09-05**|**EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding**|Yue Xu et.al.|[2309.02423v1](http://arxiv.org/abs/2309.02423v1)|null|
 |**2023-09-03**|**SOAR: Scene-debiasing Open-set Action Recognition**|Yuanhao Zhai et.al.|[2309.01265v1](http://arxiv.org/abs/2309.01265v1)|null|
 |**2023-09-04**|**Topology-aware MLP for Skeleton-based Action Recognition**|Shaojie Zhang et.al.|[2308.16018v2](http://arxiv.org/abs/2308.16018v2)|null|
