@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
+|**2023-09-11**|**SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition**|Cong Wu et.al.|[2309.05834v1](http://arxiv.org/abs/2309.05834v1)|null|
 |**2023-09-10**|**Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition**|Kyoung Ok Yang et.al.|[2309.05032v1](http://arxiv.org/abs/2309.05032v1)|null|
 |**2023-09-07**|**CDFSL-V: Cross-Domain Few-Shot Learning for Videos**|Sarinda Samarasinghe et.al.|[2309.03989v1](http://arxiv.org/abs/2309.03989v1)|null|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549v1](http://arxiv.org/abs/2309.03549v1)|null|
