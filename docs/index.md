@@ -229,6 +229,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910v1](http://arxiv.org/abs/2309.07910v1)|null|
+|**2023-09-13**|**LInKs "Lifting Independent Keypoints" -- Partial Pose Lifting for Occlusion Handling with Improved Accuracy in 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2309.07243v1](http://arxiv.org/abs/2309.07243v1)|null|
 |**2023-09-11**|**Towards Intuitive HMI for UAV Control**|Filip Zoric et.al.|[2309.05460v1](http://arxiv.org/abs/2309.05460v1)|null|
 |**2023-09-12**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073v2](http://arxiv.org/abs/2309.05073v2)|**[link](https://github.com/wangjiongw/freeman_api)**|
 |**2023-09-09**|**Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation**|Boyuan Jiang et.al.|[2309.04756v1](http://arxiv.org/abs/2309.04756v1)|**[link](https://github.com/bymaths/probabilistic_triangulation)**|
