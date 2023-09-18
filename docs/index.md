@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -15,7 +15,7 @@ Table of Contents
 |**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
 |**2023-09-11**|**SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition**|Cong Wu et.al.|[2309.05834v1](http://arxiv.org/abs/2309.05834v1)|null|
 |**2023-09-10**|**Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition**|Kyoung Ok Yang et.al.|[2309.05032v1](http://arxiv.org/abs/2309.05032v1)|null|
-|**2023-09-07**|**CDFSL-V: Cross-Domain Few-Shot Learning for Videos**|Sarinda Samarasinghe et.al.|[2309.03989v1](http://arxiv.org/abs/2309.03989v1)|null|
+|**2023-09-15**|**CDFSL-V: Cross-Domain Few-Shot Learning for Videos**|Sarinda Samarasinghe et.al.|[2309.03989v2](http://arxiv.org/abs/2309.03989v2)|null|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549v1](http://arxiv.org/abs/2309.03549v1)|null|
 |**2023-09-05**|**EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding**|Yue Xu et.al.|[2309.02423v1](http://arxiv.org/abs/2309.02423v1)|null|
 |**2023-09-03**|**SOAR: Scene-debiasing Open-set Action Recognition**|Yuanhao Zhai et.al.|[2309.01265v1](http://arxiv.org/abs/2309.01265v1)|null|
@@ -223,7 +223,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -339,5 +339,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
 
