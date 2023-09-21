@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**SkeleTR: Towrads Skeleton-based Action Recognition in the Wild**|Haodong Duan et.al.|[2309.11445v1](http://arxiv.org/abs/2309.11445v1)|null|
 |**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
 |**2023-09-17**|**CaSAR: Contact-aware Skeletal Action Recognition**|Junan Lin et.al.|[2309.10001v1](http://arxiv.org/abs/2309.10001v1)|null|
 |**2023-09-18**|**Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition**|Ming-Zhe Li et.al.|[2309.09592v1](http://arxiv.org/abs/2309.09592v1)|**[link](https://github.com/EHZ9NIWI7/MSF-GZSSAR)**|
