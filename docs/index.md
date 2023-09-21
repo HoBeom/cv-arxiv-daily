@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -229,13 +229,13 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Human Pose Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-19**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369v1](http://arxiv.org/abs/2309.10369v1)|null|
+|**2023-09-20**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369v2](http://arxiv.org/abs/2309.10369v2)|null|
 |**2023-09-18**|**Sparse and Privacy-enhanced Representation for Human Pose Estimation**|Ting-Ying Lin et.al.|[2309.09515v1](http://arxiv.org/abs/2309.09515v1)|null|
 |**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910v1](http://arxiv.org/abs/2309.07910v1)|null|
 |**2023-09-13**|**LInKs "Lifting Independent Keypoints" -- Partial Pose Lifting for Occlusion Handling with Improved Accuracy in 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2309.07243v1](http://arxiv.org/abs/2309.07243v1)|null|
@@ -347,5 +347,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
