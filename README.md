@@ -7,6 +7,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067v1](http://arxiv.org/abs/2309.12067v1)|null|
+|**2023-09-21**|**Unveiling the Hidden Realm: Self-supervised Skeleton-based Action Recognition in Occluded Environments**|Yifei Chen et.al.|[2309.12029v1](http://arxiv.org/abs/2309.12029v1)|**[link](https://github.com/cyfml/opstl)**|
+|**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|null|
+|**2023-09-21**|**CPR-Coach: Recognizing Composite Error Actions based on Single-class Training**|Shunli Wang et.al.|[2309.11718v1](http://arxiv.org/abs/2309.11718v1)|null|
 |**2023-09-20**|**SkeleTR: Towrads Skeleton-based Action Recognition in the Wild**|Haodong Duan et.al.|[2309.11445v1](http://arxiv.org/abs/2309.11445v1)|null|
 |**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
 |**2023-09-17**|**CaSAR: Contact-aware Skeletal Action Recognition**|Junan Lin et.al.|[2309.10001v1](http://arxiv.org/abs/2309.10001v1)|null|
@@ -232,6 +236,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667v1](http://arxiv.org/abs/2309.11667v1)|null|
 |**2023-09-20**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369v2](http://arxiv.org/abs/2309.10369v2)|null|
 |**2023-09-18**|**Sparse and Privacy-enhanced Representation for Human Pose Estimation**|Ting-Ying Lin et.al.|[2309.09515v1](http://arxiv.org/abs/2309.09515v1)|null|
 |**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910v1](http://arxiv.org/abs/2309.07910v1)|null|
