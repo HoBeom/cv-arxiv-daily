@@ -1,4 +1,4 @@
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -9,7 +9,7 @@ Table of Contents
 |---|---|---|---|---|
 |**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067v1](http://arxiv.org/abs/2309.12067v1)|null|
 |**2023-09-21**|**Unveiling the Hidden Realm: Self-supervised Skeleton-based Action Recognition in Occluded Environments**|Yifei Chen et.al.|[2309.12029v1](http://arxiv.org/abs/2309.12029v1)|**[link](https://github.com/cyfml/opstl)**|
-|**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|null|
+|**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|**[link](https://github.com/desehuileng0o0/ikem)**|
 |**2023-09-21**|**CPR-Coach: Recognizing Composite Error Actions based on Single-class Training**|Shunli Wang et.al.|[2309.11718v1](http://arxiv.org/abs/2309.11718v1)|null|
 |**2023-09-20**|**SkeleTR: Towrads Skeleton-based Action Recognition in the Wild**|Haodong Duan et.al.|[2309.11445v1](http://arxiv.org/abs/2309.11445v1)|null|
 |**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
@@ -230,7 +230,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -349,5 +349,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
