@@ -262,7 +262,7 @@ Table of Contents
 |**2023-08-18**|**PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation**|Hanbing Liu et.al.|[2308.09678v1](http://arxiv.org/abs/2308.09678v1)|**[link](https://github.com/hbing-l/posynda)**|
 |**2023-08-18**|**ResQ: Residual Quantization for Video Perception**|Davide Abati et.al.|[2308.09511v1](http://arxiv.org/abs/2308.09511v1)|null|
 |**2023-08-17**|**MovePose: A High-performance Human Pose Estimation Algorithm on Mobile and Edge Devices**|Dongyang Yu et.al.|[2308.09084v1](http://arxiv.org/abs/2308.09084v1)|null|
-|**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080v1](http://arxiv.org/abs/2308.09080v1)|null|
+|**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080v1](http://arxiv.org/abs/2308.09080v1)|**[link](https://github.com/holzbock/ped_env)**|
 |**2023-08-10**|**Double-chain Constraints for 3D Human Pose Estimation in Images and Videos**|Hongbo Kang et.al.|[2308.05298v1](http://arxiv.org/abs/2308.05298v1)|**[link](https://github.com/KHB1698/DC-GCT)**|
 |**2023-08-18**|**Source-free Domain Adaptive Human Pose Estimation**|Qucheng Peng et.al.|[2308.03202v4](http://arxiv.org/abs/2308.03202v4)|**[link](https://github.com/davidpengucf/sfdahpe)**|
 |**2023-07-21**|**Design Space Exploration on Efficient and Accurate Human Pose Estimation from Sparse IMU-Sensing**|Iris Fürst-Walter et.al.|[2308.02397v1](http://arxiv.org/abs/2308.02397v1)|**[link](https://github.com/itiv-kit/dse-sparse-imu)**|
