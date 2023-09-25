@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
 |**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067v1](http://arxiv.org/abs/2309.12067v1)|null|
 |**2023-09-21**|**Unveiling the Hidden Realm: Self-supervised Skeleton-based Action Recognition in Occluded Environments**|Yifei Chen et.al.|[2309.12029v1](http://arxiv.org/abs/2309.12029v1)|**[link](https://github.com/cyfml/opstl)**|
 |**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|**[link](https://github.com/desehuileng0o0/ikem)**|
