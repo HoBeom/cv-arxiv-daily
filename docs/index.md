@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Chop & Learn: Recognizing and Generating Object-State Compositions**|Nirat Saini et.al.|[2309.14339v1](http://arxiv.org/abs/2309.14339v1)|null|
+|**2023-09-25**|**Egocentric RGB+Depth Action Recognition in Industry-Like Settings**|Jyoti Kini et.al.|[2309.13962v1](http://arxiv.org/abs/2309.13962v1)|null|
+|**2023-09-25**|**Boundary-Aware Proposal Generation Method for Temporal Action Localization**|Hao Zhang et.al.|[2309.13810v1](http://arxiv.org/abs/2309.13810v1)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
 |**2023-09-21**|**Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives**|Karolina Seweryn et.al.|[2309.12067v1](http://arxiv.org/abs/2309.12067v1)|null|
 |**2023-09-21**|**Unveiling the Hidden Realm: Self-supervised Skeleton-based Action Recognition in Occluded Environments**|Yifei Chen et.al.|[2309.12029v1](http://arxiv.org/abs/2309.12029v1)|**[link](https://github.com/cyfml/opstl)**|
@@ -241,6 +244,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|**[link](https://github.com/uyoung-jeong/BoIR)**|
 |**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667v1](http://arxiv.org/abs/2309.11667v1)|null|
 |**2023-09-20**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369v2](http://arxiv.org/abs/2309.10369v2)|null|
 |**2023-09-18**|**Sparse and Privacy-enhanced Representation for Human Pose Estimation**|Ting-Ying Lin et.al.|[2309.09515v1](http://arxiv.org/abs/2309.09515v1)|null|
