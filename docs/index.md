@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|null|
+|**2023-10-02**|**Action Recognition Utilizing YGAR Dataset**|Shuo Wang et.al.|[2310.00831v1](http://arxiv.org/abs/2310.00831v1)|null|
+|**2023-10-01**|**A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos**|Fatemeh Ziaeetabar et.al.|[2310.00670v1](http://arxiv.org/abs/2310.00670v1)|null|
 |**2023-09-29**|**Telling Stories for Common Sense Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2309.17327v1](http://arxiv.org/abs/2309.17327v1)|null|
 |**2023-09-27**|**End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning**|Wujun Wen et.al.|[2309.15683v1](http://arxiv.org/abs/2309.15683v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
 |**2023-09-27**|**Position and Orientation-Aware One-Shot Learning for Medical Action Recognition from Signal Data**|Leiyu Xie et.al.|[2309.15635v1](http://arxiv.org/abs/2309.15635v1)|null|
@@ -248,6 +251,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation**|Zhuoran Yu et.al.|[2310.00099v1](http://arxiv.org/abs/2310.00099v1)|null|
 |**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143v1](http://arxiv.org/abs/2309.17143v1)|**[link](https://github.com/5k5000/cldetection2023)**|
 |**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964v1](http://arxiv.org/abs/2309.16964v1)|null|
 |**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865v1](http://arxiv.org/abs/2309.14865v1)|null|
