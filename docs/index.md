@@ -11,10 +11,10 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|null|
+|**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-02**|**Action Recognition Utilizing YGAR Dataset**|Shuo Wang et.al.|[2310.00831v1](http://arxiv.org/abs/2310.00831v1)|null|
 |**2023-10-01**|**A Hierarchical Graph-based Approach for Recognition and Description Generation of Bimanual Actions in Videos**|Fatemeh Ziaeetabar et.al.|[2310.00670v1](http://arxiv.org/abs/2310.00670v1)|null|
-|**2023-09-29**|**Telling Stories for Common Sense Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2309.17327v1](http://arxiv.org/abs/2309.17327v1)|null|
+|**2023-09-29**|**Telling Stories for Common Sense Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2309.17327v1](http://arxiv.org/abs/2309.17327v1)|**[link](https://github.com/kini5gowda/stories)**|
 |**2023-09-27**|**End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning**|Wujun Wen et.al.|[2309.15683v1](http://arxiv.org/abs/2309.15683v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
 |**2023-09-27**|**Position and Orientation-Aware One-Shot Learning for Medical Action Recognition from Signal Data**|Leiyu Xie et.al.|[2309.15635v1](http://arxiv.org/abs/2309.15635v1)|null|
 |**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313v1](http://arxiv.org/abs/2309.15313v1)|null|
