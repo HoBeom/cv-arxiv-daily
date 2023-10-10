@@ -7,6 +7,9 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|null|
+|**2023-10-08**|**Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data**|Zuxuan Wu et.al.|[2310.05010v1](http://arxiv.org/abs/2310.05010v1)|**[link](https://github.com/wengzejia1/open-vclip)**|
+|**2023-10-07**|**Analyzing Zero-Shot Abilities of Vision-Language Models on Video Understanding Tasks**|Avinash Madasu et.al.|[2310.04914v1](http://arxiv.org/abs/2310.04914v1)|null|
 |**2023-10-06**|**Graph learning in robotics: a survey**|Francesca Pistilli et.al.|[2310.04294v1](http://arxiv.org/abs/2310.04294v1)|null|
 |**2023-10-05**|**PoseAction: Action Recognition for Patients in the Ward using Deep Learning Approaches**|Zherui Li et.al.|[2310.03288v1](http://arxiv.org/abs/2310.03288v1)|null|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
