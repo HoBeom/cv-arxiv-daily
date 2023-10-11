@@ -256,6 +256,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068v1](http://arxiv.org/abs/2310.06068v1)|null|
 |**2023-09-29**|**Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation**|Zhuoran Yu et.al.|[2310.00099v1](http://arxiv.org/abs/2310.00099v1)|null|
 |**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143v1](http://arxiv.org/abs/2309.17143v1)|**[link](https://github.com/5k5000/cldetection2023)**|
 |**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964v1](http://arxiv.org/abs/2309.16964v1)|null|
