@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-08**|**Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data**|Zuxuan Wu et.al.|[2310.05010v1](http://arxiv.org/abs/2310.05010v1)|**[link](https://github.com/wengzejia1/open-vclip)**|
 |**2023-10-07**|**Analyzing Zero-Shot Abilities of Vision-Language Models on Video Understanding Tasks**|Avinash Madasu et.al.|[2310.04914v1](http://arxiv.org/abs/2310.04914v1)|null|
