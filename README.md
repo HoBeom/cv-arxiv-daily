@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Proving the Potential of Skeleton Based Action Recognition to Automate the Analysis of Manual Processes**|Marlin Berger et.al.|[2310.08451v1](http://arxiv.org/abs/2310.08451v1)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|**[link](https://github.com/google-research/magvit)**|
 |**2023-10-08**|**Building an Open-Vocabulary Video CLIP Model with Better Architectures, Optimization and Data**|Zuxuan Wu et.al.|[2310.05010v1](http://arxiv.org/abs/2310.05010v1)|**[link](https://github.com/wengzejia1/open-vclip)**|
@@ -253,6 +254,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
+|**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042v1](http://arxiv.org/abs/2310.08042v1)|**[link](https://github.com/cool-xuan/x-hrnet)**|
 |**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068v1](http://arxiv.org/abs/2310.06068v1)|null|
 |**2023-09-29**|**Denoising and Selecting Pseudo-Heatmaps for Semi-Supervised Human Pose Estimation**|Zhuoran Yu et.al.|[2310.00099v1](http://arxiv.org/abs/2310.00099v1)|null|
 |**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143v1](http://arxiv.org/abs/2309.17143v1)|**[link](https://github.com/5k5000/cldetection2023)**|
