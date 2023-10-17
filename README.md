@@ -7,6 +7,10 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**InfoGCN++: Learning Representation by Predicting the Future for Online Human Skeleton-based Action Recognition**|Seunggeun Chi et.al.|[2310.10547v1](http://arxiv.org/abs/2310.10547v1)|null|
+|**2023-10-16**|**3DYoga90: A Hierarchical Video Dataset for Yoga Pose Understanding**|Seonok Kim et.al.|[2310.10131v1](http://arxiv.org/abs/2310.10131v1)|null|
+|**2023-10-16**|**Few-shot Action Recognition with Captioning Foundation Models**|Xiang Wang et.al.|[2310.10125v1](http://arxiv.org/abs/2310.10125v1)|null|
+|**2023-10-16**|**Flow Dynamics Correction for Action Recognition**|Lei Wang et.al.|[2310.10059v1](http://arxiv.org/abs/2310.10059v1)|null|
 |**2023-10-12**|**Proving the Potential of Skeleton Based Action Recognition to Automate the Analysis of Manual Processes**|Marlin Berger et.al.|[2310.08451v1](http://arxiv.org/abs/2310.08451v1)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
 |**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737v1](http://arxiv.org/abs/2310.05737v1)|**[link](https://github.com/google-research/magvit)**|
@@ -254,6 +258,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-15**|**MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection**|David C. Jeong et.al.|[2310.09757v1](http://arxiv.org/abs/2310.09757v1)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
 |**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042v1](http://arxiv.org/abs/2310.08042v1)|**[link](https://github.com/cool-xuan/x-hrnet)**|
 |**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068v1](http://arxiv.org/abs/2310.06068v1)|null|
