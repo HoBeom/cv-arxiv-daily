@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**NurViD: A Large Expert-Level Video Database for Nursing Procedure Activity Understanding**|Ming Hu et.al.|[2310.13347v1](http://arxiv.org/abs/2310.13347v1)|**[link](https://github.com/minghu0830/NurViD-benchmark)**|
+|**2023-10-19**|**Human Pose-based Estimation, Tracking and Action Recognition with Deep Learning: A Survey**|Lijuan Zhou et.al.|[2310.13039v1](http://arxiv.org/abs/2310.13039v1)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**Deep Learning Techniques for Video Instance Segmentation: A Survey**|Chenhao Xu et.al.|[2310.12393v1](http://arxiv.org/abs/2310.12393v1)|null|
 |**2023-10-16**|**InfoGCN++: Learning Representation by Predicting the Future for Online Human Skeleton-based Action Recognition**|Seunggeun Chi et.al.|[2310.10547v1](http://arxiv.org/abs/2310.10547v1)|**[link](https://github.com/stnoah1/sode)**|
