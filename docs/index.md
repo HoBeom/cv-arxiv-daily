@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Videoprompter: an ensemble of foundational models for zero-shot video understanding**|Adeel Yousaf et.al.|[2310.15324v1](http://arxiv.org/abs/2310.15324v1)|null|
 |**2023-10-23**|**S3Aug: Segmentation, Sampling, and Shift for Action Recognition**|Taiki Sugiura et.al.|[2310.14556v1](http://arxiv.org/abs/2310.14556v1)|null|
 |**2023-10-20**|**NurViD: A Large Expert-Level Video Database for Nursing Procedure Activity Understanding**|Ming Hu et.al.|[2310.13347v1](http://arxiv.org/abs/2310.13347v1)|**[link](https://github.com/minghu0830/NurViD-benchmark)**|
 |**2023-10-19**|**Human Pose-based Estimation, Tracking and Action Recognition with Deep Learning: A Survey**|Lijuan Zhou et.al.|[2310.13039v1](http://arxiv.org/abs/2310.13039v1)|null|
