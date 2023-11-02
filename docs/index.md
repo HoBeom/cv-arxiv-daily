@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**|Jieming Cui et.al.|[2311.00556v1](http://arxiv.org/abs/2311.00556v1)|null|
 |**2023-10-26**|**Distribution of Action Movements (DAM): A Descriptor for Human Action Recognition**|Facundo Manuel Quiroga et.al.|[2310.17421v1](http://arxiv.org/abs/2310.17421v1)|null|
 |**2023-10-26**|**IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting**|Tim J. Schoonbeek et.al.|[2310.17323v1](http://arxiv.org/abs/2310.17323v1)|**[link](https://github.com/timschoonbeek/industreal)**|
 |**2023-10-23**|**Videoprompter: an ensemble of foundational models for zero-shot video understanding**|Adeel Yousaf et.al.|[2310.15324v1](http://arxiv.org/abs/2310.15324v1)|null|
