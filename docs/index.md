@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi et.al.|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
+|**2023-11-02**|**Concatenated Masked Autoencoders as Spatial-Temporal Learner**|Zhouqiang Jiang et.al.|[2311.00961v1](http://arxiv.org/abs/2311.00961v1)|**[link](https://github.com/minhoooo1/catmae)**|
 |**2023-11-01**|**ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**|Jieming Cui et.al.|[2311.00556v1](http://arxiv.org/abs/2311.00556v1)|null|
 |**2023-10-26**|**Distribution of Action Movements (DAM): A Descriptor for Human Action Recognition**|Facundo Manuel Quiroga et.al.|[2310.17421v1](http://arxiv.org/abs/2310.17421v1)|null|
 |**2023-10-26**|**IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting**|Tim J. Schoonbeek et.al.|[2310.17323v1](http://arxiv.org/abs/2310.17323v1)|**[link](https://github.com/timschoonbeek/industreal)**|
