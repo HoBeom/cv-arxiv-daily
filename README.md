@@ -269,6 +269,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation**|Qitao Zhao et.al.|[2311.03312v1](http://arxiv.org/abs/2311.03312v1)|null|
+|**2023-11-06**|**Efficient, Self-Supervised Human Pose Estimation with Inductive Prior Tuning**|Nobline Yoo et.al.|[2311.02815v1](http://arxiv.org/abs/2311.02815v1)|**[link](https://github.com/princetonvisualai/hpe-inductive-prior-tuning)**|
 |**2023-10-29**|**TIC-TAC: A Framework To Learn And Evaluate Your Covariance**|Megh Shukla et.al.|[2310.18953v1](http://arxiv.org/abs/2310.18953v1)|**[link](https://github.com/vita-epfl/TIC-TAC)**|
 |**2023-10-29**|**Improving Multi-Person Pose Tracking with A Confidence Network**|Zehua Fu et.al.|[2310.18920v1](http://arxiv.org/abs/2310.18920v1)|null|
 |**2023-10-25**|**MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network**|Soroush Mehraban et.al.|[2310.16288v1](http://arxiv.org/abs/2310.16288v1)|**[link](https://github.com/taatiteam/motionagformer)**|
