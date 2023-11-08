@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-04**|**FPGA-QHAR: Throughput-Optimized for Quantized Human Action Recognition on The Edge**|Azzam Alhussain et.al.|[2311.03390v1](http://arxiv.org/abs/2311.03390v1)|null|
 |**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi et.al.|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
 |**2023-11-02**|**Concatenated Masked Autoencoders as Spatial-Temporal Learner**|Zhouqiang Jiang et.al.|[2311.00961v1](http://arxiv.org/abs/2311.00961v1)|**[link](https://github.com/minhoooo1/catmae)**|
 |**2023-11-01**|**ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**|Jieming Cui et.al.|[2311.00556v1](http://arxiv.org/abs/2311.00556v1)|null|
