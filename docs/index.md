@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Learning Human Action Recognition Representations Without Real Humans**|Howard Zhong et.al.|[2311.06231v1](http://arxiv.org/abs/2311.06231v1)|**[link](https://github.com/howardzh01/ppma)**|
+|**2023-11-10**|**Semantic-aware Video Representation for Few-shot Action Recognition**|Yutao Tang et.al.|[2311.06218v1](http://arxiv.org/abs/2311.06218v1)|null|
+|**2023-11-10**|**Towards Interpretable Motion-level Skill Assessment in Robotic Surgery**|Kay Hutchinson et.al.|[2311.05838v1](http://arxiv.org/abs/2311.05838v1)|null|
 |**2023-11-04**|**FPGA-QHAR: Throughput-Optimized for Quantized Human Action Recognition on The Edge**|Azzam Alhussain et.al.|[2311.03390v1](http://arxiv.org/abs/2311.03390v1)|**[link](https://github.com/azzam-alhussain/fpga-qhar)**|
 |**2023-11-02**|**Distilling Knowledge from CNN-Transformer Models for Enhanced Human Action Recognition**|Hamid Ahmadabadi et.al.|[2311.01283v1](http://arxiv.org/abs/2311.01283v1)|null|
 |**2023-11-02**|**Concatenated Masked Autoencoders as Spatial-Temporal Learner**|Zhouqiang Jiang et.al.|[2311.00961v1](http://arxiv.org/abs/2311.00961v1)|**[link](https://github.com/minhoooo1/catmae)**|
