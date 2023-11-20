@@ -275,6 +275,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**BiHRNet: A Binary high-resolution network for Human Pose Estimation**|Zhicheng Zhang et.al.|[2311.10296v1](http://arxiv.org/abs/2311.10296v1)|null|
 |**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
