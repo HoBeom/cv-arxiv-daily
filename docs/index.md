@@ -201,7 +201,7 @@ Table of Contents
 |**2023-04-27**|**Robust Cross-Modal Knowledge Distillation for Unconstrained Videos**|Wenke Xia et.al.|[2304.07775v2](http://arxiv.org/abs/2304.07775v2)|**[link](https://github.com/gewu-lab/cross-modal-distillation)**|
 |**2023-04-14**|**Peer-to-Peer Federated Continual Learning for Naturalistic Driving Action Recognition**|Liangqi Yuan et.al.|[2304.07421v1](http://arxiv.org/abs/2304.07421v1)|null|
 |**2023-04-14**|**NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery**|Zahid Hasan et.al.|[2304.07354v1](http://arxiv.org/abs/2304.07354v1)|**[link](https://github.com/mxahan/nev-ncd)**|
-|**2023-04-14**|**PMI Sampler: Patch similarity guided frame selection for Aerial Action Recognition**|Ruiqi Xian et.al.|[2304.06866v1](http://arxiv.org/abs/2304.06866v1)|null|
+|**2023-04-14**|**PMI Sampler: Patch similarity guided frame selection for Aerial Action Recognition**|Ruiqi Xian et.al.|[2304.06866v1](http://arxiv.org/abs/2304.06866v1)|**[link](https://github.com/ricky-xian/pmi-sampler)**|
 |**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023v1](http://arxiv.org/abs/2304.04023v1)|null|
 |**2023-04-06**|**Therbligs in Action: Video Understanding through Motion Primitives**|Eadom Dessalene et.al.|[2304.03631v1](http://arxiv.org/abs/2304.03631v1)|null|
 |**2023-04-06**|**Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting**|Syed Talal Wasim et.al.|[2304.03307v1](http://arxiv.org/abs/2304.03307v1)|**[link](https://github.com/talalwasim/vita-clip)**|
@@ -246,7 +246,7 @@ Table of Contents
 |**2023-03-14**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v2](http://arxiv.org/abs/2303.03729v2)|**[link](https://github.com/zhysora/fr-head)**|
 |**2023-03-07**|**Challenges of the Creation of a Dataset for Vision Based Human Hand Action Recognition in Industrial Assembly**|Fabian Sturm et.al.|[2303.03716v1](http://arxiv.org/abs/2303.03716v1)|null|
 |**2023-03-06**|**CLIP-guided Prototype Modulating for Few-shot Action Recognition**|Xiang Wang et.al.|[2303.02982v1](http://arxiv.org/abs/2303.02982v1)|**[link](https://github.com/alibaba-mmai-research/clip-fsar)**|
-|**2023-03-05**|**MITFAS: Mutual Information based Temporal Feature Alignment and Sampling for Aerial Video Action Recognition**|Ruiqi Xian et.al.|[2303.02575v1](http://arxiv.org/abs/2303.02575v1)|null|
+|**2023-03-05**|**MITFAS: Mutual Information based Temporal Feature Alignment and Sampling for Aerial Video Action Recognition**|Ruiqi Xian et.al.|[2303.02575v1](http://arxiv.org/abs/2303.02575v1)|**[link](https://github.com/ricky-xian/mitfas)**|
 |**2023-03-02**|**AZTR: Aerial Video Action Recognition with Auto Zoom and Temporal Reasoning**|Xijun Wang et.al.|[2303.01589v1](http://arxiv.org/abs/2303.01589v1)|null|
 |**2023-03-02**|**Ego-Vehicle Action Recognition based on Semi-Supervised Contrastive Learning**|Chihiro Noguchi et.al.|[2303.00977v1](http://arxiv.org/abs/2303.00977v1)|null|
 |**2023-02-26**|**Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition**|Yifan Jiang et.al.|[2302.13434v1](http://arxiv.org/abs/2302.13434v1)|null|
