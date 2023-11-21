@@ -7,7 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v1](http://arxiv.org/abs/2311.08393v1)|null|
+|**2023-11-20**|**VLM-Eval: A General Evaluation on Video Large Language Models**|Shuailin Li et.al.|[2311.11865v1](http://arxiv.org/abs/2311.11865v1)|null|
+|**2023-11-18**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393v2](http://arxiv.org/abs/2311.08393v2)|null|
 |**2023-11-14**|**Act-VIT: A Representationally Robust Attention Architecture for Skeleton Based Action Recognition Using Vision Transformer**|Ozge Oztimur Karadag et.al.|[2311.08094v1](http://arxiv.org/abs/2311.08094v1)|null|
 |**2023-11-10**|**Learning Human Action Recognition Representations Without Real Humans**|Howard Zhong et.al.|[2311.06231v1](http://arxiv.org/abs/2311.06231v1)|**[link](https://github.com/howardzh01/ppma)**|
 |**2023-11-10**|**Semantic-aware Video Representation for Few-shot Action Recognition**|Yutao Tang et.al.|[2311.06218v1](http://arxiv.org/abs/2311.06218v1)|null|
@@ -275,6 +276,9 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
+|**2023-11-20**|**SniffyArt: The Dataset of Smelling Persons**|Mathias Zinnen et.al.|[2311.11888v1](http://arxiv.org/abs/2311.11888v1)|null|
+|**2023-11-18**|**Multiple View Geometry Transformers for 3D Human Pose Estimation**|Ziwei Liao et.al.|[2311.10983v1](http://arxiv.org/abs/2311.10983v1)|null|
 |**2023-11-17**|**BiHRNet: A Binary high-resolution network for Human Pose Estimation**|Zhicheng Zhang et.al.|[2311.10296v1](http://arxiv.org/abs/2311.10296v1)|null|
 |**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
