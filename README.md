@@ -7,7 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-21**|**GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap**|Hyogun Lee et.al.|[2311.12467v1](http://arxiv.org/abs/2311.12467v1)|**[link](https://github.com/khuvll/glad)**|
+|**2023-11-22**|**GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap**|Hyogun Lee et.al.|[2311.12467v2](http://arxiv.org/abs/2311.12467v2)|**[link](https://github.com/khuvll/glad)**|
 |**2023-11-21**|**Modality Mixer Exploiting Complementary Information for Multi-modal Action Recognition**|Sumin Lee et.al.|[2311.12344v1](http://arxiv.org/abs/2311.12344v1)|null|
 |**2023-11-21**|**Challenges in Video-Based Infant Action Recognition: A Critical Examination of the State of the Art**|Elaheh Hatamimajoumerd et.al.|[2311.12300v1](http://arxiv.org/abs/2311.12300v1)|**[link](https://github.com/ostadabbas/video-based-infant-action-recognition)**|
 |**2023-11-20**|**VLM-Eval: A General Evaluation on Video Large Language Models**|Shuailin Li et.al.|[2311.11865v1](http://arxiv.org/abs/2311.11865v1)|null|
