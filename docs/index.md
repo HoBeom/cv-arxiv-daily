@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning**|Huanjin Yao et.al.|[2311.15769v1](http://arxiv.org/abs/2311.15769v1)|**[link](https://github.com/HJYao00/Side4Video)**|
+|**2023-11-27**|**Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition**|Yifei Chen et.al.|[2311.15619v1](http://arxiv.org/abs/2311.15619v1)|null|
+|**2023-11-24**|**READS-V: Real-time Automated Detection of Epileptic Seizures from Surveillance Videos via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775v1](http://arxiv.org/abs/2311.14775v1)|null|
 |**2023-11-24**|**Multi-modal Instance Refinement for Cross-domain Action Recognition**|Yuan Qing et.al.|[2311.14281v1](http://arxiv.org/abs/2311.14281v1)|null|
 |**2023-11-22**|**GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap**|Hyogun Lee et.al.|[2311.12467v2](http://arxiv.org/abs/2311.12467v2)|**[link](https://github.com/khuvll/glad)**|
 |**2023-11-21**|**Modality Mixer Exploiting Complementary Information for Multi-modal Action Recognition**|Sumin Lee et.al.|[2311.12344v1](http://arxiv.org/abs/2311.12344v1)|null|
@@ -285,7 +288,7 @@ Table of Contents
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242v1](http://arxiv.org/abs/2311.14242v1)|null|
-|**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615v1](http://arxiv.org/abs/2311.13615v1)|null|
+|**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615v1](http://arxiv.org/abs/2311.13615v1)|**[link](https://github.com/T1sweet/HEViTPose)**|
 |**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421v1](http://arxiv.org/abs/2311.12421v1)|null|
 |**2023-11-17**|**Efficient Domain Adaptation via Generative Prior for 3D Infant Pose Estimation**|Zhuoran Zhou et.al.|[2311.12043v1](http://arxiv.org/abs/2311.12043v1)|null|
 |**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
