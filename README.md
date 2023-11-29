@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477v1](http://arxiv.org/abs/2311.16477v1)|null|
 |**2023-11-27**|**Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning**|Huanjin Yao et.al.|[2311.15769v1](http://arxiv.org/abs/2311.15769v1)|**[link](https://github.com/HJYao00/Side4Video)**|
 |**2023-11-27**|**Align before Adapt: Leveraging Entity-to-Region Alignments for Generalizable Video Action Recognition**|Yifei Chen et.al.|[2311.15619v1](http://arxiv.org/abs/2311.15619v1)|null|
 |**2023-11-24**|**READS-V: Real-time Automated Detection of Epileptic Seizures from Surveillance Videos via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775v1](http://arxiv.org/abs/2311.14775v1)|null|
@@ -283,6 +284,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477v1](http://arxiv.org/abs/2311.16477v1)|null|
 |**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242v1](http://arxiv.org/abs/2311.14242v1)|null|
 |**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615v1](http://arxiv.org/abs/2311.13615v1)|**[link](https://github.com/T1sweet/HEViTPose)**|
 |**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421v1](http://arxiv.org/abs/2311.12421v1)|null|
