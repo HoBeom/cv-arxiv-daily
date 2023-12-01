@@ -11,6 +11,13 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Just Add $π$ ! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
+|**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|**[link](https://github.com/khu-vll/cast)**|
+|**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
+|**2023-11-29**|**GeoDeformer: Geometric Deformable Transformer for Action Recognition**|Jinhui Ye et.al.|[2311.17975v1](http://arxiv.org/abs/2311.17975v1)|null|
+|**2023-11-29**|**Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes**|Chi-Hsi Kung et.al.|[2311.17948v1](http://arxiv.org/abs/2311.17948v1)|null|
+|**2023-11-29**|**LALM: Long-Term Action Anticipation with Language Models**|Sanghwan Kim et.al.|[2311.17944v1](http://arxiv.org/abs/2311.17944v1)|null|
+|**2023-11-29**|**Object-based (yet Class-agnostic) Video Domain Adaptation**|Dantong Niu et.al.|[2311.17942v1](http://arxiv.org/abs/2311.17942v1)|null|
 |**2023-11-29**|**Generative Hierarchical Temporal Transformer for Hand Action Recognition and Motion Prediction**|Yilin Wen et.al.|[2311.17366v1](http://arxiv.org/abs/2311.17366v1)|null|
 |**2023-11-28**|**AdaFocus: Towards End-to-end Weakly Supervised Learning for Long-Video Action Understanding**|Jiaming Zhou et.al.|[2311.17118v1](http://arxiv.org/abs/2311.17118v1)|null|
 |**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477v1](http://arxiv.org/abs/2311.16477v1)|null|
@@ -290,6 +297,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754v1](http://arxiv.org/abs/2311.17754v1)|null|
 |**2023-11-28**|**On the Calibration of Human Pose Estimation**|Kerui Gu et.al.|[2311.17105v1](http://arxiv.org/abs/2311.17105v1)|null|
 |**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477v1](http://arxiv.org/abs/2311.16477v1)|null|
