@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**LEAP: LLM-Generation of Egocentric Action Programs**|Eadom Dessalene et.al.|[2312.00055v1](http://arxiv.org/abs/2312.00055v1)|null|
 |**2023-11-30**|**Just Add $π$ ! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840v1](http://arxiv.org/abs/2311.18840v1)|null|
 |**2023-11-30**|**CAST: Cross-Attention in Space and Time for Video Action Recognition**|Dongho Lee et.al.|[2311.18825v1](http://arxiv.org/abs/2311.18825v1)|**[link](https://github.com/khu-vll/cast)**|
 |**2023-11-30**|**Action Recognition in Video Recordings from Gynecologic Laparoscopy**|Sahar Nasirihaghighi et.al.|[2311.18666v1](http://arxiv.org/abs/2311.18666v1)|null|
@@ -297,6 +298,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462v1](http://arxiv.org/abs/2312.00462v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754v1](http://arxiv.org/abs/2311.17754v1)|null|
 |**2023-11-28**|**On the Calibration of Human Pose Estimation**|Kerui Gu et.al.|[2311.17105v1](http://arxiv.org/abs/2311.17105v1)|null|
