@@ -11,7 +11,11 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-04**|**Hulk: A Universal Knowledge Translator for Human-Centric Tasks**|Yizhou Wang et.al.|[2312.01697v1](http://arxiv.org/abs/2312.01697v1)|**[link](https://github.com/opengvlab/humanbench)**|
+|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
+|**2023-12-05**|**Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training**|Arun Reddy et.al.|[2312.02914v1](http://arxiv.org/abs/2312.02914v1)|null|
+|**2023-12-05**|**RotaTR: Detection Transformer for Dense and Rotated Object**|Zhu Yuke et.al.|[2312.02821v1](http://arxiv.org/abs/2312.02821v1)|null|
+|**2023-12-04**|**Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition**|Chengyou Jia et.al.|[2312.02226v1](http://arxiv.org/abs/2312.02226v1)|null|
+|**2023-12-05**|**Hulk: A Universal Knowledge Translator for Human-Centric Tasks**|Yizhou Wang et.al.|[2312.01697v2](http://arxiv.org/abs/2312.01697v2)|**[link](https://github.com/opengvlab/humanbench)**|
 |**2023-12-03**|**D $^2$ ST-Adapter: Disentangled-and-Deformable Spatio-Temporal Adapter for Few-shot Action Recognition**|Wenjie Pei et.al.|[2312.01431v1](http://arxiv.org/abs/2312.01431v1)|**[link](https://github.com/qizhongtan/d2st-adapter)**|
 |**2023-12-02**|**Consistency Prototype Module and Motion Compensation for Few-Shot Action Recognition (CLIP-CP $\mathbf{M^2}$ C)**|Fei Guo et.al.|[2312.01083v1](http://arxiv.org/abs/2312.01083v1)|null|
 |**2023-11-30**|**DEVIAS: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding**|Kyungho Bae et.al.|[2312.00826v1](http://arxiv.org/abs/2312.00826v1)|null|
@@ -302,6 +306,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis**|Niccolò Bisagno et.al.|[2312.02613v1](http://arxiv.org/abs/2312.02613v1)|null|
+|**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
 |**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561v1](http://arxiv.org/abs/2312.01561v1)|null|
 |**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462v1](http://arxiv.org/abs/2312.00462v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
