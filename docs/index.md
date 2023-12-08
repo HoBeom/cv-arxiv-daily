@@ -14,7 +14,7 @@ Table of Contents
 |**2023-12-06**|**From Detection to Action Recognition: An Edge-Based Pipeline for Robot Human Perception**|Petros Toupas et.al.|[2312.03477v1](http://arxiv.org/abs/2312.03477v1)|null|
 |**2023-12-06**|**STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition**|Nguyen Huu Bao Long et.al.|[2312.03288v1](http://arxiv.org/abs/2312.03288v1)|**[link](https://github.com/maclong01/STEP-CATFormer)**|
 |**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
-|**2023-12-05**|**Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training**|Arun Reddy et.al.|[2312.02914v1](http://arxiv.org/abs/2312.02914v1)|null|
+|**2023-12-06**|**Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training**|Arun Reddy et.al.|[2312.02914v2](http://arxiv.org/abs/2312.02914v2)|null|
 |**2023-12-05**|**RotaTR: Detection Transformer for Dense and Rotated Object**|Zhu Yuke et.al.|[2312.02821v1](http://arxiv.org/abs/2312.02821v1)|null|
 |**2023-12-04**|**Generating Action-conditioned Prompts for Open-vocabulary Video Action Recognition**|Chengyou Jia et.al.|[2312.02226v1](http://arxiv.org/abs/2312.02226v1)|null|
 |**2023-12-05**|**Hulk: A Universal Knowledge Translator for Human-Centric Tasks**|Yizhou Wang et.al.|[2312.01697v2](http://arxiv.org/abs/2312.01697v2)|**[link](https://github.com/opengvlab/humanbench)**|
