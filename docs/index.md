@@ -163,7 +163,7 @@ Table of Contents
 |**2023-07-11**|**EgoAdapt: A multi-stream evaluation study of adaptation to real-world egocentric user video**|Matthias De Lange et.al.|[2307.05784v1](http://arxiv.org/abs/2307.05784v1)|**[link](https://github.com/facebookresearch/egocentricuseradaptation)**|
 |**2023-07-09**|**HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**|Hao Zheng et.al.|[2307.05721v1](http://arxiv.org/abs/2307.05721v1)|null|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
-|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|null|
+|**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|**[link](https://github.com/tensorflow/models)**|
 |**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|null|
 |**2023-07-05**|**Make A Long Image Short: Adaptive Token Length for Vision Transformers**|Qiqi Zhou et.al.|[2307.02092v1](http://arxiv.org/abs/2307.02092v1)|null|
 |**2023-07-05**|**Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition**|Fei Guo et.al.|[2307.01985v1](http://arxiv.org/abs/2307.01985v1)|**[link](https://github.com/cofly2014/tsa-mlt)**|
@@ -242,7 +242,7 @@ Table of Contents
 |**2023-04-03**|**Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition**|Qianhui Men et.al.|[2304.00858v1](http://arxiv.org/abs/2304.00858v1)|null|
 |**2023-04-01**|**HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions**|Anshul Shah et.al.|[2304.00387v1](http://arxiv.org/abs/2304.00387v1)|**[link](https://github.com/anshulbshah/halp)**|
 |**2023-04-04**|**DOAD: Decoupled One Stage Action Detection Network**|Shuning Chang et.al.|[2304.00254v2](http://arxiv.org/abs/2304.00254v2)|null|
-|**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|null|
+|**2023-03-31**|**STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition**|Xiaoyu Zhu et.al.|[2303.18177v1](http://arxiv.org/abs/2303.18177v1)|**[link](https://github.com/zgzxy001/stmt)**|
 |**2023-03-30**|**Streaming Video Model**|Yucheng Zhao et.al.|[2303.17228v1](http://arxiv.org/abs/2303.17228v1)|**[link](https://github.com/yuzhms/streaming-video-model)**|
 |**2023-04-05**|**HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices**|Petros Toupas et.al.|[2303.17218v3](http://arxiv.org/abs/2303.17218v3)|**[link](https://github.com/ptoupas/harflow3d)**|
 |**2023-03-29**|**A Video-based End-to-end Pipeline for Non-nutritive Sucking Action Recognition and Segmentation in Young Infants**|Shaotong Zhu et.al.|[2303.16867v1](http://arxiv.org/abs/2303.16867v1)|**[link](https://github.com/ostadabbas/nns-detection-and-segmentation)**|
