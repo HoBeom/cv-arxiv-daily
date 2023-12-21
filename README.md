@@ -312,7 +312,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|null|
+|**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|**[link](https://github.com/anxq/sharpose)**|
 |**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195v1](http://arxiv.org/abs/2312.10195v1)|null|
 |**2023-12-11**|**Improving the Robustness of 3D Human Pose Estimation: A Benchmark and Learning from Noisy Input**|Trung-Hieu Hoang et.al.|[2312.06797v1](http://arxiv.org/abs/2312.06797v1)|null|
 |**2023-12-12**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409v2](http://arxiv.org/abs/2312.06409v2)|null|
