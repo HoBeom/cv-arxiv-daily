@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577v1](http://arxiv.org/abs/2312.14577v1)|null|
 |**2023-12-14**|**Generative Model-based Feature Knowledge Distillation for Action Recognition**|Guiqin Wang et.al.|[2312.08644v1](http://arxiv.org/abs/2312.08644v1)|**[link](https://github.com/aaai-24/generative-based-kd)**|
 |**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|**[link](https://github.com/shahzadnit/ez-clip)**|
 |**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777v1](http://arxiv.org/abs/2312.07777v1)|**[link](https://github.com/daspraty/stg-gradcam)**|
