@@ -11,6 +11,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-23**|**Classifying Soccer Ball-on-Goal Position Through Kicker Shooting Action**|Javier Torón-Artiles et.al.|[2312.15236v1](http://arxiv.org/abs/2312.15236v1)|null|
+|**2023-12-23**|**Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition**|Shaojie Zhang et.al.|[2312.15144v1](http://arxiv.org/abs/2312.15144v1)|**[link](https://github.com/buptsjzhang/std-cl)**|
 |**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577v1](http://arxiv.org/abs/2312.14577v1)|null|
 |**2023-12-14**|**Generative Model-based Feature Knowledge Distillation for Action Recognition**|Guiqin Wang et.al.|[2312.08644v1](http://arxiv.org/abs/2312.08644v1)|**[link](https://github.com/aaai-24/generative-based-kd)**|
 |**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|**[link](https://github.com/shahzadnit/ez-clip)**|
@@ -317,6 +319,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
 |**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|**[link](https://github.com/anxq/sharpose)**|
 |**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195v1](http://arxiv.org/abs/2312.10195v1)|null|
 |**2023-12-11**|**Improving the Robustness of 3D Human Pose Estimation: A Benchmark and Learning from Noisy Input**|Trung-Hieu Hoang et.al.|[2312.06797v1](http://arxiv.org/abs/2312.06797v1)|null|
