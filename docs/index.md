@@ -319,6 +319,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-24**|**TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions**|Rohit Lal et.al.|[2312.16221v1](http://arxiv.org/abs/2312.16221v1)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
 |**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|**[link](https://github.com/anxq/sharpose)**|
 |**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195v1](http://arxiv.org/abs/2312.10195v1)|null|
