@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-01**|**Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence**|Ruizhuo Xu et.al.|[2401.00921v1](http://arxiv.org/abs/2401.00921v1)|**[link](https://github.com/ruizhuo-xu/skeleton2vec)**|
+|**2023-12-31**|**SAR-RARP50: Segmentation of surgical instrumentation and Action Recognition on Robot-Assisted Radical Prostatectomy Challenge**|Dimitrios Psychogyios et.al.|[2401.00496v1](http://arxiv.org/abs/2401.00496v1)|null|
+|**2023-12-29**|**A Large-Scale Re-identification Analysis in Sporting Scenarios: the Betrayal of Reaching a Critical Point**|David Freire-Obregón et.al.|[2401.00080v1](http://arxiv.org/abs/2401.00080v1)|null|
 |**2023-12-23**|**Classifying Soccer Ball-on-Goal Position Through Kicker Shooting Action**|Javier Torón-Artiles et.al.|[2312.15236v1](http://arxiv.org/abs/2312.15236v1)|null|
 |**2023-12-23**|**Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition**|Shaojie Zhang et.al.|[2312.15144v1](http://arxiv.org/abs/2312.15144v1)|**[link](https://github.com/buptsjzhang/std-cl)**|
 |**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577v1](http://arxiv.org/abs/2312.14577v1)|null|
@@ -319,6 +322,8 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889v1](http://arxiv.org/abs/2401.00889v1)|null|
+|**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155v1](http://arxiv.org/abs/2401.00155v1)|null|
 |**2023-12-24**|**TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions**|Rohit Lal et.al.|[2312.16221v1](http://arxiv.org/abs/2312.16221v1)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
 |**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|**[link](https://github.com/anxq/sharpose)**|
