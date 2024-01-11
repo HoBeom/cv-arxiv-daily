@@ -1,4 +1,4 @@
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -7,13 +7,15 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154v1](http://arxiv.org/abs/2401.04154v1)|null|
+|**2024-01-08**|**Two-stream joint matching method based on contrastive learning for few-shot action recognition**|Long Deng et.al.|[2401.04150v1](http://arxiv.org/abs/2401.04150v1)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587v1](http://arxiv.org/abs/2401.03587v1)|null|
 |**2024-01-04**|**Explore Human Parsing Modality for Action Recognition**|Jinfu Liu et.al.|[2401.02138v1](http://arxiv.org/abs/2401.02138v1)|**[link](https://github.com/liujf69/EPP-Net-Action)**|
 |**2024-01-01**|**Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence**|Ruizhuo Xu et.al.|[2401.00921v1](http://arxiv.org/abs/2401.00921v1)|**[link](https://github.com/ruizhuo-xu/skeleton2vec)**|
 |**2023-12-31**|**SAR-RARP50: Segmentation of surgical instrumentation and Action Recognition on Robot-Assisted Radical Prostatectomy Challenge**|Dimitrios Psychogyios et.al.|[2401.00496v1](http://arxiv.org/abs/2401.00496v1)|null|
 |**2023-12-29**|**A Large-Scale Re-identification Analysis in Sporting Scenarios: the Betrayal of Reaching a Critical Point**|David Freire-Obregón et.al.|[2401.00080v1](http://arxiv.org/abs/2401.00080v1)|null|
 |**2023-12-23**|**Classifying Soccer Ball-on-Goal Position Through Kicker Shooting Action**|Javier Torón-Artiles et.al.|[2312.15236v1](http://arxiv.org/abs/2312.15236v1)|null|
-|**2023-12-23**|**Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition**|Shaojie Zhang et.al.|[2312.15144v1](http://arxiv.org/abs/2312.15144v1)|**[link](https://github.com/buptsjzhang/std-cl)**|
+|**2024-01-09**|**Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition**|Shaojie Zhang et.al.|[2312.15144v2](http://arxiv.org/abs/2312.15144v2)|**[link](https://github.com/libertyzsj/std-cl)**|
 |**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577v1](http://arxiv.org/abs/2312.14577v1)|null|
 |**2023-12-14**|**Generative Model-based Feature Knowledge Distillation for Action Recognition**|Guiqin Wang et.al.|[2312.08644v1](http://arxiv.org/abs/2312.08644v1)|**[link](https://github.com/aaai-24/generative-based-kd)**|
 |**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|**[link](https://github.com/shahzadnit/ez-clip)**|
@@ -314,7 +316,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -323,7 +325,7 @@ Table of Contents
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587v1](http://arxiv.org/abs/2401.03587v1)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889v1](http://arxiv.org/abs/2401.00889v1)|null|
-|**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155v1](http://arxiv.org/abs/2401.00155v1)|null|
+|**2024-01-09**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155v2](http://arxiv.org/abs/2401.00155v2)|null|
 |**2023-12-24**|**TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions**|Rohit Lal et.al.|[2312.16221v1](http://arxiv.org/abs/2312.16221v1)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
 |**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|**[link](https://github.com/anxq/sharpose)**|
@@ -479,5 +481,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240111>back to top</a>)</p>
 
