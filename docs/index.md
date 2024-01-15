@@ -183,7 +183,7 @@ Table of Contents
 |**2023-07-09**|**HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**|Hao Zheng et.al.|[2307.05721v1](http://arxiv.org/abs/2307.05721v1)|null|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|**[link](https://github.com/tensorflow/models)**|
-|**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|null|
+|**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|**[link](https://github.com/dingyn-reno/mmfs)**|
 |**2023-07-05**|**Make A Long Image Short: Adaptive Token Length for Vision Transformers**|Qiqi Zhou et.al.|[2307.02092v1](http://arxiv.org/abs/2307.02092v1)|null|
 |**2023-07-05**|**Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition**|Fei Guo et.al.|[2307.01985v1](http://arxiv.org/abs/2307.01985v1)|**[link](https://github.com/cofly2014/tsa-mlt)**|
 |**2023-06-30**|**Miniaturized Graph Convolutional Networks with Topologically Consistent Pruning**|Hichem Sahbi et.al.|[2306.17590v1](http://arxiv.org/abs/2306.17590v1)|null|
