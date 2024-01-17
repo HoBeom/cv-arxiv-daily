@@ -11,6 +11,9 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding**|Yun Liu et.al.|[2401.08399v1](http://arxiv.org/abs/2401.08399v1)|null|
+|**2024-01-16**|**Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition(CLIP- $\mathrm{M^2}$ DF)**|Fei Guo et.al.|[2401.08345v1](http://arxiv.org/abs/2401.08345v1)|null|
+|**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
 |**2024-01-10**|**HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition**|Qian Wu et.al.|[2401.04975v1](http://arxiv.org/abs/2401.04975v1)|**[link](https://github.com/dun-research/haltingvt)**|
 |**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154v1](http://arxiv.org/abs/2401.04154v1)|null|
 |**2024-01-08**|**Two-stream joint matching method based on contrastive learning for few-shot action recognition**|Long Deng et.al.|[2401.04150v1](http://arxiv.org/abs/2401.04150v1)|null|
@@ -327,6 +330,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
 |**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587v1](http://arxiv.org/abs/2401.03587v1)|null|
