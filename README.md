@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition**|Guangzhao Dai et.al.|[2401.10039v1](http://arxiv.org/abs/2401.10039v1)|null|
+|**2024-01-17**|**Robustness Evaluation of Machine Learning Models for Robot Arm Action Recognition in Noisy Environments**|Elaheh Motamedi et.al.|[2401.09606v1](http://arxiv.org/abs/2401.09606v1)|null|
 |**2024-01-16**|**TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding**|Yun Liu et.al.|[2401.08399v1](http://arxiv.org/abs/2401.08399v1)|null|
 |**2024-01-16**|**Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition(CLIP- $\mathrm{M^2}$ DF)**|Fei Guo et.al.|[2401.08345v1](http://arxiv.org/abs/2401.08345v1)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
@@ -326,6 +328,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836v1](http://arxiv.org/abs/2401.09836v1)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
 |**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
