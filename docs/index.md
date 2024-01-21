@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.20
+## Updated on 2024.01.21
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -326,7 +326,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240121>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -334,7 +334,7 @@ Table of Contents
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836v1](http://arxiv.org/abs/2401.09836v1)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
-|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|**[link](https://github.com/khb1698/drpose)**|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
 |**2024-01-07**|**Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems**|Victor Adewopo et.al.|[2401.03587v1](http://arxiv.org/abs/2401.03587v1)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889v1](http://arxiv.org/abs/2401.00889v1)|null|
@@ -494,5 +494,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240121>back to top</a>)</p>
 
