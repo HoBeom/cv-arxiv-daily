@@ -11,6 +11,10 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition**|Jiaming Zhou et.al.|[2401.11654v1](http://arxiv.org/abs/2401.11654v1)|null|
+|**2024-01-22**|**M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition**|Mengmeng Wang et.al.|[2401.11649v1](http://arxiv.org/abs/2401.11649v1)|null|
+|**2024-01-21**|**Exploring Missing Modality in Multimodal Egocentric Datasets**|Merey Ramazanova et.al.|[2401.11470v1](http://arxiv.org/abs/2401.11470v1)|null|
+|**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406v1](http://arxiv.org/abs/2401.11406v1)|null|
 |**2024-01-18**|**GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition**|Guangzhao Dai et.al.|[2401.10039v1](http://arxiv.org/abs/2401.10039v1)|null|
 |**2024-01-17**|**Robustness Evaluation of Machine Learning Models for Robot Arm Action Recognition in Noisy Environments**|Elaheh Motamedi et.al.|[2401.09606v1](http://arxiv.org/abs/2401.09606v1)|null|
 |**2024-01-16**|**TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding**|Yun Liu et.al.|[2401.08399v1](http://arxiv.org/abs/2401.08399v1)|null|
