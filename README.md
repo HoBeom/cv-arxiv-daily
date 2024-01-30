@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Computer Vision for Primate Behavior Analysis in the Wild**|Richard Vogg et.al.|[2401.16424v1](http://arxiv.org/abs/2401.16424v1)|null|
+|**2024-01-29**|**MV2MAE: Multi-View Video Masked Autoencoders**|Ketul Shah et.al.|[2401.15900v1](http://arxiv.org/abs/2401.15900v1)|null|
 |**2024-01-26**|**Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring**|Dan Lin et.al.|[2401.14838v1](http://arxiv.org/abs/2401.14838v1)|null|
 |**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675v1](http://arxiv.org/abs/2401.14675v1)|null|
 |**2024-01-25**|**Unsupervised Spatial-Temporal Feature Enrichment and Fidelity Preservation Network for Skeleton based Action Recognition**|Chuankun Li et.al.|[2401.14034v1](http://arxiv.org/abs/2401.14034v1)|null|
@@ -337,6 +339,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-28**|**Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras**|Yu-Jhe Li et.al.|[2401.15616v1](http://arxiv.org/abs/2401.15616v1)|null|
+|**2024-01-26**|**Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones**|Beatrice Alessandra Motetti et.al.|[2401.15236v1](http://arxiv.org/abs/2401.15236v1)|null|
 |**2024-01-26**|**SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras**|Hanz Cuevas-Velasquez et.al.|[2401.14785v1](http://arxiv.org/abs/2401.14785v1)|null|
 |**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836v1](http://arxiv.org/abs/2401.09836v1)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
