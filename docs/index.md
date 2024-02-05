@@ -198,7 +198,7 @@ Table of Contents
 |**2023-07-13**|**A Study on Differentiable Logic and LLMs for EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition 2023**|Yi Cheng et.al.|[2307.06569v1](http://arxiv.org/abs/2307.06569v1)|null|
 |**2023-07-13**|**Free-Form Composition Networks for Egocentric Action Recognition**|Haoran Wang et.al.|[2307.06527v1](http://arxiv.org/abs/2307.06527v1)|null|
 |**2023-07-11**|**EgoAdapt: A multi-stream evaluation study of adaptation to real-world egocentric user video**|Matthias De Lange et.al.|[2307.05784v1](http://arxiv.org/abs/2307.05784v1)|**[link](https://github.com/facebookresearch/egocentricuseradaptation)**|
-|**2023-07-09**|**HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**|Hao Zheng et.al.|[2307.05721v1](http://arxiv.org/abs/2307.05721v1)|null|
+|**2023-07-09**|**HA-ViD: A Human Assembly Video Dataset for Comprehensive Assembly Knowledge Understanding**|Hao Zheng et.al.|[2307.05721v1](http://arxiv.org/abs/2307.05721v1)|**[link](https://github.com/iai-hrc/ha-vid)**|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-06**|**VideoGLUE: Video General Understanding Evaluation of Foundation Models**|Liangzhe Yuan et.al.|[2307.03166v1](http://arxiv.org/abs/2307.03166v1)|**[link](https://github.com/tensorflow/models)**|
 |**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|**[link](https://github.com/dingyn-reno/mmfs)**|
