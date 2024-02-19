@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -17,7 +17,7 @@ Table of Contents
 |**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599v1](http://arxiv.org/abs/2402.04599v1)|null|
 |**2024-02-06**|**Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping**|Qinliang Lin et.al.|[2402.03951v1](http://arxiv.org/abs/2402.03951v1)|**[link](https://github.com/linqinliang/decowa)**|
 |**2024-02-05**|**FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition**|Xiaohu Huang et.al.|[2402.03241v1](http://arxiv.org/abs/2402.03241v1)|null|
-|**2024-02-08**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019v3](http://arxiv.org/abs/2402.03019v3)|null|
+|**2024-02-08**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019v3](http://arxiv.org/abs/2402.03019v3)|**[link](https://github.com/leiwangr/video-ar)**|
 |**2024-02-04**|**Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition**|Mengyuan Liu et.al.|[2402.02431v1](http://arxiv.org/abs/2402.02431v1)|null|
 |**2024-02-03**|**Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition**|Haochen Chang et.al.|[2402.02210v1](http://arxiv.org/abs/2402.02210v1)|null|
 |**2024-02-05**|**AutoGCN -- Towards Generic Human Activity Recognition with Neural Architecture Search**|Felix Tempel et.al.|[2402.01313v2](http://arxiv.org/abs/2402.01313v2)|**[link](https://github.com/deepinmotion/autogcn)**|
@@ -349,7 +349,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -526,5 +526,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
