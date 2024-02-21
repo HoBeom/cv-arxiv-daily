@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Learning Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition**|Yuke Li et.al.|[2402.12706v1](http://arxiv.org/abs/2402.12706v1)|null|
 |**2024-02-14**|**TikTokActions: A TikTok-Derived Video Dataset for Human Action Recognition**|Yang Qian et.al.|[2402.08875v1](http://arxiv.org/abs/2402.08875v1)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814v1](http://arxiv.org/abs/2402.07814v1)|null|
 |**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
