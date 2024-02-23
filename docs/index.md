@@ -356,6 +356,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456v1](http://arxiv.org/abs/2402.14456v1)|null|
 |**2024-02-18**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566v1](http://arxiv.org/abs/2402.11566v1)|**[link](https://github.com/hnuzhy/multiaugs)**|
 |**2024-02-16**|**Occlusion Resilient 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2402.11036v1](http://arxiv.org/abs/2402.11036v1)|null|
 |**2024-01-28**|**Towards a large-scale fused and labeled dataset of human pose while interacting with robots in shared urban areas**|E. Sherafat et.al.|[2402.10077v1](http://arxiv.org/abs/2402.10077v1)|null|
