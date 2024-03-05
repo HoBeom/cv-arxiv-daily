@@ -7,6 +7,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Dynamic 3D Point Cloud Sequences as 2D Videos**|Yiming Zeng et.al.|[2403.01129v1](http://arxiv.org/abs/2403.01129v1)|null|
 |**2024-02-23**|**Multimodal Transformer With a Low-Computational-Cost Guarantee**|Sungjin Park et.al.|[2402.15096v1](http://arxiv.org/abs/2402.15096v1)|null|
 |**2024-02-20**|**Learning Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition**|Yuke Li et.al.|[2402.12706v1](http://arxiv.org/abs/2402.12706v1)|null|
 |**2024-02-14**|**TikTokActions: A TikTok-Derived Video Dataset for Human Action Recognition**|Yang Qian et.al.|[2402.08875v1](http://arxiv.org/abs/2402.08875v1)|null|
