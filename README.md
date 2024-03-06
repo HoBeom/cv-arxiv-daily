@@ -7,6 +7,8 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v1](http://arxiv.org/abs/2403.01606v1)|null|
+|**2024-03-03**|**Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition**|Kun-Yu Lin et.al.|[2403.01560v1](http://arxiv.org/abs/2403.01560v1)|**[link](https://github.com/kunyulin/xov-action)**|
 |**2024-03-02**|**Dynamic 3D Point Cloud Sequences as 2D Videos**|Yiming Zeng et.al.|[2403.01129v1](http://arxiv.org/abs/2403.01129v1)|null|
 |**2024-02-23**|**Multimodal Transformer With a Low-Computational-Cost Guarantee**|Sungjin Park et.al.|[2402.15096v1](http://arxiv.org/abs/2402.15096v1)|null|
 |**2024-02-20**|**Learning Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition**|Yuke Li et.al.|[2402.12706v1](http://arxiv.org/abs/2402.12706v1)|null|
@@ -354,6 +356,7 @@ Table of Contents
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913v1](http://arxiv.org/abs/2403.01913v1)|null|
 |**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v2](http://arxiv.org/abs/2402.19062v2)|null|
 |**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844v1](http://arxiv.org/abs/2402.18844v1)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196v1](http://arxiv.org/abs/2402.18196v1)|null|
