@@ -11,6 +11,7 @@ Table of Contents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Benchmarking Micro-action Recognition: Dataset, Methods, and Applications**|Dan Guo et.al.|[2403.05234v1](http://arxiv.org/abs/2403.05234v1)|**[link](https://github.com/VUT-HFUT/MicroAction)**|
 |**2024-03-06**|**Video Relationship Detection Using Mixture of Experts**|Ala Shaabana et.al.|[2403.03994v1](http://arxiv.org/abs/2403.03994v1)|null|
 |**2024-03-03**|**A Unified Model Selection Technique for Spectral Clustering Based Motion Segmentation**|Yuxiang Huang et.al.|[2403.01606v1](http://arxiv.org/abs/2403.01606v1)|null|
 |**2024-03-03**|**Rethinking CLIP-based Video Learners in Cross-Domain Open-Vocabulary Action Recognition**|Kun-Yu Lin et.al.|[2403.01560v1](http://arxiv.org/abs/2403.01560v1)|**[link](https://github.com/kunyulin/xov-action)**|
