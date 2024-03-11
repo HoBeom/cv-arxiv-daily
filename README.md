@@ -1,4 +1,4 @@
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 
 Table of Contents
  * [Action Recognition](#Action-Recognition)
@@ -351,7 +351,7 @@ Table of Contents
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240311>back to top</a>)</p>
 
 ## Human Pose Estimation
 
@@ -363,7 +363,7 @@ Table of Contents
 |**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844v1](http://arxiv.org/abs/2402.18844v1)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196v1](http://arxiv.org/abs/2402.18196v1)|null|
 |**2024-02-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al.|[2402.14456v1](http://arxiv.org/abs/2402.14456v1)|null|
-|**2024-02-18**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566v1](http://arxiv.org/abs/2402.11566v1)|**[link](https://github.com/hnuzhy/multiaugs)**|
+|**2024-03-08**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566v2](http://arxiv.org/abs/2402.11566v2)|**[link](https://github.com/hnuzhy/multiaugs)**|
 |**2024-02-16**|**Occlusion Resilient 3D Human Pose Estimation**|Soumava Kumar Roy et.al.|[2402.11036v1](http://arxiv.org/abs/2402.11036v1)|null|
 |**2024-01-28**|**Towards a large-scale fused and labeled dataset of human pose while interacting with robots in shared urban areas**|E. Sherafat et.al.|[2402.10077v1](http://arxiv.org/abs/2402.10077v1)|null|
 |**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883v1](http://arxiv.org/abs/2402.09883v1)|**[link](https://github.com/rtous/lester)**|
@@ -536,5 +536,5 @@ Table of Contents
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240311>back to top</a>)</p>
 
