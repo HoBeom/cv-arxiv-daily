@@ -393,7 +393,7 @@ Table of Contents
 |**2023-12-12**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409v2](http://arxiv.org/abs/2312.06409v2)|null|
 |**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386v1](http://arxiv.org/abs/2312.06386v1)|null|
 |**2023-12-05**|**A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis**|Niccolò Bisagno et.al.|[2312.02613v1](http://arxiv.org/abs/2312.02613v1)|null|
-|**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
+|**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|**[link](https://github.com/dx118/dynaip)**|
 |**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561v1](http://arxiv.org/abs/2312.01561v1)|null|
 |**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462v1](http://arxiv.org/abs/2312.00462v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
