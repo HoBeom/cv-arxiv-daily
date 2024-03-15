@@ -306,11 +306,29 @@ def json_to_md(filename,md_filename,
             top_info = top_info.replace(' ','-').replace('.','')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
-    logging.info(f"{task} finished")        
+    logging.info(f"{task} finished")       
+
+def format_keyword_name(keyword):
+    """Format the keyword name to lowercase with spaces replaced by dashes."""
+    return keyword.lower().replace(" ", "-")
+
+def update_homepage(config, homepage_path="docs/index.md"):
+    """
+    Updates the project's homepage (docs/index.md) with links to each topic's page,
+    including the last update dates, and stores it under the docs/ directory.
+    """
+    homepage_content = "# ArXiv Daily Updates\n\n## Topics\n\n"
+    for topic, details in config['keywords'].items():
+        keyward_path = format_keyword_name(topic)
+        homepage_content += f"- [{topic}](./{keyward_path}.md)\n\n"
+
+    os.makedirs(os.path.dirname(homepage_path), exist_ok=True)
+    with open(homepage_path, 'w', encoding='utf-8') as f:
+        f.write(homepage_content)
 
 def demo(**config):
     keywords = config['keywords']  # This now contains the file paths for each keyword
-    
+
     for topic, details in keywords.items():
         logging.info(f"Keyword: {topic}")
         
@@ -329,6 +347,15 @@ def demo(**config):
                 update_json_file(json_file, [data]) 
                 
             json_to_md(json_file, md_file, task='Update Readme')
+        
+        if config['publish_gitpage']:
+            gitpage_path = f'docs/{format_keyword_name(topic)}.md'
+            json_to_md(json_file, gitpage_path, task=f'Update GitPage {topic}', to_web=True)
+
+    if config['publish_gitpage']:
+        logging.info("Update GitPage Home")
+        update_homepage(config)
+        
 
 # def demo(**config):
 #     # TODO: use config

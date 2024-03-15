@@ -7,7 +7,7 @@ show_links: True
 max_results: 10
 
 publish_readme: True
-publish_gitpage: False
+publish_gitpage: True
 
 # file paths
 # json_readme_path: './docs/cv-arxiv-daily.json'
