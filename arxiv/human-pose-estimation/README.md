@@ -1,7 +1,5 @@
 ## Updated on 2024.03.15
 
-Table of Contents
- * [Human Pose Estimation](#Human-Pose-Estimation)
 ## Human Pose Estimation
 
 |Publish Date|Title|Authors|PDF|Code|

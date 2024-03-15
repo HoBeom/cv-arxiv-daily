@@ -229,57 +229,10 @@ def update_json_file(filename,data_dict):
         json.dump(json_data,f)
 
 
-def generate_html_page(data_dict, output_filename="index.html"):
-    """
-    Generate an HTML page that includes content for each topic with navigation.
-    """
-    with open(output_filename, "w", encoding="utf-8") as f:
-        # HTML Boilerplate and Bootstrap for styling
-        f.write("""
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV ArXiv Daily</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-    <div class="container mt-5">
-        <h1>ArXiv Daily - Topics</h1>
-        <div class="list-group" id="list-tab" role="tablist">
-        """)
-
-        # Generate list items for each topic
-        for idx, (topic, _) in enumerate(data_dict.items()):
-            f.write(f'<a class="list-group-item list-group-item-action{" active" if idx == 0 else ""}" id="list-{topic}-list" data-toggle="list" href="#list-{topic}" role="tab" aria-controls="{topic}">{topic}</a>\n')
-
-        f.write("""
-        </div>
-        <div class="tab-content" id="nav-tabContent">
-        """)
-
-        # Generate content divs for each topic
-        for idx, (topic, content) in enumerate(data_dict.items()):
-            f.write(f'<div class="tab-pane fade{" show active" if idx == 0 else ""}" id="list-{topic}" role="tabpanel" aria-labelledby="list-{topic}-list">{content}</div>\n')
-
-        # Closing HTML tags
-        f.write("""
-        </div>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
-        """)
-
-
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False, 
-               use_title = True, 
-               use_tc = True):
+               use_title = True):
     """
     @param filename: str
     @param md_filename: str
@@ -298,7 +251,7 @@ def json_to_md(filename,md_filename,
         ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
         ret += s[math_end:]
         return ret
-  
+
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -324,16 +277,6 @@ def json_to_md(filename,md_filename,
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
-        
-        #Add: table of contents
-        if use_tc == True:
-            f.write("Table of Contents\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                kw = keyword.replace(' ','-')      
-                f.write(f" * [{keyword}](#{kw})\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
@@ -386,8 +329,6 @@ def demo(**config):
                 update_json_file(json_file, [data]) 
                 
             json_to_md(json_file, md_file, task='Update Readme')
-    
-        generate_html_page(data)
 
 # def demo(**config):
 #     # TODO: use config

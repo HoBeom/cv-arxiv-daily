@@ -1,8 +1,5 @@
 ## Updated on 2024.03.15
 
-Table of Contents
-- [Updated on 2024.03.15](#updated-on-20240315)
-- [Action Recognition](#action-recognition)
 ## Action Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
