@@ -272,18 +272,14 @@ def json_to_md(filename,md_filename,
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-                
-        if use_title == True:
-            f.write("## Updated on " + DateNow + "\n\n")
-        else:
-            f.write("> Updated on " + DateNow + "\n\n")
-        
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
             # the head of each part
             f.write(f"## {keyword}\n\n")
+            f.write("### Updated on " + DateNow + "\n\n")
 
             if use_title == True :
                 if to_web == False:
@@ -317,7 +313,7 @@ def update_homepage(config, homepage_path="docs/index.md"):
     Updates the project's homepage (docs/index.md) with links to each topic's page,
     including the last update dates, and stores it under the docs/ directory.
     """
-    homepage_content = "# ArXiv Daily Updates\n\n## Topics\n\n"
+    homepage_content = "## Topics\n\n"
     for topic, details in config['keywords'].items():
         keyward_path = format_keyword_name(topic)
         homepage_content += f"- [{topic}](./{keyward_path}.md)\n\n"

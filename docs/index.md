@@ -1,5 +1,3 @@
-# ArXiv Daily Updates
-
 ## Topics
 
 - [Action Recognition](./action-recognition.md)
