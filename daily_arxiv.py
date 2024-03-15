@@ -199,15 +199,22 @@ def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-    json_data = m.copy() 
-    
+    try:
+        with open(filename,"r") as f:
+            content = f.read()
+            if not content:
+                m = {}
+            else:
+                m = json.loads(content)    
+        json_data = m.copy() 
+    except FileNotFoundError:
+        logging.error(f"FileNotFoundError: {filename}")
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        json_data = {}
+    except Exception as e:
+        logging.error(f"exception: {e} with filename: {filename}")
+        json_data = {}
+
     # update papers in each keywords         
     for data in data_dict:
         for keyword in data.keys():
@@ -220,13 +227,59 @@ def update_json_file(filename,data_dict):
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
-    
+
+
+def generate_html_page(data_dict, output_filename="index.html"):
+    """
+    Generate an HTML page that includes content for each topic with navigation.
+    """
+    with open(output_filename, "w", encoding="utf-8") as f:
+        # HTML Boilerplate and Bootstrap for styling
+        f.write("""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV ArXiv Daily</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>ArXiv Daily - Topics</h1>
+        <div class="list-group" id="list-tab" role="tablist">
+        """)
+
+        # Generate list items for each topic
+        for idx, (topic, _) in enumerate(data_dict.items()):
+            f.write(f'<a class="list-group-item list-group-item-action{" active" if idx == 0 else ""}" id="list-{topic}-list" data-toggle="list" href="#list-{topic}" role="tab" aria-controls="{topic}">{topic}</a>\n')
+
+        f.write("""
+        </div>
+        <div class="tab-content" id="nav-tabContent">
+        """)
+
+        # Generate content divs for each topic
+        for idx, (topic, content) in enumerate(data_dict.items()):
+            f.write(f'<div class="tab-pane fade{" show active" if idx == 0 else ""}" id="list-{topic}" role="tabpanel" aria-labelledby="list-{topic}-list">{content}</div>\n')
+
+        # Closing HTML tags
+        f.write("""
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+        """)
+
+
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False, 
                use_title = True, 
-               use_tc = True,
-               show_badge = True):
+               use_tc = True):
     """
     @param filename: str
     @param md_filename: str
@@ -266,16 +319,8 @@ def json_to_md(filename,md_filename,
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-        
-        if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
@@ -318,89 +363,82 @@ def json_to_md(filename,md_filename,
             top_info = top_info.replace(' ','-').replace('.','')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
         
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
-                
     logging.info(f"{task} finished")        
 
 def demo(**config):
-    # TODO: use config
-    data_collector = []
-    data_collector_web= []
+    keywords = config['keywords']  # This now contains the file paths for each keyword
     
-    keywords = config['kv']
-    max_results = config['max_results']
-    publish_readme = config['publish_readme']
-    publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
-    show_badge = config['show_badge']
+    for topic, details in keywords.items():
+        logging.info(f"Keyword: {topic}")
+        
+        # Adjusted file paths for each keyword
+        json_file = details['json_readme_path']
+        logging.info(f"{json_file=}")
+        md_file = details['md_readme_path']
+        logging.info(f"{md_file=}")
+        data, data_web = get_daily_papers(topic, query = " ".join(details['filters']),
+                                          max_results = config['max_results'])
 
-    b_update = config['update_paper_links']
-    logging.info(f'Update Paper Link = {b_update}')
-    if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
-        logging.info(f"GET daily papers end")
+        if config['publish_readme']:
+            if config['update_paper_links']:
+                update_paper_links(json_file)
+            else:
+                update_json_file(json_file, [data]) 
+                
+            json_to_md(json_file, md_file, task='Update Readme')
+    
+        generate_html_page(data)
 
-    # 1. update README.md file
-    if publish_readme:
-        json_file = config['json_readme_path']
-        md_file   = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            # update json data
-            update_json_file(json_file,data_collector)
-        # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+# def demo(**config):
+#     # TODO: use config
+#     data_collector = []
+#     data_collector_web= []
+    
+#     keywords = config['kv']
+#     max_results = config['max_results']
+#     publish_readme = config['publish_readme']
+#     publish_gitpage = config['publish_gitpage']
+#     show_badge = config['show_badge']
 
-    # 2. update docs/index.md file (to gitpage)
-    if publish_gitpage:
-        json_file = config['json_gitpage_path']
-        md_file   = config['md_gitpage_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge)
+#     b_update = config['update_paper_links']
+#     logging.info(f'Update Paper Link = {b_update}')
+#     if config['update_paper_links'] == False:
+#         logging.info(f"GET daily papers begin")
+#         for topic, keyword in keywords.items():
+#             logging.info(f"Keyword: {topic}")
+#             data, data_web = get_daily_papers(topic, query = keyword,
+#                                             max_results = max_results)
+#             data_collector.append(data)
+#             data_collector_web.append(data_web)
+#             print("\n")
+#         logging.info(f"GET daily papers end")
 
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+#     # 1. update README.md file
+#     if publish_readme:
+#         json_file = config['json_readme_path']
+#         md_file   = config['md_readme_path']
+#         # update paper links
+#         if config['update_paper_links']:
+#             update_paper_links(json_file)
+#         else:    
+#             # update json data
+#             update_json_file(json_file,data_collector)
+#         # json data to markdown
+#         json_to_md(json_file,md_file, task ='Update Readme', \
+#             show_badge = show_badge)
+
+#     # 2. update docs/index.md file (to gitpage)
+#     if publish_gitpage:
+#         json_file = config['json_gitpage_path']
+#         md_file   = config['md_gitpage_path']
+#         # TODO: duplicated update paper links!!!
+#         if config['update_paper_links']:
+#             update_paper_links(json_file)
+#         else:    
+#             update_json_file(json_file,data_collector)
+#         json_to_md(json_file, md_file, task ='Update GitPage', \
+#             to_web = True, show_badge = show_badge)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

@@ -4,25 +4,25 @@ user_name: "HoBeom"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: False
 max_results: 10
 
 publish_readme: True
-publish_gitpage: True
-publish_wechat: False
+publish_gitpage: False
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+# json_readme_path: './docs/cv-arxiv-daily.json'
+# json_gitpage_path: './docs/cv-arxiv-daily-web.json'
 
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
+# md_readme_path: 'README.md'
+# md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
     "Action Recognition": 
         filters: ["Action Recognition"]
+        md_readme_path: 'arxiv/action-recognition/README.md'
+        json_readme_path: 'arxiv/action-recognition/data.json'
     "Human Pose Estimation": 
         filters: ["Human Pose Estimation"]
+        md_readme_path: 'arxiv/human-pose-estimation/README.md'
+        json_readme_path: 'arxiv/human-pose-estimation/data.json'
