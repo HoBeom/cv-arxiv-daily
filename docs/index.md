@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Topics
 
 - [Action Recognition](./action-recognition.md)
