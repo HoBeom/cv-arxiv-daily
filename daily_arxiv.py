@@ -320,6 +320,7 @@ def update_homepage(config, homepage_path="docs/index.md"):
 
     os.makedirs(os.path.dirname(homepage_path), exist_ok=True)
     with open(homepage_path, 'w', encoding='utf-8') as f:
+        f.write("---\n" + "layout: default\n" + "---\n\n")
         f.write(homepage_content)
 
 def demo(**config):
