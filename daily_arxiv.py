@@ -300,7 +300,8 @@ def json_to_md(filename,md_filename,
             #Add: back to top
             top_info = f"#Updated on {DateNow}"
             top_info = top_info.replace(' ','-').replace('.','')
-            f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+            # f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
+            f.write(f"[back to top](#{top_info})\n\n")
         
     logging.info(f"{task} finished")       
 
