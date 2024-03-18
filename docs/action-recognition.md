@@ -24,7 +24,7 @@ layout: default
 |**2024-02-20**|**Learning Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition**|Yuke Li et.al.|[2402.12706v1](http://arxiv.org/abs/2402.12706v1)|null|
 |**2024-02-14**|**TikTokActions: A TikTok-Derived Video Dataset for Human Action Recognition**|Yang Qian et.al.|[2402.08875v1](http://arxiv.org/abs/2402.08875v1)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814v1](http://arxiv.org/abs/2402.07814v1)|null|
-|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892v1](http://arxiv.org/abs/2402.05892v1)|**[link](https://github.com/jacklishufan/mamba-nd)**|
 |**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599v1](http://arxiv.org/abs/2402.04599v1)|null|
 |**2024-02-06**|**Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping**|Qinliang Lin et.al.|[2402.03951v1](http://arxiv.org/abs/2402.03951v1)|**[link](https://github.com/linqinliang/decowa)**|
 |**2024-02-05**|**FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition**|Xiaohu Huang et.al.|[2402.03241v1](http://arxiv.org/abs/2402.03241v1)|null|
@@ -327,7 +327,7 @@ layout: default
 |**2023-03-15**|**EgoViT: Pyramid Video Transformer for Egocentric Action Recognition**|Chenbin Pan et.al.|[2303.08920v1](http://arxiv.org/abs/2303.08920v1)|null|
 |**2023-03-15**|**MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge**|Wei Lin et.al.|[2303.08914v1](http://arxiv.org/abs/2303.08914v1)|**[link](https://github.com/wlin-at/maxi)**|
 |**2023-03-14**|**Simultaneous Action Recognition and Human Whole-Body Motion and Dynamics Prediction from Wearable Sensors**|Kourosh Darvish et.al.|[2303.07655v1](http://arxiv.org/abs/2303.07655v1)|**[link](https://github.com/ami-iit/paper_darvish_2022_humanoids_action-kindyn-predicition)**|
-|**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|null|
+|**2023-03-11**|**3DInAction: Understanding Human Actions in 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[2303.06346v1](http://arxiv.org/abs/2303.06346v1)|**[link](https://github.com/sitzikbs/3dincaction)**|
 |**2023-03-10**|**HYperbolic Self-Paced Learning for Self-Supervised Skeleton-based Action Representations**|Luca Franco et.al.|[2303.06242v1](http://arxiv.org/abs/2303.06242v1)|**[link](https://github.com/paolomandica/hysp)**|
 |**2023-03-07**|**Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams**|Bochen Xie et.al.|[2303.03856v1](http://arxiv.org/abs/2303.03856v1)|null|
 |**2023-03-14**|**Learning Discriminative Representations for Skeleton Based Action Recognition**|Huanyu Zhou et.al.|[2303.03729v2](http://arxiv.org/abs/2303.03729v2)|**[link](https://github.com/zhysora/fr-head)**|
