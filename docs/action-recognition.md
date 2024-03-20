@@ -4,7 +4,7 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.03.19
+### Updated on 2024.03.20
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -12,11 +12,11 @@ layout: default
 |**2024-03-18**|**Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification**|Kaijie Ren et.al.|[2403.11708v1](http://arxiv.org/abs/2403.11708v1)|**[link](https://github.com/1kk077/idkl)**|
 |**2024-03-18**|**LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images**|Ruyi Xu et.al.|[2403.11703v1](http://arxiv.org/abs/2403.11703v1)|**[link](https://github.com/thunlp/llava-uhd)**|
 |**2024-03-18**|**A Spatial-Temporal Progressive Fusion Network for Breast Lesion Segmentation in Ultrasound Videos**|Zhengzheng Tu et.al.|[2403.11699v1](http://arxiv.org/abs/2403.11699v1)|null|
-|**2024-03-18**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v1](http://arxiv.org/abs/2403.11697v1)|null|
+|**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697v2](http://arxiv.org/abs/2403.11697v2)|null|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695v1](http://arxiv.org/abs/2403.11695v1)|null|
 |**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694v1](http://arxiv.org/abs/2403.11694v1)|null|
 |**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691v1](http://arxiv.org/abs/2403.11691v1)|null|
-|**2024-03-18**|**MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation**|Haoyu Zhao et.al.|[2403.11689v1](http://arxiv.org/abs/2403.11689v1)|null|
+|**2024-03-19**|**MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation**|Haoyu Zhao et.al.|[2403.11689v2](http://arxiv.org/abs/2403.11689v2)|null|
 |**2024-03-18**|**MASSTAR: A Multi-Modal and Large-Scale Scene Dataset with a Versatile Toolchain for Surface Prediction and Completion**|Guiyong Zheng et.al.|[2403.11681v1](http://arxiv.org/abs/2403.11681v1)|null|
 |**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[2403.10521v1](http://arxiv.org/abs/2403.10521v1)|null|
 |**2024-03-15**|**Strong and Controllable Blind Image Decomposition**|Zeyu Zhang et.al.|[2403.10520v1](http://arxiv.org/abs/2403.10520v1)|**[link](https://github.com/zhangzeyu97/cbd)**|
