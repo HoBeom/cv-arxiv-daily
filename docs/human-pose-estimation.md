@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
+|**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793v1](http://arxiv.org/abs/2403.13793v1)|null|
+|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
+|**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787v1](http://arxiv.org/abs/2403.13787v1)|**[link](https://github.com/allenai/reward-bench)**|
+|**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
+|**2024-03-20**|**Certified Human Trajectory Prediction**|Mohammadhossein Bahari et.al.|[2403.13778v1](http://arxiv.org/abs/2403.13778v1)|null|
+|**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777v1](http://arxiv.org/abs/2403.13777v1)|null|
+|**2024-03-20**|**Accurate heat currents via reorganised master equation**|Jonas Glatthard et.al.|[2403.13776v1](http://arxiv.org/abs/2403.13776v1)|null|
 |**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966v1](http://arxiv.org/abs/2403.12966v1)|**[link](https://github.com/dongyh20/chain-of-spot)**|
 |**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961v1](http://arxiv.org/abs/2403.12961v1)|null|
 |**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960v1](http://arxiv.org/abs/2403.12960v1)|null|

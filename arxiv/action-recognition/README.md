@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**On Pretraining Data Diversity for Self-Supervised Learning**|Hasan Abed Al Kader Hammoud et.al.|[2403.13808v1](http://arxiv.org/abs/2403.13808v1)|null|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807v1](http://arxiv.org/abs/2403.13807v1)|null|
+|**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806v1](http://arxiv.org/abs/2403.13806v1)|null|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
+|**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804v1](http://arxiv.org/abs/2403.13804v1)|null|
+|**2024-03-20**|**Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments**|Yang Yang et.al.|[2403.13803v1](http://arxiv.org/abs/2403.13803v1)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802v1](http://arxiv.org/abs/2403.13802v1)|null|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|**[link](https://github.com/shure-dev/NLaP)**|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
 |**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966v1](http://arxiv.org/abs/2403.12966v1)|**[link](https://github.com/dongyh20/chain-of-spot)**|
 |**2024-03-19**|**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment**|Mengting Chen et.al.|[2403.12965v1](http://arxiv.org/abs/2403.12965v1)|null|
 |**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964v1](http://arxiv.org/abs/2403.12964v1)|**[link](https://github.com/zhangce01/dualadapter)**|
