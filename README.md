@@ -25,8 +25,10 @@ This codebase is composed of the following parts:
 - [x] Configuration file
 - [x] Update code link
 - [x] Remove origin wechat
-- [ ] Remove origin badge
-- [ ] Remove origin gitpage code
+- [x] Remove origin badge
+- [x] Remove origin gitpage code
+- [ ] Automatically generate Questions and Answers ([auto-paper-analysis](https://github.com/deep-diver/auto-paper-analysis))
+- [ ] Questions and Answers link to gitpage
 - [ ] Language translation ([`ChatGPT`](https://chat.openai.com/chat))
 - [ ] Usefull comments
 - [ ] ...

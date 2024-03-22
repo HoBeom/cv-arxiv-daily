@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Run Arxiv Papers Daily
+name: Run Arxiv Papers Daily QA
 
 # Controls when the workflow will run
 on:
@@ -43,16 +43,21 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install PyMuPDF
+          pip install PyPDF2
+          pip install flatdict
+          pip install google-generativeai
           
       - name: Run daily arxiv 
         run: |
-          python daily_arxiv.py
+          python daily_qa.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new QA data
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update Arxiv Papers"
+          commit-message: "Github Action Automatic QA Arxiv Papers"
           rebase: 'true'
+          files: arxiv/action-recognition/qa.json arxiv/human-pose-estimation/qa.json
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
