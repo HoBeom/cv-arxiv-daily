@@ -48,7 +48,9 @@ jobs:
           pip install flatdict
           pip install google-generativeai
           
-      - name: Run daily arxiv 
+      - name: Run QA
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python daily_qa.py
           
