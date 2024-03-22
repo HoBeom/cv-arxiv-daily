@@ -38,7 +38,7 @@ def load_config(config_file:str) -> dict:
                     ret += OR
             return ret
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            keywords[k] = parse_filters(v['queries'])
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
@@ -83,15 +83,14 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
     @return paper_with_code: dict
     """
-    # output 
     content = dict() 
-    content_to_web = dict()
+    
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -127,36 +126,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                    update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
 
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+                    update_time,paper_title,paper_first_author,paper_id,paper_url)
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
 
-    data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web 
+    return content
 
 def update_paper_links(filename):
     '''
@@ -322,24 +303,29 @@ def update_homepage(config, homepage_path="docs/index.md"):
         f.write(homepage_content)
 
 def demo(**config):
-    keywords = config['keywords']  # This now contains the file paths for each keyword
+    keywords = config['kv']  # This now contains the file paths for each keyword
+    max_results = config['max_results']
+    json_file_path = {k: v['json_readme_path'] 
+                    for k, v in config['keywords'].items()}
+    md_readme_path = {k: v['md_readme_path'] 
+                    for k, v in config['keywords'].items()}
 
-    for topic, details in keywords.items():
-        logging.info(f"Keyword: {topic}")
-        
-        # Adjusted file paths for each keyword
-        json_file = details['json_readme_path']
+    for topic, query in keywords.items():
+        logging.info(f"{topic=}")
+        logging.info(f"{query=}")
+
+        json_file = json_file_path[topic]
         logging.info(f"{json_file=}")
-        md_file = details['md_readme_path']
+        md_file = md_readme_path[topic]
         logging.info(f"{md_file=}")
-        data, data_web = get_daily_papers(topic, query = " ".join(details['filters']),
-                                          max_results = config['max_results'])
+
+        content = get_daily_papers(query=query, max_results = max_results)
 
         if config['publish_readme']:
             if config['update_paper_links']:
                 update_paper_links(json_file)
             else:
-                update_json_file(json_file, [data]) 
+                update_json_file(json_file, [{topic: content}]) 
                 
             json_to_md(json_file, md_file, task='Update Readme')
         

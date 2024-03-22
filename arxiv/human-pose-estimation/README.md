@@ -4,46 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800v1](http://arxiv.org/abs/2403.13800v1)|null|
-|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
-|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
-|**2024-03-20**|**Evaluating Frontier Models for Dangerous Capabilities**|Mary Phuong et.al.|[2403.13793v1](http://arxiv.org/abs/2403.13793v1)|null|
-|**2024-03-20**|**DepthFM: Fast Monocular Depth Estimation with Flow Matching**|Ming Gui et.al.|[2403.13788v1](http://arxiv.org/abs/2403.13788v1)|null|
-|**2024-03-20**|**RewardBench: Evaluating Reward Models for Language Modeling**|Nathan Lambert et.al.|[2403.13787v1](http://arxiv.org/abs/2403.13787v1)|**[link](https://github.com/allenai/reward-bench)**|
-|**2024-03-20**|**Information-Theoretic Distillation for Reference-less Summarization**|Jaehun Jung et.al.|[2403.13780v1](http://arxiv.org/abs/2403.13780v1)|null|
-|**2024-03-20**|**Certified Human Trajectory Prediction**|Mohammadhossein Bahari et.al.|[2403.13778v1](http://arxiv.org/abs/2403.13778v1)|null|
-|**2024-03-20**|**Embedding Pose Graph, Enabling 3D Foundation Model Capabilities with a Compact Representation**|Hugues Thomas et.al.|[2403.13777v1](http://arxiv.org/abs/2403.13777v1)|null|
-|**2024-03-20**|**Accurate heat currents via reorganised master equation**|Jonas Glatthard et.al.|[2403.13776v1](http://arxiv.org/abs/2403.13776v1)|null|
-|**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966v1](http://arxiv.org/abs/2403.12966v1)|**[link](https://github.com/dongyh20/chain-of-spot)**|
-|**2024-03-19**|**TexTile: A Differentiable Metric for Texture Tileability**|Carlos Rodriguez-Pardo et.al.|[2403.12961v1](http://arxiv.org/abs/2403.12961v1)|null|
-|**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960v1](http://arxiv.org/abs/2403.12960v1)|null|
-|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
-|**2024-03-19**|**Dated Data: Tracing Knowledge Cutoffs in Large Language Models**|Jeffrey Cheng et.al.|[2403.12958v1](http://arxiv.org/abs/2403.12958v1)|null|
-|**2024-03-19**|**Damped energy-norm a posteriori error estimates for fully discrete approximations of the wave equation using C2-reconstructions**|T. Chaumont-Frelet et.al.|[2403.12954v1](http://arxiv.org/abs/2403.12954v1)|null|
-|**2024-03-19**|**FutureDepth: Learning to Predict the Future Improves Video Depth Estimation**|Rajeev Yasarla et.al.|[2403.12953v1](http://arxiv.org/abs/2403.12953v1)|null|
-|**2024-03-19**|**Fundamental limitations on the recoverability of quantum processes**|Sohail et.al.|[2403.12947v1](http://arxiv.org/abs/2403.12947v1)|null|
-|**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946v1](http://arxiv.org/abs/2403.12946v1)|null|
-|**2024-03-19**|**DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset**|Alexander Khazatsky et.al.|[2403.12945v1](http://arxiv.org/abs/2403.12945v1)|null|
-|**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706v1](http://arxiv.org/abs/2403.11706v1)|**[link](https://github.com/gladia-research-group/gmsdi)**|
-|**2024-03-18**|**Generalization error of spectral algorithms**|Maksim Velikanov et.al.|[2403.11696v1](http://arxiv.org/abs/2403.11696v1)|null|
-|**2024-03-18**|**Object Segmentation-Assisted Inter Prediction for Versatile Video Coding**|Zhuoyuan Li et.al.|[2403.11694v1](http://arxiv.org/abs/2403.11694v1)|null|
-|**2024-03-18**|**Layer dependent topological phases and transitions in TaRhTe $_4$ : From monolayer and bilayer to bulk**|Xiao Zhang et.al.|[2403.11688v1](http://arxiv.org/abs/2403.11688v1)|null|
-|**2024-03-18**|**Nonsmooth Implicit Differentiation: Deterministic and Stochastic Convergence Rates**|Riccardo Grazzi et.al.|[2403.11687v1](http://arxiv.org/abs/2403.11687v1)|null|
-|**2024-03-18**|**NEDS-SLAM: A Novel Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v1](http://arxiv.org/abs/2403.11679v1)|null|
-|**2024-03-18**|**Retrieval of photon statistics from click detection**|Suchitra Krishnaswamy et.al.|[2403.11673v1](http://arxiv.org/abs/2403.11673v1)|null|
-|**2024-03-18**|**Semantic Data Representation for Explainable Windows Malware Detection Models**|Peter Švec et.al.|[2403.11669v1](http://arxiv.org/abs/2403.11669v1)|null|
-|**2024-03-18**|**Normalized Validity Scores for DNNs in Regression based Eye Feature Extraction**|Wolfgang Fuhl et.al.|[2403.11665v1](http://arxiv.org/abs/2403.11665v1)|null|
-|**2024-03-18**|**LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model**|Yuxin Cao et.al.|[2403.11656v1](http://arxiv.org/abs/2403.11656v1)|null|
-|**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|null|
-|**2024-03-15**|**Surveyor: Facilitating Discovery Within Video Games for Blind and Low Vision Players**|Vishnu Nair et.al.|[2403.10512v1](http://arxiv.org/abs/2403.10512v1)|null|
-|**2024-03-15**|**A Novel Framework for Multi-Person Temporal Gaze Following and Social Gaze Prediction**|Anshul Gupta et.al.|[2403.10511v1](http://arxiv.org/abs/2403.10511v1)|null|
-|**2024-03-15**|**Tuneable band topology and optical conductivity in altermagnets**|Peng Rao et.al.|[2403.10509v1](http://arxiv.org/abs/2403.10509v1)|null|
-|**2024-03-15**|**Active transport of a passive colloid in a bath of run-and-tumble particles**|Tanumoy Dhar et.al.|[2403.10508v1](http://arxiv.org/abs/2403.10508v1)|null|
-|**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507v1](http://arxiv.org/abs/2403.10507v1)|null|
-|**2024-03-15**|**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**|Carmelo Sferrazza et.al.|[2403.10506v1](http://arxiv.org/abs/2403.10506v1)|null|
-|**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504v1](http://arxiv.org/abs/2403.10504v1)|null|
-|**2024-03-15**|**On the frame property of Hermite functions and analytic extensions of their frame sets**|Markus Faulhuber et.al.|[2403.10503v1](http://arxiv.org/abs/2403.10503v1)|null|
-|**2024-03-15**|**Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**|Adam Rashid et.al.|[2403.10494v1](http://arxiv.org/abs/2403.10494v1)|null|
+|**2024-03-21**|**Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation**|Ruyi Lian et.al.|[2403.14559v1](http://arxiv.org/abs/2403.14559v1)|null|
+|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447v1](http://arxiv.org/abs/2403.14447v1)|null|
+|**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326v1](http://arxiv.org/abs/2403.14326v1)|null|
+|**2024-03-21**|**Zero123-6D: Zero-shot Novel View Synthesis for RGB Category-level 6D Pose Estimation**|Francesco Di Felice et.al.|[2403.14279v1](http://arxiv.org/abs/2403.14279v1)|null|
+|**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650v1](http://arxiv.org/abs/2403.08650v1)|null|
 |**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577v1](http://arxiv.org/abs/2403.06577v1)|null|
 |**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|null|
