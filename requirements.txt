@@ -5,3 +5,4 @@ PyMuPDF
 PyPDF2
 flatdict
 google-generativeai
+toml

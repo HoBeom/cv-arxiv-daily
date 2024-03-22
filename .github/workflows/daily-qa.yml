@@ -47,6 +47,7 @@ jobs:
           pip install PyPDF2
           pip install flatdict
           pip install google-generativeai
+          pip install toml
           
       - name: Run QA
         env:
