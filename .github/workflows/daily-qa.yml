@@ -32,6 +32,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
+      - name: Test
+        run: |
+          ls
       - name: Set up Python Env
         uses: actions/setup-python@v4
         with:
