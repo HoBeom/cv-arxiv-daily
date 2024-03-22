@@ -129,22 +129,53 @@ def _process_arxiv_ids(args):
             continue
 
 
-def process_arxiv_ids(arxiv_ids:list, gemini_api_key:str):
+def get_authors(authors, first_author=False):
+    output = str()
+    if first_author == False:
+        output = ", ".join(str(author) for author in authors)
+    else:
+        output = authors[0]
+    return output
+
+def generate_qa(papers:iter, gemini_api_key:str):
     import logging
     contents = dict()
 
-    logging.info(f"1. Get metadata for the papers [{arxiv_ids}]")
-    papers = get_papers_from_arxiv_ids(arxiv_ids)
-    logging.info("...DONE")
+    # logging.info(f"1. Get metadata for the papers [{arxiv_ids}]")
+    # papers = get_papers_from_arxiv_ids(arxiv_ids)
+    # logging.info("...DONE")
     
     logging.info("2. Generating QAs for the paper")
     for paper in papers:
         try:
-            title = paper['title']
-            target_date = paper['target_date']
-            abstract = paper['paper']['summary']
-            arxiv_id = paper['paper']['id']
-            authors = paper['paper']['authors']
+            paper_id = paper.get_short_id()
+            title = paper.title
+            paper_url = paper.entry_id
+            abstract = paper.summary.replace("\n", " ")
+            authors = get_authors(paper.authors)
+            paper_first_author = get_authors(paper.authors, first_author=True)
+            primary_category = paper.primary_category
+            publish_time = paper.published.date()
+            target_date = paper.updated.date()
+            comments = paper.comment
+
+            ver_pos = paper_id.find("v")
+            if ver_pos == -1:
+                arxiv_id = paper_id
+            else:
+                arxiv_id = paper_id[0:ver_pos]
+
+            # logging paper info
+            logging.info(f"Paper ID: {paper_id}")
+            logging.info(f"Title: {title}")
+            logging.info(f"Authors: {authors}")
+            logging.info(f"First Author: {paper_first_author}")
+            logging.info(f"Primary Category: {primary_category}")
+            logging.info(f"Published Time: {publish_time}")
+            logging.info(f"Target Date: {target_date}")
+            logging.info(f"Comments: {comments}")
+            logging.info(f"Arxiv ID: {arxiv_id}")
+            logging.info(f"Paper URL: {paper_url}")
 
             logging.info(f"...PROCESSING ON[{arxiv_id}, {title}]")
             logging.info(f"......Downloading the paper PDF")
@@ -158,19 +189,19 @@ def process_arxiv_ids(arxiv_ids:list, gemini_api_key:str):
 
             logging.info(f"......Generating the seed(basic) QAs")
             qnas = get_basic_qa(text, gemini_api_key=gemini_api_key, trucate=30000)
-            qnas['title'] = title
-            qnas['abstract'] = abstract
-            qnas['authors'] = ','.join(authors)
-            qnas['arxiv_id'] = arxiv_id
-            qnas['target_date'] = target_date
+            qnas['title'] = str(title)
+            qnas['abstract'] = str(abstract)
+            qnas['authors'] = str(authors)
+            qnas['arxiv_id'] = str(arxiv_id)
+            qnas['target_date'] = str(target_date)
             qnas['full_text'] = text
             logging.info(f"......DONE")
 
             logging.info(f"......Generating the follow-up QAs")
             qnas = get_deep_qa(text, qnas, gemini_api_key=gemini_api_key, trucate=30000)
             del qnas["qna"]
+            del qnas["full_text"]
             logging.info(f"......DONE")
-
             contents[arxiv_id] = qnas
         except Exception as e:
             logging.info(f".......failed due to exception {e}")

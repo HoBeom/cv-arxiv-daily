@@ -13,7 +13,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 """
+# modified by HoBeom
 import json
+import logging
 
 def find_json_snippet(raw_snippet):
 	json_parsed_string = None
@@ -23,6 +25,7 @@ def find_json_snippet(raw_snippet):
 
 	if json_start_index >= 0 and json_end_index >= 0:
 		json_snippet = raw_snippet[json_start_index:json_end_index+1]
+		logging.info(f'......JSON code snippet found: {json_snippet}')
 		try:
 			json_parsed_string = json.loads(json_snippet, strict=False)
 		except:

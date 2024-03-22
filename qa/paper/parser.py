@@ -13,6 +13,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 """
+# modified by HoBeom
 import os
 import fitz 
 import PyPDF2
@@ -46,11 +47,9 @@ def extract_text_and_figures(pdf_path):
             pix = fitz.Pixmap(doc, xref)  # Create Pixmap image
 
             # Save image in desired format (here, PNG)
-            if pix.n < 5:  # Grayscale or RGB
-                img_bytes = pix.tobytes("png")
-            else:  # CMYK: Convert to RGB first
+            if not pix.colorspace.name in (fitz.csGRAY.name, fitz.csRGB.name):
                 pix = fitz.Pixmap(fitz.csRGB, pix)
-                img_bytes = pix.tobytes("png")
+            img_bytes = pix.tobytes("png")
 
             figures.append(img_bytes)
 

@@ -2,8 +2,9 @@ import os
 import yaml
 import json
 import logging
+import arxiv
 import argparse
-from qa.app import process_arxiv_ids
+from qa.app import generate_qa
 
 api_key = os.getenv("GEMINI_API_KEY")
 
@@ -32,7 +33,8 @@ def get_arxiv_ids_from_daily_papers(config):
     arxiv_ids = dict()
     for topic, info in config['keywords'].items():
         json_path = info['json_readme_path']
-        arxiv_ids[topic] = load_json(json_path)[topic].keys()
+        ids = load_json(json_path)[topic].keys()
+        arxiv_ids[topic] = sorted(ids)
     return arxiv_ids
 
 def load_qa_json(config):
@@ -41,6 +43,11 @@ def load_qa_json(config):
         json_path = info['qa_json_path']
         qa_json[topic] = load_json(json_path)
     return qa_json
+
+def get_papers_from_arxiv_ids(arxiv_ids):
+    query = "OR".join([f'"{arxiv_id}"' for arxiv_id in arxiv_ids])
+    papers = arxiv.Search(query=query, max_results=len(arxiv_ids))
+    return papers.results()
 
 def main(config):
     max_qa_num = config['max_qa_num']
@@ -56,7 +63,13 @@ def main(config):
     for topic, info in config['keywords'].items():
         arxiv_ids = filterd_arxiv_ids[topic][:max_qa_num]
         logging.info(f"{arxiv_ids=}")
-        contents = process_arxiv_ids(arxiv_ids=arxiv_ids, 
+
+
+        logging.info(f"1. Get metadata for the papers [{arxiv_ids}]")
+        papers = get_papers_from_arxiv_ids(arxiv_ids)
+        logging.info("...DONE")
+
+        contents = generate_qa(papers=papers,
                                     gemini_api_key=api_key)
         qa_arxiv_data[topic].update(contents)
 
