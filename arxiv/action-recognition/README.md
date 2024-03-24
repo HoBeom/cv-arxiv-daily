@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2024.03.23
+### Updated on 2024.03.24
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -13,7 +13,7 @@
 |**2024-03-17**|**Boosting Semi-Supervised Temporal Action Localization by Learning from Non-Target Classes**|Kun Xia et.al.|[2403.11189v1](http://arxiv.org/abs/2403.11189v1)|null|
 |**2024-03-15**|**CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner**|Tingbing Yan et.al.|[2403.10082v1](http://arxiv.org/abs/2403.10082v1)|null|
 |**2024-03-15**|**Skeleton-Based Human Action Recognition with Noisy Labels**|Yi Xu et.al.|[2403.09975v1](http://arxiv.org/abs/2403.09975v1)|null|
-|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805v1](http://arxiv.org/abs/2403.09805v1)|null|
+|**2024-03-14**|**On the Utility of 3D Hand Poses for Action Recognition**|Md Salman Shamil et.al.|[2403.09805v1](http://arxiv.org/abs/2403.09805v1)|**[link](https://github.com/s-shamil/HandFormer)**|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978v1](http://arxiv.org/abs/2403.06978v1)|**[link](https://github.com/wgcban/apt)**|
 |**2024-03-11**|**Deep Learning Approaches for Human Action Recognition in Video Data**|Yufei Xie et.al.|[2403.06810v1](http://arxiv.org/abs/2403.06810v1)|null|
 |**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734v1](http://arxiv.org/abs/2403.06734v1)|null|
