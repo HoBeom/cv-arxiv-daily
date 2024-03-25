@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|
+|**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|null|
 |**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
 |**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710v1](http://arxiv.org/abs/2403.12710v1)|null|
 |**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|

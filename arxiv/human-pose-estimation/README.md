@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333v1](http://arxiv.org/abs/2403.15333v1)|null|
+|**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
+|**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|null|
+|**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048v1](http://arxiv.org/abs/2403.15048v1)|null|
+|**2024-03-22**|**Trajectory Regularization Enhances Self-Supervised Geometric Representation**|Jiayun Wang et.al.|[2403.14973v1](http://arxiv.org/abs/2403.14973v1)|null|
+|**2024-03-21**|**VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding**|Ahmad Mahmood et.al.|[2403.14743v1](http://arxiv.org/abs/2403.14743v1)|null|
 |**2024-03-21**|**Visibility-Aware Keypoint Localization for 6DoF Object Pose Estimation**|Ruyi Lian et.al.|[2403.14559v1](http://arxiv.org/abs/2403.14559v1)|null|
 |**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447v1](http://arxiv.org/abs/2403.14447v1)|null|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326v1](http://arxiv.org/abs/2403.14326v1)|null|
