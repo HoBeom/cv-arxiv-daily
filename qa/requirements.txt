@@ -1,8 +1,8 @@
-google-generativeai
-pypdf2
-PyMuPDF
-gradio
-requests
-toml
 datasets
 flatdict
+google-generativeai
+gradio
+PyMuPDF
+pypdf2
+requests
+toml

@@ -15,8 +15,10 @@ limitations under the License.
 """
 # modified by HoBeom
 import os
-import fitz 
+
+import fitz
 import PyPDF2
+
 
 def extract_text_and_figures(pdf_path):
     """
@@ -37,7 +39,7 @@ def extract_text_and_figures(pdf_path):
     # Open the PDF using PyMuPDF (fitz) for image extraction
     doc = fitz.open(pdf_path)
     for page_num, page in enumerate(doc):
-        text = page.get_text("text")  # Extract text as plain text
+        text = page.get_text('text')  # Extract text as plain text
         texts.append(text)
 
         # Process images on the page
@@ -47,9 +49,9 @@ def extract_text_and_figures(pdf_path):
             pix = fitz.Pixmap(doc, xref)  # Create Pixmap image
 
             # Save image in desired format (here, PNG)
-            if not pix.colorspace.name in (fitz.csGRAY.name, fitz.csRGB.name):
+            if pix.colorspace.name not in (fitz.csGRAY.name, fitz.csRGB.name):
                 pix = fitz.Pixmap(fitz.csRGB, pix)
-            img_bytes = pix.tobytes("png")
+            img_bytes = pix.tobytes('png')
 
             figures.append(img_bytes)
 

@@ -15,61 +15,68 @@ limitations under the License.
 """
 import ast
 import copy
-import toml
-from string import Template
 from pathlib import Path
-from flatdict import FlatDict
+from string import Template
+
 import google.generativeai as genai
+import toml
+from flatdict import FlatDict
 
 from qa.gen.utils import parse_first_json_snippet
 
+
 def determine_model_name(given_image=None):
-  if given_image is None:
-    return "gemini-pro"
-  else:
-    return "gemini-pro-vision"
+    if given_image is None:
+        return 'gemini-pro'
+    else:
+        return 'gemini-pro-vision'
+
 
 def construct_image_part(given_image):
-  return {
-    "mime_type": "image/jpeg",
-    "data": given_image
-  }
+    return {'mime_type': 'image/jpeg', 'data': given_image}
 
-def call_gemini(prompt="", API_KEY=None, given_text=None, given_image=None, generation_config=None, safety_settings=None):
+
+def call_gemini(prompt='',
+                API_KEY=None,
+                given_text=None,
+                given_image=None,
+                generation_config=None,
+                safety_settings=None):
     genai.configure(api_key=API_KEY)
 
     if generation_config is None:
         generation_config = {
-            "temperature": 0.8,
-            "top_p": 1,
-            "top_k": 32,
-            "max_output_tokens": 8192,
+            'temperature': 0.8,
+            'top_p': 1,
+            'top_k': 32,
+            'max_output_tokens': 8192,
         }
 
     if safety_settings is None:
         safety_settings = [
             {
-                "category": "HARM_CATEGORY_HARASSMENT",
-                "threshold": "BLOCK_ONLY_HIGH"
+                'category': 'HARM_CATEGORY_HARASSMENT',
+                'threshold': 'BLOCK_ONLY_HIGH'
             },
             {
-                "category": "HARM_CATEGORY_HATE_SPEECH",
-                "threshold": "BLOCK_ONLY_HIGH"
+                'category': 'HARM_CATEGORY_HATE_SPEECH',
+                'threshold': 'BLOCK_ONLY_HIGH'
             },
             {
-                "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-                "threshold": "BLOCK_ONLY_HIGH"
+                'category': 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
+                'threshold': 'BLOCK_ONLY_HIGH'
             },
             {
-                "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
-                "threshold": "BLOCK_ONLY_HIGH"
+                'category': 'HARM_CATEGORY_DANGEROUS_CONTENT',
+                'threshold': 'BLOCK_ONLY_HIGH'
             },
         ]
 
     model_name = determine_model_name(given_image)
-    model = genai.GenerativeModel(model_name=model_name,
-                                generation_config=generation_config,
-                                safety_settings=safety_settings)
+    model = genai.GenerativeModel(
+        model_name=model_name,
+        generation_config=generation_config,
+        safety_settings=safety_settings)
 
     USER_PROMPT = prompt
     if given_text is not None:
@@ -84,6 +91,7 @@ def call_gemini(prompt="", API_KEY=None, given_text=None, given_image=None, gene
     response = model.generate_content(prompt_parts)
     return response.text
 
+
 def try_out(prompt, given_text, gemini_api_key, given_image=None, retry_num=3):
     qna_json = None
     cur_retry = 0
@@ -94,23 +102,27 @@ def try_out(prompt, given_text, gemini_api_key, given_image=None, retry_num=3):
                 prompt=prompt,
                 given_text=given_text,
                 given_image=given_image,
-                API_KEY=gemini_api_key
-            )
+                API_KEY=gemini_api_key)
 
             qna_json = parse_first_json_snippet(qna)
-        except:
+        except Exception as e:
             cur_retry = cur_retry + 1
-            print("......retry")
+            print(f'......failed due to exception {e}')
+            print('......retry')
 
     return qna_json
 
-def get_basic_qa(text, gemini_api_key, trucate=7000):
+
+def get_basic_qa(text, gemini_api_key, truncate=7000):
     prompts = toml.load(Path('.') / 'qa' / 'constants' / 'prompts.toml')
-    basic_qa = try_out(prompts['basic_qa']['prompt'], text[:trucate], gemini_api_key=gemini_api_key)
+    basic_qa = try_out(
+        prompts['basic_qa']['prompt'],
+        text[:truncate],
+        gemini_api_key=gemini_api_key)
     return basic_qa
 
 
-def get_deep_qa(text, basic_qa, gemini_api_key, trucate=7000):
+def get_deep_qa(text, basic_qa, gemini_api_key, truncate=7000):
     prompts = toml.load(Path('.') / 'qa' / 'constants' / 'prompts.toml')
 
     title = basic_qa['title']
@@ -120,27 +132,39 @@ def get_deep_qa(text, basic_qa, gemini_api_key, trucate=7000):
         q = qna['question']
         a_expert = qna['answers']['expert']
 
-        depth_search_prompt = Template(prompts['deep_qa']['prompt']).substitute(
-            title=title, previous_question=q, previous_answer=a_expert, tone="in-depth"
-        )
-        breath_search_prompt = Template(prompts['deep_qa']['prompt']).substitute(
-            title=title, previous_question=q, previous_answer=a_expert, tone="broad"
-        )        
+        depth_search_prompt = Template(
+            prompts['deep_qa']['prompt']).substitute(
+                title=title,
+                previous_question=q,
+                previous_answer=a_expert,
+                tone='in-depth')
+        breath_search_prompt = Template(
+            prompts['deep_qa']['prompt']).substitute(
+                title=title,
+                previous_question=q,
+                previous_answer=a_expert,
+                tone='broad')
 
         depth_search_response = {}
         breath_search_response = {}
 
         while 'follow up question' not in depth_search_response or \
-            'answers' not in depth_search_response or \
-            'eli5' not in depth_search_response['answers'] or \
-            'expert' not in depth_search_response['answers']:
-            depth_search_response = try_out(depth_search_prompt, text[:trucate], gemini_api_key=gemini_api_key)
+                'answers' not in depth_search_response or \
+                'eli5' not in depth_search_response['answers'] or \
+                'expert' not in depth_search_response['answers']:
+            depth_search_response = try_out(
+                depth_search_prompt,
+                text[:truncate],
+                gemini_api_key=gemini_api_key)
 
         while 'follow up question' not in breath_search_response or \
-            'answers' not in breath_search_response or \
-            'eli5' not in breath_search_response['answers'] or \
-            'expert' not in breath_search_response['answers']:
-            breath_search_response = try_out(breath_search_prompt, text[:trucate], gemini_api_key=gemini_api_key)
+                'answers' not in breath_search_response or \
+                'eli5' not in breath_search_response['answers'] or \
+                'expert' not in breath_search_response['answers']:
+            breath_search_response = try_out(
+                breath_search_prompt,
+                text[:truncate],
+                gemini_api_key=gemini_api_key)
 
         if depth_search_response is not None:
             qna['additional_depth_q'] = depth_search_response

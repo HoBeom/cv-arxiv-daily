@@ -1,8 +1,8 @@
-requests
 arxiv
-pyyaml
-PyMuPDF
-PyPDF2
 flatdict
 google-generativeai
+PyMuPDF
+PyPDF2
+pyyaml
+requests
 toml

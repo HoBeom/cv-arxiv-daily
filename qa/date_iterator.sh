@@ -21,7 +21,6 @@ while [[ $current_seconds -le $end_seconds ]]; do
     --hf-token $HF_ACCESS_TOKEN \
     --hf-repo-id $hf_repo_id \
     --hf-daily-papers
-  
+
   current_seconds=$((current_seconds + 86400))  # Add 1 day (86400 seconds)
 done
-

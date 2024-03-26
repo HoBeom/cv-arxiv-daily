@@ -11,12 +11,12 @@ publish_readme: True
 publish_gitpage: True
 
 keywords:
-    "Action Recognition": 
+    "Action Recognition":
         queries: ["action recognition", "action classification", "action detection", "action segmentation", "temporal action localization"]
         md_readme_path: 'arxiv/action-recognition/README.md'
         json_readme_path: 'arxiv/action-recognition/data.json'
         qa_json_path: 'arxiv/action-recognition/qa.json'
-    "Human Pose Estimation": 
+    "Human Pose Estimation":
         queries: ["human pose estimation", "pose estimation", "keypoint detection", "keypoint estimation", "pose detection"]
         md_readme_path: 'arxiv/human-pose-estimation/README.md'
         json_readme_path: 'arxiv/human-pose-estimation/data.json'
