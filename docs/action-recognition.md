@@ -6,15 +6,18 @@ layout: default
 
 ### Updated on 2024.03.26
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|
-|**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|null|
-|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|
-|**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710v1](http://arxiv.org/abs/2403.12710v1)|null|
-|**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|
-|**2024-03-19**|**VideoBadminton: A Video Dataset for Badminton Action Recognition**|Qi Li et.al.|[2403.12385v1](http://arxiv.org/abs/2403.12385v1)|null|
-|**2024-03-19**|**Multi-View Video-Based Learning: Leveraging Weak Labels for Frame-Level Perception**|Vijay John et.al.|[2403.11616v2](http://arxiv.org/abs/2403.11616v2)|null|
+| Publish Date | Title | Authors | PDF | Code | Quick Look |
+|:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428v1](http://arxiv.org/abs/2403.16428v1)|null|null|
+|**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263v1](http://arxiv.org/abs/2403.16263v1)|null|null|
+|**2024-03-17**|**A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition**|Abhi Kamboj et.al.|[2403.15444v1](http://arxiv.org/abs/2403.15444v1)|null|null|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|null|
+|**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|null|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|null|
+|**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710v1](http://arxiv.org/abs/2403.12710v1)|null|null|
+|**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|null|
+|**2024-03-19**|**VideoBadminton: A Video Dataset for Badminton Action Recognition**|Qi Li et.al.|[2403.12385v1](http://arxiv.org/abs/2403.12385v1)|null|null|
+|**2024-03-19**|**Multi-View Video-Based Learning: Leveraging Weak Labels for Frame-Level Perception**|Vijay John et.al.|[2403.11616v2](http://arxiv.org/abs/2403.11616v2)|null|null|
 |**2024-03-17**|**A Lie Group Approach to Riemannian Batch Normalization**|Ziheng Chen et.al.|[2403.11261v1](http://arxiv.org/abs/2403.11261v1)|**[link](https://github.com/gitzh-chen/liebn)**|
 |**2024-03-17**|**Boosting Semi-Supervised Temporal Action Localization by Learning from Non-Target Classes**|Kun Xia et.al.|[2403.11189v1](http://arxiv.org/abs/2403.11189v1)|null|
 |**2024-03-15**|**CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner**|Tingbing Yan et.al.|[2403.10082v1](http://arxiv.org/abs/2403.10082v1)|null|
@@ -371,5 +374,5 @@ layout: default
 |**2023-01-15**|**CNN-Based Action Recognition and Pose Estimation for Classifying Animal Behavior from Videos: A Survey**|Michael Perez et.al.|[2301.06187v1](http://arxiv.org/abs/2301.06187v1)|null|
 |**2023-01-15**|**CMAE-V: Contrastive Masked Autoencoders for Video Action Recognition**|Cheng-Ze Lu et.al.|[2301.06018v1](http://arxiv.org/abs/2301.06018v1)|null|
 
-[back to top](## Action Recognition)
+<p align=right>(<a href=## Action Recognition>back to top</a>)</p>
 

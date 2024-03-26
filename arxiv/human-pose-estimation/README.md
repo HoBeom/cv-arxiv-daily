@@ -2,9 +2,18 @@
 
 ### Updated on 2024.03.26
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333v1](http://arxiv.org/abs/2403.15333v1)|null|
+|Publish Date|Title|Authors|PDF|Code|Quick Look|
+|---|---|---|---|---|---|
+|**2024-03-25**|**Characterisation of the Intel RealSense D415 Stereo Depth Camera for Motion-Corrected CT Perfusion Imaging**|Mahdieh Dashtbani Moghari et.al.|[2403.16490v1](http://arxiv.org/abs/2403.16490v1)|null|null|
+|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428v1](http://arxiv.org/abs/2403.16428v1)|null|null|
+|**2024-03-25**|**A Geometric Perspective on Fusing Gaussian Distributions on Lie Groups**|Yixiao Ge et.al.|[2403.16411v1](http://arxiv.org/abs/2403.16411v1)|null|null|
+|**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400v1](http://arxiv.org/abs/2403.16400v1)|null|null|
+|**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238v1](http://arxiv.org/abs/2403.16238v1)|null|null|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198v1](http://arxiv.org/abs/2403.16198v1)|null|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|null|null|
+|**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612v1](http://arxiv.org/abs/2403.15612v1)|null|null|
+|**2024-03-22**|**Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times**|Sepehr Sabeti et.al.|[2403.15571v1](http://arxiv.org/abs/2403.15571v1)|null|null|
+|**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333v1](http://arxiv.org/abs/2403.15333v1)|null|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
 |**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|null|
 |**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048v1](http://arxiv.org/abs/2403.15048v1)|null|
@@ -202,5 +211,5 @@
 |**2022-12-31**|**DensePose From WiFi**|Jiaqi Geng et.al.|[2301.00250v1](http://arxiv.org/abs/2301.00250v1)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474v1](http://arxiv.org/abs/2212.14474v1)|null|
 
-[back to top](## Human Pose Estimation)
+<p align=right>(<a href=## Human Pose Estimation>back to top</a>)</p>
 

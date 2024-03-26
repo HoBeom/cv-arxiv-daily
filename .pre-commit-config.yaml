@@ -16,8 +16,10 @@ repos:
     rev: v4.3.0
     hooks:
       - id: trailing-whitespace
+        exclude_types: [json,markdown]
       - id: check-yaml
       - id: end-of-file-fixer
+        exclude_types: [json,markdown]
       - id: requirements-txt-fixer
       - id: double-quote-string-fixer
       - id: check-merge-conflict
