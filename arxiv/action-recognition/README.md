@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2024.03.26
+### Updated on 2024.03.27
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 |**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263v1](http://arxiv.org/abs/2403.16263v1)|null|null|
 |**2024-03-17**|**A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition**|Abhi Kamboj et.al.|[2403.15444v1](http://arxiv.org/abs/2403.15444v1)|null|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|null|
-|**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|null|null|
+|**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|[link](https://github.com/deepintostreams/gcn-devlstm)|null|
 |**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|null|
 |**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710v1](http://arxiv.org/abs/2403.12710v1)|null|null|
 |**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|null|
