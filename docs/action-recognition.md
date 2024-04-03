@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-02**|**PREGO: online mistake detection in PRocedural EGOcentric videos**|Alessandro Flaborea et.al.|[2404.01933v1](http://arxiv.org/abs/2404.01933v1)|[link](https://github.com/aleflabo/prego)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|null|null|
+|**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591v1](http://arxiv.org/abs/2404.01591v1)|null|null|
+|**2024-04-02**|**Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery**|Christian Limberg et.al.|[2404.01571v1](http://arxiv.org/abs/2404.01571v1)|null|null|
+|**2024-04-01**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518v1](http://arxiv.org/abs/2404.01518v1)|[link](https://github.com/mingu6/action_seg_ot)|null|
+|**2024-04-01**|**LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization**|Akshita Gupta et.al.|[2404.01282v1](http://arxiv.org/abs/2404.01282v1)|null|null|
+|**2024-04-01**|**Action Detection via an Image Diffusion Process**|Lin Geng Foo et.al.|[2404.01051v1](http://arxiv.org/abs/2404.01051v1)|null|null|
+|**2024-03-31**|**Dual DETRs for Multi-Label Temporal Action Detection**|Yuhan Zhu et.al.|[2404.00653v1](http://arxiv.org/abs/2404.00653v1)|null|null|
+|**2024-03-31**|**LLMs are Good Action Recognizers**|Haoxuan Qu et.al.|[2404.00532v1](http://arxiv.org/abs/2404.00532v1)|null|null|
 |**2024-03-29**|**Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions**|Runhao Zeng et.al.|[2403.20254v1](http://arxiv.org/abs/2403.20254v1)|null|null|
 |**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031v1](http://arxiv.org/abs/2403.20031v1)|null|null|
 |**2024-03-28**|**Hypergraph-based Multi-View Action Recognition using Event Cameras**|Yue Gao et.al.|[2403.19316v1](http://arxiv.org/abs/2403.19316v1)|null|null|
