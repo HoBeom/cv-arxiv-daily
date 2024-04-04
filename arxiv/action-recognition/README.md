@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624v1](http://arxiv.org/abs/2404.02624v1)|null|null|
+|**2024-04-03**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v1](http://arxiv.org/abs/2404.02405v1)|null|null|
 |**2024-04-02**|**PREGO: online mistake detection in PRocedural EGOcentric videos**|Alessandro Flaborea et.al.|[2404.01933v1](http://arxiv.org/abs/2404.01933v1)|[link](https://github.com/aleflabo/prego)|null|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|null|null|
 |**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591v1](http://arxiv.org/abs/2404.01591v1)|null|null|

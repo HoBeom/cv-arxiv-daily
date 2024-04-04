@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567v1](http://arxiv.org/abs/2404.02567v1)|null|null|
+|**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544v1](http://arxiv.org/abs/2404.02544v1)|[link](https://github.com/hnuzhy/semiuhpe)|null|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125v1](http://arxiv.org/abs/2404.02125v1)|null|null|
 |**2024-04-02**|**SelfPose3d: Self-Supervised Multi-Person Multi-View 3d Pose Estimation**|Vinkle Srivastav et.al.|[2404.02041v1](http://arxiv.org/abs/2404.02041v1)|null|null|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|null|
