@@ -4,17 +4,17 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.04.04
+### Updated on 2024.04.05
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624v1](http://arxiv.org/abs/2404.02624v1)|null|null|
-|**2024-04-03**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v1](http://arxiv.org/abs/2404.02405v1)|null|null|
+|**2024-04-04**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v2](http://arxiv.org/abs/2404.02405v2)|null|null|
 |**2024-04-02**|**PREGO: online mistake detection in PRocedural EGOcentric videos**|Alessandro Flaborea et.al.|[2404.01933v1](http://arxiv.org/abs/2404.01933v1)|[link](https://github.com/aleflabo/prego)|null|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|null|null|
 |**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591v1](http://arxiv.org/abs/2404.01591v1)|null|null|
 |**2024-04-02**|**Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery**|Christian Limberg et.al.|[2404.01571v1](http://arxiv.org/abs/2404.01571v1)|null|null|
-|**2024-04-01**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518v1](http://arxiv.org/abs/2404.01518v1)|[link](https://github.com/mingu6/action_seg_ot)|null|
+|**2024-04-04**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518v2](http://arxiv.org/abs/2404.01518v2)|[link](https://github.com/mingu6/action_seg_ot)|null|
 |**2024-04-01**|**LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization**|Akshita Gupta et.al.|[2404.01282v1](http://arxiv.org/abs/2404.01282v1)|null|null|
 |**2024-04-01**|**Action Detection via an Image Diffusion Process**|Lin Geng Foo et.al.|[2404.01051v1](http://arxiv.org/abs/2404.01051v1)|null|null|
 |**2024-03-31**|**Dual DETRs for Multi-Label Temporal Action Detection**|Yuhan Zhu et.al.|[2404.00653v1](http://arxiv.org/abs/2404.00653v1)|null|null|
