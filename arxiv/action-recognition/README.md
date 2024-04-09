@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-08**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559v1](http://arxiv.org/abs/2404.05559v1)|[link](https://github.com/jacobchalk/tim)|null|
+|**2024-04-08**|**Test-Time Zero-Shot Temporal Action Localization**|Benedetta Liberatori et.al.|[2404.05426v1](http://arxiv.org/abs/2404.05426v1)|null|null|
+|**2024-04-07**|**LOGO: A Long-Form Video Dataset for Group Action Quality Assessment**|Shiyi Zhang et.al.|[2404.05029v1](http://arxiv.org/abs/2404.05029v1)|[link](https://github.com/shiyi-zh0408/logo)|null|
+|**2024-04-07**|**UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection**|Yingsen Zeng et.al.|[2404.04933v1](http://arxiv.org/abs/2404.04933v1)|[link](https://github.com/yingsen1/unimd)|null|
+|**2024-04-05**|**PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos**|Yufei Zhang et.al.|[2404.04430v1](http://arxiv.org/abs/2404.04430v1)|null|null|
+|**2024-04-05**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346v1](http://arxiv.org/abs/2404.04346v1)|null|null|
 |**2024-04-04**|**UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization**|Tiantian Geng et.al.|[2404.03179v1](http://arxiv.org/abs/2404.03179v1)|null|null|
 |**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624v1](http://arxiv.org/abs/2404.02624v1)|null|null|
 |**2024-04-04**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v2](http://arxiv.org/abs/2404.02405v2)|null|null|
