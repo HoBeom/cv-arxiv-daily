@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332v1](http://arxiv.org/abs/2404.06332v1)|null|null|
+|**2024-04-09**|**ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos**|Sharana Dharshikgan Suresh Dass et.al.|[2404.06243v1](http://arxiv.org/abs/2404.06243v1)|[link](https://github.com/rana2149/actnetformer)|null|
+|**2024-04-08**|**Localizing Moments of Actions in Untrimmed Videos of Infants with Autism Spectrum Disorder**|Halil Ismail Helvaci et.al.|[2404.05849v1](http://arxiv.org/abs/2404.05849v1)|null|null|
 |**2024-04-09**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559v2](http://arxiv.org/abs/2404.05559v2)|[link](https://github.com/jacobchalk/tim)|null|
 |**2024-04-08**|**Test-Time Zero-Shot Temporal Action Localization**|Benedetta Liberatori et.al.|[2404.05426v1](http://arxiv.org/abs/2404.05426v1)|null|null|
 |**2024-04-07**|**LOGO: A Long-Form Video Dataset for Group Action Quality Assessment**|Shiyi Zhang et.al.|[2404.05029v1](http://arxiv.org/abs/2404.05029v1)|[link](https://github.com/shiyi-zh0408/logo)|null|
