@@ -4,11 +4,11 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.04.09
+### Updated on 2024.04.10
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-04-08**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559v1](http://arxiv.org/abs/2404.05559v1)|[link](https://github.com/jacobchalk/tim)|null|
+|**2024-04-09**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559v2](http://arxiv.org/abs/2404.05559v2)|[link](https://github.com/jacobchalk/tim)|null|
 |**2024-04-08**|**Test-Time Zero-Shot Temporal Action Localization**|Benedetta Liberatori et.al.|[2404.05426v1](http://arxiv.org/abs/2404.05426v1)|null|null|
 |**2024-04-07**|**LOGO: A Long-Form Video Dataset for Group Action Quality Assessment**|Shiyi Zhang et.al.|[2404.05029v1](http://arxiv.org/abs/2404.05029v1)|[link](https://github.com/shiyi-zh0408/logo)|null|
 |**2024-04-07**|**UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection**|Yingsen Zeng et.al.|[2404.04933v1](http://arxiv.org/abs/2404.04933v1)|[link](https://github.com/yingsen1/unimd)|null|
