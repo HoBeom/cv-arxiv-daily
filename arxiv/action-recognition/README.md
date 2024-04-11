@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-10**|**O-TALC: Steps Towards Combating Oversegmentation within Online Action Segmentation**|Matthew Kent Myers et.al.|[2404.06894v1](http://arxiv.org/abs/2404.06894v1)|null|null|
+|**2024-04-10**|**An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video**|Xingyu Song et.al.|[2404.06741v1](http://arxiv.org/abs/2404.06741v1)|null|null|
 |**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332v1](http://arxiv.org/abs/2404.06332v1)|null|null|
 |**2024-04-09**|**ActNetFormer: Transformer-ResNet Hybrid Method for Semi-Supervised Action Recognition in Videos**|Sharana Dharshikgan Suresh Dass et.al.|[2404.06243v1](http://arxiv.org/abs/2404.06243v1)|[link](https://github.com/rana2149/actnetformer)|null|
 |**2024-04-08**|**Localizing Moments of Actions in Untrimmed Videos of Infants with Autism Spectrum Disorder**|Halil Ismail Helvaci et.al.|[2404.05849v1](http://arxiv.org/abs/2404.05849v1)|null|null|
