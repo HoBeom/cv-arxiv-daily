@@ -8,9 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-15**|**Leveraging Temporal Contextualization for Video Action Recognition**|Minji Kim et.al.|[2404.09490v1](http://arxiv.org/abs/2404.09490v1)|null|null|
+|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|null|
+|**2024-04-13**|**Exploring Explainability in Video Action Recognition**|Avinab Saha et.al.|[2404.09067v1](http://arxiv.org/abs/2404.09067v1)|null|null|
 |**2024-04-12**|**MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition**|Linhuang Wang et.al.|[2404.08433v1](http://arxiv.org/abs/2404.08433v1)|null|null|
 |**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645v1](http://arxiv.org/abs/2404.07645v1)|null|null|
-|**2024-04-11**|**Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2404.07487v1](http://arxiv.org/abs/2404.07487v1)|null|null|
+|**2024-04-15**|**Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2404.07487v2](http://arxiv.org/abs/2404.07487v2)|null|null|
 |**2024-04-10**|**O-TALC: Steps Towards Combating Oversegmentation within Online Action Segmentation**|Matthew Kent Myers et.al.|[2404.06894v1](http://arxiv.org/abs/2404.06894v1)|null|null|
 |**2024-04-10**|**An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video**|Xingyu Song et.al.|[2404.06741v1](http://arxiv.org/abs/2404.06741v1)|null|null|
 |**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332v1](http://arxiv.org/abs/2404.06332v1)|null|null|
