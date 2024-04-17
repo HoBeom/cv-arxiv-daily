@@ -8,11 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|null|
+|**2024-04-16**|**The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement**|Gabriele Trivigno et.al.|[2404.10438v1](http://arxiv.org/abs/2404.10438v1)|null|null|
+|**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213v1](http://arxiv.org/abs/2404.10213v1)|null|null|
+|**2024-04-16**|**LWIRPOSE: A novel LWIR Thermal Image Dataset and Benchmark**|Avinash Upadhyay et.al.|[2404.10212v1](http://arxiv.org/abs/2404.10212v1)|[link](https://github.com/avinres/lwirpose)|null|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v1](http://arxiv.org/abs/2404.09748v1)|null|null|
 |**2024-04-14**|**Exploring Feedback Generation in Automated Skeletal Movement Assessment: A Comprehensive Overview**|Tal Hakim et.al.|[2404.09359v1](http://arxiv.org/abs/2404.09359v1)|null|null|
 |**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|null|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928v1](http://arxiv.org/abs/2404.08928v1)|[link](https://github.com/parskatt/dedode)|null|
-|**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v1](http://arxiv.org/abs/2404.08504v1)|null|null|
+|**2024-04-16**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v2](http://arxiv.org/abs/2404.08504v2)|null|null|
 |**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649v1](http://arxiv.org/abs/2404.07649v1)|null|null|
 |**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603v1](http://arxiv.org/abs/2404.07603v1)|null|null|
 |**2024-04-10**|**Measuring proximity to standard planes during fetal brain ultrasound scanning**|Chiara Di Vece et.al.|[2404.07124v1](http://arxiv.org/abs/2404.07124v1)|null|null|
