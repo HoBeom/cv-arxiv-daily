@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-17**|**Kathakali Hand Gesture Recognition With Minimal Data**|Kavitha Raju et.al.|[2404.11205v1](http://arxiv.org/abs/2404.11205v1)|null|null|
+|**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|null|
+|**2024-04-17**|**CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**|Lianyu Hu et.al.|[2404.11111v1](http://arxiv.org/abs/2404.11111v1)|[link](https://github.com/hulianyuyy/corrnet_plus)|null|
+|**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985v1](http://arxiv.org/abs/2404.10985v1)|null|null|
+|**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|null|
 |**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|null|
 |**2024-04-16**|**The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement**|Gabriele Trivigno et.al.|[2404.10438v1](http://arxiv.org/abs/2404.10438v1)|null|null|
 |**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213v1](http://arxiv.org/abs/2404.10213v1)|null|null|

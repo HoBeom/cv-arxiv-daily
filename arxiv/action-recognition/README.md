@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[link](https://github.com/shark0-0/vg4d)|null|
+|**2024-04-17**|**Lower Limb Movements Recognition Based on Feature Recursive Elimination and Backpropagation Neural Network**|Yongkai Ma et.al.|[2404.11383v1](http://arxiv.org/abs/2404.11383v1)|null|null|
+|**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|null|
+|**2024-04-13**|**Multimodal Attack Detection for Action Recognition Models**|Furkan Mumcu et.al.|[2404.10790v1](http://arxiv.org/abs/2404.10790v1)|null|null|
 |**2024-04-17**|**Learning to Score Sign Language with Two-stage Method**|Hongli Wen et.al.|[2404.10383v2](http://arxiv.org/abs/2404.10383v2)|null|null|
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|null|
 |**2024-04-15**|**STMixer: A One-Stage Sparse Action Detector**|Tao Wu et.al.|[2404.09842v1](http://arxiv.org/abs/2404.09842v1)|null|null|
