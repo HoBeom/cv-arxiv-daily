@@ -4,11 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-19**|**SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers**|Vandad Davoodnia et.al.|[2404.12625v1](http://arxiv.org/abs/2404.12625v1)|null|null|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440v1](http://arxiv.org/abs/2404.12440v1)|null|null|
 |**2024-04-18**|**Gait Recognition from Highly Compressed Videos**|Andrei Niculae et.al.|[2404.12183v1](http://arxiv.org/abs/2404.12183v1)|null|null|
-|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144v1](http://arxiv.org/abs/2404.12144v1)|[link](https://github.com/georgeretsi/mushroom-pose)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
+|**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144v1](http://arxiv.org/abs/2404.12144v1)|[link](https://github.com/georgeretsi/mushroom-pose)|null|
 |**2024-04-17**|**Kathakali Hand Gesture Recognition With Minimal Data**|Kavitha Raju et.al.|[2404.11205v1](http://arxiv.org/abs/2404.11205v1)|null|null|
 |**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|null|
-|**2024-04-17**|**CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**|Lianyu Hu et.al.|[2404.11111v1](http://arxiv.org/abs/2404.11111v1)|[link](https://github.com/hulianyuyy/corrnet_plus)|**[link](https://github.com/hulianyuyy/corrnet_plus)**|
+|**2024-04-17**|**CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**|Lianyu Hu et.al.|[2404.11111v1](http://arxiv.org/abs/2404.11111v1)|[link](https://github.com/hulianyuyy/corrnet_plus)|null|
 |**2024-04-17**|**Pixel-Wise Symbol Spotting via Progressive Points Location for Parsing CAD Images**|Junbiao Pang et.al.|[2404.10985v1](http://arxiv.org/abs/2404.10985v1)|null|null|
 |**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|null|
 |**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|null|
