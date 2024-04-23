@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999v1](http://arxiv.org/abs/2404.13999v1)|[link](https://github.com/zhoukanglei/cofinal_aqa)|null|
+|**2024-04-22**|**HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild**|Supreeth Narasimhaswamy et.al.|[2404.13819v1](http://arxiv.org/abs/2404.13819v1)|null|null|
+|**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|null|
+|**2024-04-20**|**STAT: Towards Generalizable Temporal Action Localization**|Yangcen Liu et.al.|[2404.13311v1](http://arxiv.org/abs/2404.13311v1)|null|null|
 |**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330v1](http://arxiv.org/abs/2404.12330v1)|null|null|
 |**2024-04-18**|**DeepLocalization: Using change point detection for Temporal Action Localization**|Mohammed Shaiqur Rahman et.al.|[2404.12258v1](http://arxiv.org/abs/2404.12258v1)|null|null|
 |**2024-04-18**|**Aligning Actions and Walking to LLM-Generated Textual Descriptions**|Radu Chivereanu et.al.|[2404.12192v1](http://arxiv.org/abs/2404.12192v1)|[link](https://github.com/radu1999/walkandtext)|null|
