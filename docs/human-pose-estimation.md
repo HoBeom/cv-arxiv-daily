@@ -4,12 +4,12 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2024.04.25
+### Updated on 2024.04.26
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|[link](https://github.com/xuxy09/smpler)|null|
-|**2024-04-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al.|[2404.14885v1](http://arxiv.org/abs/2404.14885v1)|null|null|
+|**2024-04-25**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al.|[2404.14885v2](http://arxiv.org/abs/2404.14885v2)|null|null|
 |**2024-04-23**|**Semi-supervised 2D Human Pose Estimation via Adaptive Keypoint Masking**|Kexin Meng et.al.|[2404.14835v1](http://arxiv.org/abs/2404.14835v1)|null|null|
 |**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|null|
 |**2024-04-22**|**DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation**|Yonghao Dang et.al.|[2404.14025v1](http://arxiv.org/abs/2404.14025v1)|null|null|
