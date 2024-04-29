@@ -10,19 +10,19 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-04-25**|**Learning Discriminative Spatio-temporal Representations for Semi-supervised Action Recognition**|Yu Wang et.al.|[2404.16416v1](http://arxiv.org/abs/2404.16416v1)|null|null|
 |**2024-04-25**|**An Improved Graph Pooling Network for Skeleton-Based Action Recognition**|Cong Wu et.al.|[2404.16359v1](http://arxiv.org/abs/2404.16359v1)|null|null|
-|**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|[link](https://github.com/liujf69/icmew2024-track10)|null|
+|**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|[link](https://github.com/liujf69/icmew2024-track10)|**[link](https://github.com/liujf69/icmew2024-track10)**|
 |**2024-04-23**|**Combating Missing Modalities in Egocentric Videos at Test Time**|Merey Ramazanova et.al.|[2404.15161v1](http://arxiv.org/abs/2404.15161v1)|null|null|
 |**2024-04-23**|**Driver Activity Classification Using Generalizable Representations from Vision-Language Models**|Ross Greer et.al.|[2404.14906v1](http://arxiv.org/abs/2404.14906v1)|null|null|
 |**2024-04-23**|**DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition**|Haozhe Cheng et.al.|[2404.14890v1](http://arxiv.org/abs/2404.14890v1)|null|null|
-|**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999v1](http://arxiv.org/abs/2404.13999v1)|[link](https://github.com/zhoukanglei/cofinal_aqa)|null|
+|**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999v1](http://arxiv.org/abs/2404.13999v1)|[link](https://github.com/zhoukanglei/cofinal_aqa)|**[link](https://github.com/zhoukanglei/cofinal_aqa)**|
 |**2024-04-22**|**HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild**|Supreeth Narasimhaswamy et.al.|[2404.13819v1](http://arxiv.org/abs/2404.13819v1)|null|null|
 |**2024-04-21**|**Attack on Scene Flow using Point Clouds**|Haniyeh Ehsani Oskouie et.al.|[2404.13621v1](http://arxiv.org/abs/2404.13621v1)|null|null|
 |**2024-04-20**|**STAT: Towards Generalizable Temporal Action Localization**|Yangcen Liu et.al.|[2404.13311v1](http://arxiv.org/abs/2404.13311v1)|null|null|
 |**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330v1](http://arxiv.org/abs/2404.12330v1)|null|null|
 |**2024-04-18**|**DeepLocalization: Using change point detection for Temporal Action Localization**|Mohammed Shaiqur Rahman et.al.|[2404.12258v1](http://arxiv.org/abs/2404.12258v1)|null|null|
-|**2024-04-18**|**Aligning Actions and Walking to LLM-Generated Textual Descriptions**|Radu Chivereanu et.al.|[2404.12192v1](http://arxiv.org/abs/2404.12192v1)|[link](https://github.com/radu1999/walkandtext)|null|
+|**2024-04-18**|**Aligning Actions and Walking to LLM-Generated Textual Descriptions**|Radu Chivereanu et.al.|[2404.12192v1](http://arxiv.org/abs/2404.12192v1)|[link](https://github.com/radu1999/walkandtext)|**[link](https://github.com/radu1999/walkandtext)**|
 |**2024-04-18**|**Simultaneous Detection and Interaction Reasoning for Object-Centric Action Recognition**|Xunsong Li et.al.|[2404.11903v1](http://arxiv.org/abs/2404.11903v1)|null|null|
-|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[link](https://github.com/shark0-0/vg4d)|null|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[link](https://github.com/shark0-0/vg4d)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**Lower Limb Movements Recognition Based on Feature Recursive Elimination and Backpropagation Neural Network**|Yongkai Ma et.al.|[2404.11383v1](http://arxiv.org/abs/2404.11383v1)|null|null|
 |**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|null|
 |**2024-04-13**|**Multimodal Attack Detection for Action Recognition Models**|Furkan Mumcu et.al.|[2404.10790v1](http://arxiv.org/abs/2404.10790v1)|null|null|
@@ -46,7 +46,7 @@ layout: default
 |**2024-04-07**|**UniMD: Towards Unifying Moment Retrieval and Temporal Action Detection**|Yingsen Zeng et.al.|[2404.04933v1](http://arxiv.org/abs/2404.04933v1)|[link](https://github.com/yingsen1/unimd)|**[link](https://github.com/yingsen1/unimd)**|
 |**2024-04-05**|**PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos**|Yufei Zhang et.al.|[2404.04430v1](http://arxiv.org/abs/2404.04430v1)|null|null|
 |**2024-04-05**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346v1](http://arxiv.org/abs/2404.04346v1)|null|null|
-|**2024-04-04**|**UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization**|Tiantian Geng et.al.|[2404.03179v1](http://arxiv.org/abs/2404.03179v1)|**[link](https://github.com/ttgeng233/UniAV)**|null|
+|**2024-04-04**|**UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization**|Tiantian Geng et.al.|[2404.03179v1](http://arxiv.org/abs/2404.03179v1)|**[link](https://github.com/ttgeng233/UniAV)**|**[link](https://github.com/ttgeng233/UniAV)**|
 |**2024-04-03**|**Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition**|Ikuo Nakamura et.al.|[2404.02624v1](http://arxiv.org/abs/2404.02624v1)|null|null|
 |**2024-04-04**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v2](http://arxiv.org/abs/2404.02405v2)|null|null|
 |**2024-04-02**|**PREGO: online mistake detection in PRocedural EGOcentric videos**|Alessandro Flaborea et.al.|[2404.01933v1](http://arxiv.org/abs/2404.01933v1)|[link](https://github.com/aleflabo/prego)|**[link](https://github.com/aleflabo/prego)**|
@@ -226,7 +226,7 @@ layout: default
 |**2023-09-15**|**CDFSL-V: Cross-Domain Few-Shot Learning for Videos**|Sarinda Samarasinghe et.al.|[2309.03989v2](http://arxiv.org/abs/2309.03989v2)|**[link](https://github.com/sarinda251/cdfsl-v)**|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549v1](http://arxiv.org/abs/2309.03549v1)|null|
 |**2023-09-05**|**EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding**|Yue Xu et.al.|[2309.02423v1](http://arxiv.org/abs/2309.02423v1)|null|
-|**2023-09-03**|**SOAR: Scene-debiasing Open-set Action Recognition**|Yuanhao Zhai et.al.|[2309.01265v1](http://arxiv.org/abs/2309.01265v1)|null|
+|**2023-09-03**|**SOAR: Scene-debiasing Open-set Action Recognition**|Yuanhao Zhai et.al.|[2309.01265v1](http://arxiv.org/abs/2309.01265v1)|**[link](https://github.com/yhZhai/SOAR)**|
 |**2023-09-04**|**Topology-aware MLP for Skeleton-based Action Recognition**|Shaojie Zhang et.al.|[2308.16018v2](http://arxiv.org/abs/2308.16018v2)|**[link](https://github.com/buptsjzhang/ta-mlp)**|
 |**2023-08-29**|**IndGIC: Supervised Action Recognition under Low Illumination**|Jingbo Zeng et.al.|[2308.15345v1](http://arxiv.org/abs/2308.15345v1)|null|
 |**2023-08-27**|**Balanced Representation Learning for Long-tailed Skeleton-based Action Recognition**|Hongda Liu et.al.|[2308.14024v1](http://arxiv.org/abs/2308.14024v1)|**[link](https://github.com/firework8/brl)**|
@@ -234,7 +234,7 @@ layout: default
 |**2023-08-26**|**Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds**|Yukun Su et.al.|[2308.13866v1](http://arxiv.org/abs/2308.13866v1)|null|
 |**2023-08-25**|**EventTransAct: A video transformer-based framework for Event-camera based action recognition**|Tristan de Blegiers et.al.|[2308.13711v1](http://arxiv.org/abs/2308.13711v1)|null|
 |**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|**[link](https://github.com/WISION-Lab/eventful-transformer)**|
-|**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
+|**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|**[link](https://github.com/saidwivedi/POCO)**|
 |**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501v1](http://arxiv.org/abs/2308.12501v1)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
 |**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|**[link](https://github.com/moohnai/mofo)**|
 |**2023-08-22**|**Opening the Vocabulary of Egocentric Actions**|Dibyadip Chatterjee et.al.|[2308.11488v1](http://arxiv.org/abs/2308.11488v1)|**[link](https://github.com/dibschat/openvocab-egoAR)**|
