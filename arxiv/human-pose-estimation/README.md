@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|null|
+|**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401v1](http://arxiv.org/abs/2404.19401v1)|null|null|
+|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279v1](http://arxiv.org/abs/2404.19279v1)|null|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|null|
 |**2024-04-29**|**Self-Avatar Animation in Virtual Reality: Impact of Motion Signals Artifacts on the Full-Body Pose Reconstruction**|Antoine Maiorca et.al.|[2404.18628v1](http://arxiv.org/abs/2404.18628v1)|null|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|null|
