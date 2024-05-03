@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337v1](http://arxiv.org/abs/2405.01337v1)|null|null|
 |**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542v1](http://arxiv.org/abs/2404.19542v1)|[link](https://github.com/thanhhff/HOTAD)|null|
 |**2024-04-30**|**Cross-Block Fine-Grained Semantic Cascade for Skeleton-Based Sports Action Recognition**|Zhendong Liu et.al.|[2404.19383v1](http://arxiv.org/abs/2404.19383v1)|null|null|
 |**2024-04-28**|**Enhancing Action Recognition from Low-Quality Skeleton Data via Part-Level Knowledge Distillation**|Cuiwei Liu et.al.|[2404.18206v1](http://arxiv.org/abs/2404.18206v1)|null|null|

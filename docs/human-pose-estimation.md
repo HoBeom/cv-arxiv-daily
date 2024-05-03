@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|null|
+|**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284v1](http://arxiv.org/abs/2405.01284v1)|null|null|
+|**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112v1](http://arxiv.org/abs/2405.01112v1)|null|null|
+|**2024-05-02**|**CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications**|Jan Blumenkamp et.al.|[2405.01107v1](http://arxiv.org/abs/2405.01107v1)|null|null|
+|**2024-05-02**|**HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images**|Zixun Jiao et.al.|[2405.01066v1](http://arxiv.org/abs/2405.01066v1)|null|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|null|
 |**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|null|
 |**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401v1](http://arxiv.org/abs/2404.19401v1)|null|null|
