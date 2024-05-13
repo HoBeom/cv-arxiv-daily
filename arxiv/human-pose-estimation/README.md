@@ -4,13 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858v2](http://arxiv.org/abs/2405.05858v2)|null|null|
 |**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817v1](http://arxiv.org/abs/2405.05817v1)|null|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807v1](http://arxiv.org/abs/2405.05807v1)|null|null|
 |**2024-05-09**|**Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation**|Mo Guan et.al.|[2405.05672v1](http://arxiv.org/abs/2405.05672v1)|null|null|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|null|
 |**2024-05-08**|**Adversary-Guided Motion Retargeting for Skeleton Anonymization**|Thomas Carr et.al.|[2405.05428v1](http://arxiv.org/abs/2405.05428v1)|null|null|
-|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216v1](http://arxiv.org/abs/2405.05216v1)|[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
+|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216v1](http://arxiv.org/abs/2405.05216v1)|[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)|null|
 |**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164v1](http://arxiv.org/abs/2405.05164v1)|null|null|
 |**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|null|
 |**2024-05-08**|**GoalGrasp: Grasping Goals in Partially Occluded Scenarios without Grasp Training**|Shun Gui et.al.|[2405.04783v1](http://arxiv.org/abs/2405.04783v1)|null|null|
