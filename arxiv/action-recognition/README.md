@@ -8,12 +8,12 @@
 |**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|null|null|
 |**2024-05-03**|**MVP-Shot: Multi-Velocity Progressive-Alignment Framework for Few-Shot Action Recognition**|Hongyu Qu et.al.|[2405.02077v1](http://arxiv.org/abs/2405.02077v1)|null|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337v1](http://arxiv.org/abs/2405.01337v1)|null|null|
-|**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542v1](http://arxiv.org/abs/2404.19542v1)|[link](https://github.com/thanhhff/HOTAD)|null|
+|**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542v1](http://arxiv.org/abs/2404.19542v1)|[link](https://github.com/thanhhff/HOTAD)|**[link](https://github.com/thanhhff/HOTAD)**|
 |**2024-04-30**|**Cross-Block Fine-Grained Semantic Cascade for Skeleton-Based Sports Action Recognition**|Zhendong Liu et.al.|[2404.19383v1](http://arxiv.org/abs/2404.19383v1)|null|null|
 |**2024-04-28**|**Enhancing Action Recognition from Low-Quality Skeleton Data via Part-Level Knowledge Distillation**|Cuiwei Liu et.al.|[2404.18206v1](http://arxiv.org/abs/2404.18206v1)|null|null|
 |**2024-04-25**|**Learning Discriminative Spatio-temporal Representations for Semi-supervised Action Recognition**|Yu Wang et.al.|[2404.16416v1](http://arxiv.org/abs/2404.16416v1)|null|null|
 |**2024-04-25**|**An Improved Graph Pooling Network for Skeleton-Based Action Recognition**|Cong Wu et.al.|[2404.16359v1](http://arxiv.org/abs/2404.16359v1)|null|null|
-|**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|[link](https://github.com/liujf69/icmew2024-track10)|null|
+|**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|[link](https://github.com/liujf69/icmew2024-track10)|**[link](https://github.com/liujf69/icmew2024-track10)**|
 |**2024-04-23**|**Combating Missing Modalities in Egocentric Videos at Test Time**|Merey Ramazanova et.al.|[2404.15161v1](http://arxiv.org/abs/2404.15161v1)|null|null|
 |**2024-04-23**|**Driver Activity Classification Using Generalizable Representations from Vision-Language Models**|Ross Greer et.al.|[2404.14906v1](http://arxiv.org/abs/2404.14906v1)|null|null|
 |**2024-04-23**|**DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition**|Haozhe Cheng et.al.|[2404.14890v1](http://arxiv.org/abs/2404.14890v1)|null|null|
@@ -61,14 +61,14 @@
 |**2024-04-01**|**Action Detection via an Image Diffusion Process**|Lin Geng Foo et.al.|[2404.01051v1](http://arxiv.org/abs/2404.01051v1)|null|null|
 |**2024-03-31**|**Dual DETRs for Multi-Label Temporal Action Detection**|Yuhan Zhu et.al.|[2404.00653v1](http://arxiv.org/abs/2404.00653v1)|null|null|
 |**2024-03-31**|**LLMs are Good Action Recognizers**|Haoxuan Qu et.al.|[2404.00532v1](http://arxiv.org/abs/2404.00532v1)|null|null|
-|**2024-03-29**|**Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions**|Runhao Zeng et.al.|[2403.20254v1](http://arxiv.org/abs/2403.20254v1)|null|null|
+|**2024-03-29**|**Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions**|Runhao Zeng et.al.|[2403.20254v1](http://arxiv.org/abs/2403.20254v1)|**[link](https://github.com/alvin-zeng/temporal-robustness-benchmark)**|null|
 |**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031v1](http://arxiv.org/abs/2403.20031v1)|null|null|
 |**2024-03-28**|**Hypergraph-based Multi-View Action Recognition using Event Cameras**|Yue Gao et.al.|[2403.19316v1](http://arxiv.org/abs/2403.19316v1)|null|null|
 |**2024-03-28**|**Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment**|Angchi Xu et.al.|[2403.19225v1](http://arxiv.org/abs/2403.19225v1)|[link](https://github.com/isee-laboratory/cvpr24_atba)|**[link](https://github.com/isee-laboratory/cvpr24_atba)**|
 |**2024-03-27**|**PLOT-TAL -- Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization**|Edward Fish et.al.|[2403.18915v1](http://arxiv.org/abs/2403.18915v1)|null|null|
 |**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935v1](http://arxiv.org/abs/2403.17935v1)|[link](https://github.com/wangjk666/omnivid)|**[link](https://github.com/wangjk666/omnivid)**|
 |**2024-03-25**|**Understanding Long Videos in One Multimodal Language Model Pass**|Kanchana Ranasinghe et.al.|[2403.16998v1](http://arxiv.org/abs/2403.16998v1)|[link](https://github.com/kahnchana/mvu)|**[link](https://github.com/kahnchana/mvu)**|
-|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428v1](http://arxiv.org/abs/2403.16428v1)|**[link](https://github.com/facebookresearch/assemblyhands-toolkit)**|null|
+|**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428v1](http://arxiv.org/abs/2403.16428v1)|**[link](https://github.com/facebookresearch/assemblyhands-toolkit)**|**[link](https://github.com/facebookresearch/assemblyhands-toolkit)**|
 |**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263v1](http://arxiv.org/abs/2403.16263v1)|null|null|
 |**2024-03-17**|**A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition**|Abhi Kamboj et.al.|[2403.15444v1](http://arxiv.org/abs/2403.15444v1)|null|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|[link](https://github.com/opengvlab/internvideo2)|**[link](https://github.com/opengvlab/internvideo2)**|
@@ -138,7 +138,7 @@
 |**2023-12-14**|**Generative Model-based Feature Knowledge Distillation for Action Recognition**|Guiqin Wang et.al.|[2312.08644v1](http://arxiv.org/abs/2312.08644v1)|**[link](https://github.com/aaai-24/generative-based-kd)**|
 |**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|**[link](https://github.com/shahzadnit/ez-clip)**|
 |**2023-12-12**|**Towards a geometric understanding of Spatio Temporal Graph Convolution Networks**|Pratyusha Das et.al.|[2312.07777v1](http://arxiv.org/abs/2312.07777v1)|**[link](https://github.com/daspraty/stg-gradcam)**|
-|**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378v1](http://arxiv.org/abs/2312.07378v1)|null|
+|**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378v1](http://arxiv.org/abs/2312.07378v1)|**[link](https://github.com/jinglinglingling/x4d)**|
 |**2023-12-11**|**Encoding Surgical Videos as Latent Spatiotemporal Graphs for Object and Anatomy-Driven Reasoning**|Aditya Murali et.al.|[2312.06829v1](http://arxiv.org/abs/2312.06829v1)|**[link](https://github.com/camma-public/surglatentgraph)**|
 |**2023-12-11**|**Early Action Recognition with Action Prototypes**|Guglielmo Camporese et.al.|[2312.06598v1](http://arxiv.org/abs/2312.06598v1)|null|
 |**2023-12-11**|**Navigating Open Set Scenarios for Skeleton-based Action Recognition**|Kunyu Peng et.al.|[2312.06330v1](http://arxiv.org/abs/2312.06330v1)|**[link](https://github.com/kpeng9510/os-sar)**|
