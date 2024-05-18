@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2024.05.17
+### Updated on 2024.05.18
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 |**2024-05-13**|**Coarse or Fine? Recognising Action End States without Labels**|Davide Moltisanti et.al.|[2405.07723v1](http://arxiv.org/abs/2405.07723v1)|[link](https://github.com/dmoltisanti/coficut-cvprw24)|null|
 |**2024-05-11**|**PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition**|Shenglin He et.al.|[2405.06929v1](http://arxiv.org/abs/2405.06929v1)|null|null|
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|null|
-|**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|null|null|
+|**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|[link](https://github.com/ispamm/josenet)|null|
 |**2024-05-11**|**MVP-Shot: Multi-Velocity Progressive-Alignment Framework for Few-Shot Action Recognition**|Hongyu Qu et.al.|[2405.02077v2](http://arxiv.org/abs/2405.02077v2)|null|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337v1](http://arxiv.org/abs/2405.01337v1)|null|null|
 |**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542v1](http://arxiv.org/abs/2404.19542v1)|[link](https://github.com/thanhhff/HOTAD)|null|
