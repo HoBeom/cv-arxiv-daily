@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-05-23**|**Enhanced Spatiotemporal Prediction Using Physical-guided And Frequency-enhanced Recurrent Neural Networks**|Xuanle Zhao et.al.|[2405.14504v1](http://arxiv.org/abs/2405.14504v1)|null|null|
+|**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338v1](http://arxiv.org/abs/2405.14338v1)|null|null|
+|**2024-05-22**|**Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks**|Mohit Prabhushankar et.al.|[2405.13758v1](http://arxiv.org/abs/2405.13758v1)|null|null|
+|**2024-05-21**|**Identity-free Artificial Emotional Intelligence via Micro-Gesture Understanding**|Rong Gao et.al.|[2405.13206v1](http://arxiv.org/abs/2405.13206v1)|null|null|
 |**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832v1](http://arxiv.org/abs/2405.10832v1)|null|null|
 |**2024-05-14**|**The impact of Compositionality in Zero-shot Multi-label action recognition for Object-based tasks**|Carmela Calabrese et.al.|[2405.08695v1](http://arxiv.org/abs/2405.08695v1)|null|null|
 |**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344v1](http://arxiv.org/abs/2405.08344v1)|[link](https://github.com/xinghaochen/squeezetime)|null|
