@@ -14,10 +14,10 @@ layout: default
 |**2024-05-21**|**Identity-free Artificial Emotional Intelligence via Micro-Gesture Understanding**|Rong Gao et.al.|[2405.13206v1](http://arxiv.org/abs/2405.13206v1)|null|null|
 |**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832v1](http://arxiv.org/abs/2405.10832v1)|null|null|
 |**2024-05-14**|**The impact of Compositionality in Zero-shot Multi-label action recognition for Object-based tasks**|Carmela Calabrese et.al.|[2405.08695v1](http://arxiv.org/abs/2405.08695v1)|null|null|
-|**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344v1](http://arxiv.org/abs/2405.08344v1)|[link](https://github.com/xinghaochen/squeezetime)|null|
+|**2024-05-14**|**No Time to Waste: Squeeze Time into Channel for Mobile Video Understanding**|Yingjie Zhai et.al.|[2405.08344v1](http://arxiv.org/abs/2405.08344v1)|[link](https://github.com/xinghaochen/squeezetime)|**[link](https://github.com/xinghaochen/squeezetime)**|
 |**2024-05-13**|**A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection**|Matthew Korban et.al.|[2405.08204v1](http://arxiv.org/abs/2405.08204v1)|null|null|
 |**2024-05-15**|**POWQMIX: Weighted Value Factorization with Potentially Optimal Joint Actions Recognition for Cooperative Multi-Agent Reinforcement Learning**|Chang Huang et.al.|[2405.08036v2](http://arxiv.org/abs/2405.08036v2)|null|null|
-|**2024-05-13**|**Coarse or Fine? Recognising Action End States without Labels**|Davide Moltisanti et.al.|[2405.07723v1](http://arxiv.org/abs/2405.07723v1)|[link](https://github.com/dmoltisanti/coficut-cvprw24)|null|
+|**2024-05-13**|**Coarse or Fine? Recognising Action End States without Labels**|Davide Moltisanti et.al.|[2405.07723v1](http://arxiv.org/abs/2405.07723v1)|[link](https://github.com/dmoltisanti/coficut-cvprw24)|**[link](https://github.com/dmoltisanti/coficut-cvprw24)**|
 |**2024-05-11**|**PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition**|Shenglin He et.al.|[2405.06929v1](http://arxiv.org/abs/2405.06929v1)|null|null|
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|null|
 |**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|null|null|
@@ -88,7 +88,7 @@ layout: default
 |**2024-03-17**|**A Survey of IMU Based Cross-Modal Transfer Learning in Human Activity Recognition**|Abhi Kamboj et.al.|[2403.15444v1](http://arxiv.org/abs/2403.15444v1)|null|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|[link](https://github.com/opengvlab/internvideo2)|**[link](https://github.com/opengvlab/internvideo2)**|
 |**2024-03-22**|**GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition**|Lei Jiang et.al.|[2403.15212v1](http://arxiv.org/abs/2403.15212v1)|[link](https://github.com/deepintostreams/gcn-devlstm)|**[link](https://github.com/deepintostreams/gcn-devlstm)**|
-|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|null|null|
+|**2024-03-20**|**Hierarchical NeuroSymbolic Approach for Action Quality Assessment**|Lauren Okamoto et.al.|[2403.13798v1](http://arxiv.org/abs/2403.13798v1)|**[link](https://github.com/laurenok24/nsaqa)**|null|
 |**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710v1](http://arxiv.org/abs/2403.12710v1)|null|null|
 |**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|null|
 |**2024-03-19**|**VideoBadminton: A Video Dataset for Badminton Action Recognition**|Qi Li et.al.|[2403.12385v1](http://arxiv.org/abs/2403.12385v1)|null|null|
@@ -157,7 +157,7 @@ layout: default
 |**2023-12-11**|**Encoding Surgical Videos as Latent Spatiotemporal Graphs for Object and Anatomy-Driven Reasoning**|Aditya Murali et.al.|[2312.06829v1](http://arxiv.org/abs/2312.06829v1)|**[link](https://github.com/camma-public/surglatentgraph)**|
 |**2023-12-11**|**Early Action Recognition with Action Prototypes**|Guglielmo Camporese et.al.|[2312.06598v1](http://arxiv.org/abs/2312.06598v1)|null|
 |**2023-12-11**|**Navigating Open Set Scenarios for Skeleton-based Action Recognition**|Kunyu Peng et.al.|[2312.06330v1](http://arxiv.org/abs/2312.06330v1)|**[link](https://github.com/kpeng9510/os-sar)**|
-|**2023-12-10**|**DVANet: Disentangling View and Action Features for Multi-View Action Recognition**|Nyle Siddiqui et.al.|[2312.05719v1](http://arxiv.org/abs/2312.05719v1)|null|
+|**2023-12-10**|**DVANet: Disentangling View and Action Features for Multi-View Action Recognition**|Nyle Siddiqui et.al.|[2312.05719v1](http://arxiv.org/abs/2312.05719v1)|**[link](https://github.com/NyleSiddiqui/MultiView_Actions)**|
 |**2023-12-06**|**From Detection to Action Recognition: An Edge-Based Pipeline for Robot Human Perception**|Petros Toupas et.al.|[2312.03477v1](http://arxiv.org/abs/2312.03477v1)|null|
 |**2023-12-06**|**STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition**|Nguyen Huu Bao Long et.al.|[2312.03288v1](http://arxiv.org/abs/2312.03288v1)|**[link](https://github.com/maclong01/STEP-CATFormer)**|
 |**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963v1](http://arxiv.org/abs/2312.02963v1)|null|
