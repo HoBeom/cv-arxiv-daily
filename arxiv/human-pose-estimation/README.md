@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|null|
 |**2024-05-28**|**World Models for General Surgical Grasping**|Hongbin Lin et.al.|[2405.17940v1](http://arxiv.org/abs/2405.17940v1)|null|null|
 |**2024-05-27**|**MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**|Jiahui Lei et.al.|[2405.17421v1](http://arxiv.org/abs/2405.17421v1)|null|null|
 |**2024-05-27**|**Occlusion Handling in 3D Human Pose Estimation with Perturbed Positional Encoding**|Niloofar Azizi et.al.|[2405.17397v1](http://arxiv.org/abs/2405.17397v1)|null|null|
