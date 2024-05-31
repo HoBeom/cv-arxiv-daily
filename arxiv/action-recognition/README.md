@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025v1](http://arxiv.org/abs/2405.20025v1)|null|null|
+|**2024-05-30**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917v1](http://arxiv.org/abs/2405.19917v1)|null|null|
+|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|null|null|
 |**2024-05-29**|**Matrix Manifold Neural Networks++**|Xuan Son Nguyen et.al.|[2405.19206v1](http://arxiv.org/abs/2405.19206v1)|null|null|
 |**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|null|
 |**2024-05-28**|**Hierarchical Action Recognition: A Contrastive Video-Language Approach with Hierarchical Interactions**|Rui Zhang et.al.|[2405.17729v1](http://arxiv.org/abs/2405.17729v1)|null|null|
