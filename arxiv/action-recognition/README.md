@@ -13,7 +13,7 @@
 |**2024-05-29**|**Matrix Manifold Neural Networks++**|Xuan Son Nguyen et.al.|[2405.19206v1](http://arxiv.org/abs/2405.19206v1)|null|null|
 |**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|null|
 |**2024-05-28**|**Hierarchical Action Recognition: A Contrastive Video-Language Approach with Hierarchical Interactions**|Rui Zhang et.al.|[2405.17729v1](http://arxiv.org/abs/2405.17729v1)|null|null|
-|**2024-05-28**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719v1](http://arxiv.org/abs/2405.17719v1)|[link](https://github.com/xuboshen/egoncepp)|null|
+|**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719v2](http://arxiv.org/abs/2405.17719v2)|[link](https://github.com/xuboshen/egoncepp)|null|
 |**2024-05-27**|**A Cross-Dataset Study for Text-based 3D Human Motion Retrieval**|Léore Bensabath et.al.|[2405.16909v1](http://arxiv.org/abs/2405.16909v1)|null|null|
 |**2024-05-26**|**Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception**|Shuangpeng Han et.al.|[2405.16493v1](http://arxiv.org/abs/2405.16493v1)|null|null|
 |**2024-05-25**|**Efficient Temporal Action Segmentation via Boundary-aware Query Voting**|Peiyao Wang et.al.|[2405.15995v1](http://arxiv.org/abs/2405.15995v1)|[link](https://github.com/peiyao-w/baformer)|**[link](https://github.com/peiyao-w/baformer)**|
