@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509v1](http://arxiv.org/abs/2406.02509v1)|null|null|
+|**2024-06-04**|**HPE-CogVLM: New Head Pose Grounding Task Exploration on Vision Language Model**|Yu Tian et.al.|[2406.01914v1](http://arxiv.org/abs/2406.01914v1)|null|null|
+|**2024-06-03**|**A Robust Filter for Marker-less Multi-person Tracking in Human-Robot Interaction Scenarios**|Enrico Martini et.al.|[2406.01832v1](http://arxiv.org/abs/2406.01832v1)|[link](https://github.com/penn-figueroa-lab/markerless-human-perception)|null|
+|**2024-06-01**|**Equivariant amortized inference of poses for cryo-EM**|Larissa de Ruijter et.al.|[2406.01630v1](http://arxiv.org/abs/2406.01630v1)|null|null|
+|**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|null|null|
+|**2024-06-03**|**3D WholeBody Pose Estimation based on Semantic Graph Attention Network and Distance Information**|Sihan Wen et.al.|[2406.01196v1](http://arxiv.org/abs/2406.01196v1)|null|null|
+|**2024-06-02**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v1](http://arxiv.org/abs/2406.00676v1)|null|null|
+|**2024-06-01**|**CapeX: Category-Agnostic Pose Estimation from Textual Point Explanation**|Matan Rusanovsky et.al.|[2406.00384v1](http://arxiv.org/abs/2406.00384v1)|null|null|
 |**2024-05-30**|**Estimating Human Poses Across Datasets: A Unified Skeleton and Multi-Teacher Distillation Approach**|Muhammad Saif Ullah Khan et.al.|[2405.20084v1](http://arxiv.org/abs/2405.20084v1)|null|null|
 |**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614v1](http://arxiv.org/abs/2405.19614v1)|null|null|
 |**2024-05-29**|**Real-Time Dynamic Robot-Assisted Hand-Object Interaction via Motion Primitives**|Mingqi Yuan et.al.|[2405.19531v1](http://arxiv.org/abs/2405.19531v1)|null|null|

@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-06-04**|**DL-KDD: Dual-Light Knowledge Distillation for Action Recognition in the Dark**|Chi-Jui Chang et.al.|[2406.02468v1](http://arxiv.org/abs/2406.02468v1)|null|null|
+|**2024-06-03**|**ELSA: Evaluating Localization of Social Activities in Urban Streets**|Maryam Hosseini et.al.|[2406.01551v1](http://arxiv.org/abs/2406.01551v1)|null|null|
+|**2024-06-03**|**Object Aware Egocentric Online Action Detection**|Joungbin An et.al.|[2406.01079v1](http://arxiv.org/abs/2406.01079v1)|null|null|
+|**2024-06-03**|**Understanding the Cross-Domain Capabilities of Video-Based Few-Shot Action Recognition Models**|Georgia Markham et.al.|[2406.01073v1](http://arxiv.org/abs/2406.01073v1)|null|null|
+|**2024-06-02**|**An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition**|Haojun Xu et.al.|[2406.00639v1](http://arxiv.org/abs/2406.00639v1)|null|null|
 |**2024-05-31**|**MALT: Multi-scale Action Learning Transformer for Online Action Detection**|Zhipeng Yang et.al.|[2405.20892v1](http://arxiv.org/abs/2405.20892v1)|null|null|
 |**2024-05-31**|**Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**|Jing Xu et.al.|[2405.20633v1](http://arxiv.org/abs/2405.20633v1)|null|null|
 |**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606v1](http://arxiv.org/abs/2405.20606v1)|null|null|
