@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|null|
+|**2024-06-05**|**Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond**|Jiahang Zhang et.al.|[2406.02978v1](http://arxiv.org/abs/2406.02978v1)|null|null|
+|**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631v1](http://arxiv.org/abs/2406.02631v1)|null|null|
 |**2024-06-04**|**DL-KDD: Dual-Light Knowledge Distillation for Action Recognition in the Dark**|Chi-Jui Chang et.al.|[2406.02468v1](http://arxiv.org/abs/2406.02468v1)|null|null|
 |**2024-06-03**|**ELSA: Evaluating Localization of Social Activities in Urban Streets**|Maryam Hosseini et.al.|[2406.01551v1](http://arxiv.org/abs/2406.01551v1)|null|null|
 |**2024-06-03**|**Object Aware Egocentric Online Action Detection**|Joungbin An et.al.|[2406.01079v1](http://arxiv.org/abs/2406.01079v1)|null|null|
