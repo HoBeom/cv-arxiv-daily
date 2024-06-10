@@ -14,22 +14,22 @@
 |**2024-06-02**|**An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition**|Haojun Xu et.al.|[2406.00639v1](http://arxiv.org/abs/2406.00639v1)|null|null|
 |**2024-06-06**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307v2](http://arxiv.org/abs/2406.00307v2)|null|null|
 |**2024-05-31**|**MALT: Multi-scale Action Learning Transformer for Online Action Detection**|Zhipeng Yang et.al.|[2405.20892v1](http://arxiv.org/abs/2405.20892v1)|null|null|
-|**2024-05-31**|**Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**|Jing Xu et.al.|[2405.20633v1](http://arxiv.org/abs/2405.20633v1)|[link](https://github.com/yilliajing/action-ood)|null|
+|**2024-05-31**|**Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**|Jing Xu et.al.|[2405.20633v1](http://arxiv.org/abs/2405.20633v1)|[link](https://github.com/yilliajing/action-ood)|**[link](https://github.com/yilliajing/action-ood)**|
 |**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606v1](http://arxiv.org/abs/2405.20606v1)|null|null|
 |**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025v1](http://arxiv.org/abs/2405.20025v1)|null|null|
 |**2024-05-31**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917v2](http://arxiv.org/abs/2405.19917v2)|null|null|
-|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|null|
+|**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|**[link](https://github.com/fujiry0/egosurgery)**|
 |**2024-05-29**|**Matrix Manifold Neural Networks++**|Xuan Son Nguyen et.al.|[2405.19206v1](http://arxiv.org/abs/2405.19206v1)|null|null|
 |**2024-05-29**|**Exploring AI-based Anonymization of Industrial Image and Video Data in the Context of Feature Preservation**|Sabrina Cynthia Triess et.al.|[2405.19173v1](http://arxiv.org/abs/2405.19173v1)|null|null|
 |**2024-05-28**|**Hierarchical Action Recognition: A Contrastive Video-Language Approach with Hierarchical Interactions**|Rui Zhang et.al.|[2405.17729v1](http://arxiv.org/abs/2405.17729v1)|null|null|
-|**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719v2](http://arxiv.org/abs/2405.17719v2)|[link](https://github.com/xuboshen/egoncepp)|null|
+|**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719v2](http://arxiv.org/abs/2405.17719v2)|[link](https://github.com/xuboshen/egoncepp)|**[link](https://github.com/xuboshen/egoncepp)**|
 |**2024-05-27**|**A Cross-Dataset Study for Text-based 3D Human Motion Retrieval**|Léore Bensabath et.al.|[2405.16909v1](http://arxiv.org/abs/2405.16909v1)|null|null|
 |**2024-05-26**|**Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception**|Shuangpeng Han et.al.|[2405.16493v1](http://arxiv.org/abs/2405.16493v1)|null|null|
 |**2024-05-25**|**Efficient Temporal Action Segmentation via Boundary-aware Query Voting**|Peiyao Wang et.al.|[2405.15995v1](http://arxiv.org/abs/2405.15995v1)|[link](https://github.com/peiyao-w/baformer)|**[link](https://github.com/peiyao-w/baformer)**|
 |**2024-05-22**|**From CNNs to Transformers in Multimodal Human Action Recognition: A Survey**|Muhammad Bilal Shaikh et.al.|[2405.15813v1](http://arxiv.org/abs/2405.15813v1)|null|null|
 |**2024-05-23**|**Enhanced Spatiotemporal Prediction Using Physical-guided And Frequency-enhanced Recurrent Neural Networks**|Xuanle Zhao et.al.|[2405.14504v1](http://arxiv.org/abs/2405.14504v1)|null|null|
 |**2024-05-23**|**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**|Jiuming Liu et.al.|[2405.14338v1](http://arxiv.org/abs/2405.14338v1)|null|null|
-|**2024-05-22**|**Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks**|Mohit Prabhushankar et.al.|[2405.13758v1](http://arxiv.org/abs/2405.13758v1)|**[link](https://github.com/olivesgatech/gradtrust)**|null|
+|**2024-05-22**|**Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks**|Mohit Prabhushankar et.al.|[2405.13758v1](http://arxiv.org/abs/2405.13758v1)|**[link](https://github.com/olivesgatech/gradtrust)**|**[link](https://github.com/olivesgatech/gradtrust)**|
 |**2024-05-21**|**Identity-free Artificial Emotional Intelligence via Micro-Gesture Understanding**|Rong Gao et.al.|[2405.13206v1](http://arxiv.org/abs/2405.13206v1)|null|null|
 |**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832v1](http://arxiv.org/abs/2405.10832v1)|null|null|
 |**2024-05-14**|**The impact of Compositionality in Zero-shot Multi-label action recognition for Object-based tasks**|Carmela Calabrese et.al.|[2405.08695v1](http://arxiv.org/abs/2405.08695v1)|null|null|
@@ -62,7 +62,7 @@
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605v1](http://arxiv.org/abs/2404.11605v1)|[link](https://github.com/shark0-0/vg4d)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**Lower Limb Movements Recognition Based on Feature Recursive Elimination and Backpropagation Neural Network**|Yongkai Ma et.al.|[2404.11383v1](http://arxiv.org/abs/2404.11383v1)|null|null|
 |**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|null|
-|**2024-04-13**|**Multimodal Attack Detection for Action Recognition Models**|Furkan Mumcu et.al.|[2404.10790v1](http://arxiv.org/abs/2404.10790v1)|**[link](https://github.com/furkanmumcu/vlad)**|null|
+|**2024-04-13**|**Multimodal Attack Detection for Action Recognition Models**|Furkan Mumcu et.al.|[2404.10790v1](http://arxiv.org/abs/2404.10790v1)|**[link](https://github.com/furkanmumcu/vlad)**|**[link](https://github.com/furkanmumcu/vlad)**|
 |**2024-04-17**|**Learning to Score Sign Language with Two-stage Method**|Hongli Wen et.al.|[2404.10383v2](http://arxiv.org/abs/2404.10383v2)|null|null|
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|null|
 |**2024-04-15**|**STMixer: A One-Stage Sparse Action Detector**|Tao Wu et.al.|[2404.09842v1](http://arxiv.org/abs/2404.09842v1)|null|null|
