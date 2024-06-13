@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|null|null|
+|**2024-06-12**|**Asymptotic Unbiased Sample Sampling to Speed Up Sharpness-Aware Minimization**|Jiaxin Deng et.al.|[2406.08001v1](http://arxiv.org/abs/2406.08001v1)|null|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937v1](http://arxiv.org/abs/2406.07937v1)|null|null|
+|**2024-06-12**|**ExoSpikeNet: A Light Curve Analysis Based Spiking Neural Network for Exoplanet Detection**|Maneet Chatterjee et.al.|[2406.07927v1](http://arxiv.org/abs/2406.07927v1)|null|null|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|null|null|
 |**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|null|
 |**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328v1](http://arxiv.org/abs/2406.07328v1)|null|null|
 |**2024-06-11**|**SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**|Shester Gueuwou et.al.|[2406.06907v1](http://arxiv.org/abs/2406.06907v1)|null|null|
