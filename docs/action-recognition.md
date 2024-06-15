@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-13**|**EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding**|Yuan-Ming Li et.al.|[2406.08877v1](http://arxiv.org/abs/2406.08877v1)|[link](https://github.com/isee-laboratory/egoexo-fitness)|null|
 |**2024-06-10**|**Photosynthetic energy transfer: missing in action (detected spectroscopy)?**|Ariba Javed et.al.|[2406.06784v1](http://arxiv.org/abs/2406.06784v1)|null|null|
 |**2024-06-10**|**An Effective-Efficient Approach for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2406.06187v1](http://arxiv.org/abs/2406.06187v1)|null|null|
 |**2024-06-09**|**ALGO: Object-Grounded Visual Commonsense Reasoning for Open-World Egocentric Action Recognition**|Sanjoy Kundu et.al.|[2406.05722v1](http://arxiv.org/abs/2406.05722v1)|null|null|
