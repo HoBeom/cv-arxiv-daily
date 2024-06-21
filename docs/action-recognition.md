@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|null|
 |**2024-06-18**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340v2](http://arxiv.org/abs/2406.11340v2)|null|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905v1](http://arxiv.org/abs/2406.09905v1)|null|null|

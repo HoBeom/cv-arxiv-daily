@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-20**|**Benchmarking Monocular 3D Dog Pose Estimation Using In-The-Wild Motion Capture Data**|Moira Shooter et.al.|[2406.14412v1](http://arxiv.org/abs/2406.14412v1)|null|null|
+|**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[2406.14367v1](http://arxiv.org/abs/2406.14367v1)|null|null|
+|**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|null|
+|**2024-06-19**|**CNN Based Flank Predictor for Quadruped Animal Species**|Vanessa Suessle et.al.|[2406.13588v1](http://arxiv.org/abs/2406.13588v1)|null|null|
+|**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515v1](http://arxiv.org/abs/2406.13515v1)|null|null|
+|**2024-06-19**|**An Efficient yet High-Performance Method for Precise Radar-Based Imaging of Human Hand Poses**|Johanna Bräunig et.al.|[2406.13464v1](http://arxiv.org/abs/2406.13464v1)|null|null|
+|**2024-06-18**|**Head Pose Estimation and 3D Neural Surface Reconstruction via Monocular Camera in situ for Navigation and Safe Insertion into Natural Openings**|Ruijie Tang et.al.|[2406.13048v1](http://arxiv.org/abs/2406.13048v1)|null|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766v1](http://arxiv.org/abs/2406.11766v1)|null|null|
 |**2024-06-17**|**Domain Generalization for In-Orbit 6D Pose Estimation**|Antoine Legrand et.al.|[2406.11743v1](http://arxiv.org/abs/2406.11743v1)|null|null|
 |**2024-06-17**|**SeamPose: Repurposing Seams as Capacitive Sensors in a Shirt for Upper-Body Pose Tracking**|Tianhong Catherine Yu et.al.|[2406.11645v1](http://arxiv.org/abs/2406.11645v1)|null|null|
