@@ -8,15 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|**[link](https://github.com/azzh1/purls)**|
+|**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034v1](http://arxiv.org/abs/2406.15034v1)|null|null|
+|**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|null|
 |**2024-06-18**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340v2](http://arxiv.org/abs/2406.11340v2)|null|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905v1](http://arxiv.org/abs/2406.09905v1)|null|null|
-|**2024-06-13**|**EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding**|Yuan-Ming Li et.al.|[2406.08877v1](http://arxiv.org/abs/2406.08877v1)|[link](https://github.com/isee-laboratory/egoexo-fitness)|**[link](https://github.com/isee-laboratory/egoexo-fitness)**|
+|**2024-06-13**|**EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding**|Yuan-Ming Li et.al.|[2406.08877v1](http://arxiv.org/abs/2406.08877v1)|[link](https://github.com/isee-laboratory/egoexo-fitness)|null|
 |**2024-06-10**|**Photosynthetic energy transfer: missing in action (detected spectroscopy)?**|Ariba Javed et.al.|[2406.06784v1](http://arxiv.org/abs/2406.06784v1)|null|null|
 |**2024-06-10**|**An Effective-Efficient Approach for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2406.06187v1](http://arxiv.org/abs/2406.06187v1)|null|null|
 |**2024-06-09**|**ALGO: Object-Grounded Visual Commonsense Reasoning for Open-World Egocentric Action Recognition**|Sanjoy Kundu et.al.|[2406.05722v1](http://arxiv.org/abs/2406.05722v1)|null|null|
-|**2024-06-07**|**SMART: Scene-motion-aware human action recognition framework for mental disorder group**|Zengyuan Lai et.al.|[2406.04649v1](http://arxiv.org/abs/2406.04649v1)|[link](https://github.com/inowlzy/smart)|**[link](https://github.com/inowlzy/smart)**|
+|**2024-06-07**|**SMART: Scene-motion-aware human action recognition framework for mental disorder group**|Zengyuan Lai et.al.|[2406.04649v1](http://arxiv.org/abs/2406.04649v1)|[link](https://github.com/inowlzy/smart)|null|
 |**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|null|
 |**2024-06-05**|**Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond**|Jiahang Zhang et.al.|[2406.02978v1](http://arxiv.org/abs/2406.02978v1)|null|null|
 |**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631v1](http://arxiv.org/abs/2406.02631v1)|null|null|
