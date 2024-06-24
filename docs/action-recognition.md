@@ -8,15 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|null|
+|**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|**[link](https://github.com/azzh1/purls)**|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|null|
 |**2024-06-18**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340v2](http://arxiv.org/abs/2406.11340v2)|null|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905v1](http://arxiv.org/abs/2406.09905v1)|null|null|
-|**2024-06-13**|**EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding**|Yuan-Ming Li et.al.|[2406.08877v1](http://arxiv.org/abs/2406.08877v1)|[link](https://github.com/isee-laboratory/egoexo-fitness)|null|
+|**2024-06-13**|**EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding**|Yuan-Ming Li et.al.|[2406.08877v1](http://arxiv.org/abs/2406.08877v1)|[link](https://github.com/isee-laboratory/egoexo-fitness)|**[link](https://github.com/isee-laboratory/egoexo-fitness)**|
 |**2024-06-10**|**Photosynthetic energy transfer: missing in action (detected spectroscopy)?**|Ariba Javed et.al.|[2406.06784v1](http://arxiv.org/abs/2406.06784v1)|null|null|
 |**2024-06-10**|**An Effective-Efficient Approach for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2406.06187v1](http://arxiv.org/abs/2406.06187v1)|null|null|
 |**2024-06-09**|**ALGO: Object-Grounded Visual Commonsense Reasoning for Open-World Egocentric Action Recognition**|Sanjoy Kundu et.al.|[2406.05722v1](http://arxiv.org/abs/2406.05722v1)|null|null|
-|**2024-06-07**|**SMART: Scene-motion-aware human action recognition framework for mental disorder group**|Zengyuan Lai et.al.|[2406.04649v1](http://arxiv.org/abs/2406.04649v1)|[link](https://github.com/inowlzy/smart)|null|
+|**2024-06-07**|**SMART: Scene-motion-aware human action recognition framework for mental disorder group**|Zengyuan Lai et.al.|[2406.04649v1](http://arxiv.org/abs/2406.04649v1)|[link](https://github.com/inowlzy/smart)|**[link](https://github.com/inowlzy/smart)**|
 |**2024-06-05**|**FILS: Self-Supervised Video Feature Prediction In Semantic Language Space**|Mona Ahmadian et.al.|[2406.03447v1](http://arxiv.org/abs/2406.03447v1)|null|null|
 |**2024-06-05**|**Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond**|Jiahang Zhang et.al.|[2406.02978v1](http://arxiv.org/abs/2406.02978v1)|null|null|
 |**2024-06-04**|**Contrastive Language Video Time Pre-training**|Hengyue Liu et.al.|[2406.02631v1](http://arxiv.org/abs/2406.02631v1)|null|null|
@@ -29,7 +29,7 @@ layout: default
 |**2024-05-31**|**MALT: Multi-scale Action Learning Transformer for Online Action Detection**|Zhipeng Yang et.al.|[2405.20892v1](http://arxiv.org/abs/2405.20892v1)|null|null|
 |**2024-05-31**|**Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**|Jing Xu et.al.|[2405.20633v1](http://arxiv.org/abs/2405.20633v1)|[link](https://github.com/yilliajing/action-ood)|**[link](https://github.com/yilliajing/action-ood)**|
 |**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606v1](http://arxiv.org/abs/2405.20606v1)|null|null|
-|**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025v1](http://arxiv.org/abs/2405.20025v1)|null|null|
+|**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025v1](http://arxiv.org/abs/2405.20025v1)|**[link](https://github.com/mitchfuchs/chimpbehave)**|null|
 |**2024-05-31**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917v2](http://arxiv.org/abs/2405.19917v2)|null|null|
 |**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|**[link](https://github.com/fujiry0/egosurgery)**|
 |**2024-05-29**|**Matrix Manifold Neural Networks++**|Xuan Son Nguyen et.al.|[2405.19206v1](http://arxiv.org/abs/2405.19206v1)|null|null|
@@ -369,7 +369,7 @@ layout: default
 |**2023-06-01**|**Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints**|Jiachen Li et.al.|[2306.01075v1](http://arxiv.org/abs/2306.01075v1)|null|
 |**2023-05-31**|**Humans in 4D: Reconstructing and Tracking Humans with Transformers**|Shubham Goel et.al.|[2305.20091v1](http://arxiv.org/abs/2305.20091v1)|**[link](https://github.com/shubham-goel/4D-Humans)**|
 |**2023-05-31**|**fpgaHART: A toolflow for throughput-oriented acceleration of 3D CNNs for HAR onto FPGAs**|Petros Toupas et.al.|[2305.19896v1](http://arxiv.org/abs/2305.19896v1)|null|
-|**2023-05-30**|**High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition**|Ziao Li et.al.|[2305.18710v1](http://arxiv.org/abs/2305.18710v1)|null|
+|**2023-05-30**|**High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition**|Ziao Li et.al.|[2305.18710v1](http://arxiv.org/abs/2305.18710v1)|**[link](https://github.com/lizaowo/hpi-gcn)**|
 |**2023-05-29**|**FMM-X3D: FPGA-based modeling and mapping of X3D for Human Action Recognition**|Petros Toupas et.al.|[2305.18479v1](http://arxiv.org/abs/2305.18479v1)|null|
 |**2023-05-29**|**Fourier Analysis on Robustness of Graph Convolutional Neural Networks for Skeleton-based Action Recognition**|Nariki Tanaka et.al.|[2305.17939v1](http://arxiv.org/abs/2305.17939v1)|**[link](https://github.com/nntanaka/Fourier-Analysis-for-Skeleton-based-Action-Recognition)**|
 |**2023-05-26**|**CVB: A Video Dataset of Cattle Visual Behaviors**|Ali Zia et.al.|[2305.16555v1](http://arxiv.org/abs/2305.16555v1)|null|
