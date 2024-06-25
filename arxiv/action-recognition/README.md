@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-06-21**|**Open-Vocabulary Temporal Action Localization using Multimodal Guidance**|Akshita Gupta et.al.|[2406.15556v1](http://arxiv.org/abs/2406.15556v1)|null|null|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034v1](http://arxiv.org/abs/2406.15034v1)|null|null|
 |**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327v1](http://arxiv.org/abs/2406.13327v1)|[link](https://github.com/azzh1/purls)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|null|
