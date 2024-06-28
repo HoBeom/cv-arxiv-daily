@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323v1](http://arxiv.org/abs/2406.19323v1)|null|null|
+|**2024-06-27**|**Human Modelling and Pose Estimation Overview**|Pawel Knap et.al.|[2406.19290v1](http://arxiv.org/abs/2406.19290v1)|null|null|
 |**2024-06-26**|**Towards Human-Level 3D Relative Pose Estimation: Generalizable, Training-Free, with Single Reference**|Yuan Gao et.al.|[2406.18453v1](http://arxiv.org/abs/2406.18453v1)|[link](https://github.com/ethanygao/training-free_generalizable_relative_pose)|null|
 |**2024-06-26**|**DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image**|Qingxuan Wu et.al.|[2406.17988v1](http://arxiv.org/abs/2406.17988v1)|null|null|
 |**2024-06-27**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382v2](http://arxiv.org/abs/2406.17382v2)|null|null|
