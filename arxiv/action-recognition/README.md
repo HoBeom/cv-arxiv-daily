@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872v1](http://arxiv.org/abs/2407.01872v1)|[link](https://github.com/kpeng9510/ravar)|null|
+|**2024-07-01**|**Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning**|Matteo Mosconi et.al.|[2407.01397v1](http://arxiv.org/abs/2407.01397v1)|[link](https://github.com/sperimental3/charon)|null|
+|**2024-06-30**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696v1](http://arxiv.org/abs/2407.00696v1)|[link](https://github.com/wangjs96/graph-in-graph-neural-network)|null|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006v1](http://arxiv.org/abs/2406.19006v1)|[link](https://github.com/hotfinda/videomambapro)|null|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113v1](http://arxiv.org/abs/2406.18113v1)|[link](https://github.com/sudo-Boris/mr-Blip)|null|
 |**2024-07-01**|**EgoVideo: Exploring Egocentric Foundation Model and Downstream Adaptation**|Baoqi Pei et.al.|[2406.18070v4](http://arxiv.org/abs/2406.18070v4)|[link](https://github.com/opengvlab/egovideo)|null|

@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455v1](http://arxiv.org/abs/2407.02455v1)|null|null|
+|**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129v1](http://arxiv.org/abs/2407.02129v1)|null|null|
+|**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104v1](http://arxiv.org/abs/2407.02104v1)|null|null|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|[link](https://github.com/visresearch/mgc)|null|
+|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|null|
+|**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|null|null|
+|**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013v1](http://arxiv.org/abs/2407.01013v1)|null|null|
+|**2024-06-30**|**Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation**|Adnan Abdullah et.al.|[2407.00848v1](http://arxiv.org/abs/2407.00848v1)|null|null|
+|**2024-06-29**|**When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration**|Philipp Allgeuer et.al.|[2407.00518v1](http://arxiv.org/abs/2407.00518v1)|null|null|
+|**2024-06-28**|**Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review**|Moseli Mots'oehli et.al.|[2407.00252v1](http://arxiv.org/abs/2407.00252v1)|null|null|
 |**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726v1](http://arxiv.org/abs/2406.19726v1)|null|null|
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|null|
 |**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323v1](http://arxiv.org/abs/2406.19323v1)|null|null|
