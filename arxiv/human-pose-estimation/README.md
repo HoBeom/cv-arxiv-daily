@@ -4,12 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384v1](http://arxiv.org/abs/2407.04384v1)|[link](https://github.com/genintel/uns-obj-pose3d)|null|
+|**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041v1](http://arxiv.org/abs/2407.04041v1)|null|null|
+|**2024-07-04**|**Markerless Multi-view 3D Human Pose Estimation: a survey**|Ana Filipa Rodrigues Nogueira et.al.|[2407.03817v1](http://arxiv.org/abs/2407.03817v1)|null|null|
+|**2024-07-04**|**A Fast Dynamic Point Detection Method for LiDAR-Inertial Odometry in Driving Scenarios**|Zikang Yuan et.al.|[2407.03590v1](http://arxiv.org/abs/2407.03590v1)|null|null|
 |**2024-07-03**|**Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation**|Mengmeng Cui et.al.|[2407.02990v1](http://arxiv.org/abs/2407.02990v1)|null|null|
-|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|[link](https://github.com/wrld/free-surgs)|**[link](https://github.com/wrld/free-surgs)**|
+|**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918v1](http://arxiv.org/abs/2407.02918v1)|[link](https://github.com/wrld/free-surgs)|null|
 |**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455v1](http://arxiv.org/abs/2407.02455v1)|null|null|
 |**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129v1](http://arxiv.org/abs/2407.02129v1)|null|null|
 |**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104v1](http://arxiv.org/abs/2407.02104v1)|null|null|
-|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|[link](https://github.com/visresearch/mgc)|**[link](https://github.com/visresearch/mgc)**|
+|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014v1](http://arxiv.org/abs/2407.02014v1)|[link](https://github.com/visresearch/mgc)|null|
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|null|
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|null|null|
 |**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013v1](http://arxiv.org/abs/2407.01013v1)|null|null|

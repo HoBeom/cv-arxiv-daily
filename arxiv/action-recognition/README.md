@@ -4,12 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2024-07-03**|**DyFADet: Dynamic Feature Aggregation for Temporal Action Detection**|Le Yang et.al.|[2407.03197v1](http://arxiv.org/abs/2407.03197v1)|[link](https://github.com/yangle15/DyFADet-pytorch)|**[link](https://github.com/yangle15/DyFADet-pytorch)**|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|null|
+|**2024-07-05**|**Micro-gesture Online Recognition using Learnable Query Points**|Pengyu Liu et.al.|[2407.04490v1](http://arxiv.org/abs/2407.04490v1)|null|null|
+|**2024-07-05**|**TF-SASM: Training-free Spatial-aware Sparse Memory for Multi-object Tracking**|Thuc Nguyen-Quang et.al.|[2407.04327v1](http://arxiv.org/abs/2407.04327v1)|null|null|
+|**2024-07-05**|**Computer Vision for Clinical Gait Analysis: A Gait Abnormality Video Dataset**|Rahm Ranjan et.al.|[2407.04190v1](http://arxiv.org/abs/2407.04190v1)|null|null|
+|**2024-07-03**|**DyFADet: Dynamic Feature Aggregation for Temporal Action Detection**|Le Yang et.al.|[2407.03197v1](http://arxiv.org/abs/2407.03197v1)|[link](https://github.com/yangle15/DyFADet-pytorch)|null|
 |**2024-07-03**|**Motion meets Attention: Video Motion Prompts**|Qixiang Chen et.al.|[2407.03179v1](http://arxiv.org/abs/2407.03179v1)|null|null|
-|**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713v1](http://arxiv.org/abs/2407.02713v1)|[link](https://github.com/Efstathia-Soufleri/PKD)|**[link](https://github.com/Efstathia-Soufleri/PKD)**|
-|**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872v1](http://arxiv.org/abs/2407.01872v1)|[link](https://github.com/kpeng9510/ravar)|**[link](https://github.com/kpeng9510/ravar)**|
-|**2024-07-01**|**Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning**|Matteo Mosconi et.al.|[2407.01397v1](http://arxiv.org/abs/2407.01397v1)|[link](https://github.com/sperimental3/charon)|**[link](https://github.com/sperimental3/charon)**|
-|**2024-06-30**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696v1](http://arxiv.org/abs/2407.00696v1)|[link](https://github.com/wangjs96/graph-in-graph-neural-network)|**[link](https://github.com/wangjs96/graph-in-graph-neural-network)**|
+|**2024-07-02**|**Advancing Compressed Video Action Recognition through Progressive Knowledge Distillation**|Efstathia Soufleri et.al.|[2407.02713v1](http://arxiv.org/abs/2407.02713v1)|[link](https://github.com/Efstathia-Soufleri/PKD)|null|
+|**2024-07-02**|**Referring Atomic Video Action Recognition**|Kunyu Peng et.al.|[2407.01872v1](http://arxiv.org/abs/2407.01872v1)|[link](https://github.com/kpeng9510/ravar)|null|
+|**2024-07-01**|**Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning**|Matteo Mosconi et.al.|[2407.01397v1](http://arxiv.org/abs/2407.01397v1)|[link](https://github.com/sperimental3/charon)|null|
+|**2024-06-30**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696v1](http://arxiv.org/abs/2407.00696v1)|[link](https://github.com/wangjs96/graph-in-graph-neural-network)|null|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006v1](http://arxiv.org/abs/2406.19006v1)|[link](https://github.com/hotfinda/videomambapro)|**[link](https://github.com/hotfinda/videomambapro)**|
 |**2024-06-26**|**The Surprising Effectiveness of Multimodal Large Language Models for Video Moment Retrieval**|Meinardus Boris et.al.|[2406.18113v1](http://arxiv.org/abs/2406.18113v1)|[link](https://github.com/sudo-Boris/mr-Blip)|**[link](https://github.com/sudo-Boris/mr-Blip)**|
 |**2024-07-01**|**EgoVideo: Exploring Egocentric Foundation Model and Downstream Adaptation**|Baoqi Pei et.al.|[2406.18070v4](http://arxiv.org/abs/2406.18070v4)|[link](https://github.com/opengvlab/egovideo)|**[link](https://github.com/opengvlab/egovideo)**|
