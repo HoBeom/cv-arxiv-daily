@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-08**|**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**|Rongchang Li et.al.|[2407.06113v1](http://arxiv.org/abs/2407.06113v1)|[link](https://github.com/rongchangli/zscar_c2c)|null|
+|**2024-07-08**|**DMSD-CDFSAR: Distillation from Mixed-Source Domain for Cross-Domain Few-shot Action Recognition**|Fei Guo et.al.|[2407.05657v1](http://arxiv.org/abs/2407.05657v1)|null|null|
+|**2024-07-07**|**MMAD: Multi-label Micro-Action Detection in Videos**|Kun Li et.al.|[2407.05311v1](http://arxiv.org/abs/2407.05311v1)|[link](https://github.com/vut-hfut/micro-action)|null|
+|**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106v1](http://arxiv.org/abs/2407.05106v1)|[link](https://github.com/qiwang233/dailydvs-200)|null|
 |**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603v1](http://arxiv.org/abs/2407.04603v1)|null|null|
 |**2024-07-05**|**Micro-gesture Online Recognition using Learnable Query Points**|Pengyu Liu et.al.|[2407.04490v1](http://arxiv.org/abs/2407.04490v1)|null|null|
 |**2024-07-05**|**TF-SASM: Training-free Spatial-aware Sparse Memory for Multi-object Tracking**|Thuc Nguyen-Quang et.al.|[2407.04327v1](http://arxiv.org/abs/2407.04327v1)|null|null|
