@@ -1,9 +1,12 @@
 ## Action Recognition
 
-### Updated on 2024.07.10
+### Updated on 2024.07.11
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024v1](http://arxiv.org/abs/2407.07024v1)|[link](https://github.com/hyunjs/stov-tal)|null|
+|**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871v1](http://arxiv.org/abs/2407.06871v1)|null|null|
+|**2024-07-09**|**Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition**|Mingfang Zhang et.al.|[2407.06628v1](http://arxiv.org/abs/2407.06628v1)|null|null|
 |**2024-07-08**|**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**|Rongchang Li et.al.|[2407.06113v1](http://arxiv.org/abs/2407.06113v1)|[link](https://github.com/rongchangli/zscar_c2c)|null|
 |**2024-07-08**|**DMSD-CDFSAR: Distillation from Mixed-Source Domain for Cross-Domain Few-shot Action Recognition**|Fei Guo et.al.|[2407.05657v1](http://arxiv.org/abs/2407.05657v1)|null|null|
 |**2024-07-07**|**MMAD: Multi-label Micro-Action Detection in Videos**|Kun Li et.al.|[2407.05311v1](http://arxiv.org/abs/2407.05311v1)|[link](https://github.com/vut-hfut/micro-action)|null|
