@@ -4,12 +4,12 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.07.14
+### Updated on 2024.07.15
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-07-11**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572v1](http://arxiv.org/abs/2407.08572v1)|null|null|
-|**2024-07-10**|**Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization**|Feixiang Zhou et.al.|[2407.07673v1](http://arxiv.org/abs/2407.07673v1)|null|null|
+|**2024-07-12**|**Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization**|Feixiang Zhou et.al.|[2407.07673v2](http://arxiv.org/abs/2407.07673v2)|null|null|
 |**2024-07-10**|**EA-VTR: Event-Aware Video-Text Retrieval**|Zongyang Ma et.al.|[2407.07478v1](http://arxiv.org/abs/2407.07478v1)|null|null|
 |**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024v1](http://arxiv.org/abs/2407.07024v1)|[link](https://github.com/hyunjs/stov-tal)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871v1](http://arxiv.org/abs/2407.06871v1)|null|null|
