@@ -4,13 +4,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-12**|**Open Vocabulary Multi-Label Video Classification**|Rohit Gupta et.al.|[2407.09073v1](http://arxiv.org/abs/2407.09073v1)|null|null|
+|**2024-07-12**|**Full-Stage Pseudo Label Quality Enhancement for Weakly-supervised Temporal Action Localization**|Qianhan Feng et.al.|[2407.08971v1](http://arxiv.org/abs/2407.08971v1)|null|null|
 |**2024-07-11**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572v1](http://arxiv.org/abs/2407.08572v1)|null|null|
 |**2024-07-12**|**Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization**|Feixiang Zhou et.al.|[2407.07673v2](http://arxiv.org/abs/2407.07673v2)|null|null|
 |**2024-07-10**|**EA-VTR: Event-Aware Video-Text Retrieval**|Zongyang Ma et.al.|[2407.07478v1](http://arxiv.org/abs/2407.07478v1)|null|null|
-|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024v1](http://arxiv.org/abs/2407.07024v1)|[link](https://github.com/hyunjs/stov-tal)|**[link](https://github.com/hyunjs/stov-tal)**|
+|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024v1](http://arxiv.org/abs/2407.07024v1)|[link](https://github.com/hyunjs/stov-tal)|null|
 |**2024-07-09**|**Rethinking Image-to-Video Adaptation: An Object-centric Perspective**|Rui Qian et.al.|[2407.06871v1](http://arxiv.org/abs/2407.06871v1)|null|null|
 |**2024-07-09**|**Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition**|Mingfang Zhang et.al.|[2407.06628v1](http://arxiv.org/abs/2407.06628v1)|null|null|
-|**2024-07-08**|**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**|Rongchang Li et.al.|[2407.06113v1](http://arxiv.org/abs/2407.06113v1)|[link](https://github.com/rongchangli/zscar_c2c)|**[link](https://github.com/rongchangli/zscar_c2c)**|
+|**2024-07-08**|**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**|Rongchang Li et.al.|[2407.06113v1](http://arxiv.org/abs/2407.06113v1)|[link](https://github.com/rongchangli/zscar_c2c)|null|
 |**2024-07-08**|**DMSD-CDFSAR: Distillation from Mixed-Source Domain for Cross-Domain Few-shot Action Recognition**|Fei Guo et.al.|[2407.05657v1](http://arxiv.org/abs/2407.05657v1)|null|null|
 |**2024-07-07**|**MMAD: Multi-label Micro-Action Detection in Videos**|Kun Li et.al.|[2407.05311v1](http://arxiv.org/abs/2407.05311v1)|[link](https://github.com/vut-hfut/micro-action)|**[link](https://github.com/vut-hfut/micro-action)**|
 |**2024-07-06**|**DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition**|Qi Wang et.al.|[2407.05106v1](http://arxiv.org/abs/2407.05106v1)|[link](https://github.com/qiwang233/dailydvs-200)|**[link](https://github.com/qiwang233/dailydvs-200)**|
