@@ -4,14 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-19**|**6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry**|Sungho Chun et.al.|[2407.14136v1](http://arxiv.org/abs/2407.14136v1)|[link](https://github.com/asw91666/trg-release)|null|
+|**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930v1](http://arxiv.org/abs/2407.13930v1)|null|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|null|
-|**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483v1](http://arxiv.org/abs/2407.13483v1)|**[link](https://github.com/tiny-smart/SCAPE)**|null|
-|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|**[link](https://github.com/iris-cyy/sg-nerf)**|
+|**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483v1](http://arxiv.org/abs/2407.13483v1)|[link](https://github.com/tiny-smart/SCAPE)|null|
+|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|[link](https://github.com/iris-cyy/sg-nerf)|null|
 |**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354v1](http://arxiv.org/abs/2407.12354v1)|null|null|
-|**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|[link](https://github.com/ethz-asl/neusurfemb)|**[link](https://github.com/ethz-asl/neusurfemb)**|
+|**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|[link](https://github.com/ethz-asl/neusurfemb)|null|
 |**2024-07-16**|**Monocular pose estimation of articulated surgical instruments in open surgery**|Robert Spektor et.al.|[2407.12138v1](http://arxiv.org/abs/2407.12138v1)|null|null|
-|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|**[link](https://github.com/jarvisyjw/gv-bench)**|
-|**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321v1](http://arxiv.org/abs/2407.11321v1)|[link](https://github.com/zengwang430521/tcformer)|**[link](https://github.com/zengwang430521/tcformer)**|
+|**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|[link](https://github.com/jarvisyjw/gv-bench)|null|
+|**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321v1](http://arxiv.org/abs/2407.11321v1)|[link](https://github.com/zengwang430521/tcformer)|null|
 |**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|**[link](https://github.com/ReteDavid/IFAC-2024)**|null|
 |**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782v1](http://arxiv.org/abs/2407.10782v1)|null|null|
 |**2024-07-15**|**Domain Generalization for 6D Pose Estimation Through NeRF-based Image Synthesis**|Antoine Legrand et.al.|[2407.10762v1](http://arxiv.org/abs/2407.10762v1)|null|null|

@@ -4,14 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146v1](http://arxiv.org/abs/2407.14146v1)|null|null|
+|**2024-07-19**|**Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective**|Zeen Song et.al.|[2407.14069v1](http://arxiv.org/abs/2407.14069v1)|null|null|
 |**2024-07-18**|**Pose-guided multi-task video transformer for driver action recognition**|Ricardo Pizarro et.al.|[2407.13750v1](http://arxiv.org/abs/2407.13750v1)|null|null|
-|**2024-07-18**|**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**|Sheng-Wei Li et.al.|[2407.13460v1](http://arxiv.org/abs/2407.13460v1)|[link](https://github.com/pha123661/SA-DVAE)|**[link](https://github.com/pha123661/SA-DVAE)**|
-|**2024-07-18**|**QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View**|Trinh T. L. Vuong et.al.|[2407.13216v1](http://arxiv.org/abs/2407.13216v1)|**[link](https://github.com/quiil/quiil_thompson_solution)**|null|
-|**2024-07-18**|**Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**|Sangyoun Lee et.al.|[2407.13078v1](http://arxiv.org/abs/2407.13078v1)|[link](https://github.com/lsy0882/RDFA-S6)|**[link](https://github.com/lsy0882/RDFA-S6)**|
-|**2024-07-17**|**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**|Hyolim Kang et.al.|[2407.12987v1](http://arxiv.org/abs/2407.12987v1)|[link](https://github.com/musicalOffering/ActionSwitch-release)|**[link](https://github.com/musicalOffering/ActionSwitch-release)**|
+|**2024-07-18**|**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**|Sheng-Wei Li et.al.|[2407.13460v1](http://arxiv.org/abs/2407.13460v1)|[link](https://github.com/pha123661/SA-DVAE)|null|
+|**2024-07-18**|**QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View**|Trinh T. L. Vuong et.al.|[2407.13216v1](http://arxiv.org/abs/2407.13216v1)|[link](https://github.com/quiil/quiil_thompson_solution)|null|
+|**2024-07-18**|**Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**|Sangyoun Lee et.al.|[2407.13078v1](http://arxiv.org/abs/2407.13078v1)|[link](https://github.com/lsy0882/RDFA-S6)|null|
+|**2024-07-17**|**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**|Hyolim Kang et.al.|[2407.12987v1](http://arxiv.org/abs/2407.12987v1)|[link](https://github.com/musicalOffering/ActionSwitch-release)|null|
 |**2024-07-17**|**Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer**|Wenhan Wu et.al.|[2407.12322v1](http://arxiv.org/abs/2407.12322v1)|null|null|
 |**2024-07-17**|**Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition**|Jiahang Zhang et.al.|[2407.12312v1](http://arxiv.org/abs/2407.12312v1)|null|null|
-|**2024-07-16**|**Enhancing Split Computing and Early Exit Applications through Predefined Sparsity**|Luigi Capogrosso et.al.|[2407.11763v1](http://arxiv.org/abs/2407.11763v1)|[link](https://github.com/intelligolabs/sparsity_sc_ee)|**[link](https://github.com/intelligolabs/sparsity_sc_ee)**|
+|**2024-07-16**|**Enhancing Split Computing and Early Exit Applications through Predefined Sparsity**|Luigi Capogrosso et.al.|[2407.11763v1](http://arxiv.org/abs/2407.11763v1)|[link](https://github.com/intelligolabs/sparsity_sc_ee)|null|
 |**2024-07-15**|**STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences**|Soroush Mehraban et.al.|[2407.10935v1](http://arxiv.org/abs/2407.10935v1)|null|null|
 |**2024-07-15**|**Human-Centric Transformer for Domain Adaptive Action Recognition**|Kun-Yu Lin et.al.|[2407.10860v1](http://arxiv.org/abs/2407.10860v1)|null|null|
 |**2024-07-17**|**Augmented Neural Fine-Tuning for Efficient Backdoor Purification**|Nazmul Karim et.al.|[2407.10052v2](http://arxiv.org/abs/2407.10052v2)|[link](https://github.com/nazmul-karim170/NFT-Augmented-Backdoor-Purification)|**[link](https://github.com/nazmul-karim170/NFT-Augmented-Backdoor-Purification)**|
