@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v1](http://arxiv.org/abs/2407.15706v1)|[link](https://github.com/liujf69/MMCL-Action)|null|
+|**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|null|
+|**2024-07-20**|**Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators**|Harsh Lunia et.al.|[2407.14834v1](http://arxiv.org/abs/2407.14834v1)|null|null|
+|**2024-07-20**|**Decoupled Prompt-Adapter Tuning for Continual Activity Recognition**|Di Fu et.al.|[2407.14811v1](http://arxiv.org/abs/2407.14811v1)|null|null|
+|**2024-07-20**|**A Comprehensive Review of Few-shot Action Recognition**|Yuyang Wanyan et.al.|[2407.14744v1](http://arxiv.org/abs/2407.14744v1)|null|null|
+|**2024-07-19**|**LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2407.14655v1](http://arxiv.org/abs/2407.14655v1)|null|null|
 |**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146v1](http://arxiv.org/abs/2407.14146v1)|null|null|
 |**2024-07-19**|**Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective**|Zeen Song et.al.|[2407.14069v1](http://arxiv.org/abs/2407.14069v1)|null|null|
 |**2024-07-18**|**Pose-guided multi-task video transformer for driver action recognition**|Ricardo Pizarro et.al.|[2407.13750v1](http://arxiv.org/abs/2407.13750v1)|null|null|
