@@ -4,11 +4,11 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.07.23
+### Updated on 2024.07.24
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v1](http://arxiv.org/abs/2407.15706v1)|[link](https://github.com/liujf69/MMCL-Action)|null|
+|**2024-07-23**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v2](http://arxiv.org/abs/2407.15706v2)|[link](https://github.com/liujf69/MMCL-Action)|null|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|null|
 |**2024-07-20**|**Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators**|Harsh Lunia et.al.|[2407.14834v1](http://arxiv.org/abs/2407.14834v1)|null|null|
 |**2024-07-20**|**Decoupled Prompt-Adapter Tuning for Continual Activity Recognition**|Di Fu et.al.|[2407.14811v1](http://arxiv.org/abs/2407.14811v1)|null|null|
