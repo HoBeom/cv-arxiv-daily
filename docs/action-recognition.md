@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-25**|**Trajectory-aligned Space-time Tokens for Few-shot Action Recognition**|Pulkit Kumar et.al.|[2407.18249v1](http://arxiv.org/abs/2407.18249v1)|null|null|
+|**2024-07-25**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792v1](http://arxiv.org/abs/2407.17792v1)|[link](https://github.com/sming256/OpenTAD)|null|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|null|
 |**2024-07-23**|**A study of animal action segmentation algorithms across supervised, unsupervised, and semi-supervised learning paradigms**|Ari Blau et.al.|[2407.16727v1](http://arxiv.org/abs/2407.16727v1)|[link](https://github.com/ablau100/daart)|null|
 |**2024-07-24**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344v2](http://arxiv.org/abs/2407.16344v2)|[link](https://github.com/wenbohuang1002/soap)|null|
