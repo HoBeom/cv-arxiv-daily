@@ -4,12 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-07-25**|**MARINE: A Computer Vision Model for Detecting Rare Predator-Prey Interactions in Animal Videos**|Zsófia Katona et.al.|[2407.18289v1](http://arxiv.org/abs/2407.18289v1)|null|null|
 |**2024-07-25**|**Trajectory-aligned Space-time Tokens for Few-shot Action Recognition**|Pulkit Kumar et.al.|[2407.18249v1](http://arxiv.org/abs/2407.18249v1)|null|null|
-|**2024-07-26**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792v2](http://arxiv.org/abs/2407.17792v2)|[link](https://github.com/sming256/OpenTAD)|**[link](https://github.com/sming256/OpenTAD)**|
+|**2024-07-26**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792v2](http://arxiv.org/abs/2407.17792v2)|[link](https://github.com/sming256/OpenTAD)|null|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|null|
-|**2024-07-23**|**A study of animal action segmentation algorithms across supervised, unsupervised, and semi-supervised learning paradigms**|Ari Blau et.al.|[2407.16727v1](http://arxiv.org/abs/2407.16727v1)|[link](https://github.com/ablau100/daart)|**[link](https://github.com/ablau100/daart)**|
-|**2024-07-24**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344v2](http://arxiv.org/abs/2407.16344v2)|[link](https://github.com/wenbohuang1002/soap)|**[link](https://github.com/wenbohuang1002/soap)**|
-|**2024-07-25**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v3](http://arxiv.org/abs/2407.15706v3)|[link](https://github.com/liujf69/MMCL-Action)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-23**|**A study of animal action segmentation algorithms across supervised, unsupervised, and semi-supervised learning paradigms**|Ari Blau et.al.|[2407.16727v1](http://arxiv.org/abs/2407.16727v1)|[link](https://github.com/ablau100/daart)|null|
+|**2024-07-24**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344v2](http://arxiv.org/abs/2407.16344v2)|[link](https://github.com/wenbohuang1002/soap)|null|
+|**2024-07-25**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v3](http://arxiv.org/abs/2407.15706v3)|[link](https://github.com/liujf69/MMCL-Action)|null|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170v1](http://arxiv.org/abs/2407.15170v1)|null|null|
 |**2024-07-20**|**Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators**|Harsh Lunia et.al.|[2407.14834v1](http://arxiv.org/abs/2407.14834v1)|null|null|
 |**2024-07-20**|**Decoupled Prompt-Adapter Tuning for Continual Activity Recognition**|Di Fu et.al.|[2407.14811v1](http://arxiv.org/abs/2407.14811v1)|null|null|
