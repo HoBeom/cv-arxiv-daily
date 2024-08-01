@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-07-31**|**Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution**|Jingyao Wang et.al.|[2407.21525v1](http://arxiv.org/abs/2407.21525v1)|null|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|null|
 |**2024-07-29**|**Classification Matters: Improving Video Action Detection with Class-Specific Attention**|Jinsung Lee et.al.|[2407.19698v1](http://arxiv.org/abs/2407.19698v1)|null|null|
 |**2024-07-25**|**MARINE: A Computer Vision Model for Detecting Rare Predator-Prey Interactions in Animal Videos**|Zsófia Katona et.al.|[2407.18289v1](http://arxiv.org/abs/2407.18289v1)|null|null|
