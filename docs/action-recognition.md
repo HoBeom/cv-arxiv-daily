@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|null|
+|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421v1](http://arxiv.org/abs/2408.05421v1)|null|null|
 |**2024-08-07**|**JARViS: Detecting Actions in Video Using Unified Actor-Scene Context Relation Modeling**|Seok Hwan Lee et.al.|[2408.03612v1](http://arxiv.org/abs/2408.03612v1)|null|null|
 |**2024-08-06**|**Prototype Learning for Micro-gesture Classification**|Guoliang Chen et.al.|[2408.03097v1](http://arxiv.org/abs/2408.03097v1)|null|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957v1](http://arxiv.org/abs/2408.02957v1)|null|null|
