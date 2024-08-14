@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648v1](http://arxiv.org/abs/2408.06648v1)|null|null|
+|**2024-08-12**|**UniT: Unified Tactile Representation for Robot Learning**|Zhengtong Xu et.al.|[2408.06481v1](http://arxiv.org/abs/2408.06481v1)|[link](https://github.com/ZhengtongXu/UniT)|null|
 |**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336v1](http://arxiv.org/abs/2408.06336v1)|null|null|
 |**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|null|
 |**2024-08-12**|**PAFormer: Part Aware Transformer for Person Re-identification**|Hyeono Jung et.al.|[2408.05918v1](http://arxiv.org/abs/2408.05918v1)|null|null|
