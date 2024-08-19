@@ -8,14 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437v1](http://arxiv.org/abs/2408.06437v1)|[link](https://github.com/sakibreza/eccv24-hat)|**[link](https://github.com/sakibreza/eccv24-hat)**|
-|**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|**[link](https://github.com/sejong-rcv/pvlr)**|
-|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421v1](http://arxiv.org/abs/2408.05421v1)|[link](https://github.com/ahmed-nady/multimodal-action-recognition)|**[link](https://github.com/ahmed-nady/multimodal-action-recognition)**|
+|**2024-08-16**|**Towards Physical World Backdoor Attacks against Skeleton Action Recognition**|Qichen Zheng et.al.|[2408.08671v1](http://arxiv.org/abs/2408.08671v1)|null|null|
+|**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437v1](http://arxiv.org/abs/2408.06437v1)|[link](https://github.com/sakibreza/eccv24-hat)|null|
+|**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|null|
+|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421v1](http://arxiv.org/abs/2408.05421v1)|[link](https://github.com/ahmed-nady/multimodal-action-recognition)|null|
 |**2024-08-07**|**JARViS: Detecting Actions in Video Using Unified Actor-Scene Context Relation Modeling**|Seok Hwan Lee et.al.|[2408.03612v1](http://arxiv.org/abs/2408.03612v1)|null|null|
 |**2024-08-06**|**Prototype Learning for Micro-gesture Classification**|Guoliang Chen et.al.|[2408.03097v1](http://arxiv.org/abs/2408.03097v1)|null|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957v1](http://arxiv.org/abs/2408.02957v1)|null|null|
 |**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769v1](http://arxiv.org/abs/2408.02769v1)|null|null|
-|**2024-08-09**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623v2](http://arxiv.org/abs/2408.02623v2)|[link](https://github.com/aakiraotok/yowov3)|**[link](https://github.com/aakiraotok/yowov3)**|
+|**2024-08-09**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623v2](http://arxiv.org/abs/2408.02623v2)|[link](https://github.com/aakiraotok/yowov3)|null|
 |**2024-08-04**|**Enhancing Human Action Recognition and Violence Detection Through Deep Learning Audiovisual Fusion**|Pooya Janani et.al.|[2408.02033v1](http://arxiv.org/abs/2408.02033v1)|null|null|
 |**2024-08-04**|**Faster Diffusion Action Segmentation**|Shuaibing Wang et.al.|[2408.02024v1](http://arxiv.org/abs/2408.02024v1)|null|null|
 |**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766v1](http://arxiv.org/abs/2408.01766v1)|null|null|
