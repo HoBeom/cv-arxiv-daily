@@ -4,14 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437v1](http://arxiv.org/abs/2408.06437v1)|[link](https://github.com/sakibreza/eccv24-hat)|null|
-|**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|null|
-|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421v1](http://arxiv.org/abs/2408.05421v1)|[link](https://github.com/ahmed-nady/multimodal-action-recognition)|null|
+|**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437v1](http://arxiv.org/abs/2408.06437v1)|[link](https://github.com/sakibreza/eccv24-hat)|**[link](https://github.com/sakibreza/eccv24-hat)**|
+|**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|**[link](https://github.com/sejong-rcv/pvlr)**|
+|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421v1](http://arxiv.org/abs/2408.05421v1)|[link](https://github.com/ahmed-nady/multimodal-action-recognition)|**[link](https://github.com/ahmed-nady/multimodal-action-recognition)**|
 |**2024-08-07**|**JARViS: Detecting Actions in Video Using Unified Actor-Scene Context Relation Modeling**|Seok Hwan Lee et.al.|[2408.03612v1](http://arxiv.org/abs/2408.03612v1)|null|null|
 |**2024-08-06**|**Prototype Learning for Micro-gesture Classification**|Guoliang Chen et.al.|[2408.03097v1](http://arxiv.org/abs/2408.03097v1)|null|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957v1](http://arxiv.org/abs/2408.02957v1)|null|null|
 |**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769v1](http://arxiv.org/abs/2408.02769v1)|null|null|
-|**2024-08-09**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623v2](http://arxiv.org/abs/2408.02623v2)|[link](https://github.com/aakiraotok/yowov3)|null|
+|**2024-08-09**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623v2](http://arxiv.org/abs/2408.02623v2)|[link](https://github.com/aakiraotok/yowov3)|**[link](https://github.com/aakiraotok/yowov3)**|
 |**2024-08-04**|**Enhancing Human Action Recognition and Violence Detection Through Deep Learning Audiovisual Fusion**|Pooya Janani et.al.|[2408.02033v1](http://arxiv.org/abs/2408.02033v1)|null|null|
 |**2024-08-04**|**Faster Diffusion Action Segmentation**|Shuaibing Wang et.al.|[2408.02024v1](http://arxiv.org/abs/2408.02024v1)|null|null|
 |**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766v1](http://arxiv.org/abs/2408.01766v1)|null|null|
@@ -22,7 +22,7 @@
 |**2024-07-31**|**Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution**|Jingyao Wang et.al.|[2407.21525v1](http://arxiv.org/abs/2407.21525v1)|null|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|null|
 |**2024-07-29**|**Classification Matters: Improving Video Action Detection with Class-Specific Attention**|Jinsung Lee et.al.|[2407.19698v1](http://arxiv.org/abs/2407.19698v1)|null|null|
-|**2024-07-25**|**MARINE: A Computer Vision Model for Detecting Rare Predator-Prey Interactions in Animal Videos**|Zsófia Katona et.al.|[2407.18289v1](http://arxiv.org/abs/2407.18289v1)|**[link](https://github.com/zsofiak/masterthesis)**|null|
+|**2024-07-25**|**MARINE: A Computer Vision Model for Detecting Rare Predator-Prey Interactions in Animal Videos**|Zsófia Katona et.al.|[2407.18289v1](http://arxiv.org/abs/2407.18289v1)|**[link](https://github.com/zsofiak/masterthesis)**|**[link](https://github.com/zsofiak/masterthesis)**|
 |**2024-07-25**|**Trajectory-aligned Space-time Tokens for Few-shot Action Recognition**|Pulkit Kumar et.al.|[2407.18249v1](http://arxiv.org/abs/2407.18249v1)|null|null|
 |**2024-07-26**|**Harnessing Temporal Causality for Advanced Temporal Action Detection**|Shuming Liu et.al.|[2407.17792v2](http://arxiv.org/abs/2407.17792v2)|[link](https://github.com/sming256/OpenTAD)|**[link](https://github.com/sming256/OpenTAD)**|
 |**2024-07-23**|**Fusion and Cross-Modal Transfer for Zero-Shot Human Action Recognition**|Abhi Kamboj et.al.|[2407.16803v1](http://arxiv.org/abs/2407.16803v1)|null|null|
@@ -122,7 +122,7 @@
 |**2024-05-13**|**Coarse or Fine? Recognising Action End States without Labels**|Davide Moltisanti et.al.|[2405.07723v1](http://arxiv.org/abs/2405.07723v1)|[link](https://github.com/dmoltisanti/coficut-cvprw24)|**[link](https://github.com/dmoltisanti/coficut-cvprw24)**|
 |**2024-05-11**|**PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition**|Shenglin He et.al.|[2405.06929v1](http://arxiv.org/abs/2405.06929v1)|null|null|
 |**2024-05-09**|**A Survey on Backbones for Deep Video Action Recognition**|Zixuan Tang et.al.|[2405.05584v1](http://arxiv.org/abs/2405.05584v1)|null|null|
-|**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|**[link](https://github.com/ispamm/josenet)**|null|
+|**2024-05-05**|**JOSENet: A Joint Stream Embedding Network for Violence Detection in Surveillance Videos**|Pietro Nardelli et.al.|[2405.02961v1](http://arxiv.org/abs/2405.02961v1)|**[link](https://github.com/ispamm/josenet)**|**[link](https://github.com/ispamm/josenet)**|
 |**2024-05-11**|**MVP-Shot: Multi-Velocity Progressive-Alignment Framework for Few-Shot Action Recognition**|Hongyu Qu et.al.|[2405.02077v2](http://arxiv.org/abs/2405.02077v2)|null|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337v1](http://arxiv.org/abs/2405.01337v1)|null|null|
 |**2024-04-30**|**One-Stage Open-Vocabulary Temporal Action Detection Leveraging Temporal Multi-scale and Action Label Features**|Trung Thanh Nguyen et.al.|[2404.19542v1](http://arxiv.org/abs/2404.19542v1)|[link](https://github.com/thanhhff/HOTAD)|**[link](https://github.com/thanhhff/HOTAD)**|
@@ -150,7 +150,7 @@
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|null|
 |**2024-04-15**|**STMixer: A One-Stage Sparse Action Detector**|Tao Wu et.al.|[2404.09842v1](http://arxiv.org/abs/2404.09842v1)|null|null|
 |**2024-04-15**|**Leveraging Temporal Contextualization for Video Action Recognition**|Minji Kim et.al.|[2404.09490v1](http://arxiv.org/abs/2404.09490v1)|**[link](https://github.com/naver-ai/tc-clip)**|**[link](https://github.com/naver-ai/tc-clip)**|
-|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|**[link](https://github.com/wiktormucha/effhandegonet)**|null|
+|**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|**[link](https://github.com/wiktormucha/effhandegonet)**|**[link](https://github.com/wiktormucha/effhandegonet)**|
 |**2024-04-13**|**Exploring Explainability in Video Action Recognition**|Avinab Saha et.al.|[2404.09067v1](http://arxiv.org/abs/2404.09067v1)|null|null|
 |**2024-04-12**|**MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition**|Linhuang Wang et.al.|[2404.08433v1](http://arxiv.org/abs/2404.08433v1)|null|null|
 |**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645v1](http://arxiv.org/abs/2404.07645v1)|null|null|
