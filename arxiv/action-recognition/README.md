@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|null|
+|**2024-08-19**|**Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment**|Zhanzhong Pang et.al.|[2408.09919v1](http://arxiv.org/abs/2408.09919v1)|null|null|
+|**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764v1](http://arxiv.org/abs/2408.09764v1)|[link](https://github.com/event-ahu/celex-har)|null|
+|**2024-08-18**|**Joint Temporal Pooling for Improving Skeleton-based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2408.09356v1](http://arxiv.org/abs/2408.09356v1)|null|null|
+|**2024-08-18**|**Boundary-Recovering Network for Temporal Action Detection**|Jihwan Kim et.al.|[2408.09354v1](http://arxiv.org/abs/2408.09354v1)|null|null|
+|**2024-08-17**|**Intuitive Human-Robot Interface: A 3-Dimensional Action Recognition and UAV Collaboration Framework**|Akash Chaudhary et.al.|[2408.09232v1](http://arxiv.org/abs/2408.09232v1)|null|null|
+|**2024-08-17**|**Flatten: Video Action Recognition is an Image Classification task**|Junlin Chen et.al.|[2408.09220v1](http://arxiv.org/abs/2408.09220v1)|null|null|
+|**2024-08-17**|**Temporal Reversed Training for Spiking Neural Networks with Generalized Spatio-Temporal Representation**|Lin Zuo et.al.|[2408.09108v1](http://arxiv.org/abs/2408.09108v1)|null|null|
 |**2024-08-16**|**Towards Physical World Backdoor Attacks against Skeleton Action Recognition**|Qichen Zheng et.al.|[2408.08671v1](http://arxiv.org/abs/2408.08671v1)|null|null|
 |**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437v1](http://arxiv.org/abs/2408.06437v1)|[link](https://github.com/sakibreza/eccv24-hat)|null|
 |**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955v1](http://arxiv.org/abs/2408.05955v1)|[link](https://github.com/sejong-rcv/pvlr)|null|
