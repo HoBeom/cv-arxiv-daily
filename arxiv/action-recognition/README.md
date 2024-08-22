@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-08-21**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318v1](http://arxiv.org/abs/2408.11318v1)|[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)|null|
 |**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688v1](http://arxiv.org/abs/2408.10688v1)|null|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|null|
 |**2024-08-19**|**Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment**|Zhanzhong Pang et.al.|[2408.09919v1](http://arxiv.org/abs/2408.09919v1)|null|null|
