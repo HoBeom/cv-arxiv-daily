@@ -8,10 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475v1](http://arxiv.org/abs/2408.12475v1)|null|null|
 |**2024-08-21**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318v1](http://arxiv.org/abs/2408.11318v1)|[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)|null|
-|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688v1](http://arxiv.org/abs/2408.10688v1)|null|null|
-|**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|null|null|
-|**2024-08-19**|**Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment**|Zhanzhong Pang et.al.|[2408.09919v1](http://arxiv.org/abs/2408.09919v1)|null|null|
+|**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688v1](http://arxiv.org/abs/2408.10688v1)|[link](https://github.com/BBYL9413/TDS-CLIP)|null|
+|**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037v1](http://arxiv.org/abs/2408.10037v1)|[link](https://github.com/wiktormucha/SHARP)|null|
+|**2024-08-19**|**Long-Tail Temporal Action Segmentation with Group-wise Temporal Logit Adjustment**|Zhanzhong Pang et.al.|[2408.09919v1](http://arxiv.org/abs/2408.09919v1)|[link](https://github.com/pangzhan27/GTLA)|null|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764v1](http://arxiv.org/abs/2408.09764v1)|[link](https://github.com/event-ahu/celex-har)|null|
 |**2024-08-18**|**Joint Temporal Pooling for Improving Skeleton-based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2408.09356v1](http://arxiv.org/abs/2408.09356v1)|null|null|
 |**2024-08-18**|**Boundary-Recovering Network for Temporal Action Detection**|Jihwan Kim et.al.|[2408.09354v1](http://arxiv.org/abs/2408.09354v1)|null|null|
