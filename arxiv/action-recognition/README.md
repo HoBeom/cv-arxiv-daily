@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-08-25**|**Towards Completeness: A Generalizable Action Proposal Generator for Zero-Shot Temporal Action Localization**|Jia-Run Du et.al.|[2408.13777v1](http://arxiv.org/abs/2408.13777v1)|[link](https://github.com/run542968/gap)|null|
+|**2024-08-25**|**FMI-TAL: Few-shot Multiple Instances Temporal Action Localization by Probability Distribution Learning and Interval Cluster Refinement**|Fengshun Wang et.al.|[2408.13765v1](http://arxiv.org/abs/2408.13765v1)|[link](https://github.com/ycwfs/fmi-tal)|null|
+|**2024-08-24**|**Temporal Divide-and-Conquer Anomaly Actions Localization in Semi-Supervised Videos with Hierarchical Transformer**|Nada Osman et.al.|[2408.13643v1](http://arxiv.org/abs/2408.13643v1)|null|null|
+|**2024-08-24**|**HabitAction: A Video Dataset for Human Habitual Behavior Recognition**|Hongwu Li et.al.|[2408.13463v1](http://arxiv.org/abs/2408.13463v1)|null|null|
 |**2024-08-23**|**Long-Term Pre-training for Temporal Action Detection with Transformers**|Jihwan Kim et.al.|[2408.13152v1](http://arxiv.org/abs/2408.13152v1)|null|null|
 |**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475v1](http://arxiv.org/abs/2408.12475v1)|null|null|
 |**2024-08-23**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318v2](http://arxiv.org/abs/2408.11318v2)|[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)|null|
