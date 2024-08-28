@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-08-26**|**Comparative Analysis: Violence Recognition from Videos using Transfer Learning**|Dursun Dashdamirov et.al.|[2408.14659v1](http://arxiv.org/abs/2408.14659v1)|[link](https://github.com/ddursun/violence-detection)|null|
 |**2024-08-25**|**Towards Completeness: A Generalizable Action Proposal Generator for Zero-Shot Temporal Action Localization**|Jia-Run Du et.al.|[2408.13777v1](http://arxiv.org/abs/2408.13777v1)|[link](https://github.com/run542968/gap)|null|
 |**2024-08-25**|**FMI-TAL: Few-shot Multiple Instances Temporal Action Localization by Probability Distribution Learning and Interval Cluster Refinement**|Fengshun Wang et.al.|[2408.13765v1](http://arxiv.org/abs/2408.13765v1)|[link](https://github.com/ycwfs/fmi-tal)|null|
 |**2024-08-24**|**Temporal Divide-and-Conquer Anomaly Actions Localization in Semi-Supervised Videos with Hierarchical Transformer**|Nada Osman et.al.|[2408.13643v1](http://arxiv.org/abs/2408.13643v1)|null|null|
