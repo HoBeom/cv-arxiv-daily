@@ -1,10 +1,10 @@
 ## Action Recognition
 
-### Updated on 2024.08.29
+### Updated on 2024.08.30
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v1](http://arxiv.org/abs/2408.15996v1)|null|null|
+|**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996v2](http://arxiv.org/abs/2408.15996v2)|null|null|
 |**2024-08-28**|**DEAR: Depth-Enhanced Action Recognition**|Sadegh Rahmaniboldaji et.al.|[2408.15679v1](http://arxiv.org/abs/2408.15679v1)|[link](https://github.com/sadeghrahmanib/dear)|null|
 |**2024-08-28**|**Online pre-training with long-form videos**|Itsuki Kato et.al.|[2408.15651v1](http://arxiv.org/abs/2408.15651v1)|null|null|
 |**2024-08-26**|**Comparative Analysis: Violence Recognition from Videos using Transfer Learning**|Dursun Dashdamirov et.al.|[2408.14659v1](http://arxiv.org/abs/2408.14659v1)|[link](https://github.com/ddursun/violence-detection)|null|
