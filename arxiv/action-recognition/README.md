@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2024.08.31
+### Updated on 2024.09.01
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
