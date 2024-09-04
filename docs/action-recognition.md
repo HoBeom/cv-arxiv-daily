@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-08-30**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v1](http://arxiv.org/abs/2408.17422v1)|null|null|
+|**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v2](http://arxiv.org/abs/2408.17422v2)|null|null|
 |**2024-08-29**|**Prediction-Feedback DETR for Temporal Action Detection**|Jihwan Kim et.al.|[2408.16729v1](http://arxiv.org/abs/2408.16729v1)|null|null|
 |**2024-08-29**|**3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach**|Ryota Tanaka et.al.|[2408.16638v1](http://arxiv.org/abs/2408.16638v1)|[link](https://github.com/ryota-skating/fs-jump3d)|null|
 |**2024-08-29**|**Text-Enhanced Zero-Shot Action Recognition: A training-free approach**|Massimo Bosetti et.al.|[2408.16412v1](http://arxiv.org/abs/2408.16412v1)|null|null|
