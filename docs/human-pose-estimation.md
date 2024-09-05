@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715v1](http://arxiv.org/abs/2409.02715v1)|null|null|
+|**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581v1](http://arxiv.org/abs/2409.02581v1)|null|null|
+|**2024-09-03**|**EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision**|Yiming Zhao et.al.|[2409.02224v1](http://arxiv.org/abs/2409.02224v1)|null|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|null|
+|**2024-09-03**|**SPiKE: 3D Human Pose from Point Cloud Sequences**|Irene Ballester et.al.|[2409.01879v1](http://arxiv.org/abs/2409.01879v1)|[link](https://github.com/iballester/SPiKE)|null|
+|**2024-09-02**|**Kalman Filtering for Precise Indoor Position and Orientation Estimation Using IMU and Acoustics on Riemannian Manifolds**|Mohammed H. AlSharif et.al.|[2409.01002v1](http://arxiv.org/abs/2409.01002v1)|null|null|
+|**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869v1](http://arxiv.org/abs/2409.00869v1)|null|null|
+|**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744v1](http://arxiv.org/abs/2409.00744v1)|[link](https://github.com/irmvlab/dslo)|null|
+|**2024-09-01**|**MoManifold: Learning to Measure 3D Human Motion via Decoupled Joint Acceleration Manifolds**|Ziqiang Dang et.al.|[2409.00736v1](http://arxiv.org/abs/2409.00736v1)|null|null|
+|**2024-08-31**|**ActionPose: Pretraining 3D Human Pose Estimation with the Dark Knowledge of Action**|Longyun Liao et.al.|[2409.00449v1](http://arxiv.org/abs/2409.00449v1)|null|null|
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v3](http://arxiv.org/abs/2408.17373v3)|null|null|
 |**2024-08-30**|**BOP-D: Revisiting 6D Pose Estimation Benchmark for Better Evaluation under Visual Ambiguities**|Boris Meden et.al.|[2408.17297v1](http://arxiv.org/abs/2408.17297v1)|null|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168v1](http://arxiv.org/abs/2408.17168v1)|null|null|
