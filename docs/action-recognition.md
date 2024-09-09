@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-06**|**Introducing Gating and Context into Temporal Action Detection**|Aglind Reka et.al.|[2409.04205v1](http://arxiv.org/abs/2409.04205v1)|null|null|
 |**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910v1](http://arxiv.org/abs/2409.02910v1)|null|null|
 |**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483v1](http://arxiv.org/abs/2409.02483v1)|null|null|
 |**2024-09-04**|**Unfolding Videos Dynamics via Taylor Expansion**|Siyi Chen et.al.|[2409.02371v1](http://arxiv.org/abs/2409.02371v1)|null|null|
@@ -15,8 +16,8 @@ layout: default
 |**2024-09-03**|**Action-Based ADHD Diagnosis in Video**|Yichun Li et.al.|[2409.02261v1](http://arxiv.org/abs/2409.02261v1)|null|null|
 |**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564v1](http://arxiv.org/abs/2409.01564v1)|null|null|
 |**2024-09-02**|**FinePseudo: Improving Pseudo-Labelling through Temporal-Alignablity for Semi-Supervised Fine-Grained Action Recognition**|Ishan Rajendrakumar Dave et.al.|[2409.01448v1](http://arxiv.org/abs/2409.01448v1)|null|null|
-|**2024-09-02**|**Towards Student Actions in Classroom Scenes: New Dataset and Baseline**|Zhuolin Tan et.al.|[2409.00926v1](http://arxiv.org/abs/2409.00926v1)|[link](https://github.com/ritatanz/sav)|**[link](https://github.com/ritatanz/sav)**|
-|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863v1](http://arxiv.org/abs/2409.00863v1)|[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)|**[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)**|
+|**2024-09-02**|**Towards Student Actions in Classroom Scenes: New Dataset and Baseline**|Zhuolin Tan et.al.|[2409.00926v1](http://arxiv.org/abs/2409.00926v1)|[link](https://github.com/ritatanz/sav)|null|
+|**2024-09-01**|**Fisher Information guided Purification against Backdoor Attacks**|Nazmul Karim et.al.|[2409.00863v1](http://arxiv.org/abs/2409.00863v1)|[link](https://github.com/nazmul-karim170/FIP-Fisher-Backdoor-Removal)|null|
 |**2024-08-31**|**ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment**|Hsiang-Wei Huang et.al.|[2409.00349v1](http://arxiv.org/abs/2409.00349v1)|null|null|
 |**2024-09-03**|**Open-vocabulary Temporal Action Localization using VLMs**|Naoki Wake et.al.|[2408.17422v2](http://arxiv.org/abs/2408.17422v2)|null|null|
 |**2024-08-29**|**Prediction-Feedback DETR for Temporal Action Detection**|Jihwan Kim et.al.|[2408.16729v1](http://arxiv.org/abs/2408.16729v1)|null|null|
