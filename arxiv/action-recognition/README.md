@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665v1](http://arxiv.org/abs/2409.06665v1)|null|null|
 |**2024-09-09**|**ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL**|Safwen Naimi et.al.|[2409.05749v1](http://arxiv.org/abs/2409.05749v1)|null|null|
 |**2024-09-09**|**Real-Time Human Action Recognition on Embedded Platforms**|Ruiqi Wang et.al.|[2409.05662v1](http://arxiv.org/abs/2409.05662v1)|null|null|
 |**2024-09-06**|**Self-Supervised Contrastive Learning for Videos using Differentiable Local Alignment**|Keyne Oei et.al.|[2409.04607v1](http://arxiv.org/abs/2409.04607v1)|null|null|

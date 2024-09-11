@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-09-10**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v1](http://arxiv.org/abs/2409.06683v1)|null|null|
+|**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535v1](http://arxiv.org/abs/2409.06535v1)|null|null|
+|**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240v1](http://arxiv.org/abs/2409.06240v1)|null|null|
+|**2024-09-10**|**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**|Fangzhou Lin et.al.|[2409.06171v1](http://arxiv.org/abs/2409.06171v1)|[link](https://github.com/zhang-vislab/iros2024-lossdistillationweightedcd)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413v1](http://arxiv.org/abs/2409.05413v1)|null|null|
 |**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|null|
 |**2024-09-06**|**Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands**|Yotam Erel et.al.|[2409.04397v1](http://arxiv.org/abs/2409.04397v1)|null|null|
