@@ -9,12 +9,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867v1](http://arxiv.org/abs/2409.11867v1)|null|null|
-|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|null|
+|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|**[link](https://github.com/dongzhikang/mambavl)**|
 |**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953v1](http://arxiv.org/abs/2409.09953v1)|null|null|
 |**2024-09-15**|**Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition**|Cagri Gungor et.al.|[2409.09611v1](http://arxiv.org/abs/2409.09611v1)|null|null|
 |**2024-09-14**|**KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition**|Zhaoyu Chen et.al.|[2409.09444v1](http://arxiv.org/abs/2409.09444v1)|null|null|
 |**2024-09-14**|**ChildPlay-Hand: A Dataset of Hand Manipulations in the Wild**|Arya Farkhondeh et.al.|[2409.09319v1](http://arxiv.org/abs/2409.09319v1)|null|null|
-|**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177v1](http://arxiv.org/abs/2409.09177v1)|[link](https://github.com/rd20karim/synch-transformer)|null|
+|**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177v1](http://arxiv.org/abs/2409.09177v1)|[link](https://github.com/rd20karim/synch-transformer)|**[link](https://github.com/rd20karim/synch-transformer)**|
 |**2024-09-13**|**Using The Concept Hierarchy for Household Action Recognition**|Andrei Costinescu et.al.|[2409.08853v1](http://arxiv.org/abs/2409.08853v1)|null|null|
 |**2024-09-11**|**2D bidirectional gated recurrent unit convolutional Neural networks for end-to-end violence detection In videos**|Abdarahmane Traoré et.al.|[2409.07588v1](http://arxiv.org/abs/2409.07588v1)|null|null|
 |**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665v1](http://arxiv.org/abs/2409.06665v1)|null|null|
@@ -72,7 +72,7 @@ layout: default
 |**2024-08-01**|**Text-Guided Video Masked Autoencoder**|David Fan et.al.|[2408.00759v1](http://arxiv.org/abs/2408.00759v1)|null|null|
 |**2024-08-01**|**How Effective are Self-Supervised Models for Contact Identification in Videos**|Malitha Gunawardhana et.al.|[2408.00498v1](http://arxiv.org/abs/2408.00498v1)|null|null|
 |**2024-08-01**|**Task-Adapter: Task-specific Adaptation of Image Models for Few-shot Action Recognition**|Congqi Cao et.al.|[2408.00249v1](http://arxiv.org/abs/2408.00249v1)|null|null|
-|**2024-07-31**|**Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution**|Jingyao Wang et.al.|[2407.21525v1](http://arxiv.org/abs/2407.21525v1)|null|null|
+|**2024-07-31**|**Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution**|Jingyao Wang et.al.|[2407.21525v1](http://arxiv.org/abs/2407.21525v1)|**[link](https://github.com/jingyaojade/SpSt-GCN)**|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981v1](http://arxiv.org/abs/2407.19981v1)|null|null|
 |**2024-07-29**|**Classification Matters: Improving Video Action Detection with Class-Specific Attention**|Jinsung Lee et.al.|[2407.19698v1](http://arxiv.org/abs/2407.19698v1)|null|null|
 |**2024-07-25**|**MARINE: A Computer Vision Model for Detecting Rare Predator-Prey Interactions in Animal Videos**|Zsófia Katona et.al.|[2407.18289v1](http://arxiv.org/abs/2407.18289v1)|**[link](https://github.com/zsofiak/masterthesis)**|**[link](https://github.com/zsofiak/masterthesis)**|
@@ -151,7 +151,7 @@ layout: default
 |**2024-06-06**|**HENASY: Learning to Assemble Scene-Entities for Egocentric Video-Language Model**|Khoa Vo et.al.|[2406.00307v2](http://arxiv.org/abs/2406.00307v2)|null|null|
 |**2024-05-31**|**MALT: Multi-scale Action Learning Transformer for Online Action Detection**|Zhipeng Yang et.al.|[2405.20892v1](http://arxiv.org/abs/2405.20892v1)|null|null|
 |**2024-05-31**|**Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection**|Jing Xu et.al.|[2405.20633v1](http://arxiv.org/abs/2405.20633v1)|[link](https://github.com/yilliajing/action-ood)|**[link](https://github.com/yilliajing/action-ood)**|
-|**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606v1](http://arxiv.org/abs/2405.20606v1)|null|null|
+|**2024-05-31**|**Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning**|Yang Chen et.al.|[2405.20606v1](http://arxiv.org/abs/2405.20606v1)|**[link](https://github.com/cseeyangchen/c2vl)**|null|
 |**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025v1](http://arxiv.org/abs/2405.20025v1)|**[link](https://github.com/mitchfuchs/chimpbehave)**|**[link](https://github.com/mitchfuchs/chimpbehave)**|
 |**2024-05-31**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917v2](http://arxiv.org/abs/2405.19917v2)|null|null|
 |**2024-05-30**|**EgoSurgery-Phase: A Dataset of Surgical Phase Recognition from Egocentric Open Surgery Videos**|Ryo Fujii et.al.|[2405.19644v1](http://arxiv.org/abs/2405.19644v1)|[link](https://github.com/fujiry0/egosurgery)|**[link](https://github.com/fujiry0/egosurgery)**|
