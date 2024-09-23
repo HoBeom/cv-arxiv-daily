@@ -9,8 +9,8 @@
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661v1](http://arxiv.org/abs/2409.11661v1)|null|null|
 |**2024-09-17**|**Good Grasps Only: A data engine for self-supervised fine-tuning of pose estimation using grasp poses for verification**|Frederik Hagelskjær et.al.|[2409.11512v1](http://arxiv.org/abs/2409.11512v1)|null|null|
 |**2024-09-17**|**Training Datasets Generation for Machine Learning: Application to Vision Based Navigation**|Jérémy Lebreton et.al.|[2409.11383v1](http://arxiv.org/abs/2409.11383v1)|null|null|
-|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|[link](https://github.com/vectorspacelab/omnigen)|**[link](https://github.com/vectorspacelab/omnigen)**|
-|**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122v1](http://arxiv.org/abs/2409.11122v1)|[link](https://github.com/brytsknguyen/uloc)|**[link](https://github.com/brytsknguyen/uloc)**|
+|**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340v1](http://arxiv.org/abs/2409.11340v1)|[link](https://github.com/vectorspacelab/omnigen)|null|
+|**2024-09-17**|**ULOC: Learning to Localize in Complex Large-Scale Environments with Ultra-Wideband Ranges**|Thien-Minh Nguyen et.al.|[2409.11122v1](http://arxiv.org/abs/2409.11122v1)|[link](https://github.com/brytsknguyen/uloc)|null|
 |**2024-09-17**|**Depth-based Privileged Information for Boosting 3D Human Pose Estimation on RGB**|Alessandro Simoni et.al.|[2409.11104v1](http://arxiv.org/abs/2409.11104v1)|null|null|
 |**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|null|
 |**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815v1](http://arxiv.org/abs/2409.10815v1)|null|null|

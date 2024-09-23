@@ -9,12 +9,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867v1](http://arxiv.org/abs/2409.11867v1)|null|null|
-|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|**[link](https://github.com/dongzhikang/mambavl)**|
+|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|null|
 |**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953v1](http://arxiv.org/abs/2409.09953v1)|null|null|
 |**2024-09-15**|**Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition**|Cagri Gungor et.al.|[2409.09611v1](http://arxiv.org/abs/2409.09611v1)|null|null|
 |**2024-09-14**|**KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition**|Zhaoyu Chen et.al.|[2409.09444v1](http://arxiv.org/abs/2409.09444v1)|null|null|
 |**2024-09-14**|**ChildPlay-Hand: A Dataset of Hand Manipulations in the Wild**|Arya Farkhondeh et.al.|[2409.09319v1](http://arxiv.org/abs/2409.09319v1)|null|null|
-|**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177v1](http://arxiv.org/abs/2409.09177v1)|[link](https://github.com/rd20karim/synch-transformer)|**[link](https://github.com/rd20karim/synch-transformer)**|
+|**2024-09-13**|**Transformer with Controlled Attention for Synchronous Motion Captioning**|Karim Radouane et.al.|[2409.09177v1](http://arxiv.org/abs/2409.09177v1)|[link](https://github.com/rd20karim/synch-transformer)|null|
 |**2024-09-13**|**Using The Concept Hierarchy for Household Action Recognition**|Andrei Costinescu et.al.|[2409.08853v1](http://arxiv.org/abs/2409.08853v1)|null|null|
 |**2024-09-11**|**2D bidirectional gated recurrent unit convolutional Neural networks for end-to-end violence detection In videos**|Abdarahmane Traoré et.al.|[2409.07588v1](http://arxiv.org/abs/2409.07588v1)|null|null|
 |**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665v1](http://arxiv.org/abs/2409.06665v1)|null|null|
