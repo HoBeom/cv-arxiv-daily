@@ -4,10 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2024.09.25
+### Updated on 2024.09.26
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-24**|**PseudoNeg-MAE: Self-Supervised Point Cloud Learning using Conditional Pseudo-Negative Embeddings**|Sutharsan Mahendren et.al.|[2409.15832v1](http://arxiv.org/abs/2409.15832v1)|null|null|
+|**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727v1](http://arxiv.org/abs/2409.15727v1)|null|null|
+|**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475v1](http://arxiv.org/abs/2409.15475v1)|null|null|
+|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054v1](http://arxiv.org/abs/2409.15054v1)|null|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755v1](http://arxiv.org/abs/2409.14755v1)|null|null|
+|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723v1](http://arxiv.org/abs/2409.14723v1)|null|null|
+|**2024-09-22**|**Tactile Functasets: Neural Implicit Representations of Tactile Datasets**|Sikai Li et.al.|[2409.14592v1](http://arxiv.org/abs/2409.14592v1)|null|null|
+|**2024-09-22**|**AR Overlay: Training Image Pose Estimation on Curved Surface in a Synthetic Way**|Sining Huang et.al.|[2409.14577v1](http://arxiv.org/abs/2409.14577v1)|null|null|
+|**2024-09-22**|**DROP: Dexterous Reorientation via Online Planning**|Albert H. Li et.al.|[2409.14562v1](http://arxiv.org/abs/2409.14562v1)|null|null|
+|**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269v1](http://arxiv.org/abs/2409.14269v1)|null|null|
 |**2024-09-18**|**SpotLight: Robotic Scene Understanding through Interaction and Affordance Detection**|Tim Engelbracht et.al.|[2409.11870v1](http://arxiv.org/abs/2409.11870v1)|null|null|
 |**2024-09-18**|**End-to-End Probabilistic Geometry-Guided Regression for 6DoF Object Pose Estimation**|Thomas Pöllabauer et.al.|[2409.11819v1](http://arxiv.org/abs/2409.11819v1)|null|null|
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661v1](http://arxiv.org/abs/2409.11661v1)|null|null|

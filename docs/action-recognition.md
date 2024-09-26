@@ -4,10 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2024.09.25
+### Updated on 2024.09.26
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-22**|**Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment**|Jidong Kuang et.al.|[2409.14336v1](http://arxiv.org/abs/2409.14336v1)|null|null|
+|**2024-09-21**|**Egocentric zone-aware action recognition across environments**|Simone Alberto Peirone et.al.|[2409.14205v1](http://arxiv.org/abs/2409.14205v1)|null|null|
+|**2024-09-19**|**Interpretable Action Recognition on Hard to Classify Actions**|Anastasia Anichenko et.al.|[2409.13091v1](http://arxiv.org/abs/2409.13091v1)|null|null|
 |**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867v1](http://arxiv.org/abs/2409.11867v1)|null|null|
 |**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|null|
 |**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953v1](http://arxiv.org/abs/2409.09953v1)|null|null|
