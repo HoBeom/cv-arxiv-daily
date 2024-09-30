@@ -4,7 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2024-09-26**|**Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition**|Xinpeng Yin et.al.|[2409.17951v1](http://arxiv.org/abs/2409.17951v1)|[link](https://github.com/YinxPeng/HA-CM-main)|**[link](https://github.com/YinxPeng/HA-CM-main)**|
+|**2024-09-27**|**Temporal2Seq: A Unified Framework for Temporal Video Understanding Tasks**|Min Yang et.al.|[2409.18478v1](http://arxiv.org/abs/2409.18478v1)|null|null|
+|**2024-09-27**|**Query matching for spatio-temporal action detection with query-based object detector**|Shimon Hori et.al.|[2409.18408v1](http://arxiv.org/abs/2409.18408v1)|null|null|
+|**2024-09-26**|**SOAR: Self-supervision Optimized UAV Action Recognition with Efficient Object-Aware Pretraining**|Ruiqi Xian et.al.|[2409.18300v1](http://arxiv.org/abs/2409.18300v1)|null|null|
+|**2024-09-26**|**Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition**|Xinpeng Yin et.al.|[2409.17951v1](http://arxiv.org/abs/2409.17951v1)|[link](https://github.com/YinxPeng/HA-CM-main)|null|
 |**2024-09-26**|**EAGLE: Egocentric AGgregated Language-video Engine**|Jing Bi et.al.|[2409.17523v1](http://arxiv.org/abs/2409.17523v1)|null|null|
 |**2024-09-25**|**Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration**|Jiazhou Zhou et.al.|[2409.16953v1](http://arxiv.org/abs/2409.16953v1)|null|null|
 |**2024-09-22**|**Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment**|Jidong Kuang et.al.|[2409.14336v1](http://arxiv.org/abs/2409.14336v1)|null|null|
