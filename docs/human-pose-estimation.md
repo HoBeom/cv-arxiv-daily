@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-09-30**|**Continual Human Pose Estimation for Incremental Integration of Keypoints and Pose Variations**|Muhammad Saif Ullah Khan et.al.|[2409.20469v1](http://arxiv.org/abs/2409.20469v1)|null|null|
+|**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237v1](http://arxiv.org/abs/2409.20237v1)|null|null|
+|**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127v1](http://arxiv.org/abs/2409.20127v1)|[link](https://github.com/PStelldinger/PuzzleBoard)|null|
+|**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|null|
+|**2024-09-30**|**GearTrack: Automating 6D Pose Estimation**|Yu Deng et.al.|[2409.19986v1](http://arxiv.org/abs/2409.19986v1)|null|null|
+|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899v1](http://arxiv.org/abs/2409.19899v1)|null|null|
+|**2024-09-29**|**PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond**|Chen Song et.al.|[2409.19772v1](http://arxiv.org/abs/2409.19772v1)|null|null|
+|**2024-09-29**|**GelSlim 4.0: Focusing on Touch and Reproducibility**|Andrea Sipos et.al.|[2409.19770v1](http://arxiv.org/abs/2409.19770v1)|null|null|
+|**2024-09-29**|**OptiGrasp: Optimized Grasp Pose Detection Using RGB Images for Warehouse Picking Robots**|Soofiyan Atar et.al.|[2409.19494v1](http://arxiv.org/abs/2409.19494v1)|null|null|
+|**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062v1](http://arxiv.org/abs/2409.19062v1)|null|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|null|
 |**2024-09-27**|**DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences**|Jingwei Song et.al.|[2409.18457v1](http://arxiv.org/abs/2409.18457v1)|null|null|
 |**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v1](http://arxiv.org/abs/2409.18261v1)|null|null|
