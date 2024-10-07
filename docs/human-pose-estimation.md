@@ -13,11 +13,11 @@ layout: default
 |**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618v1](http://arxiv.org/abs/2410.01618v1)|null|null|
 |**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293v1](http://arxiv.org/abs/2410.01293v1)|null|null|
 |**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061v1](http://arxiv.org/abs/2410.01061v1)|null|null|
-|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|null|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|**[link](https://github.com/kaichen-z/rad)**|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589v1](http://arxiv.org/abs/2410.00589v1)|null|null|
 |**2024-09-30**|**Continual Human Pose Estimation for Incremental Integration of Keypoints and Pose Variations**|Muhammad Saif Ullah Khan et.al.|[2409.20469v1](http://arxiv.org/abs/2409.20469v1)|null|null|
 |**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237v1](http://arxiv.org/abs/2409.20237v1)|null|null|
-|**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127v1](http://arxiv.org/abs/2409.20127v1)|[link](https://github.com/PStelldinger/PuzzleBoard)|null|
+|**2024-09-30**|**PuzzleBoard: A New Camera Calibration Pattern with Position Encoding**|Peer Stelldinger et.al.|[2409.20127v1](http://arxiv.org/abs/2409.20127v1)|[link](https://github.com/PStelldinger/PuzzleBoard)|**[link](https://github.com/PStelldinger/PuzzleBoard)**|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111v1](http://arxiv.org/abs/2409.20111v1)|null|null|
 |**2024-09-30**|**GearTrack: Automating 6D Pose Estimation**|Yu Deng et.al.|[2409.19986v1](http://arxiv.org/abs/2409.19986v1)|null|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899v1](http://arxiv.org/abs/2409.19899v1)|null|null|
@@ -27,7 +27,7 @@ layout: default
 |**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062v1](http://arxiv.org/abs/2409.19062v1)|null|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|null|
 |**2024-09-27**|**DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences**|Jingwei Song et.al.|[2409.18457v1](http://arxiv.org/abs/2409.18457v1)|null|null|
-|**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v1](http://arxiv.org/abs/2409.18261v1)|null|null|
+|**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v1](http://arxiv.org/abs/2409.18261v1)|**[link](https://github.com/3dtopia/omni6d)**|null|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082v1](http://arxiv.org/abs/2409.18082v1)|null|null|
 |**2024-09-27**|**Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes**|Katja Ludwig et.al.|[2409.17671v2](http://arxiv.org/abs/2409.17671v2)|null|null|
@@ -42,7 +42,7 @@ layout: default
 |**2024-09-24**|**LaPose: Laplacian Mixture Shape Modeling for RGB-Based Category-Level Object Pose Estimation**|Ruida Zhang et.al.|[2409.15727v1](http://arxiv.org/abs/2409.15727v1)|null|null|
 |**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475v1](http://arxiv.org/abs/2409.15475v1)|null|null|
 |**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054v1](http://arxiv.org/abs/2409.15054v1)|[link](https://github.com/guoyangzhao/fisheyedepth)|**[link](https://github.com/guoyangzhao/fisheyedepth)**|
-|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755v1](http://arxiv.org/abs/2409.14755v1)|**[link](https://github.com/stefp/whorl_pose_detector)**|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755v1](http://arxiv.org/abs/2409.14755v1)|**[link](https://github.com/stefp/whorl_pose_detector)**|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723v1](http://arxiv.org/abs/2409.14723v1)|null|null|
 |**2024-09-22**|**Tactile Functasets: Neural Implicit Representations of Tactile Datasets**|Sikai Li et.al.|[2409.14592v1](http://arxiv.org/abs/2409.14592v1)|null|null|
 |**2024-09-22**|**AR Overlay: Training Image Pose Estimation on Curved Surface in a Synthetic Way**|Sining Huang et.al.|[2409.14577v1](http://arxiv.org/abs/2409.14577v1)|null|null|
@@ -69,7 +69,7 @@ layout: default
 |**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|null|
 |**2024-09-14**|**Distributed Invariant Kalman Filter for Object-level Multi-robot Pose SLAM**|Haoying Li et.al.|[2409.09410v1](http://arxiv.org/abs/2409.09410v1)|null|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|[link](https://github.com/ybkurt/vift)|**[link](https://github.com/ybkurt/vift)**|
-|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|**[link](https://github.com/ahmedheakl/fish-counting)**|null|
+|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695v1](http://arxiv.org/abs/2409.08695v1)|**[link](https://github.com/ahmedheakl/fish-counting)**|**[link](https://github.com/ahmedheakl/fish-counting)**|
 |**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494v1](http://arxiv.org/abs/2409.08494v1)|null|null|
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|**[link](https://github.com/oarriaga/bayesian-inverse-graphics)**|**[link](https://github.com/oarriaga/bayesian-inverse-graphics)**|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269v1](http://arxiv.org/abs/2409.08269v1)|null|null|
@@ -81,7 +81,7 @@ layout: default
 |**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|[link](https://github.com/unsigned-long/ikalibr)|**[link](https://github.com/unsigned-long/ikalibr)**|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|null|
 |**2024-09-13**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912v2](http://arxiv.org/abs/2409.06912v2)|null|null|
-|**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v2](http://arxiv.org/abs/2409.06683v2)|null|null|
+|**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v2](http://arxiv.org/abs/2409.06683v2)|**[link](https://github.com/shishirreddy/alignist)**|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535v1](http://arxiv.org/abs/2409.06535v1)|null|null|
 |**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240v1](http://arxiv.org/abs/2409.06240v1)|null|null|
 |**2024-09-10**|**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**|Fangzhou Lin et.al.|[2409.06171v1](http://arxiv.org/abs/2409.06171v1)|[link](https://github.com/zhang-vislab/iros2024-lossdistillationweightedcd)|**[link](https://github.com/zhang-vislab/iros2024-lossdistillationweightedcd)**|
@@ -239,7 +239,7 @@ layout: default
 |**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|**[link](https://github.com/fudan-zvg/rodyn-slam)**|**[link](https://github.com/fudan-zvg/rodyn-slam)**|
 |**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013v1](http://arxiv.org/abs/2407.01013v1)|**[link](https://github.com/bairuofei/cge)**|**[link](https://github.com/bairuofei/cge)**|
 |**2024-06-30**|**Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation**|Adnan Abdullah et.al.|[2407.00848v1](http://arxiv.org/abs/2407.00848v1)|null|null|
-|**2024-06-29**|**When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration**|Philipp Allgeuer et.al.|[2407.00518v1](http://arxiv.org/abs/2407.00518v1)|null|null|
+|**2024-06-29**|**When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration**|Philipp Allgeuer et.al.|[2407.00518v1](http://arxiv.org/abs/2407.00518v1)|**[link](https://github.com/pallgeuer/chatty_robots)**|null|
 |**2024-06-28**|**Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review**|Moseli Mots'oehli et.al.|[2407.00252v1](http://arxiv.org/abs/2407.00252v1)|null|null|
 |**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726v1](http://arxiv.org/abs/2406.19726v1)|null|null|
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|null|
@@ -445,7 +445,7 @@ layout: default
 |**2024-03-25**|**ASDF: Assembly State Detection Utilizing Late Fusion by Integrating 6D Pose Estimation**|Hannah Schieber et.al.|[2403.16400v1](http://arxiv.org/abs/2403.16400v1)|**[link](https://github.com/roth-hex-lab/asdf)**|**[link](https://github.com/roth-hex-lab/asdf)**|
 |**2024-03-24**|**KITchen: A Real-World Benchmark and Dataset for 6D Object Pose Estimation in Kitchen Environments**|Abdelrahman Younes et.al.|[2403.16238v1](http://arxiv.org/abs/2403.16238v1)|null|null|
 |**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198v1](http://arxiv.org/abs/2403.16198v1)|null|null|
-|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|null|null|
+|**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|**[link](https://github.com/abhi1kumar/SUP-NeRF)**|null|
 |**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612v1](http://arxiv.org/abs/2403.15612v1)|**[link](https://github.com/sisidai/InterFusion)**|**[link](https://github.com/sisidai/InterFusion)**|
 |**2024-03-22**|**Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times**|Sepehr Sabeti et.al.|[2403.15571v1](http://arxiv.org/abs/2403.15571v1)|null|null|
 |**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333v1](http://arxiv.org/abs/2403.15333v1)|null|null|
