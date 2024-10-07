@@ -8,12 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-04**|**Dessie: Disentanglement for Articulated 3D Horse Shape and Pose Estimation from Images**|Ci Li et.al.|[2410.03438v1](http://arxiv.org/abs/2410.03438v1)|null|null|
+|**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174v1](http://arxiv.org/abs/2410.03174v1)|null|null|
+|**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054v1](http://arxiv.org/abs/2410.03054v1)|null|null|
 |**2024-10-03**|**Why Sample Space Matters: Keyframe Sampling Optimization for LiDAR-based Place Recognition**|Nikolaos Stathoulopoulos et.al.|[2410.02643v1](http://arxiv.org/abs/2410.02643v1)|null|null|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237v1](http://arxiv.org/abs/2410.02237v1)|null|null|
 |**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618v1](http://arxiv.org/abs/2410.01618v1)|null|null|
 |**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293v1](http://arxiv.org/abs/2410.01293v1)|null|null|
 |**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061v1](http://arxiv.org/abs/2410.01061v1)|null|null|
-|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|**[link](https://github.com/kaichen-z/rad)**|
+|**2024-10-01**|**RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations**|Kaichen Zhou et.al.|[2410.00713v1](http://arxiv.org/abs/2410.00713v1)|[link](https://github.com/kaichen-z/rad)|null|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589v1](http://arxiv.org/abs/2410.00589v1)|null|null|
 |**2024-09-30**|**Continual Human Pose Estimation for Incremental Integration of Keypoints and Pose Variations**|Muhammad Saif Ullah Khan et.al.|[2409.20469v1](http://arxiv.org/abs/2409.20469v1)|null|null|
 |**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237v1](http://arxiv.org/abs/2409.20237v1)|null|null|

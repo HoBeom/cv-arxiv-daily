@@ -8,13 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|null|
 |**2024-10-02**|**Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case**|Mohammad Mahdavian et.al.|[2410.01962v1](http://arxiv.org/abs/2410.01962v1)|null|null|
 |**2024-10-02**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669v1](http://arxiv.org/abs/2410.01669v1)|null|null|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083v1](http://arxiv.org/abs/2409.20083v1)|null|null|
 |**2024-09-27**|**Temporal2Seq: A Unified Framework for Temporal Video Understanding Tasks**|Min Yang et.al.|[2409.18478v1](http://arxiv.org/abs/2409.18478v1)|null|null|
 |**2024-09-27**|**Query matching for spatio-temporal action detection with query-based object detector**|Shimon Hori et.al.|[2409.18408v1](http://arxiv.org/abs/2409.18408v1)|null|null|
 |**2024-09-26**|**SOAR: Self-supervision Optimized UAV Action Recognition with Efficient Object-Aware Pretraining**|Ruiqi Xian et.al.|[2409.18300v1](http://arxiv.org/abs/2409.18300v1)|null|null|
-|**2024-09-26**|**Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition**|Xinpeng Yin et.al.|[2409.17951v1](http://arxiv.org/abs/2409.17951v1)|[link](https://github.com/YinxPeng/HA-CM-main)|**[link](https://github.com/YinxPeng/HA-CM-main)**|
+|**2024-09-26**|**Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition**|Xinpeng Yin et.al.|[2409.17951v1](http://arxiv.org/abs/2409.17951v1)|[link](https://github.com/YinxPeng/HA-CM-main)|null|
 |**2024-09-26**|**EAGLE: Egocentric AGgregated Language-video Engine**|Jing Bi et.al.|[2409.17523v1](http://arxiv.org/abs/2409.17523v1)|null|null|
 |**2024-09-25**|**Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration**|Jiazhou Zhou et.al.|[2409.16953v1](http://arxiv.org/abs/2409.16953v1)|null|null|
 |**2024-09-22**|**Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment**|Jidong Kuang et.al.|[2409.14336v1](http://arxiv.org/abs/2409.14336v1)|null|null|
