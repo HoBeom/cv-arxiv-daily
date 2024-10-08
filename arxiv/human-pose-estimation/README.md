@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-10-07**|**Comparison of marker-less 2D image-based methods for infant pose estimation**|Lennart Jahn et.al.|[2410.04980v1](http://arxiv.org/abs/2410.04980v1)|null|null|
+|**2024-10-06**|**Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion**|Mehwish Ghafoor et.al.|[2410.04574v1](http://arxiv.org/abs/2410.04574v1)|[link](https://github.com/mehwishg/dtf)|null|
+|**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419v1](http://arxiv.org/abs/2410.04419v1)|null|null|
+|**2024-10-05**|**Test-Time Adaptation for Keypoint-Based Spacecraft Pose Estimation Based on Predicted-View Synthesis**|Juan Ignacio Bravo Pérez-Villar et.al.|[2410.04298v1](http://arxiv.org/abs/2410.04298v1)|[link](https://github.com/jotabravo/spacecraft-tta)|null|
+|**2024-10-05**|**A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems**|Nikola Radulov et.al.|[2410.04242v1](http://arxiv.org/abs/2410.04242v1)|null|null|
+|**2024-10-04**|**Unsupervised Prior Learning: Discovering Categorical Pose Priors from Videos**|Ziyu Wang et.al.|[2410.03858v1](http://arxiv.org/abs/2410.03858v1)|null|null|
+|**2024-10-04**|**Universal Global State Estimation for Inertial Navigation Systems**|Sifeddine Benahmed et.al.|[2410.03846v1](http://arxiv.org/abs/2410.03846v1)|null|null|
+|**2024-10-04**|**MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion**|Junyi Zhang et.al.|[2410.03825v1](http://arxiv.org/abs/2410.03825v1)|null|null|
 |**2024-10-04**|**Dessie: Disentanglement for Articulated 3D Horse Shape and Pose Estimation from Images**|Ci Li et.al.|[2410.03438v1](http://arxiv.org/abs/2410.03438v1)|null|null|
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174v1](http://arxiv.org/abs/2410.03174v1)|null|null|
 |**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054v1](http://arxiv.org/abs/2410.03054v1)|null|null|
