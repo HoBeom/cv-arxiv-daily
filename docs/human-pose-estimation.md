@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-09**|**OmniPose6D: Towards Short-Term Object Pose Tracking in Dynamic Scenes from Monocular RGB**|Yunzhi Lin et.al.|[2410.06694v1](http://arxiv.org/abs/2410.06694v1)|null|null|
+|**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243v1](http://arxiv.org/abs/2410.06243v1)|null|null|
+|**2024-10-08**|**SpecTrack: Learned Multi-Rotation Tracking via Speckle Imaging**|Ziyang Chen et.al.|[2410.06028v1](http://arxiv.org/abs/2410.06028v1)|null|null|
+|**2024-10-08**|**AIVIO: Closed-loop, Object-relative Navigation of UAVs with AI-aided Visual Inertial Odometry**|Thomas Jantos et.al.|[2410.05996v1](http://arxiv.org/abs/2410.05996v1)|null|null|
+|**2024-10-08**|**Are Minimal Radial Distortion Solvers Necessary for Relative Pose Estimation?**|Charalambos Tzamos et.al.|[2410.05984v1](http://arxiv.org/abs/2410.05984v1)|[link](https://github.com/kocurvik/rd)|null|
+|**2024-10-08**|**FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance**|Ruocheng Wang et.al.|[2410.05791v1](http://arxiv.org/abs/2410.05791v1)|null|null|
 |**2024-10-07**|**Comparison of marker-less 2D image-based methods for infant pose estimation**|Lennart Jahn et.al.|[2410.04980v1](http://arxiv.org/abs/2410.04980v1)|null|null|
 |**2024-10-06**|**Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion**|Mehwish Ghafoor et.al.|[2410.04574v1](http://arxiv.org/abs/2410.04574v1)|[link](https://github.com/mehwishg/dtf)|null|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419v1](http://arxiv.org/abs/2410.04419v1)|null|null|
