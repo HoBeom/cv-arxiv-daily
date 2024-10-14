@@ -8,15 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-10**|**Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-grained Motor Behavior Recognition**|Cheng Liu et.al.|[2410.08410v1](http://arxiv.org/abs/2410.08410v1)|null|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912v1](http://arxiv.org/abs/2410.07912v1)|null|null|
-|**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153v1](http://arxiv.org/abs/2410.07153v1)|[link](https://github.com/Necolizer/CHASE)|**[link](https://github.com/Necolizer/CHASE)**|
+|**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153v1](http://arxiv.org/abs/2410.07153v1)|[link](https://github.com/Necolizer/CHASE)|null|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698v1](http://arxiv.org/abs/2410.06698v1)|null|null|
-|**2024-10-08**|**Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation**|Bowen Chen et.al.|[2410.06353v1](http://arxiv.org/abs/2410.06353v1)|[link](https://github.com/hitcbw/lpl)|**[link](https://github.com/hitcbw/lpl)**|
+|**2024-10-08**|**Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation**|Bowen Chen et.al.|[2410.06353v1](http://arxiv.org/abs/2410.06353v1)|[link](https://github.com/hitcbw/lpl)|null|
 |**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774v2](http://arxiv.org/abs/2410.05774v2)|null|null|
 |**2024-10-08**|**Cefdet: Cognitive Effectiveness Network Based on Fuzzy Inference for Action Detection**|Zhe Luo et.al.|[2410.05771v1](http://arxiv.org/abs/2410.05771v1)|null|null|
 |**2024-10-07**|**EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts**|Yuto Haneji et.al.|[2410.05343v1](http://arxiv.org/abs/2410.05343v1)|null|null|
 |**2024-10-04**|**Shadow Augmentation for Handwashing Action Recognition: from Synthetic to Real Datasets**|Shengtai Ju et.al.|[2410.03984v1](http://arxiv.org/abs/2410.03984v1)|null|null|
-|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|**[link](https://github.com/thanhhff/MultiASL)**|
+|**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|null|
 |**2024-10-02**|**Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case**|Mohammad Mahdavian et.al.|[2410.01962v1](http://arxiv.org/abs/2410.01962v1)|null|null|
 |**2024-10-02**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669v1](http://arxiv.org/abs/2410.01669v1)|[link](https://github.com/andrea-cavallo-98/sparse-vnn)|**[link](https://github.com/andrea-cavallo-98/sparse-vnn)**|
 |**2024-09-30**|**SurgPETL: Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition**|Shu Yang et.al.|[2409.20083v1](http://arxiv.org/abs/2409.20083v1)|null|null|
