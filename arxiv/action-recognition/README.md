@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2024.10.13
+### Updated on 2024.10.14
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@
 |**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153v1](http://arxiv.org/abs/2410.07153v1)|[link](https://github.com/Necolizer/CHASE)|null|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698v1](http://arxiv.org/abs/2410.06698v1)|null|null|
 |**2024-10-08**|**Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation**|Bowen Chen et.al.|[2410.06353v1](http://arxiv.org/abs/2410.06353v1)|[link](https://github.com/hitcbw/lpl)|null|
-|**2024-10-08**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774v1](http://arxiv.org/abs/2410.05774v1)|null|null|
+|**2024-10-10**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774v2](http://arxiv.org/abs/2410.05774v2)|null|null|
 |**2024-10-08**|**Cefdet: Cognitive Effectiveness Network Based on Fuzzy Inference for Action Detection**|Zhe Luo et.al.|[2410.05771v1](http://arxiv.org/abs/2410.05771v1)|null|null|
 |**2024-10-07**|**EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts**|Yuto Haneji et.al.|[2410.05343v1](http://arxiv.org/abs/2410.05343v1)|null|null|
 |**2024-10-04**|**Shadow Augmentation for Handwashing Action Recognition: from Synthetic to Real Datasets**|Shengtai Ju et.al.|[2410.03984v1](http://arxiv.org/abs/2410.03984v1)|null|null|
