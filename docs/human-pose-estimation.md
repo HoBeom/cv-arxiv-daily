@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2024.10.20
+### Updated on 2024.10.21
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -12,7 +12,7 @@ layout: default
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|null|
 |**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679v1](http://arxiv.org/abs/2410.12679v1)|null|null|
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|null|
-|**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v1](http://arxiv.org/abs/2410.10167v1)|null|null|
+|**2024-10-18**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v2](http://arxiv.org/abs/2410.10167v2)|null|null|
 |**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885v1](http://arxiv.org/abs/2410.09885v1)|null|null|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467v1](http://arxiv.org/abs/2410.09467v1)|null|null|
 |**2024-10-12**|**Towards Multi-Modal Animal Pose Estimation: An In-Depth Analysis**|Qianyi Deng et.al.|[2410.09312v1](http://arxiv.org/abs/2410.09312v1)|[link](https://github.com/chennydeng/mm-ape)|null|
