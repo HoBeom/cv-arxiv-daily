@@ -8,8 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-10-21**|**Improving the Multi-label Atomic Activity Recognition by Robust Visual Feature and Advanced Attention @ ROAD++ Atomic Activity Recognition 2024**|Jiamin Cao et.al.|[2410.16037v1](http://arxiv.org/abs/2410.16037v1)|null|null|
+|**2024-10-20**|**ContextDet: Temporal Action Detection with Adaptive Context Aggregation**|Ning Wang et.al.|[2410.15279v1](http://arxiv.org/abs/2410.15279v1)|null|null|
 |**2024-10-18**|**Storyboard guided Alignment for Fine-grained Video Action Recognition**|Enqi Liu et.al.|[2410.14238v1](http://arxiv.org/abs/2410.14238v1)|null|null|
-|**2024-10-16**|**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution**|Timothy Wei et.al.|[2410.12165v1](http://arxiv.org/abs/2410.12165v1)|null|null|
+|**2024-10-20**|**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution**|Timothy Wei et.al.|[2410.12165v2](http://arxiv.org/abs/2410.12165v2)|null|null|
 |**2024-10-14**|**Continual Learning Improves Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2410.10497v1](http://arxiv.org/abs/2410.10497v1)|null|null|
 |**2024-10-13**|**EITNet: An IoT-Enhanced Framework for Real-Time Basketball Action Recognition**|Jingyu Liu et.al.|[2410.09954v1](http://arxiv.org/abs/2410.09954v1)|null|null|
 |**2024-10-13**|**Multi class activity classification in videos using Motion History Image generation**|Senthilkumar Gopal et.al.|[2410.09902v1](http://arxiv.org/abs/2410.09902v1)|[link](https://github.com/sengopal/cv-activity-classification)|null|
