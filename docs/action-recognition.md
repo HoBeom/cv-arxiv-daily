@@ -8,24 +8,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489v1](http://arxiv.org/abs/2410.17489v1)|[link](https://github.com/indrajeetghosh/udar_icdm)|null|
+|**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489v1](http://arxiv.org/abs/2410.17489v1)|[link](https://github.com/indrajeetghosh/udar_icdm)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149v1](http://arxiv.org/abs/2410.17149v1)|null|null|
 |**2024-10-22**|**Masked Differential Privacy**|David Schneider et.al.|[2410.17098v1](http://arxiv.org/abs/2410.17098v1)|null|null|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|[link](https://github.com/typistchen/spikmamba)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|[link](https://github.com/typistchen/spikmamba)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-21**|**Improving the Multi-label Atomic Activity Recognition by Robust Visual Feature and Advanced Attention @ ROAD++ Atomic Activity Recognition 2024**|Jiamin Cao et.al.|[2410.16037v1](http://arxiv.org/abs/2410.16037v1)|null|null|
 |**2024-10-20**|**ContextDet: Temporal Action Detection with Adaptive Context Aggregation**|Ning Wang et.al.|[2410.15279v1](http://arxiv.org/abs/2410.15279v1)|null|null|
 |**2024-10-18**|**Storyboard guided Alignment for Fine-grained Video Action Recognition**|Enqi Liu et.al.|[2410.14238v1](http://arxiv.org/abs/2410.14238v1)|null|null|
 |**2024-10-20**|**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution**|Timothy Wei et.al.|[2410.12165v2](http://arxiv.org/abs/2410.12165v2)|null|null|
 |**2024-10-14**|**Continual Learning Improves Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2410.10497v1](http://arxiv.org/abs/2410.10497v1)|null|null|
 |**2024-10-13**|**EITNet: An IoT-Enhanced Framework for Real-Time Basketball Action Recognition**|Jingyu Liu et.al.|[2410.09954v1](http://arxiv.org/abs/2410.09954v1)|null|null|
-|**2024-10-13**|**Multi class activity classification in videos using Motion History Image generation**|Senthilkumar Gopal et.al.|[2410.09902v1](http://arxiv.org/abs/2410.09902v1)|[link](https://github.com/sengopal/cv-activity-classification)|null|
+|**2024-10-13**|**Multi class activity classification in videos using Motion History Image generation**|Senthilkumar Gopal et.al.|[2410.09902v1](http://arxiv.org/abs/2410.09902v1)|[link](https://github.com/sengopal/cv-activity-classification)|**[link](https://github.com/sengopal/cv-activity-classification)**|
 |**2024-10-10**|**Human Stone Toolmaking Action Grammar (HSTAG): A Challenging Benchmark for Fine-grained Motor Behavior Recognition**|Cheng Liu et.al.|[2410.08410v1](http://arxiv.org/abs/2410.08410v1)|null|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912v1](http://arxiv.org/abs/2410.07912v1)|null|null|
-|**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153v1](http://arxiv.org/abs/2410.07153v1)|[link](https://github.com/Necolizer/CHASE)|null|
+|**2024-10-09**|**CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition**|Yuhang Wen et.al.|[2410.07153v1](http://arxiv.org/abs/2410.07153v1)|[link](https://github.com/Necolizer/CHASE)|**[link](https://github.com/Necolizer/CHASE)**|
 |**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698v1](http://arxiv.org/abs/2410.06698v1)|null|null|
-|**2024-10-08**|**Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation**|Bowen Chen et.al.|[2410.06353v1](http://arxiv.org/abs/2410.06353v1)|[link](https://github.com/hitcbw/lpl)|null|
+|**2024-10-08**|**Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation**|Bowen Chen et.al.|[2410.06353v1](http://arxiv.org/abs/2410.06353v1)|[link](https://github.com/hitcbw/lpl)|**[link](https://github.com/hitcbw/lpl)**|
 |**2024-10-15**|**ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition**|Mohammadreza Salehi et.al.|[2410.05774v3](http://arxiv.org/abs/2410.05774v3)|null|null|
-|**2024-10-08**|**Cefdet: Cognitive Effectiveness Network Based on Fuzzy Inference for Action Detection**|Zhe Luo et.al.|[2410.05771v1](http://arxiv.org/abs/2410.05771v1)|**[link](https://github.com/12sakura/cefdet)**|null|
+|**2024-10-08**|**Cefdet: Cognitive Effectiveness Network Based on Fuzzy Inference for Action Detection**|Zhe Luo et.al.|[2410.05771v1](http://arxiv.org/abs/2410.05771v1)|**[link](https://github.com/12sakura/cefdet)**|**[link](https://github.com/12sakura/cefdet)**|
 |**2024-10-07**|**EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts**|Yuto Haneji et.al.|[2410.05343v1](http://arxiv.org/abs/2410.05343v1)|null|null|
 |**2024-10-04**|**Shadow Augmentation for Handwashing Action Recognition: from Synthetic to Real Datasets**|Shengtai Ju et.al.|[2410.03984v1](http://arxiv.org/abs/2410.03984v1)|null|null|
 |**2024-10-04**|**Action Selection Learning for Multi-label Multi-view Action Recognition**|Trung Thanh Nguyen et.al.|[2410.03302v1](http://arxiv.org/abs/2410.03302v1)|[link](https://github.com/thanhhff/MultiASL)|**[link](https://github.com/thanhhff/MultiASL)**|
@@ -422,7 +422,7 @@ layout: default
 |**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
 |**2023-09-17**|**CaSAR: Contact-aware Skeletal Action Recognition**|Junan Lin et.al.|[2309.10001v1](http://arxiv.org/abs/2309.10001v1)|null|
 |**2023-09-18**|**Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition**|Ming-Zhe Li et.al.|[2309.09592v1](http://arxiv.org/abs/2309.09592v1)|**[link](https://github.com/EHZ9NIWI7/MSF-GZSSAR)**|
-|**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|null|
+|**2023-09-18**|**Selective Volume Mixup for Video Action Recognition**|Yi Tan et.al.|[2309.09534v1](http://arxiv.org/abs/2309.09534v1)|**[link](https://github.com/ty-97/seletive-volume-mix)**|
 |**2023-09-17**|**Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention**|Burak Satar et.al.|[2309.09311v1](http://arxiv.org/abs/2309.09311v1)|null|
 |**2023-09-15**|**hear-your-action: human action recognition by ultrasound active sensing**|Risako Tanigawa et.al.|[2309.08087v1](http://arxiv.org/abs/2309.08087v1)|null|
 |**2023-09-13**|**TransNet: A Transfer Learning-Based Network for Human Action Recognition**|K. Alomar et.al.|[2309.06951v1](http://arxiv.org/abs/2309.06951v1)|null|
