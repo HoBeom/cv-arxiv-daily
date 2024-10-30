@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211v1](http://arxiv.org/abs/2410.22211v1)|null|null|
+|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184v1](http://arxiv.org/abs/2410.22184v1)|[link](https://github.com/adrianiordache/mlfd)|null|
 |**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)|null|
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113v1](http://arxiv.org/abs/2410.21113v1)|null|null|
 |**2024-10-27**|**Exocentric To Egocentric Transfer For Action Recognition: A Short Survey**|Anirudh Thatipelli et.al.|[2410.20621v1](http://arxiv.org/abs/2410.20621v1)|null|null|
