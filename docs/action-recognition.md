@@ -9,12 +9,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-10-31**|**Learning Video Representations without Natural Videos**|Xueyang Yu et.al.|[2410.24213v1](http://arxiv.org/abs/2410.24213v1)|null|null|
-|**2024-10-31**|**Human Action Recognition (HAR) Using Skeleton-based Quantum Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v1](http://arxiv.org/abs/2410.23806v1)|null|null|
+|**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v2](http://arxiv.org/abs/2410.23806v2)|null|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641v1](http://arxiv.org/abs/2410.23641v1)|null|null|
 |**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862v1](http://arxiv.org/abs/2410.22862v1)|null|null|
-|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211v1](http://arxiv.org/abs/2410.22211v1)|[link](https://github.com/kimihiroh/promqa)|**[link](https://github.com/kimihiroh/promqa)**|
-|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184v1](http://arxiv.org/abs/2410.22184v1)|[link](https://github.com/adrianiordache/mlfd)|**[link](https://github.com/adrianiordache/mlfd)**|
-|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
+|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211v1](http://arxiv.org/abs/2410.22211v1)|[link](https://github.com/kimihiroh/promqa)|null|
+|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184v1](http://arxiv.org/abs/2410.22184v1)|[link](https://github.com/adrianiordache/mlfd)|null|
+|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)|null|
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113v1](http://arxiv.org/abs/2410.21113v1)|null|null|
 |**2024-10-27**|**Exocentric To Egocentric Transfer For Action Recognition: A Short Survey**|Anirudh Thatipelli et.al.|[2410.20621v1](http://arxiv.org/abs/2410.20621v1)|null|null|
 |**2024-10-30**|**YourSkatingCoach: A Figure Skating Video Benchmark for Fine-Grained Element Analysis**|Wei-Yi Chen et.al.|[2410.20427v2](http://arxiv.org/abs/2410.20427v2)|null|null|
