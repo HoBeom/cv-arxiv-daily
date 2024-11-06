@@ -14,7 +14,7 @@ layout: default
 |**2024-10-31**|**Technical Report for ActivityNet Challenge 2022 -- Temporal Action Localization**|Shimin Chen et.al.|[2411.00883v1](http://arxiv.org/abs/2411.00883v1)|null|null|
 |**2024-10-31**|**Technical Report for SoccerNet Challenge 2022 -- Replay Grounding Task**|Shimin Chen et.al.|[2411.00881v1](http://arxiv.org/abs/2411.00881v1)|null|null|
 |**2024-10-30**|**A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage**|Levi Harris et.al.|[2411.00862v1](http://arxiv.org/abs/2411.00862v1)|null|null|
-|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|null|null|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|[link](https://github.com/ZeruiW/VideoXAI)|null|
 |**2024-10-31**|**Learning Video Representations without Natural Videos**|Xueyang Yu et.al.|[2410.24213v1](http://arxiv.org/abs/2410.24213v1)|null|null|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v2](http://arxiv.org/abs/2410.23806v2)|null|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641v1](http://arxiv.org/abs/2410.23641v1)|null|null|
