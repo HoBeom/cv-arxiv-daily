@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|null|null|
+|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|[link](https://github.com/deepinmotion/shapgcn)|null|
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|null|
 |**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769v1](http://arxiv.org/abs/2411.01769v1)|null|null|
 |**2024-11-02**|**OnlineTAS: An Online Baseline for Temporal Action Segmentation**|Qing Zhong et.al.|[2411.01122v1](http://arxiv.org/abs/2411.01122v1)|null|null|
