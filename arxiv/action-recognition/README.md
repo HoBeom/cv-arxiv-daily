@@ -4,21 +4,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|[link](https://github.com/deepinmotion/shapgcn)|null|
+|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|[link](https://github.com/deepinmotion/shapgcn)|**[link](https://github.com/deepinmotion/shapgcn)**|
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|null|
 |**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769v1](http://arxiv.org/abs/2411.01769v1)|null|null|
 |**2024-11-02**|**OnlineTAS: An Online Baseline for Temporal Action Segmentation**|Qing Zhong et.al.|[2411.01122v1](http://arxiv.org/abs/2411.01122v1)|null|null|
 |**2024-10-31**|**Technical Report for ActivityNet Challenge 2022 -- Temporal Action Localization**|Shimin Chen et.al.|[2411.00883v1](http://arxiv.org/abs/2411.00883v1)|null|null|
 |**2024-10-31**|**Technical Report for SoccerNet Challenge 2022 -- Replay Grounding Task**|Shimin Chen et.al.|[2411.00881v1](http://arxiv.org/abs/2411.00881v1)|null|null|
 |**2024-10-30**|**A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage**|Levi Harris et.al.|[2411.00862v1](http://arxiv.org/abs/2411.00862v1)|null|null|
-|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|[link](https://github.com/ZeruiW/VideoXAI)|null|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|[link](https://github.com/ZeruiW/VideoXAI)|**[link](https://github.com/ZeruiW/VideoXAI)**|
 |**2024-10-31**|**Learning Video Representations without Natural Videos**|Xueyang Yu et.al.|[2410.24213v1](http://arxiv.org/abs/2410.24213v1)|null|null|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v2](http://arxiv.org/abs/2410.23806v2)|null|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641v1](http://arxiv.org/abs/2410.23641v1)|null|null|
 |**2024-10-30**|**AtGCN: A Graph Convolutional Network For Ataxic Gait Detection**|Karan Bania et.al.|[2410.22862v1](http://arxiv.org/abs/2410.22862v1)|null|null|
-|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211v1](http://arxiv.org/abs/2410.22211v1)|[link](https://github.com/kimihiroh/promqa)|null|
-|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184v1](http://arxiv.org/abs/2410.22184v1)|[link](https://github.com/adrianiordache/mlfd)|null|
-|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)|null|
+|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211v1](http://arxiv.org/abs/2410.22211v1)|[link](https://github.com/kimihiroh/promqa)|**[link](https://github.com/kimihiroh/promqa)**|
+|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184v1](http://arxiv.org/abs/2410.22184v1)|[link](https://github.com/adrianiordache/mlfd)|**[link](https://github.com/adrianiordache/mlfd)**|
+|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275v1](http://arxiv.org/abs/2410.21275v1)|[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
 |**2024-10-28**|**Zero-Shot Action Recognition in Surveillance Videos**|Joao Pereira et.al.|[2410.21113v1](http://arxiv.org/abs/2410.21113v1)|null|null|
 |**2024-10-27**|**Exocentric To Egocentric Transfer For Action Recognition: A Short Survey**|Anirudh Thatipelli et.al.|[2410.20621v1](http://arxiv.org/abs/2410.20621v1)|null|null|
 |**2024-10-30**|**YourSkatingCoach: A Figure Skating Video Benchmark for Fine-Grained Element Analysis**|Wei-Yi Chen et.al.|[2410.20427v2](http://arxiv.org/abs/2410.20427v2)|null|null|
@@ -209,7 +209,7 @@
 |**2024-05-28**|**Hierarchical Action Recognition: A Contrastive Video-Language Approach with Hierarchical Interactions**|Rui Zhang et.al.|[2405.17729v1](http://arxiv.org/abs/2405.17729v1)|null|null|
 |**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719v2](http://arxiv.org/abs/2405.17719v2)|[link](https://github.com/xuboshen/egoncepp)|**[link](https://github.com/xuboshen/egoncepp)**|
 |**2024-05-27**|**A Cross-Dataset Study for Text-based 3D Human Motion Retrieval**|Léore Bensabath et.al.|[2405.16909v1](http://arxiv.org/abs/2405.16909v1)|null|null|
-|**2024-05-26**|**Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception**|Shuangpeng Han et.al.|[2405.16493v1](http://arxiv.org/abs/2405.16493v1)|**[link](https://github.com/zhanglab-deepneurocoglab/motionperceiver)**|null|
+|**2024-05-26**|**Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception**|Shuangpeng Han et.al.|[2405.16493v1](http://arxiv.org/abs/2405.16493v1)|**[link](https://github.com/zhanglab-deepneurocoglab/motionperceiver)**|**[link](https://github.com/zhanglab-deepneurocoglab/motionperceiver)**|
 |**2024-05-25**|**Efficient Temporal Action Segmentation via Boundary-aware Query Voting**|Peiyao Wang et.al.|[2405.15995v1](http://arxiv.org/abs/2405.15995v1)|[link](https://github.com/peiyao-w/baformer)|**[link](https://github.com/peiyao-w/baformer)**|
 |**2024-05-22**|**From CNNs to Transformers in Multimodal Human Action Recognition: A Survey**|Muhammad Bilal Shaikh et.al.|[2405.15813v1](http://arxiv.org/abs/2405.15813v1)|null|null|
 |**2024-05-23**|**Enhanced Spatiotemporal Prediction Using Physical-guided And Frequency-enhanced Recurrent Neural Networks**|Xuanle Zhao et.al.|[2405.14504v1](http://arxiv.org/abs/2405.14504v1)|null|null|
@@ -255,7 +255,7 @@
 |**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|**[link](https://github.com/wiktormucha/effhandegonet)**|**[link](https://github.com/wiktormucha/effhandegonet)**|
 |**2024-04-13**|**Exploring Explainability in Video Action Recognition**|Avinab Saha et.al.|[2404.09067v1](http://arxiv.org/abs/2404.09067v1)|null|null|
 |**2024-04-12**|**MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition**|Linhuang Wang et.al.|[2404.08433v1](http://arxiv.org/abs/2404.08433v1)|null|null|
-|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645v1](http://arxiv.org/abs/2404.07645v1)|**[link](https://github.com/Soumyabrata2003/Simba)**|null|
+|**2024-04-11**|**Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**|Soumyabrata Chaudhuri et.al.|[2404.07645v1](http://arxiv.org/abs/2404.07645v1)|**[link](https://github.com/Soumyabrata2003/Simba)**|**[link](https://github.com/Soumyabrata2003/Simba)**|
 |**2024-04-15**|**Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2404.07487v2](http://arxiv.org/abs/2404.07487v2)|null|null|
 |**2024-04-10**|**O-TALC: Steps Towards Combating Oversegmentation within Online Action Segmentation**|Matthew Kent Myers et.al.|[2404.06894v1](http://arxiv.org/abs/2404.06894v1)|null|null|
 |**2024-04-10**|**An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video**|Xingyu Song et.al.|[2404.06741v1](http://arxiv.org/abs/2404.06741v1)|**[link](https://github.com/xingyu-song/4a)**|**[link](https://github.com/xingyu-song/4a)**|
