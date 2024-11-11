@@ -8,10 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|[link](https://github.com/l-scofano/seeme)|**[link](https://github.com/l-scofano/seeme)**|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734v1](http://arxiv.org/abs/2411.05734v1)|null|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552v1](http://arxiv.org/abs/2411.05552v1)|[link](https://github.com/avauco/deeparuco)|null|
+|**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497v1](http://arxiv.org/abs/2411.05497v1)|null|null|
+|**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481v1](http://arxiv.org/abs/2411.05481v1)|null|null|
+|**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|[link](https://github.com/l-scofano/seeme)|null|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501v1](http://arxiv.org/abs/2411.04501v1)|null|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386v1](http://arxiv.org/abs/2411.04386v1)|null|null|
-|**2024-11-07**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v2](http://arxiv.org/abs/2411.03807v2)|null|null|
+|**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v3](http://arxiv.org/abs/2411.03807v3)|null|null|
 |**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724v1](http://arxiv.org/abs/2411.03724v1)|null|null|
 |**2024-11-05**|**Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data**|Seunggeun Chi et.al.|[2411.03561v1](http://arxiv.org/abs/2411.03561v1)|null|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086v1](http://arxiv.org/abs/2411.03086v1)|null|null|
