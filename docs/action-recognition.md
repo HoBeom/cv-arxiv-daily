@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-13**|**Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?**|Quan Zhang et.al.|[2411.08466v1](http://arxiv.org/abs/2411.08466v1)|null|null|
 |**2024-11-10**|**Extended multi-stream temporal-attention module for skeleton-based human action recognition (HAR)**|Faisal Mehmood et.al.|[2411.06553v1](http://arxiv.org/abs/2411.06553v1)|null|null|
 |**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692v1](http://arxiv.org/abs/2411.05692v1)|[link](https://github.com/rayabhisek123/autoregad-hgformer)|null|
 |**2024-11-08**|**Video RWKV:Video Action Recognition Based RWKV**|Zhuowen Yin et.al.|[2411.05636v1](http://arxiv.org/abs/2411.05636v1)|null|null|
