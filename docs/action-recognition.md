@@ -10,16 +10,16 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-11-13**|**Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?**|Quan Zhang et.al.|[2411.08466v1](http://arxiv.org/abs/2411.08466v1)|null|null|
 |**2024-11-10**|**Extended multi-stream temporal-attention module for skeleton-based human action recognition (HAR)**|Faisal Mehmood et.al.|[2411.06553v1](http://arxiv.org/abs/2411.06553v1)|null|null|
-|**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692v1](http://arxiv.org/abs/2411.05692v1)|[link](https://github.com/rayabhisek123/autoregad-hgformer)|**[link](https://github.com/rayabhisek123/autoregad-hgformer)**|
+|**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692v1](http://arxiv.org/abs/2411.05692v1)|[link](https://github.com/rayabhisek123/autoregad-hgformer)|null|
 |**2024-11-08**|**Video RWKV:Video Action Recognition Based RWKV**|Zhuowen Yin et.al.|[2411.05636v1](http://arxiv.org/abs/2411.05636v1)|null|null|
-|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|[link](https://github.com/deepinmotion/shapgcn)|**[link](https://github.com/deepinmotion/shapgcn)**|
+|**2024-11-06**|**Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures**|Felix Tempel et.al.|[2411.03714v1](http://arxiv.org/abs/2411.03714v1)|[link](https://github.com/deepinmotion/shapgcn)|null|
 |**2024-11-04**|**AM Flow: Adapters for Temporal Processing in Action Recognition**|Tanay Agrawal et.al.|[2411.02065v1](http://arxiv.org/abs/2411.02065v1)|null|null|
 |**2024-11-04**|**ARN-LSTM: A Multi-Stream Attention-Based Model for Action Recognition with Temporal Dynamics**|Chuanchuan Wang et.al.|[2411.01769v1](http://arxiv.org/abs/2411.01769v1)|null|null|
 |**2024-11-02**|**OnlineTAS: An Online Baseline for Temporal Action Segmentation**|Qing Zhong et.al.|[2411.01122v1](http://arxiv.org/abs/2411.01122v1)|null|null|
 |**2024-10-31**|**Technical Report for ActivityNet Challenge 2022 -- Temporal Action Localization**|Shimin Chen et.al.|[2411.00883v1](http://arxiv.org/abs/2411.00883v1)|null|null|
 |**2024-10-31**|**Technical Report for SoccerNet Challenge 2022 -- Replay Grounding Task**|Shimin Chen et.al.|[2411.00881v1](http://arxiv.org/abs/2411.00881v1)|null|null|
 |**2024-10-30**|**A Simple and Effective Temporal Grounding Pipeline for Basketball Broadcast Footage**|Levi Harris et.al.|[2411.00862v1](http://arxiv.org/abs/2411.00862v1)|null|null|
-|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|[link](https://github.com/ZeruiW/VideoXAI)|**[link](https://github.com/ZeruiW/VideoXAI)**|
+|**2024-11-01**|**STAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models**|Zerui Wang et.al.|[2411.00630v1](http://arxiv.org/abs/2411.00630v1)|[link](https://github.com/ZeruiW/VideoXAI)|null|
 |**2024-10-31**|**Learning Video Representations without Natural Videos**|Xueyang Yu et.al.|[2410.24213v1](http://arxiv.org/abs/2410.24213v1)|null|null|
 |**2024-11-01**|**Human Action Recognition (HAR) Using Skeleton-based Spatial Temporal Relative Transformer Network: ST-RTR**|Faisal Mehmood et.al.|[2410.23806v2](http://arxiv.org/abs/2410.23806v2)|null|null|
 |**2024-10-31**|**Recovering Complete Actions for Cross-dataset Skeleton Action Recognition**|Hanchao Liu et.al.|[2410.23641v1](http://arxiv.org/abs/2410.23641v1)|null|null|
