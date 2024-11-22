@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347v1](http://arxiv.org/abs/2411.14347v1)|null|null|
+|**2024-11-21**|**SEMPose: A Single End-to-end Network for Multi-object Pose Estimation**|Xin Liu et.al.|[2411.14002v1](http://arxiv.org/abs/2411.14002v1)|null|null|
+|**2024-11-21**|**Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain**|Vidya Sudevan et.al.|[2411.13988v1](http://arxiv.org/abs/2411.13988v1)|null|null|
+|**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962v1](http://arxiv.org/abs/2411.13962v1)|null|null|
+|**2024-11-20**|**Developing Normative Gait Cycle Parameters for Clinical Analysis Using Human Pose Estimation**|Rahm Ranjan et.al.|[2411.13716v1](http://arxiv.org/abs/2411.13716v1)|null|null|
+|**2024-11-20**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620v1](http://arxiv.org/abs/2411.13620v1)|null|null|
+|**2024-11-19**|**VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference**|Seong Jong Yoo et.al.|[2411.13607v1](http://arxiv.org/abs/2411.13607v1)|[link](https://github.com/SeongJong-Yoo/VioPose)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291v1](http://arxiv.org/abs/2411.13291v1)|null|null|
 |**2024-11-20**|**X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation**|Yuchen Yang et.al.|[2411.13026v1](http://arxiv.org/abs/2411.13026v1)|[link](https://github.com/charrrrrlie/x-as-supervision)|null|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676v1](http://arxiv.org/abs/2411.12676v1)|null|null|
