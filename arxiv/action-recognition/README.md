@@ -4,15 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-11-22**|**Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**|Youwei Zhou et.al.|[2411.14796v1](http://arxiv.org/abs/2411.14796v1)|null|null|
 |**2024-11-19**|**IMUVIE: Pickup Timeline Action Localization via Motion Movies**|John Clapham et.al.|[2411.12689v1](http://arxiv.org/abs/2411.12689v1)|null|null|
-|**2024-11-20**|**Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition**|Zeyu Liang et.al.|[2411.12560v2](http://arxiv.org/abs/2411.12560v2)|[link](https://github.com/sfadingz/tse_gcn)|**[link](https://github.com/sfadingz/tse_gcn)**|
+|**2024-11-20**|**Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition**|Zeyu Liang et.al.|[2411.12560v2](http://arxiv.org/abs/2411.12560v2)|[link](https://github.com/sfadingz/tse_gcn)|null|
 |**2024-11-19**|**Rethinking Top Probability from Multi-view for Distracted Driver Behaviour Localization**|Quang Vinh Nguyen et.al.|[2411.12525v1](http://arxiv.org/abs/2411.12525v1)|null|null|
 |**2024-11-18**|**Video-to-Task Learning via Motion-Guided Attention for Few-Shot Action Recognition**|Hanyu Guo et.al.|[2411.11335v1](http://arxiv.org/abs/2411.11335v1)|null|null|
 |**2024-11-18**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288v1](http://arxiv.org/abs/2411.11288v1)|null|null|
-|**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223v1](http://arxiv.org/abs/2411.11223v1)|[link](https://github.com/chenhaoxing/etl4video)|**[link](https://github.com/chenhaoxing/etl4video)**|
-|**2024-11-17**|**Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors**|Svetlana Seliunina et.al.|[2411.11151v1](http://arxiv.org/abs/2411.11151v1)|[link](https://github.com/AIS-Bonn/lidar_person_action_detection)|**[link](https://github.com/AIS-Bonn/lidar_person_action_detection)**|
+|**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223v1](http://arxiv.org/abs/2411.11223v1)|[link](https://github.com/chenhaoxing/etl4video)|null|
+|**2024-11-17**|**Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors**|Svetlana Seliunina et.al.|[2411.11151v1](http://arxiv.org/abs/2411.11151v1)|[link](https://github.com/AIS-Bonn/lidar_person_action_detection)|null|
 |**2024-11-17**|**Exploiting VLM Localizability and Semantics for Open Vocabulary Action Detection**|Wentao Bao et.al.|[2411.10922v1](http://arxiv.org/abs/2411.10922v1)|null|null|
-|**2024-11-16**|**TDSM:Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745v1](http://arxiv.org/abs/2411.10745v1)|[link](https://github.com/KAIST-VICLab/TDSM)|**[link](https://github.com/KAIST-VICLab/TDSM)**|
+|**2024-11-22**|**TDSM: Triplet Diffusion for Skeleton-Text Matching in Zero-Shot Action Recognition**|Jeonghyeok Do et.al.|[2411.10745v2](http://arxiv.org/abs/2411.10745v2)|[link](https://github.com/KAIST-VICLab/TDSM)|null|
 |**2024-11-13**|**Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?**|Quan Zhang et.al.|[2411.08466v1](http://arxiv.org/abs/2411.08466v1)|null|null|
 |**2024-11-10**|**Extended multi-stream temporal-attention module for skeleton-based human action recognition (HAR)**|Faisal Mehmood et.al.|[2411.06553v1](http://arxiv.org/abs/2411.06553v1)|null|null|
 |**2024-11-08**|**Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition**|Abhisek Ray et.al.|[2411.05692v1](http://arxiv.org/abs/2411.05692v1)|[link](https://github.com/rayabhisek123/autoregad-hgformer)|**[link](https://github.com/rayabhisek123/autoregad-hgformer)**|
