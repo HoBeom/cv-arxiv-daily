@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584v1](http://arxiv.org/abs/2411.17584v1)|[link](https://github.com/davidsvy/fractal_video)|null|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729v1](http://arxiv.org/abs/2411.15729v1)|[link](https://github.com/The-Martyr/OccludeNet-Dataset)|null|
 |**2024-11-23**|**ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos**|Reza Ghoddoosian et.al.|[2411.15628v1](http://arxiv.org/abs/2411.15628v1)|null|null|
 |**2024-11-22**|**When Spatial meets Temporal in Action Recognition**|Huilin Chen et.al.|[2411.15284v1](http://arxiv.org/abs/2411.15284v1)|null|null|
@@ -16,7 +17,7 @@ layout: default
 |**2024-11-20**|**Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition**|Zeyu Liang et.al.|[2411.12560v2](http://arxiv.org/abs/2411.12560v2)|[link](https://github.com/sfadingz/tse_gcn)|null|
 |**2024-11-19**|**Rethinking Top Probability from Multi-view for Distracted Driver Behaviour Localization**|Quang Vinh Nguyen et.al.|[2411.12525v1](http://arxiv.org/abs/2411.12525v1)|null|null|
 |**2024-11-18**|**Video-to-Task Learning via Motion-Guided Attention for Few-Shot Action Recognition**|Hanyu Guo et.al.|[2411.11335v1](http://arxiv.org/abs/2411.11335v1)|null|null|
-|**2024-11-18**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288v1](http://arxiv.org/abs/2411.11288v1)|null|null|
+|**2024-11-26**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288v2](http://arxiv.org/abs/2411.11288v2)|null|null|
 |**2024-11-18**|**Efficient Transfer Learning for Video-language Foundation Models**|Haoxing Chen et.al.|[2411.11223v1](http://arxiv.org/abs/2411.11223v1)|[link](https://github.com/chenhaoxing/etl4video)|null|
 |**2024-11-17**|**Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors**|Svetlana Seliunina et.al.|[2411.11151v1](http://arxiv.org/abs/2411.11151v1)|[link](https://github.com/AIS-Bonn/lidar_person_action_detection)|null|
 |**2024-11-17**|**Exploiting VLM Localizability and Semantics for Open Vocabulary Action Detection**|Wentao Bao et.al.|[2411.10922v1](http://arxiv.org/abs/2411.10922v1)|null|null|
