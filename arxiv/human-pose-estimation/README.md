@@ -4,10 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377v1](http://arxiv.org/abs/2411.18377v1)|null|null|
+|**2024-11-27**|**GAPartManip: A Large-scale Part-centric Dataset for Material-Agnostic Articulated Object Manipulation**|Wenbo Cui et.al.|[2411.18276v1](http://arxiv.org/abs/2411.18276v1)|null|null|
+|**2024-11-26**|**Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors**|Ziang Xu et.al.|[2411.17790v1](http://arxiv.org/abs/2411.17790v1)|null|null|
+|**2024-11-26**|**Geometric Point Attention Transformer for 3D Shape Reassembly**|Jiahan Li et.al.|[2411.17788v1](http://arxiv.org/abs/2411.17788v1)|null|null|
 |**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662v1](http://arxiv.org/abs/2411.17662v1)|null|null|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432v1](http://arxiv.org/abs/2411.17432v1)|null|null|
 |**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240v1](http://arxiv.org/abs/2411.17240v1)|null|null|
-|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190v1](http://arxiv.org/abs/2411.17190v1)|null|null|
+|**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190v2](http://arxiv.org/abs/2411.17190v2)|null|null|
 |**2024-11-26**|**GMFlow: Global Motion-Guided Recurrent Flow for 6D Object Pose Estimation**|Xin Liu et.al.|[2411.17174v1](http://arxiv.org/abs/2411.17174v1)|null|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668v1](http://arxiv.org/abs/2411.16668v1)|null|null|
 |**2024-11-25**|**Edge Weight Prediction For Category-Agnostic Pose Estimation**|Or Hirschorn et.al.|[2411.16665v1](http://arxiv.org/abs/2411.16665v1)|[link](https://github.com/orhir/EdgeCape)|null|

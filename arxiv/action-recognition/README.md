@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328v1](http://arxiv.org/abs/2411.18328v1)|null|null|
+|**2024-11-27**|**An End-to-End Two-Stream Network Based on RGB Flow and Representation Flow for Human Action Recognition**|Song-Jiang Lai et.al.|[2411.18002v1](http://arxiv.org/abs/2411.18002v1)|null|null|
 |**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584v1](http://arxiv.org/abs/2411.17584v1)|[link](https://github.com/davidsvy/fractal_video)|null|
 |**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729v1](http://arxiv.org/abs/2411.15729v1)|[link](https://github.com/The-Martyr/OccludeNet-Dataset)|null|
 |**2024-11-23**|**ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos**|Reza Ghoddoosian et.al.|[2411.15628v1](http://arxiv.org/abs/2411.15628v1)|null|null|
