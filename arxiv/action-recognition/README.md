@@ -4,10 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544v1](http://arxiv.org/abs/2411.19544v1)|null|null|
+|**2024-11-28**|**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**|Yilong Wang et.al.|[2411.19041v1](http://arxiv.org/abs/2411.19041v1)|null|null|
+|**2024-11-28**|**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2411.18941v1](http://arxiv.org/abs/2411.18941v1)|[link](https://github.com/firework8/ProtoGCN)|null|
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328v1](http://arxiv.org/abs/2411.18328v1)|null|null|
 |**2024-11-27**|**An End-to-End Two-Stream Network Based on RGB Flow and Representation Flow for Human Action Recognition**|Song-Jiang Lai et.al.|[2411.18002v1](http://arxiv.org/abs/2411.18002v1)|null|null|
-|**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584v1](http://arxiv.org/abs/2411.17584v1)|[link](https://github.com/davidsvy/fractal_video)|**[link](https://github.com/davidsvy/fractal_video)**|
-|**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729v1](http://arxiv.org/abs/2411.15729v1)|[link](https://github.com/The-Martyr/OccludeNet-Dataset)|**[link](https://github.com/The-Martyr/OccludeNet-Dataset)**|
+|**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584v1](http://arxiv.org/abs/2411.17584v1)|[link](https://github.com/davidsvy/fractal_video)|null|
+|**2024-11-24**|**OccludeNet: A Causal Journey into Mixed-View Actor-Centric Video Action Recognition under Occlusions**|Guanyu Zhou et.al.|[2411.15729v1](http://arxiv.org/abs/2411.15729v1)|[link](https://github.com/The-Martyr/OccludeNet-Dataset)|null|
 |**2024-11-23**|**ACE: Action Concept Enhancement of Video-Language Models in Procedural Videos**|Reza Ghoddoosian et.al.|[2411.15628v1](http://arxiv.org/abs/2411.15628v1)|null|null|
 |**2024-11-22**|**When Spatial meets Temporal in Action Recognition**|Huilin Chen et.al.|[2411.15284v1](http://arxiv.org/abs/2411.15284v1)|null|null|
 |**2024-11-22**|**Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections**|Youwei Zhou et.al.|[2411.14796v1](http://arxiv.org/abs/2411.14796v1)|null|null|
