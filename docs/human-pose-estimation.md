@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254v1](http://arxiv.org/abs/2412.02254v1)|null|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197v1](http://arxiv.org/abs/2412.02197v1)|null|null|
+|**2024-12-03**|**CLERF: Contrastive LEaRning for Full Range Head Pose Estimation**|Ting-Ruen Wei et.al.|[2412.02066v1](http://arxiv.org/abs/2412.02066v1)|null|null|
+|**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562v1](http://arxiv.org/abs/2412.01562v1)|[link](https://github.com/MiraPurkrabek/BBoxMaskPose)|null|
+|**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543v1](http://arxiv.org/abs/2412.01543v1)|null|null|
+|**2024-12-02**|**HandOS: 3D Hand Reconstruction in One Stage**|Xingyu Chen et.al.|[2412.01537v1](http://arxiv.org/abs/2412.01537v1)|null|null|
+|**2024-12-02**|**SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames**|Yuxuan Zhou et.al.|[2412.01500v1](http://arxiv.org/abs/2412.01500v1)|null|null|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422v1](http://arxiv.org/abs/2412.01422v1)|null|null|
+|**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299v1](http://arxiv.org/abs/2412.01299v1)|null|null|
+|**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052v1](http://arxiv.org/abs/2412.01052v1)|null|null|
 |**2024-11-29**|**Real-Time Anomaly Detection in Video Streams**|Fabien Poirier et.al.|[2411.19731v1](http://arxiv.org/abs/2411.19731v1)|null|null|
 |**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492v1](http://arxiv.org/abs/2411.19492v1)|null|null|
 |**2024-11-29**|**Fleximo: Towards Flexible Text-to-Human Motion Video Generation**|Yuhang Zhang et.al.|[2411.19459v1](http://arxiv.org/abs/2411.19459v1)|null|null|

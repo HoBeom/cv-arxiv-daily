@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v1](http://arxiv.org/abs/2412.02565v1)|null|null|
+|**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820v1](http://arxiv.org/abs/2412.01820v1)|[link](https://github.com/jyrao/UniSoccer)|null|
+|**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267v1](http://arxiv.org/abs/2412.01267v1)|null|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544v1](http://arxiv.org/abs/2411.19544v1)|null|null|
 |**2024-11-28**|**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**|Yilong Wang et.al.|[2411.19041v1](http://arxiv.org/abs/2411.19041v1)|null|null|
 |**2024-11-28**|**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2411.18941v1](http://arxiv.org/abs/2411.18941v1)|[link](https://github.com/firework8/ProtoGCN)|null|
