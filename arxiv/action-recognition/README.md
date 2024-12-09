@@ -4,11 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821v1](http://arxiv.org/abs/2412.04821v1)|null|null|
+|**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783v1](http://arxiv.org/abs/2412.04783v1)|null|null|
 |**2024-12-05**|**ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**|Dayoung Gong et.al.|[2412.04353v1](http://arxiv.org/abs/2412.04353v1)|null|null|
 |**2024-12-05**|**Continual Low-Rank Scaled Dot-product Attention**|Ginés Carreto Picón et.al.|[2412.03214v2](http://arxiv.org/abs/2412.03214v2)|null|null|
 |**2024-12-04**|**Video LLMs for Temporal Reasoning in Long Videos**|Fawad Javed Fateh et.al.|[2412.02930v1](http://arxiv.org/abs/2412.02930v1)|null|null|
 |**2024-12-03**|**Proximal Control of UAVs with Federated Learning for Human-Robot Collaborative Domains**|Lucas Nogueira Nobrega et.al.|[2412.02863v1](http://arxiv.org/abs/2412.02863v1)|null|null|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v1](http://arxiv.org/abs/2412.02565v1)|**[link](https://github.com/jw-chae/sjtu)**|null|
+|**2024-12-06**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565v2](http://arxiv.org/abs/2412.02565v2)|[link](https://github.com/jw-chae/sjtu)|null|
 |**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820v1](http://arxiv.org/abs/2412.01820v1)|[link](https://github.com/jyrao/UniSoccer)|**[link](https://github.com/jyrao/UniSoccer)**|
 |**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267v1](http://arxiv.org/abs/2412.01267v1)|null|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544v1](http://arxiv.org/abs/2411.19544v1)|null|null|
