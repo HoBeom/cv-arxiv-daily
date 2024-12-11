@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746v1](http://arxiv.org/abs/2412.07746v1)|null|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974v1](http://arxiv.org/abs/2412.06974v1)|null|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|null|null|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292v1](http://arxiv.org/abs/2412.06292v1)|null|null|
 |**2024-12-09**|**Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation**|Marsha Mariya Kappan et.al.|[2412.06227v1](http://arxiv.org/abs/2412.06227v1)|null|null|

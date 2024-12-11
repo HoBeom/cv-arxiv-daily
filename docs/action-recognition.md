@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|null|null|
+|**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481v1](http://arxiv.org/abs/2412.07481v1)|null|null|
+|**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072v1](http://arxiv.org/abs/2412.07072v1)|null|null|
 |**2024-12-07**|**Action Recognition based Industrial Safety Violation Detection**|Surya N Reddy et.al.|[2412.05531v1](http://arxiv.org/abs/2412.05531v1)|null|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821v1](http://arxiv.org/abs/2412.04821v1)|null|null|
 |**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783v1](http://arxiv.org/abs/2412.04783v1)|null|null|
