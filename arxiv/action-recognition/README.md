@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
 |**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|[link](https://github.com/mia-yatingyu/stdd)|null|
-|**2024-12-12**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v1](http://arxiv.org/abs/2412.09220v1)|[link](https://github.com/wengwanjiang/usdrl)|null|
+|**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v2](http://arxiv.org/abs/2412.09220v2)|[link](https://github.com/wengwanjiang/usdrl)|null|
 |**2024-12-13**|**Temporal Action Localization with Cross Layer Task Decoupling and Refinement**|Qiang Li et.al.|[2412.09202v2](http://arxiv.org/abs/2412.09202v2)|[link](https://github.com/liqiang0307/cltdr-gmg)|null|
 |**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|null|null|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481v1](http://arxiv.org/abs/2412.07481v1)|null|null|
