@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|null|null|
+|**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|null|
+|**2024-12-17**|**CompactFlowNet: Efficient Real-time Optical Flow Estimation on Mobile Devices**|Andrei Znobishchev et.al.|[2412.13273v1](http://arxiv.org/abs/2412.13273v1)|null|null|
 |**2024-12-17**|**Future Aspects in Human Action Recognition: Exploring Emerging Techniques and Ethical Influences**|Antonios Gasteratos et.al.|[2412.12990v1](http://arxiv.org/abs/2412.12990v1)|null|null|
 |**2024-12-17**|**2by2: Weakly-Supervised Learning for Global Action Segmentation**|Elena Bueno-Benito et.al.|[2412.12829v1](http://arxiv.org/abs/2412.12829v1)|null|null|
 |**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|[link](https://github.com/mia-yatingyu/stdd)|null|
