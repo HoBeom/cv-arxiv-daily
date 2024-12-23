@@ -5,18 +5,18 @@
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|null|
-|**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060v1](http://arxiv.org/abs/2412.15060v1)|[link](https://github.com/eventdata/conflibert)|null|
+|**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060v1](http://arxiv.org/abs/2412.15060v1)|[link](https://github.com/eventdata/conflibert)|**[link](https://github.com/eventdata/conflibert)**|
 |**2024-12-19**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988v1](http://arxiv.org/abs/2412.14988v1)|null|null|
 |**2024-12-19**|**Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition**|Hao Huang et.al.|[2412.14833v1](http://arxiv.org/abs/2412.14833v1)|null|null|
-|**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719v1](http://arxiv.org/abs/2412.14719v1)|[link](https://github.com/kunli-cs/pcan)|null|
+|**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719v1](http://arxiv.org/abs/2412.14719v1)|[link](https://github.com/kunli-cs/pcan)|**[link](https://github.com/kunli-cs/pcan)**|
 |**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|null|null|
-|**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|null|
+|**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|**[link](https://github.com/taeiin/aaai2025-jovale)**|
 |**2024-12-17**|**CompactFlowNet: Efficient Real-time Optical Flow Estimation on Mobile Devices**|Andrei Znobishchev et.al.|[2412.13273v1](http://arxiv.org/abs/2412.13273v1)|null|null|
 |**2024-12-17**|**Future Aspects in Human Action Recognition: Exploring Emerging Techniques and Ethical Influences**|Antonios Gasteratos et.al.|[2412.12990v1](http://arxiv.org/abs/2412.12990v1)|null|null|
 |**2024-12-17**|**2by2: Weakly-Supervised Learning for Global Action Segmentation**|Elena Bueno-Benito et.al.|[2412.12829v1](http://arxiv.org/abs/2412.12829v1)|null|null|
-|**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|[link](https://github.com/mia-yatingyu/stdd)|null|
-|**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v2](http://arxiv.org/abs/2412.09220v2)|[link](https://github.com/wengwanjiang/usdrl)|null|
-|**2024-12-13**|**Temporal Action Localization with Cross Layer Task Decoupling and Refinement**|Qiang Li et.al.|[2412.09202v2](http://arxiv.org/abs/2412.09202v2)|[link](https://github.com/liqiang0307/cltdr-gmg)|null|
+|**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|[link](https://github.com/mia-yatingyu/stdd)|**[link](https://github.com/mia-yatingyu/stdd)**|
+|**2024-12-14**|**USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation**|Wanjiang Weng et.al.|[2412.09220v2](http://arxiv.org/abs/2412.09220v2)|[link](https://github.com/wengwanjiang/usdrl)|**[link](https://github.com/wengwanjiang/usdrl)**|
+|**2024-12-13**|**Temporal Action Localization with Cross Layer Task Decoupling and Refinement**|Qiang Li et.al.|[2412.09202v2](http://arxiv.org/abs/2412.09202v2)|[link](https://github.com/liqiang0307/cltdr-gmg)|**[link](https://github.com/liqiang0307/cltdr-gmg)**|
 |**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|null|null|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481v1](http://arxiv.org/abs/2412.07481v1)|null|null|
 |**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072v1](http://arxiv.org/abs/2412.07072v1)|null|null|

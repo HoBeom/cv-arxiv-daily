@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954v1](http://arxiv.org/abs/2412.14954v1)|null|null|
-|**2024-12-13**|**IMPROVE: Impact of Mobile Phones on Remote Online Virtual Education**|Roberto Daza et.al.|[2412.14195v1](http://arxiv.org/abs/2412.14195v1)|[link](https://github.com/bidalab/improve)|null|
+|**2024-12-13**|**IMPROVE: Impact of Mobile Phones on Remote Online Virtual Education**|Roberto Daza et.al.|[2412.14195v1](http://arxiv.org/abs/2412.14195v1)|[link](https://github.com/bidalab/improve)|**[link](https://github.com/bidalab/improve)**|
 |**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502v1](http://arxiv.org/abs/2412.13502v1)|null|null|
 |**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454v1](http://arxiv.org/abs/2412.13454v1)|null|null|
 |**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058v1](http://arxiv.org/abs/2412.13058v1)|null|null|
@@ -19,10 +19,10 @@
 |**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573v1](http://arxiv.org/abs/2412.09573v1)|null|null|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|null|
 |**2024-12-12**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496v2](http://arxiv.org/abs/2412.08496v2)|null|null|
-|**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376v1](http://arxiv.org/abs/2412.08376v1)|null|null|
+|**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376v1](http://arxiv.org/abs/2412.08376v1)|**[link](https://github.com/ffrivera0/reloc3r)**|null|
 |**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746v1](http://arxiv.org/abs/2412.07746v1)|null|null|
 |**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974v1](http://arxiv.org/abs/2412.06974v1)|null|null|
-|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|[link](https://github.com/sair-lab/SeqACE)|null|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|[link](https://github.com/sair-lab/SeqACE)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292v1](http://arxiv.org/abs/2412.06292v1)|null|null|
 |**2024-12-09**|**Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation**|Marsha Mariya Kappan et.al.|[2412.06227v1](http://arxiv.org/abs/2412.06227v1)|null|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821v1](http://arxiv.org/abs/2412.04821v1)|null|null|
@@ -281,7 +281,7 @@
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168v1](http://arxiv.org/abs/2408.17168v1)|null|null|
 |**2024-09-01**|**Generic Objects as Pose Probes for Few-Shot View Synthesis**|Zhirui Gao et.al.|[2408.16690v2](http://arxiv.org/abs/2408.16690v2)|null|null|
 |**2024-08-29**|**OP-Align: Object-level and Part-level Alignment for Self-supervised Category-level Articulated Object Pose Estimation**|Yuchen Che et.al.|[2408.16547v1](http://arxiv.org/abs/2408.16547v1)|[link](https://github.com/yc-che/op-align)|**[link](https://github.com/yc-che/op-align)**|
-|**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540v1](http://arxiv.org/abs/2408.16540v1)|null|null|
+|**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540v1](http://arxiv.org/abs/2408.16540v1)|**[link](https://github.com/xiangchenyin/grpose)**|null|
 |**2024-08-28**|**Are Pose Estimators Ready for the Open World? STAGE: Synthetic Data Generation Toolkit for Auditing 3D Human Pose Estimators**|Nikita Kister et.al.|[2408.16536v1](http://arxiv.org/abs/2408.16536v1)|null|null|
 |**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|[link](https://github.com/laurabragagnolo/human3.6m-occluded)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
 |**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v2](http://arxiv.org/abs/2408.15761v2)|[link](https://github.com/CIFASIS/StereoLoopDetector)|**[link](https://github.com/CIFASIS/StereoLoopDetector)**|
