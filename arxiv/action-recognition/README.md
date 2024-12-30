@@ -4,9 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2024-12-27**|**Temporal Context Consistency Above All: Enhancing Long-Term Anticipation by Learning and Enforcing Temporal Constraints**|Alberto Maté et.al.|[2412.19424v1](http://arxiv.org/abs/2412.19424v1)|null|null|
+|**2024-12-27**|**Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization**|Yuanpeng He et.al.|[2412.19418v1](http://arxiv.org/abs/2412.19418v1)|[link](https://github.com/heyuanpengpku/guef)|null|
+|**2024-12-25**|**Skeleton-based Action Recognition with Non-linear Dependency Modeling and Hilbert-Schmidt Independence Criterion**|Yuheng Yang et.al.|[2412.18780v1](http://arxiv.org/abs/2412.18780v1)|null|null|
 |**2024-12-24**|**BoxMAC -- A Boxing Dataset for Multi-label Action Classification**|Shashikanta Sahoo et.al.|[2412.18204v1](http://arxiv.org/abs/2412.18204v1)|null|null|
 |**2024-12-23**|**Spectro-temporal symmetry in action-detected optical spectroscopy: highlighting excited-state dynamics in large systems**|Pavel Malý et.al.|[2412.17788v1](http://arxiv.org/abs/2412.17788v1)|null|null|
-|**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640v1](http://arxiv.org/abs/2412.17640v1)|[link](https://github.com/fedespu/hvq)|**[link](https://github.com/fedespu/hvq)**|
+|**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640v1](http://arxiv.org/abs/2412.17640v1)|[link](https://github.com/fedespu/hvq)|null|
 |**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574v1](http://arxiv.org/abs/2412.17574v1)|null|null|
 |**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517v1](http://arxiv.org/abs/2412.17517v1)|null|null|
 |**2024-12-22**|**Video Domain Incremental Learning for Human Action Recognition in Home Environments**|Yuanda Hu et.al.|[2412.16946v1](http://arxiv.org/abs/2412.16946v1)|null|null|
