@@ -6,18 +6,18 @@
 |---|---|---|---|---|---|
 |**2024-12-24**|**BoxMAC -- A Boxing Dataset for Multi-label Action Classification**|Shashikanta Sahoo et.al.|[2412.18204v1](http://arxiv.org/abs/2412.18204v1)|null|null|
 |**2024-12-23**|**Spectro-temporal symmetry in action-detected optical spectroscopy: highlighting excited-state dynamics in large systems**|Pavel Malý et.al.|[2412.17788v1](http://arxiv.org/abs/2412.17788v1)|null|null|
-|**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640v1](http://arxiv.org/abs/2412.17640v1)|[link](https://github.com/fedespu/hvq)|null|
+|**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640v1](http://arxiv.org/abs/2412.17640v1)|[link](https://github.com/fedespu/hvq)|**[link](https://github.com/fedespu/hvq)**|
 |**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574v1](http://arxiv.org/abs/2412.17574v1)|null|null|
 |**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517v1](http://arxiv.org/abs/2412.17517v1)|null|null|
 |**2024-12-22**|**Video Domain Incremental Learning for Human Action Recognition in Home Environments**|Yuanda Hu et.al.|[2412.16946v1](http://arxiv.org/abs/2412.16946v1)|null|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454v1](http://arxiv.org/abs/2412.16454v1)|null|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|null|
-|**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060v1](http://arxiv.org/abs/2412.15060v1)|[link](https://github.com/eventdata/conflibert)|null|
+|**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060v1](http://arxiv.org/abs/2412.15060v1)|[link](https://github.com/eventdata/conflibert)|**[link](https://github.com/eventdata/conflibert)**|
 |**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988v2](http://arxiv.org/abs/2412.14988v2)|null|null|
 |**2024-12-19**|**Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition**|Hao Huang et.al.|[2412.14833v1](http://arxiv.org/abs/2412.14833v1)|null|null|
-|**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719v1](http://arxiv.org/abs/2412.14719v1)|[link](https://github.com/kunli-cs/pcan)|null|
-|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|null|null|
-|**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|null|
+|**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719v1](http://arxiv.org/abs/2412.14719v1)|[link](https://github.com/kunli-cs/pcan)|**[link](https://github.com/kunli-cs/pcan)**|
+|**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|**[link](https://github.com/Darcyddx/Video-LLM)**|null|
+|**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|**[link](https://github.com/taeiin/aaai2025-jovale)**|
 |**2024-12-17**|**CompactFlowNet: Efficient Real-time Optical Flow Estimation on Mobile Devices**|Andrei Znobishchev et.al.|[2412.13273v1](http://arxiv.org/abs/2412.13273v1)|null|null|
 |**2024-12-20**|**Future Aspects in Human Action Recognition: Exploring Emerging Techniques and Ethical Influences**|Antonios Gasteratos et.al.|[2412.12990v2](http://arxiv.org/abs/2412.12990v2)|null|null|
 |**2024-12-17**|**2by2: Weakly-Supervised Learning for Global Action Segmentation**|Elena Bueno-Benito et.al.|[2412.12829v1](http://arxiv.org/abs/2412.12829v1)|null|null|
@@ -26,7 +26,7 @@
 |**2024-12-13**|**Temporal Action Localization with Cross Layer Task Decoupling and Refinement**|Qiang Li et.al.|[2412.09202v2](http://arxiv.org/abs/2412.09202v2)|[link](https://github.com/liqiang0307/cltdr-gmg)|**[link](https://github.com/liqiang0307/cltdr-gmg)**|
 |**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|null|null|
 |**2024-12-10**|**Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence**|Wenbo Huang et.al.|[2412.07481v1](http://arxiv.org/abs/2412.07481v1)|null|null|
-|**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072v1](http://arxiv.org/abs/2412.07072v1)|null|null|
+|**2024-12-10**|**Stable Mean Teacher for Semi-supervised Video Action Detection**|Akash Kumar et.al.|[2412.07072v1](http://arxiv.org/abs/2412.07072v1)|**[link](https://github.com/AKASH2907/stable-mean-teacher)**|null|
 |**2024-12-07**|**Action Recognition based Industrial Safety Violation Detection**|Surya N Reddy et.al.|[2412.05531v1](http://arxiv.org/abs/2412.05531v1)|null|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821v1](http://arxiv.org/abs/2412.04821v1)|null|null|
 |**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783v1](http://arxiv.org/abs/2412.04783v1)|null|null|
@@ -378,7 +378,7 @@
 |**2024-02-06**|**Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping**|Qinliang Lin et.al.|[2402.03951v1](http://arxiv.org/abs/2402.03951v1)|**[link](https://github.com/linqinliang/decowa)**|
 |**2024-02-05**|**FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition**|Xiaohu Huang et.al.|[2402.03241v1](http://arxiv.org/abs/2402.03241v1)|null|
 |**2024-02-08**|**Taylor Videos for Action Recognition**|Lei Wang et.al.|[2402.03019v3](http://arxiv.org/abs/2402.03019v3)|**[link](https://github.com/leiwangr/video-ar)**|
-|**2024-02-04**|**Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition**|Mengyuan Liu et.al.|[2402.02431v1](http://arxiv.org/abs/2402.02431v1)|null|
+|**2024-02-04**|**Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition**|Mengyuan Liu et.al.|[2402.02431v1](http://arxiv.org/abs/2402.02431v1)|**[link](https://github.com/nkliuyifang/me-gcn)**|
 |**2024-02-03**|**Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition**|Haochen Chang et.al.|[2402.02210v1](http://arxiv.org/abs/2402.02210v1)|null|
 |**2024-02-05**|**AutoGCN -- Towards Generic Human Activity Recognition with Neural Architecture Search**|Felix Tempel et.al.|[2402.01313v2](http://arxiv.org/abs/2402.01313v2)|**[link](https://github.com/deepinmotion/autogcn)**|
 |**2024-01-31**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based Action Recognition**|Wei Wei et.al.|[2401.18054v1](http://arxiv.org/abs/2401.18054v1)|null|
