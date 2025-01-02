@@ -4,14 +4,14 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2025.01.01
+### Updated on 2025.01.02
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|null|null|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803v1](http://arxiv.org/abs/2412.20803v1)|null|null|
-|**2024-12-29**|**FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**|Wenhan Wu et.al.|[2412.20621v1](http://arxiv.org/abs/2412.20621v1)|null|null|
+|**2024-12-29**|**FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**|Wenhan Wu et.al.|[2412.20621v1](http://arxiv.org/abs/2412.20621v1)|[link](https://github.com/wenhanwu95/freqmixformer)|null|
 |**2024-12-28**|**DAVE: Diverse Atomic Visual Elements Dataset with High Representation of Vulnerable Road Users in Complex and Unpredictable Environments**|Xijun Wang et.al.|[2412.20042v1](http://arxiv.org/abs/2412.20042v1)|null|null|
 |**2024-12-27**|**Temporal Context Consistency Above All: Enhancing Long-Term Anticipation by Learning and Enforcing Temporal Constraints**|Alberto Maté et.al.|[2412.19424v1](http://arxiv.org/abs/2412.19424v1)|null|null|
 |**2024-12-27**|**Generalized Uncertainty-Based Evidential Fusion with Hybrid Multi-Head Attention for Weak-Supervised Temporal Action Localization**|Yuanpeng He et.al.|[2412.19418v1](http://arxiv.org/abs/2412.19418v1)|[link](https://github.com/heyuanpengpku/guef)|null|
