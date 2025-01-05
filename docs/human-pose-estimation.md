@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|null|
+|**2025-01-02**|**L3D-Pose: Lifting Pose for 3D Avatars from a Single Camera in the Wild**|Soumyaratna Debnath et.al.|[2501.01174v1](http://arxiv.org/abs/2501.01174v1)|null|null|
+|**2024-12-31**|**Relative Pose Observability Analysis Using Dual Quaternions**|Nicholas B. Andrews et.al.|[2501.00657v1](http://arxiv.org/abs/2501.00657v1)|null|null|
+|**2024-12-31**|**VinT-6D: A Large-Scale Object-in-hand Dataset from Vision, Touch and Proprioception**|Zhaoliang Wan et.al.|[2501.00510v1](http://arxiv.org/abs/2501.00510v1)|null|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|null|
 |**2024-12-30**|**ReFlow6D: Refraction-Guided Transparent Object 6D Pose Estimation via Intermediate Representation Learning**|Hrishikesh Gupta et.al.|[2412.20830v1](http://arxiv.org/abs/2412.20830v1)|[link](https://github.com/stoicgilgamesh/matting_rendering)|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803v1](http://arxiv.org/abs/2412.20803v1)|null|null|
