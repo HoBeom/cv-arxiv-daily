@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-06**|**SurgRIPE challenge: Benchmark of Surgical Robot Instrument Pose Estimation**|Haozheng Xu et.al.|[2501.02990v1](http://arxiv.org/abs/2501.02990v1)|null|null|
+|**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973v1](http://arxiv.org/abs/2501.02973v1)|null|null|
+|**2025-01-06**|**Spiking monocular event based 6D pose estimation for space application**|Jonathan Courtois et.al.|[2501.02916v1](http://arxiv.org/abs/2501.02916v1)|null|null|
+|**2025-01-06**|**Universal Features Guided Zero-Shot Category-Level Object Pose Estimation**|Wentian Qu et.al.|[2501.02831v1](http://arxiv.org/abs/2501.02831v1)|null|null|
+|**2025-01-06**|**Unsupervised Domain Adaptation for Occlusion Resilient Human Pose Estimation**|Arindam Dutta et.al.|[2501.02773v1](http://arxiv.org/abs/2501.02773v1)|null|null|
+|**2025-01-06**|**WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation**|Tianjian Jiang et.al.|[2501.02771v1](http://arxiv.org/abs/2501.02771v1)|null|null|
+|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|null|
+|**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|[link](https://github.com/sdwyc/rolo)|null|
 |**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770v1](http://arxiv.org/abs/2501.01770v1)|null|null|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752v1](http://arxiv.org/abs/2501.01752v1)|null|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|null|

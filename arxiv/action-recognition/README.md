@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850v1](http://arxiv.org/abs/2501.02850v1)|null|null|
+|**2025-01-05**|**Evolving Skeletons: Motion Dynamics in Action Recognition**|Jushang Qiu et.al.|[2501.02593v1](http://arxiv.org/abs/2501.02593v1)|null|null|
 |**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|[link](https://github.com/kylehuang9/sefar)|null|
 |**2025-01-02**|**Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras**|Jingkai Sun et.al.|[2501.01040v1](http://arxiv.org/abs/2501.01040v1)|null|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|null|
