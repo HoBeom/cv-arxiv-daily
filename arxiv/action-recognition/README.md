@@ -1,10 +1,10 @@
 ## Action Recognition
 
-### Updated on 2025.01.06
+### Updated on 2025.01.07
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|null|null|
+|**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|[link](https://github.com/kylehuang9/sefar)|null|
 |**2025-01-02**|**Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras**|Jingkai Sun et.al.|[2501.01040v1](http://arxiv.org/abs/2501.01040v1)|null|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|null|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|null|
