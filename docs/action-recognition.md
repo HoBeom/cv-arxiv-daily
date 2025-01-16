@@ -8,9 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-15**|**Visual WetlandBirds Dataset: Bird Species Identification and Behavior Recognition in Videos**|Javier Rodriguez-Juan et.al.|[2501.08931v1](http://arxiv.org/abs/2501.08931v1)|[link](https://github.com/3dperceptionlab/visual-wetlandbirds)|null|
 |**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214v1](http://arxiv.org/abs/2501.07214v1)|null|null|
 |**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100v1](http://arxiv.org/abs/2501.07100v1)|null|null|
-|**2025-01-10**|**MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection**|Arkaprava Sinha et.al.|[2501.06138v1](http://arxiv.org/abs/2501.06138v1)|null|null|
+|**2025-01-10**|**MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection**|Arkaprava Sinha et.al.|[2501.06138v1](http://arxiv.org/abs/2501.06138v1)|[link](https://github.com/thearkaprava/ms-temba)|null|
 |**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|[link](https://github.com/moonlight52137/st-vgcn)|null|
 |**2025-01-08**|**Video Summarisation with Incident and Context Information using Generative AI**|Ulindu De Silva et.al.|[2501.04764v1](http://arxiv.org/abs/2501.04764v1)|null|null|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850v1](http://arxiv.org/abs/2501.02850v1)|null|null|
