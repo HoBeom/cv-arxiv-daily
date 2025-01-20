@@ -8,17 +8,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-01-15**|**Visual WetlandBirds Dataset: Bird Species Identification and Behavior Recognition in Videos**|Javier Rodriguez-Juan et.al.|[2501.08931v1](http://arxiv.org/abs/2501.08931v1)|[link](https://github.com/3dperceptionlab/visual-wetlandbirds)|null|
+|**2025-01-15**|**Visual WetlandBirds Dataset: Bird Species Identification and Behavior Recognition in Videos**|Javier Rodriguez-Juan et.al.|[2501.08931v1](http://arxiv.org/abs/2501.08931v1)|[link](https://github.com/3dperceptionlab/visual-wetlandbirds)|**[link](https://github.com/3dperceptionlab/visual-wetlandbirds)**|
 |**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214v1](http://arxiv.org/abs/2501.07214v1)|null|null|
 |**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100v1](http://arxiv.org/abs/2501.07100v1)|null|null|
-|**2025-01-10**|**MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection**|Arkaprava Sinha et.al.|[2501.06138v1](http://arxiv.org/abs/2501.06138v1)|[link](https://github.com/thearkaprava/ms-temba)|null|
-|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|[link](https://github.com/moonlight52137/st-vgcn)|null|
+|**2025-01-10**|**MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection**|Arkaprava Sinha et.al.|[2501.06138v1](http://arxiv.org/abs/2501.06138v1)|[link](https://github.com/thearkaprava/ms-temba)|**[link](https://github.com/thearkaprava/ms-temba)**|
+|**2025-01-09**|**Improving Skeleton-based Action Recognition with Interactive Object Information**|Hao Wen et.al.|[2501.05066v1](http://arxiv.org/abs/2501.05066v1)|[link](https://github.com/moonlight52137/st-vgcn)|**[link](https://github.com/moonlight52137/st-vgcn)**|
 |**2025-01-08**|**Video Summarisation with Incident and Context Information using Generative AI**|Ulindu De Silva et.al.|[2501.04764v1](http://arxiv.org/abs/2501.04764v1)|null|null|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850v1](http://arxiv.org/abs/2501.02850v1)|null|null|
 |**2025-01-05**|**Evolving Skeletons: Motion Dynamics in Action Recognition**|Jushang Qiu et.al.|[2501.02593v1](http://arxiv.org/abs/2501.02593v1)|null|null|
-|**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|[link](https://github.com/kylehuang9/sefar)|null|
+|**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|[link](https://github.com/kylehuang9/sefar)|**[link](https://github.com/kylehuang9/sefar)**|
 |**2025-01-02**|**Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras**|Jingkai Sun et.al.|[2501.01040v1](http://arxiv.org/abs/2501.01040v1)|null|null|
-|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|null|
+|**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|**[link](https://github.com/smy-nec/aapl)**|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|null|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803v1](http://arxiv.org/abs/2412.20803v1)|null|null|
 |**2024-12-29**|**FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**|Wenhan Wu et.al.|[2412.20621v1](http://arxiv.org/abs/2412.20621v1)|[link](https://github.com/wenhanwu95/freqmixformer)|**[link](https://github.com/wenhanwu95/freqmixformer)**|
@@ -29,14 +29,14 @@ layout: default
 |**2024-12-24**|**BoxMAC -- A Boxing Dataset for Multi-label Action Classification**|Shashikanta Sahoo et.al.|[2412.18204v1](http://arxiv.org/abs/2412.18204v1)|null|null|
 |**2024-12-28**|**Spectro-temporal symmetry in action-detected optical spectroscopy: highlighting excited-state dynamics in large systems**|Kateřina Charvátová et.al.|[2412.17788v2](http://arxiv.org/abs/2412.17788v2)|null|null|
 |**2024-12-23**|**Hierarchical Vector Quantization for Unsupervised Action Segmentation**|Federico Spurio et.al.|[2412.17640v1](http://arxiv.org/abs/2412.17640v1)|[link](https://github.com/fedespu/hvq)|**[link](https://github.com/fedespu/hvq)**|
-|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574v1](http://arxiv.org/abs/2412.17574v1)|null|null|
+|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574v1](http://arxiv.org/abs/2412.17574v1)|**[link](https://github.com/modelscope/data-juicer)**|null|
 |**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517v1](http://arxiv.org/abs/2412.17517v1)|null|null|
 |**2024-12-22**|**Video Domain Incremental Learning for Human Action Recognition in Home Environments**|Yuanda Hu et.al.|[2412.16946v1](http://arxiv.org/abs/2412.16946v1)|null|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454v1](http://arxiv.org/abs/2412.16454v1)|null|null|
 |**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212v1](http://arxiv.org/abs/2412.15212v1)|null|null|
 |**2024-12-19**|**ConfliBERT: A Language Model for Political Conflict**|Patrick T. Brandt et.al.|[2412.15060v1](http://arxiv.org/abs/2412.15060v1)|[link](https://github.com/eventdata/conflibert)|**[link](https://github.com/eventdata/conflibert)**|
 |**2024-12-21**|**Stitch Contrast and Segment_Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos**|Haitao Tian et.al.|[2412.14988v2](http://arxiv.org/abs/2412.14988v2)|null|null|
-|**2024-12-19**|**Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition**|Hao Huang et.al.|[2412.14833v1](http://arxiv.org/abs/2412.14833v1)|null|null|
+|**2024-12-19**|**Synchronized and Fine-Grained Head for Skeleton-Based Ambiguous Action Recognition**|Hao Huang et.al.|[2412.14833v1](http://arxiv.org/abs/2412.14833v1)|**[link](https://github.com/haohuang2003/sfhead)**|null|
 |**2024-12-19**|**Prototypical Calibrating Ambiguous Samples for Micro-Action Recognition**|Kun Li et.al.|[2412.14719v1](http://arxiv.org/abs/2412.14719v1)|[link](https://github.com/kunli-cs/pcan)|**[link](https://github.com/kunli-cs/pcan)**|
 |**2024-12-18**|**Do Language Models Understand Time?**|Xi Ding et.al.|[2412.13845v1](http://arxiv.org/abs/2412.13845v1)|**[link](https://github.com/Darcyddx/Video-LLM)**|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-18**|**JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts**|Taein Son et.al.|[2412.13708v1](http://arxiv.org/abs/2412.13708v1)|[link](https://github.com/taeiin/aaai2025-jovale)|**[link](https://github.com/taeiin/aaai2025-jovale)**|
