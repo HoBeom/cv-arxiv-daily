@@ -8,9 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439v1](http://arxiv.org/abs/2501.14439v1)|null|null|
 |**2025-01-23**|**MV-GMN: State Space Model for Multi-View Action Recognition**|Yuhui Lin et.al.|[2501.13829v1](http://arxiv.org/abs/2501.13829v1)|null|null|
 |**2025-01-23**|**Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models**|Chaolei Han et.al.|[2501.13795v1](http://arxiv.org/abs/2501.13795v1)|null|null|
-|**2025-01-23**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[2501.13518v1](http://arxiv.org/abs/2501.13518v1)|[link](https://github.com/3dperceptionlab/toad)|**[link](https://github.com/3dperceptionlab/toad)**|
+|**2025-01-23**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[2501.13518v1](http://arxiv.org/abs/2501.13518v1)|[link](https://github.com/3dperceptionlab/toad)|null|
 |**2025-01-22**|**SMART-Vision: Survey of Modern Action Recognition Techniques in Vision**|Ali K. AlShami et.al.|[2501.13066v1](http://arxiv.org/abs/2501.13066v1)|null|null|
 |**2025-01-22**|**Can masking background and object reduce static bias for zero-shot action recognition?**|Takumi Fukuzawa et.al.|[2501.12681v1](http://arxiv.org/abs/2501.12681v1)|null|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318v1](http://arxiv.org/abs/2501.12318v1)|null|null|
