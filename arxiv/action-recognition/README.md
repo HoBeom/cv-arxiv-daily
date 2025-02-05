@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-04**|**System Integrity Protection Schemes in the Nordics -- a comparative analysis**|Gabriel Malmer et.al.|[2502.02439v1](http://arxiv.org/abs/2502.02439v1)|null|null|
+|**2025-02-01**|**Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues**|Rohit Girmaji et.al.|[2502.00397v1](http://arxiv.org/abs/2502.00397v1)|null|null|
+|**2025-01-31**|**ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition**|Joseph Fioresi et.al.|[2502.00156v1](http://arxiv.org/abs/2502.00156v1)|null|null|
 |**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|[link](https://github.com/aiotgroup/xrfv2)|null|
 |**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v2](http://arxiv.org/abs/2501.18592v2)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|null|
 |**2025-01-30**|**Deconstruct Complexity (DeComplex): A Novel Perspective on Tackling Dense Action Detection**|Faegheh Sardari et.al.|[2501.18509v1](http://arxiv.org/abs/2501.18509v1)|null|null|
