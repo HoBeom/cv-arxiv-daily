@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|null|
 |**2025-02-04**|**System Integrity Protection Schemes in the Nordics -- a comparative analysis**|Gabriel Malmer et.al.|[2502.02439v1](http://arxiv.org/abs/2502.02439v1)|null|null|
 |**2025-02-01**|**Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues**|Rohit Girmaji et.al.|[2502.00397v1](http://arxiv.org/abs/2502.00397v1)|null|null|
 |**2025-01-31**|**ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition**|Joseph Fioresi et.al.|[2502.00156v1](http://arxiv.org/abs/2502.00156v1)|null|null|
