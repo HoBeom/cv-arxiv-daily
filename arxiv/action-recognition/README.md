@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144v1](http://arxiv.org/abs/2502.04144v1)|null|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|null|null|
+|**2025-02-05**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549v1](http://arxiv.org/abs/2502.03549v1)|null|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|null|
 |**2025-02-04**|**System Integrity Protection Schemes in the Nordics -- a comparative analysis**|Gabriel Malmer et.al.|[2502.02439v1](http://arxiv.org/abs/2502.02439v1)|null|null|
 |**2025-02-01**|**Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues**|Rohit Girmaji et.al.|[2502.00397v1](http://arxiv.org/abs/2502.00397v1)|null|null|
