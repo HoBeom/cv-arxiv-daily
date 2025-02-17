@@ -9,18 +9,18 @@
 |**2025-02-10**|**From Image to Video: An Empirical Study of Diffusion Representations**|Pedro Vélez et.al.|[2502.07001v1](http://arxiv.org/abs/2502.07001v1)|null|null|
 |**2025-02-10**|**Conformal Predictions for Human Action Recognition with Vision-Language Models**|Bary Tim et.al.|[2502.06631v1](http://arxiv.org/abs/2502.06631v1)|null|null|
 |**2025-02-10**|**An Automated Machine Learning Framework for Surgical Suturing Action Detection under Class Imbalance**|Baobing Zhang et.al.|[2502.06407v1](http://arxiv.org/abs/2502.06407v1)|null|null|
-|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986v1](http://arxiv.org/abs/2502.05986v1)|[link](https://github.com/Ohav/rogue-agents)|null|
+|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986v1](http://arxiv.org/abs/2502.05986v1)|[link](https://github.com/Ohav/rogue-agents)|**[link](https://github.com/Ohav/rogue-agents)**|
 |**2025-02-09**|**HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition**|Yue Li et.al.|[2502.05869v1](http://arxiv.org/abs/2502.05869v1)|null|null|
 |**2025-02-07**|**REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly**|Daniel Sliwowski et.al.|[2502.05086v1](http://arxiv.org/abs/2502.05086v1)|null|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144v1](http://arxiv.org/abs/2502.04144v1)|null|null|
-|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|[link](https://github.com/hrishavbakulbarua/darkbert)|null|
-|**2025-02-10**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549v3](http://arxiv.org/abs/2502.03549v3)|null|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|[link](https://github.com/hrishavbakulbarua/darkbert)|**[link](https://github.com/hrishavbakulbarua/darkbert)**|
+|**2025-02-10**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549v3](http://arxiv.org/abs/2502.03549v3)|**[link](https://github.com/yjyddq/CLAVER)**|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|null|
 |**2025-02-04**|**System Integrity Protection Schemes in the Nordics -- a comparative analysis**|Gabriel Malmer et.al.|[2502.02439v1](http://arxiv.org/abs/2502.02439v1)|null|null|
 |**2025-02-01**|**Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues**|Rohit Girmaji et.al.|[2502.00397v1](http://arxiv.org/abs/2502.00397v1)|null|null|
 |**2025-01-31**|**ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition**|Joseph Fioresi et.al.|[2502.00156v1](http://arxiv.org/abs/2502.00156v1)|null|null|
-|**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|[link](https://github.com/aiotgroup/xrfv2)|null|
-|**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v2](http://arxiv.org/abs/2501.18592v2)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|null|
+|**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|[link](https://github.com/aiotgroup/xrfv2)|**[link](https://github.com/aiotgroup/xrfv2)**|
+|**2025-02-03**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v2](http://arxiv.org/abs/2501.18592v2)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
 |**2025-01-30**|**Deconstruct Complexity (DeComplex): A Novel Perspective on Tackling Dense Action Detection**|Faegheh Sardari et.al.|[2501.18509v1](http://arxiv.org/abs/2501.18509v1)|null|null|
 |**2025-01-29**|**Action Recognition Using Temporal Shift Module and Ensemble Learning**|Anh-Kiet Duong et.al.|[2501.17550v1](http://arxiv.org/abs/2501.17550v1)|[link](https://github.com/ffyyytt/tsm-mmvpr)|**[link](https://github.com/ffyyytt/tsm-mmvpr)**|
 |**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843v1](http://arxiv.org/abs/2501.16843v1)|null|null|
@@ -47,7 +47,7 @@
 |**2025-01-02**|**SeFAR: Semi-supervised Fine-grained Action Recognition with Temporal Perturbation and Learning Stabilization**|Yongle Huang et.al.|[2501.01245v1](http://arxiv.org/abs/2501.01245v1)|[link](https://github.com/kylehuang9/sefar)|**[link](https://github.com/kylehuang9/sefar)**|
 |**2025-01-02**|**Event Masked Autoencoder: Point-wise Action Recognition with Event-Based Cameras**|Jingkai Sun et.al.|[2501.01040v1](http://arxiv.org/abs/2501.01040v1)|null|null|
 |**2024-12-30**|**Action-Agnostic Point-Level Supervision for Temporal Action Detection**|Shuhei M. Yoshida et.al.|[2412.21205v1](http://arxiv.org/abs/2412.21205v1)|[link](https://github.com/smy-nec/aapl)|**[link](https://github.com/smy-nec/aapl)**|
-|**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|**[link](https://github.com/mcg-nju/video-dc)**|null|
+|**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|**[link](https://github.com/mcg-nju/video-dc)**|**[link](https://github.com/mcg-nju/video-dc)**|
 |**2024-12-30**|**Frequency-aware Event Cloud Network**|Hongwei Ren et.al.|[2412.20803v1](http://arxiv.org/abs/2412.20803v1)|null|null|
 |**2024-12-29**|**FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition**|Wenhan Wu et.al.|[2412.20621v1](http://arxiv.org/abs/2412.20621v1)|[link](https://github.com/wenhanwu95/freqmixformer)|**[link](https://github.com/wenhanwu95/freqmixformer)**|
 |**2024-12-28**|**DAVE: Diverse Atomic Visual Elements Dataset with High Representation of Vulnerable Road Users in Complex and Unpredictable Environments**|Xijun Wang et.al.|[2412.20042v1](http://arxiv.org/abs/2412.20042v1)|null|null|
@@ -178,7 +178,7 @@
 |**2024-09-06**|**Self-Supervised Contrastive Learning for Videos using Differentiable Local Alignment**|Keyne Oei et.al.|[2409.04607v1](http://arxiv.org/abs/2409.04607v1)|**[link](https://github.com/keynekassapa13/LAC)**|**[link](https://github.com/keynekassapa13/LAC)**|
 |**2024-09-06**|**Introducing Gating and Context into Temporal Action Detection**|Aglind Reka et.al.|[2409.04205v1](http://arxiv.org/abs/2409.04205v1)|null|null|
 |**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910v1](http://arxiv.org/abs/2409.02910v1)|null|null|
-|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483v1](http://arxiv.org/abs/2409.02483v1)|null|null|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483v1](http://arxiv.org/abs/2409.02483v1)|**[link](https://github.com/yunfengdiao/Skeleton-Robustness-Benchmark)**|null|
 |**2024-09-07**|**Unfolding Videos Dynamics via Taylor Expansion**|Siyi Chen et.al.|[2409.02371v2](http://arxiv.org/abs/2409.02371v2)|null|null|
 |**2024-09-03**|**ADHD diagnosis based on action characteristics recorded in videos using machine learning**|Yichun Li et.al.|[2409.02274v1](http://arxiv.org/abs/2409.02274v1)|null|null|
 |**2024-09-03**|**Action-Based ADHD Diagnosis in Video**|Yichun Li et.al.|[2409.02261v1](http://arxiv.org/abs/2409.02261v1)|null|null|
@@ -218,7 +218,7 @@
 |**2024-08-07**|**JARViS: Detecting Actions in Video Using Unified Actor-Scene Context Relation Modeling**|Seok Hwan Lee et.al.|[2408.03612v1](http://arxiv.org/abs/2408.03612v1)|null|null|
 |**2024-08-06**|**Prototype Learning for Micro-gesture Classification**|Guoliang Chen et.al.|[2408.03097v1](http://arxiv.org/abs/2408.03097v1)|null|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957v1](http://arxiv.org/abs/2408.02957v1)|null|null|
-|**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769v1](http://arxiv.org/abs/2408.02769v1)|**[link](https://github.com/linuxsino/arr)**|null|
+|**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769v1](http://arxiv.org/abs/2408.02769v1)|**[link](https://github.com/linuxsino/arr)**|**[link](https://github.com/linuxsino/arr)**|
 |**2024-08-09**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623v2](http://arxiv.org/abs/2408.02623v2)|[link](https://github.com/aakiraotok/yowov3)|**[link](https://github.com/aakiraotok/yowov3)**|
 |**2024-08-04**|**Enhancing Human Action Recognition and Violence Detection Through Deep Learning Audiovisual Fusion**|Pooya Janani et.al.|[2408.02033v1](http://arxiv.org/abs/2408.02033v1)|null|null|
 |**2024-08-04**|**Faster Diffusion Action Segmentation**|Shuaibing Wang et.al.|[2408.02024v1](http://arxiv.org/abs/2408.02024v1)|null|null|

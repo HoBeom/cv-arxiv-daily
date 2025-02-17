@@ -9,20 +9,20 @@
 |**2025-02-13**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v1](http://arxiv.org/abs/2502.08865v1)|null|null|
 |**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676v1](http://arxiv.org/abs/2502.08676v1)|null|null|
 |**2025-02-12**|**CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World**|Yankai Fu et.al.|[2502.08449v1](http://arxiv.org/abs/2502.08449v1)|null|null|
-|**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703v1](http://arxiv.org/abs/2502.07703v1)|[link](https://github.com/chiyunnoh/garlio)|null|
+|**2025-02-11**|**GaRLIO: Gravity enhanced Radar-LiDAR-Inertial Odometry**|Chiyun Noh et.al.|[2502.07703v1](http://arxiv.org/abs/2502.07703v1)|[link](https://github.com/chiyunnoh/garlio)|**[link](https://github.com/chiyunnoh/garlio)**|
 |**2025-02-11**|**Matrix3D: Large Photogrammetry Model All-in-One**|Yuanxun Lu et.al.|[2502.07685v1](http://arxiv.org/abs/2502.07685v1)|null|null|
 |**2025-02-10**|**An Appearance Defect Detection Method for Cigarettes Based on C-CenterNet**|Hongyu Liu et.al.|[2502.06119v1](http://arxiv.org/abs/2502.06119v1)|null|null|
 |**2025-02-08**|**Vision-in-the-loop Simulation for Deep Monocular Pose Estimation of UAV in Ocean Environment**|Maneesha Wickramasuriya et.al.|[2502.05409v1](http://arxiv.org/abs/2502.05409v1)|null|null|
-|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483v1](http://arxiv.org/abs/2502.04483v1)|[link](https://github.com/MichiganCOG/Simulation_Physical_Plausibility)|null|
+|**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483v1](http://arxiv.org/abs/2502.04483v1)|[link](https://github.com/MichiganCOG/Simulation_Physical_Plausibility)|**[link](https://github.com/MichiganCOG/Simulation_Physical_Plausibility)**|
 |**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293v1](http://arxiv.org/abs/2502.04293v1)|null|null|
 |**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877v1](http://arxiv.org/abs/2502.03877v1)|null|null|
 |**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510v1](http://arxiv.org/abs/2502.03510v1)|null|null|
-|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|[link](https://github.com/cnjianliu/diff9d)|null|
+|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|[link](https://github.com/cnjianliu/diff9d)|**[link](https://github.com/cnjianliu/diff9d)**|
 |**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312v1](http://arxiv.org/abs/2502.01312v1)|null|null|
 |**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092v1](http://arxiv.org/abs/2502.01092v1)|null|null|
 |**2025-02-03**|**ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking**|Jianqiu Chen et.al.|[2502.01004v1](http://arxiv.org/abs/2502.01004v1)|null|null|
 |**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115v1](http://arxiv.org/abs/2502.00115v1)|null|null|
-|**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|[link](https://github.com/aiotgroup/xrfv2)|null|
+|**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|[link](https://github.com/aiotgroup/xrfv2)|**[link](https://github.com/aiotgroup/xrfv2)**|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|null|null|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453v1](http://arxiv.org/abs/2501.18453v1)|null|null|
 |**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361v1](http://arxiv.org/abs/2501.18361v1)|null|null|
@@ -394,7 +394,7 @@
 |**2024-08-24**|**Temporally-consistent 3D Reconstruction of Birds**|Johannes Hägerlind et.al.|[2408.13629v1](http://arxiv.org/abs/2408.13629v1)|null|null|
 |**2024-08-24**|**Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation**|Jianing Song et.al.|[2408.13587v1](http://arxiv.org/abs/2408.13587v1)|null|null|
 |**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569v3](http://arxiv.org/abs/2408.12569v3)|null|null|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|null|
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831v1](http://arxiv.org/abs/2408.10831v1)|null|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805v1](http://arxiv.org/abs/2408.10805v1)|[link](https://github.com/aghasemzadeh/openmpl)|**[link](https://github.com/aghasemzadeh/openmpl)**|
 |**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450v1](http://arxiv.org/abs/2408.10450v1)|null|null|
