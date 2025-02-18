@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-17**|**FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**|Shangzhan Zhang et.al.|[2502.12138v1](http://arxiv.org/abs/2502.12138v1)|null|null|
+|**2025-02-17**|**Enhancing Transparent Object Pose Estimation: A Fusion of GDR-Net and Edge Detection**|Tessa Pulli et.al.|[2502.12027v1](http://arxiv.org/abs/2502.12027v1)|null|null|
+|**2025-02-17**|**SurgPose: a Dataset for Articulated Robotic Surgical Tool Pose Estimation and Tracking**|Zijian Wu et.al.|[2502.11534v1](http://arxiv.org/abs/2502.11534v1)|null|null|
+|**2025-02-15**|**VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS**|Ming Meng et.al.|[2502.10729v1](http://arxiv.org/abs/2502.10729v1)|null|null|
+|**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724v1](http://arxiv.org/abs/2502.10724v1)|null|null|
+|**2025-02-15**|**Learning semantical dynamics and spatiotemporal collaboration for human pose estimation in video**|Runyang Feng et.al.|[2502.10616v1](http://arxiv.org/abs/2502.10616v1)|null|null|
+|**2025-02-14**|**HIPPo: Harnessing Image-to-3D Priors for Model-free Zero-shot 6D Pose Estimation**|Yibo Liu et.al.|[2502.10606v1](http://arxiv.org/abs/2502.10606v1)|null|null|
 |**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090v1](http://arxiv.org/abs/2502.10090v1)|null|null|
 |**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460v1](http://arxiv.org/abs/2502.09460v1)|null|null|
 |**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080v1](http://arxiv.org/abs/2502.09080v1)|null|null|
