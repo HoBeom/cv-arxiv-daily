@@ -12,17 +12,17 @@ layout: default
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791v1](http://arxiv.org/abs/2502.12791v1)|null|null|
 |**2025-02-18**|**Adaptive Prototype Model for Attribute-based Multi-label Few-shot Action Recognition**|Juefeng Xiao et.al.|[2502.12582v1](http://arxiv.org/abs/2502.12582v1)|null|null|
 |**2025-02-15**|**Improving action segmentation via explicit similarity measurement**|Kamel Aouaidjia et.al.|[2502.10713v1](http://arxiv.org/abs/2502.10713v1)|null|null|
-|**2025-02-13**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299v2](http://arxiv.org/abs/2502.08299v2)|[link](https://github.com/camma-public/team-or)|null|
+|**2025-02-13**|**When do they StOP?: A First Step Towards Automatically Identifying Team Communication in the Operating Room**|Keqi Chen et.al.|[2502.08299v2](http://arxiv.org/abs/2502.08299v2)|[link](https://github.com/camma-public/team-or)|**[link](https://github.com/camma-public/team-or)**|
 |**2025-02-11**|**Enhancing Video Understanding: Deep Neural Networks for Spatiotemporal Analysis**|Amir Hosein Fadaei et.al.|[2502.07277v1](http://arxiv.org/abs/2502.07277v1)|null|null|
 |**2025-02-10**|**From Image to Video: An Empirical Study of Diffusion Representations**|Pedro Vélez et.al.|[2502.07001v1](http://arxiv.org/abs/2502.07001v1)|null|null|
 |**2025-02-10**|**Conformal Predictions for Human Action Recognition with Vision-Language Models**|Bary Tim et.al.|[2502.06631v1](http://arxiv.org/abs/2502.06631v1)|null|null|
 |**2025-02-10**|**An Automated Machine Learning Framework for Surgical Suturing Action Detection under Class Imbalance**|Baobing Zhang et.al.|[2502.06407v1](http://arxiv.org/abs/2502.06407v1)|null|null|
-|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986v1](http://arxiv.org/abs/2502.05986v1)|[link](https://github.com/Ohav/rogue-agents)|null|
+|**2025-02-09**|**Preventing Rogue Agents Improves Multi-Agent Collaboration**|Ohav Barbi et.al.|[2502.05986v1](http://arxiv.org/abs/2502.05986v1)|[link](https://github.com/Ohav/rogue-agents)|**[link](https://github.com/Ohav/rogue-agents)**|
 |**2025-02-09**|**HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition**|Yue Li et.al.|[2502.05869v1](http://arxiv.org/abs/2502.05869v1)|null|null|
 |**2025-02-07**|**REASSEMBLE: A Multimodal Dataset for Contact-rich Robotic Assembly and Disassembly**|Daniel Sliwowski et.al.|[2502.05086v1](http://arxiv.org/abs/2502.05086v1)|null|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144v1](http://arxiv.org/abs/2502.04144v1)|null|null|
-|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|[link](https://github.com/hrishavbakulbarua/darkbert)|null|
-|**2025-02-10**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549v3](http://arxiv.org/abs/2502.03549v3)|**[link](https://github.com/yjyddq/CLAVER)**|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724v1](http://arxiv.org/abs/2502.03724v1)|[link](https://github.com/hrishavbakulbarua/darkbert)|**[link](https://github.com/hrishavbakulbarua/darkbert)**|
+|**2025-02-10**|**Kronecker Mask and Interpretive Prompts are Language-Action Video Learners**|Jingyi Yang et.al.|[2502.03549v3](http://arxiv.org/abs/2502.03549v3)|**[link](https://github.com/yjyddq/CLAVER)**|**[link](https://github.com/yjyddq/CLAVER)**|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|null|
 |**2025-02-04**|**System Integrity Protection Schemes in the Nordics -- a comparative analysis**|Gabriel Malmer et.al.|[2502.02439v1](http://arxiv.org/abs/2502.02439v1)|null|null|
 |**2025-02-01**|**Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues**|Rohit Girmaji et.al.|[2502.00397v1](http://arxiv.org/abs/2502.00397v1)|null|null|
@@ -186,7 +186,7 @@ layout: default
 |**2024-09-06**|**Self-Supervised Contrastive Learning for Videos using Differentiable Local Alignment**|Keyne Oei et.al.|[2409.04607v1](http://arxiv.org/abs/2409.04607v1)|**[link](https://github.com/keynekassapa13/LAC)**|**[link](https://github.com/keynekassapa13/LAC)**|
 |**2024-09-06**|**Introducing Gating and Context into Temporal Action Detection**|Aglind Reka et.al.|[2409.04205v1](http://arxiv.org/abs/2409.04205v1)|null|null|
 |**2024-09-04**|**SITAR: Semi-supervised Image Transformer for Action Recognition**|Owais Iqbal et.al.|[2409.02910v1](http://arxiv.org/abs/2409.02910v1)|null|null|
-|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483v1](http://arxiv.org/abs/2409.02483v1)|**[link](https://github.com/yunfengdiao/Skeleton-Robustness-Benchmark)**|null|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483v1](http://arxiv.org/abs/2409.02483v1)|**[link](https://github.com/yunfengdiao/Skeleton-Robustness-Benchmark)**|**[link](https://github.com/yunfengdiao/Skeleton-Robustness-Benchmark)**|
 |**2024-09-07**|**Unfolding Videos Dynamics via Taylor Expansion**|Siyi Chen et.al.|[2409.02371v2](http://arxiv.org/abs/2409.02371v2)|null|null|
 |**2024-09-03**|**ADHD diagnosis based on action characteristics recorded in videos using machine learning**|Yichun Li et.al.|[2409.02274v1](http://arxiv.org/abs/2409.02274v1)|null|null|
 |**2024-09-03**|**Action-Based ADHD Diagnosis in Video**|Yichun Li et.al.|[2409.02261v1](http://arxiv.org/abs/2409.02261v1)|null|null|
