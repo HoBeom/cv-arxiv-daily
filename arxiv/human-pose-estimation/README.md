@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373v1](http://arxiv.org/abs/2502.18373v1)|null|null|
+|**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214v1](http://arxiv.org/abs/2502.18214v1)|[link](https://github.com/Raojiyong/KITPose)|null|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434v1](http://arxiv.org/abs/2502.17434v1)|null|null|
 |**2025-02-24**|**Task-Oriented 6-DoF Grasp Pose Detection in Clutters**|An-Lan Wang et.al.|[2502.16976v1](http://arxiv.org/abs/2502.16976v1)|null|null|
 |**2025-02-23**|**Automated Keypoint Estimation for Self-Piercing Rivet Joints Using micro-CT Imaging and Transfer Learning**|Wei Qin Chuah et.al.|[2502.16752v1](http://arxiv.org/abs/2502.16752v1)|null|null|
