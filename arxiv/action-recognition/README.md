@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-02-26**|**Deep Learning For Time Series Analysis With Application On Human Motion**|Ali Ismail-Fawaz et.al.|[2502.19364v1](http://arxiv.org/abs/2502.19364v1)|null|null|
 |**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373v1](http://arxiv.org/abs/2502.18373v1)|null|null|
 |**2025-02-23**|**Trunk-branch Contrastive Network with Multi-view Deformable Aggregation for Multi-view Action Recognition**|Yingyuan Yang et.al.|[2502.16493v1](http://arxiv.org/abs/2502.16493v1)|null|null|
 |**2025-02-21**|**Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks**|Jeremie Ochin et.al.|[2502.15462v1](http://arxiv.org/abs/2502.15462v1)|null|null|
