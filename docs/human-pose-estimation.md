@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-02-27**|**Cutting-edge 3D reconstruction solutions for underwater coral reef images: A review and comparison**|Jiageng Zhong et.al.|[2502.20154v1](http://arxiv.org/abs/2502.20154v1)|null|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|null|
-|**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077v1](http://arxiv.org/abs/2502.20077v1)|[link](https://github.com/ZhouZijie77/SegLocNet)|null|
+|**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077v1](http://arxiv.org/abs/2502.20077v1)|[link](https://github.com/ZhouZijie77/SegLocNet)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
 |**2025-02-27**|**RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**|Thibaut Loiseau et.al.|[2502.19955v1](http://arxiv.org/abs/2502.19955v1)|null|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769v1](http://arxiv.org/abs/2502.19769v1)|null|null|
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766v1](http://arxiv.org/abs/2502.19766v1)|null|null|
@@ -18,12 +18,12 @@ layout: default
 |**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen et.al.|[2502.19169v1](http://arxiv.org/abs/2502.19169v1)|null|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522v1](http://arxiv.org/abs/2502.18522v1)|null|null|
 |**2025-02-25**|**EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity**|Dominik Hollidt et.al.|[2502.18373v1](http://arxiv.org/abs/2502.18373v1)|null|null|
-|**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214v1](http://arxiv.org/abs/2502.18214v1)|[link](https://github.com/Raojiyong/KITPose)|null|
+|**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214v1](http://arxiv.org/abs/2502.18214v1)|[link](https://github.com/Raojiyong/KITPose)|**[link](https://github.com/Raojiyong/KITPose)**|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434v1](http://arxiv.org/abs/2502.17434v1)|null|null|
 |**2025-02-24**|**Task-Oriented 6-DoF Grasp Pose Detection in Clutters**|An-Lan Wang et.al.|[2502.16976v1](http://arxiv.org/abs/2502.16976v1)|null|null|
 |**2025-02-23**|**Automated Keypoint Estimation for Self-Piercing Rivet Joints Using micro-CT Imaging and Transfer Learning**|Wei Qin Chuah et.al.|[2502.16752v1](http://arxiv.org/abs/2502.16752v1)|null|null|
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v1](http://arxiv.org/abs/2502.16495v1)|null|null|
-|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419v1](http://arxiv.org/abs/2502.16419v1)|[link](https://github.com/wujinhuan/depropose)|null|
+|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419v1](http://arxiv.org/abs/2502.16419v1)|[link](https://github.com/wujinhuan/depropose)|**[link](https://github.com/wujinhuan/depropose)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|null|
 |**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251v1](http://arxiv.org/abs/2502.15251v1)|null|null|
 |**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179v1](http://arxiv.org/abs/2502.15179v1)|null|null|
@@ -31,7 +31,7 @@ layout: default
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|null|
 |**2025-02-19**|**EfficientPose 6D: Scalable and Efficient 6D Object Pose Estimation**|Zixuan Fang et.al.|[2502.14061v1](http://arxiv.org/abs/2502.14061v1)|null|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|null|
-|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484v1](http://arxiv.org/abs/2502.13484v1)|[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)|null|
+|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484v1](http://arxiv.org/abs/2502.13484v1)|[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
 |**2025-02-19**|**Object-Pose Estimation With Neural Population Codes**|Heiko Hoffmann et.al.|[2502.13403v1](http://arxiv.org/abs/2502.13403v1)|null|null|
 |**2025-02-18**|**Spatiotemporal Multi-Camera Calibration using Freely Moving People**|Sang-Eun Lee et.al.|[2502.12546v1](http://arxiv.org/abs/2502.12546v1)|null|null|
 |**2025-02-18**|**Learning Transformation-Isomorphic Latent Space for Accurate Hand Pose Estimation**|Kaiwen Ren et.al.|[2502.12535v1](http://arxiv.org/abs/2502.12535v1)|null|null|
@@ -460,7 +460,7 @@ layout: default
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|null|
 |**2024-08-10**|**Anticipation through Head Pose Estimation: a preliminary study**|Federico Figari Tomenotti et.al.|[2408.05516v1](http://arxiv.org/abs/2408.05516v1)|null|null|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979v1](http://arxiv.org/abs/2408.04979v1)|null|null|
-|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540v1](http://arxiv.org/abs/2408.03540v1)|null|null|
+|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540v1](http://arxiv.org/abs/2408.03540v1)|**[link](https://github.com/nankingjing/PoseMamba)**|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|[link](https://github.com/zibin6/lopet)|**[link](https://github.com/zibin6/lopet)**|
 |**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168v1](http://arxiv.org/abs/2408.03168v1)|null|null|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|[link](https://github.com/GuidoManni/BodySLAM)|**[link](https://github.com/GuidoManni/BodySLAM)**|
