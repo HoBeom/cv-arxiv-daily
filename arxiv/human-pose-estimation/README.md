@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|[link](https://github.com/MacavityT/REF-VLM)|null|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v1](http://arxiv.org/abs/2503.07347v1)|null|null|
+|**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278v1](http://arxiv.org/abs/2503.07278v1)|null|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204v1](http://arxiv.org/abs/2503.07204v1)|null|null|
+|**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190v1](http://arxiv.org/abs/2503.07190v1)|null|null|
+|**2025-03-10**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111v1](http://arxiv.org/abs/2503.07111v1)|null|null|
+|**2025-03-09**|**AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation**|Yang Zou et.al.|[2503.06660v1](http://arxiv.org/abs/2503.06660v1)|null|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117v1](http://arxiv.org/abs/2503.06117v1)|null|null|
+|**2025-03-08**|**Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision**|David C. Jeong et.al.|[2503.06089v1](http://arxiv.org/abs/2503.06089v1)|null|null|
+|**2025-03-08**|**ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features**|Shan An et.al.|[2503.05995v1](http://arxiv.org/abs/2503.05995v1)|null|null|
 |**2025-03-07**|**Novel Object 6D Pose Estimation with a Single Reference View**|Jian Liu et.al.|[2503.05578v1](http://arxiv.org/abs/2503.05578v1)|null|null|
 |**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365v1](http://arxiv.org/abs/2503.05365v1)|null|null|
 |**2025-03-07**|**Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects**|Justin Yu et.al.|[2503.05189v1](http://arxiv.org/abs/2503.05189v1)|null|null|

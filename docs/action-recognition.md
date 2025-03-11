@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-09**|**TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos**|Chen-Lin Zhang et.al.|[2503.06526v1](http://arxiv.org/abs/2503.06526v1)|null|null|
+|**2025-03-08**|**End-to-End Action Segmentation Transformer**|Tieqiao Wang et.al.|[2503.06316v1](http://arxiv.org/abs/2503.06316v1)|null|null|
 |**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582v1](http://arxiv.org/abs/2503.05582v1)|null|null|
 |**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365v1](http://arxiv.org/abs/2503.05365v1)|null|null|
 |**2025-03-06**|**Gate-Shift-Pose: Enhancing Action Recognition in Sports with Skeleton Information**|Edoardo Bianchi et.al.|[2503.04470v1](http://arxiv.org/abs/2503.04470v1)|null|null|
