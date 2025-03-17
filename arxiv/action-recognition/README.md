@@ -7,7 +7,7 @@
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265v1](http://arxiv.org/abs/2503.10265v1)|null|null|
 |**2025-03-11**|**A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects**|Fei Wang et.al.|[2503.08008v1](http://arxiv.org/abs/2503.08008v1)|null|null|
 |**2025-03-10**|**Elderly Activity Recognition in the Wild: Results from the EAR Challenge**|Anh-Kiet Duong et.al.|[2503.07821v1](http://arxiv.org/abs/2503.07821v1)|null|null|
-|**2025-03-09**|**TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos**|Chen-Lin Zhang et.al.|[2503.06526v1](http://arxiv.org/abs/2503.06526v1)|[link](https://github.com/sming256/timeloc)|null|
+|**2025-03-09**|**TimeLoc: A Unified End-to-End Framework for Precise Timestamp Localization in Long Videos**|Chen-Lin Zhang et.al.|[2503.06526v1](http://arxiv.org/abs/2503.06526v1)|[link](https://github.com/sming256/timeloc)|**[link](https://github.com/sming256/timeloc)**|
 |**2025-03-11**|**End-to-End Action Segmentation Transformer**|Tieqiao Wang et.al.|[2503.06316v2](http://arxiv.org/abs/2503.06316v2)|null|null|
 |**2025-03-07**|**MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification**|Yang Mu et.al.|[2503.05582v1](http://arxiv.org/abs/2503.05582v1)|null|null|
 |**2025-03-07**|**Multi-Grained Feature Pruning for Video-Based Human Pose Estimation**|Zhigang Wang et.al.|[2503.05365v1](http://arxiv.org/abs/2503.05365v1)|null|null|
@@ -16,7 +16,7 @@
 |**2025-03-04**|**Semi-Supervised Audio-Visual Video Action Recognition with Audio Source Localization Guided Mixup**|Seokun Kang et.al.|[2503.02284v1](http://arxiv.org/abs/2503.02284v1)|null|null|
 |**2025-03-04**|**An Efficient 3D Convolutional Neural Network with Channel-wise, Spatial-grouped, and Temporal Convolutions**|Zhe Wang et.al.|[2503.00796v2](http://arxiv.org/abs/2503.00796v2)|null|null|
 |**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085v1](http://arxiv.org/abs/2502.21085v1)|null|null|
-|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361v1](http://arxiv.org/abs/2502.20361v1)|[link](https://github.com/sming256/OpenTAD)|null|
+|**2025-02-27**|**OpenTAD: A Unified Framework and Comprehensive Study of Temporal Action Detection**|Shuming Liu et.al.|[2502.20361v1](http://arxiv.org/abs/2502.20361v1)|[link](https://github.com/sming256/OpenTAD)|**[link](https://github.com/sming256/OpenTAD)**|
 |**2025-02-27**|**Learning to Generalize without Bias for Open-Vocabulary Action Recognition**|Yating Yu et.al.|[2502.20158v1](http://arxiv.org/abs/2502.20158v1)|null|null|
 |**2025-02-27**|**QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects**|Elkhan Ismayilzada et.al.|[2502.19769v1](http://arxiv.org/abs/2502.19769v1)|null|null|
 |**2025-02-26**|**Deep Learning For Time Series Analysis With Application On Human Motion**|Ali Ismail-Fawaz et.al.|[2502.19364v1](http://arxiv.org/abs/2502.19364v1)|null|null|
@@ -189,7 +189,7 @@
 |**2024-09-19**|**Interpretable Action Recognition on Hard to Classify Actions**|Anastasia Anichenko et.al.|[2409.13091v1](http://arxiv.org/abs/2409.13091v1)|null|null|
 |**2024-09-18**|**Distillation-free Scaling of Large SSMs for Images and Videos**|Hamid Suleman et.al.|[2409.11867v1](http://arxiv.org/abs/2409.11867v1)|null|null|
 |**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|Zhikang Dong et.al.|[2409.11513v1](http://arxiv.org/abs/2409.11513v1)|[link](https://github.com/dongzhikang/mambavl)|**[link](https://github.com/dongzhikang/mambavl)**|
-|**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953v1](http://arxiv.org/abs/2409.09953v1)|null|null|
+|**2024-09-16**|**Uncertainty-Guided Appearance-Motion Association Network for Out-of-Distribution Action Detection**|Xiang Fang et.al.|[2409.09953v1](http://arxiv.org/abs/2409.09953v1)|**[link](https://github.com/AngeloFang/MIPR_UAAN)**|null|
 |**2024-09-15**|**Integrating Audio Narrations to Strengthen Domain Generalization in Multimodal First-Person Action Recognition**|Cagri Gungor et.al.|[2409.09611v1](http://arxiv.org/abs/2409.09611v1)|null|null|
 |**2024-09-14**|**KAN-HyperpointNet for Point Cloud Sequence-Based 3D Human Action Recognition**|Zhaoyu Chen et.al.|[2409.09444v1](http://arxiv.org/abs/2409.09444v1)|null|null|
 |**2024-09-14**|**ChildPlay-Hand: A Dataset of Hand Manipulations in the Wild**|Arya Farkhondeh et.al.|[2409.09319v1](http://arxiv.org/abs/2409.09319v1)|null|null|
