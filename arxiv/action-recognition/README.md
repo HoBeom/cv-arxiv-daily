@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-03-11**|**Joint Image-Instance Spatial-Temporal Attention for Few-shot Action Recognition**|Zefeng Qian et.al.|[2503.14430v1](http://arxiv.org/abs/2503.14430v1)|null|null|
+|**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112v1](http://arxiv.org/abs/2503.14112v1)|null|null|
+|**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724v1](http://arxiv.org/abs/2503.13724v1)|null|null|
 |**2025-03-17**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v1](http://arxiv.org/abs/2503.13344v1)|null|null|
 |**2025-03-17**|**Action tube generation by person query matching for spatio-temporal action detection**|Kazuki Omi et.al.|[2503.12969v1](http://arxiv.org/abs/2503.12969v1)|null|null|
 |**2025-03-17**|**ACT360: An Efficient 360-Degree Action Detection and Summarization Framework for Mission-Critical Training and Debriefing**|Aditi Tiwari et.al.|[2503.12852v1](http://arxiv.org/abs/2503.12852v1)|null|null|
