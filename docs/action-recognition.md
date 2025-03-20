@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126v1](http://arxiv.org/abs/2503.15126v1)|null|null|
+|**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v1](http://arxiv.org/abs/2503.14960v1)|null|null|
+|**2025-03-19**|**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**|Henrique Morimitsu et.al.|[2503.14880v1](http://arxiv.org/abs/2503.14880v1)|null|null|
+|**2025-03-15**|**Salient Temporal Encoding for Dynamic Scene Graph Generation**|Zhihao Zhu et.al.|[2503.14524v1](http://arxiv.org/abs/2503.14524v1)|null|null|
 |**2025-03-11**|**Joint Image-Instance Spatial-Temporal Attention for Few-shot Action Recognition**|Zefeng Qian et.al.|[2503.14430v1](http://arxiv.org/abs/2503.14430v1)|null|null|
 |**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112v1](http://arxiv.org/abs/2503.14112v1)|null|null|
 |**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724v1](http://arxiv.org/abs/2503.13724v1)|null|null|
