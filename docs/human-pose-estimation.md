@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-20**|**Probabilistic Prompt Distribution Learning for Animal Pose Estimation**|Jiyong Rao et.al.|[2503.16120v1](http://arxiv.org/abs/2503.16120v1)|null|null|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997v1](http://arxiv.org/abs/2503.15997v1)|null|null|
+|**2025-03-20**|**Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras**|Beilei Cui et.al.|[2503.15917v1](http://arxiv.org/abs/2503.15917v1)|null|null|
 |**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284v1](http://arxiv.org/abs/2503.15284v1)|null|null|
 |**2025-03-20**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|null|null|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|null|null|
