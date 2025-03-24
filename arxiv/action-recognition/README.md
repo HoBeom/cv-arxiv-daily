@@ -4,14 +4,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|null|null|
+|**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916v1](http://arxiv.org/abs/2503.16916v1)|null|null|
+|**2025-03-21**|**Joint Self-Supervised Video Alignment and Action Segmentation**|Ali Shah Ali et.al.|[2503.16832v1](http://arxiv.org/abs/2503.16832v1)|null|null|
+|**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546v1](http://arxiv.org/abs/2503.16546v1)|null|null|
 |**2025-03-19**|**Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2503.15126v1](http://arxiv.org/abs/2503.15126v1)|null|null|
 |**2025-03-19**|**Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2503.14960v1](http://arxiv.org/abs/2503.14960v1)|null|null|
-|**2025-03-19**|**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**|Henrique Morimitsu et.al.|[2503.14880v1](http://arxiv.org/abs/2503.14880v1)|[link](https://github.com/hmorimitsu/ptlflow)|**[link](https://github.com/hmorimitsu/ptlflow)**|
+|**2025-03-19**|**DPFlow: Adaptive Optical Flow Estimation with a Dual-Pyramid Framework**|Henrique Morimitsu et.al.|[2503.14880v1](http://arxiv.org/abs/2503.14880v1)|[link](https://github.com/hmorimitsu/ptlflow)|null|
 |**2025-03-15**|**Salient Temporal Encoding for Dynamic Scene Graph Generation**|Zhihao Zhu et.al.|[2503.14524v1](http://arxiv.org/abs/2503.14524v1)|null|null|
 |**2025-03-11**|**Joint Image-Instance Spatial-Temporal Attention for Few-shot Action Recognition**|Zefeng Qian et.al.|[2503.14430v1](http://arxiv.org/abs/2503.14430v1)|null|null|
 |**2025-03-18**|**Condensing Action Segmentation Datasets via Generative Network Inversion**|Guodong Ding et.al.|[2503.14112v1](http://arxiv.org/abs/2503.14112v1)|null|null|
 |**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724v1](http://arxiv.org/abs/2503.13724v1)|null|null|
-|**2025-03-20**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|null|null|
+|**2025-03-20**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|[link](https://github.com/shash29-dev/STEP)|null|
 |**2025-03-17**|**Action tube generation by person query matching for spatio-temporal action detection**|Kazuki Omi et.al.|[2503.12969v1](http://arxiv.org/abs/2503.12969v1)|null|null|
 |**2025-03-17**|**ACT360: An Efficient 360-Degree Action Detection and Summarization Framework for Mission-Critical Training and Debriefing**|Aditi Tiwari et.al.|[2503.12852v1](http://arxiv.org/abs/2503.12852v1)|null|null|
 |**2025-03-16**|**ProbDiffFlow: An Efficient Learning-Free Framework for Probabilistic Single-Image Optical Flow Estimation**|Mo Zhou et.al.|[2503.12348v1](http://arxiv.org/abs/2503.12348v1)|null|null|
