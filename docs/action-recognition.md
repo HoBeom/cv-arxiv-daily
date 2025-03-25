@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|null|null|
+|**2025-03-24**|**Context-Enhanced Memory-Refined Transformer for Online Action Detection**|Zhanzhong Pang et.al.|[2503.18359v1](http://arxiv.org/abs/2503.18359v1)|null|null|
+|**2025-03-24**|**Cost-Sensitive Learning for Long-Tailed Temporal Action Segmentation**|Zhanzhong Pang et.al.|[2503.18358v1](http://arxiv.org/abs/2503.18358v1)|null|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|null|null|
 |**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916v1](http://arxiv.org/abs/2503.16916v1)|null|null|
 |**2025-03-21**|**Joint Self-Supervised Video Alignment and Action Segmentation**|Ali Shah Ali et.al.|[2503.16832v1](http://arxiv.org/abs/2503.16832v1)|null|null|

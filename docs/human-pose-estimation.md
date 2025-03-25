@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-24**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v1](http://arxiv.org/abs/2503.18673v1)|null|null|
+|**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|null|null|
+|**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282v1](http://arxiv.org/abs/2503.18282v1)|null|null|
+|**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938v1](http://arxiv.org/abs/2503.17938v1)|null|null|
+|**2025-03-22**|**Co-op: Correspondence-based Novel Object Pose Estimation**|Sungphill Moon et.al.|[2503.17731v1](http://arxiv.org/abs/2503.17731v1)|null|null|
 |**2025-03-21**|**Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image**|Jerred Chen et.al.|[2503.17358v1](http://arxiv.org/abs/2503.17358v1)|null|null|
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|null|null|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592v1](http://arxiv.org/abs/2503.16592v1)|null|null|
