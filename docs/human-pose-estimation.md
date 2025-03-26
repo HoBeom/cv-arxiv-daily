@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|null|null|
+|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|null|null|
+|**2025-03-25**|**DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios**|Xiangting Meng et.al.|[2503.19625v1](http://arxiv.org/abs/2503.19625v1)|null|null|
+|**2025-03-25**|**Pose-Based Fall Detection System: Efficient Monitoring on Standard CPUs**|Vinayak Mali et.al.|[2503.19501v1](http://arxiv.org/abs/2503.19501v1)|null|null|
+|**2025-03-25**|**Multi-modal 3D Pose and Shape Estimation with Computed Tomography**|Mingxiao Tu et.al.|[2503.19405v1](http://arxiv.org/abs/2503.19405v1)|null|null|
+|**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358v1](http://arxiv.org/abs/2503.19358v1)|null|null|
+|**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307v1](http://arxiv.org/abs/2503.19307v1)|null|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278v1](http://arxiv.org/abs/2503.19278v1)|null|null|
 |**2025-03-25**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v2](http://arxiv.org/abs/2503.18673v2)|null|null|
 |**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|null|null|
 |**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282v1](http://arxiv.org/abs/2503.18282v1)|null|null|
