@@ -4,7 +4,7 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2025.03.27
+### Updated on 2025.03.28
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -14,7 +14,7 @@ layout: default
 |**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|null|null|
 |**2025-03-24**|**Context-Enhanced Memory-Refined Transformer for Online Action Detection**|Zhanzhong Pang et.al.|[2503.18359v1](http://arxiv.org/abs/2503.18359v1)|null|null|
 |**2025-03-24**|**Cost-Sensitive Learning for Long-Tailed Temporal Action Segmentation**|Zhanzhong Pang et.al.|[2503.18358v1](http://arxiv.org/abs/2503.18358v1)|null|null|
-|**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|null|null|
+|**2025-03-27**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v2](http://arxiv.org/abs/2503.17132v2)|null|null|
 |**2025-03-21**|**Temporal Action Detection Model Compression by Progressive Block Drop**|Xiaoyong Chen et.al.|[2503.16916v1](http://arxiv.org/abs/2503.16916v1)|null|null|
 |**2025-03-21**|**Joint Self-Supervised Video Alignment and Action Segmentation**|Ali Shah Ali et.al.|[2503.16832v1](http://arxiv.org/abs/2503.16832v1)|null|null|
 |**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546v1](http://arxiv.org/abs/2503.16546v1)|null|null|
