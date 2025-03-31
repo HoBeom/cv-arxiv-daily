@@ -14,13 +14,13 @@ layout: default
 |**2025-03-27**|**RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond**|Daniel Bermuth et.al.|[2503.21692v1](http://arxiv.org/abs/2503.21692v1)|null|null|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|null|null|
 |**2025-03-27**|**Lidar-only Odometry based on Multiple Scan-to-Scan Alignments over a Moving Window**|Aaron Kurda et.al.|[2503.21293v1](http://arxiv.org/abs/2503.21293v1)|null|null|
-|**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140v1](http://arxiv.org/abs/2503.21140v1)|[link](https://github.com/chenbys/fmmp)|null|
+|**2025-03-27**|**Recurrent Feature Mining and Keypoint Mixup Padding for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2503.21140v1](http://arxiv.org/abs/2503.21140v1)|[link](https://github.com/chenbys/fmmp)|**[link](https://github.com/chenbys/fmmp)**|
 |**2025-03-26**|**Incremental Object Keypoint Learning**|Mingfu Liang et.al.|[2503.20248v1](http://arxiv.org/abs/2503.20248v1)|null|null|
 |**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220v1](http://arxiv.org/abs/2503.20220v1)|null|null|
 |**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118v1](http://arxiv.org/abs/2503.20118v1)|null|null|
 |**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947v1](http://arxiv.org/abs/2503.19947v1)|null|null|
 |**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|null|null|
-|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|null|null|
+|**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|**[link](https://github.com/xieyuser/semi-sd)**|null|
 |**2025-03-25**|**DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios**|Xiangting Meng et.al.|[2503.19625v1](http://arxiv.org/abs/2503.19625v1)|null|null|
 |**2025-03-25**|**Pose-Based Fall Detection System: Efficient Monitoring on Standard CPUs**|Vinayak Mali et.al.|[2503.19501v1](http://arxiv.org/abs/2503.19501v1)|null|null|
 |**2025-03-25**|**Multi-modal 3D Pose and Shape Estimation with Computed Tomography**|Mingxiao Tu et.al.|[2503.19405v1](http://arxiv.org/abs/2503.19405v1)|null|null|
@@ -36,18 +36,18 @@ layout: default
 |**2025-03-21**|**Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors**|Wonbong Jang et.al.|[2503.17316v1](http://arxiv.org/abs/2503.17316v1)|null|null|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592v1](http://arxiv.org/abs/2503.16592v1)|null|null|
 |**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546v1](http://arxiv.org/abs/2503.16546v1)|null|null|
-|**2025-03-20**|**Probabilistic Prompt Distribution Learning for Animal Pose Estimation**|Jiyong Rao et.al.|[2503.16120v1](http://arxiv.org/abs/2503.16120v1)|[link](https://github.com/raojiyong/ppap)|null|
-|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997v1](http://arxiv.org/abs/2503.15997v1)|[link](https://github.com/PaulSK98/Nerf2Dataset)|null|
+|**2025-03-20**|**Probabilistic Prompt Distribution Learning for Animal Pose Estimation**|Jiyong Rao et.al.|[2503.16120v1](http://arxiv.org/abs/2503.16120v1)|[link](https://github.com/raojiyong/ppap)|**[link](https://github.com/raojiyong/ppap)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997v1](http://arxiv.org/abs/2503.15997v1)|[link](https://github.com/PaulSK98/Nerf2Dataset)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
 |**2025-03-20**|**Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras**|Beilei Cui et.al.|[2503.15917v1](http://arxiv.org/abs/2503.15917v1)|null|null|
-|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284v1](http://arxiv.org/abs/2503.15284v1)|null|null|
-|**2025-03-20**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|[link](https://github.com/ziqin-h/givepose)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284v1](http://arxiv.org/abs/2503.15284v1)|**[link](https://github.com/esrschao/edgeregnet)**|null|
+|**2025-03-20**|**GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation**|Zinqin Huang et.al.|[2503.15110v2](http://arxiv.org/abs/2503.15110v2)|[link](https://github.com/ziqin-h/givepose)|**[link](https://github.com/ziqin-h/givepose)**|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106v2](http://arxiv.org/abs/2503.15106v2)|null|null|
 |**2025-03-18**|**Validation of Human Pose Estimation and Human Mesh Recovery for Extracting Clinically Relevant Motion Data from Videos**|Kai Armstrong et.al.|[2503.14760v1](http://arxiv.org/abs/2503.14760v1)|null|null|
 |**2025-03-18**|**SIR-DIFF: Sparse Image Sets Restoration with Multi-View Diffusion Model**|Yucheng Mao et.al.|[2503.14463v1](http://arxiv.org/abs/2503.14463v1)|null|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097v1](http://arxiv.org/abs/2503.14097v1)|null|null|
 |**2025-03-18**|**Foundation Feature-Driven Online End-Effector Pose Estimation: A Marker-Free and Learning-Free Approach**|Tianshu Wu et.al.|[2503.14051v1](http://arxiv.org/abs/2503.14051v1)|null|null|
 |**2025-03-19**|**Learning Shape-Independent Transformation via Spherical Representations for Category-Level Object Pose Estimation**|Huan Ren et.al.|[2503.13926v2](http://arxiv.org/abs/2503.13926v2)|null|null|
-|**2025-03-20**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|null|null|
+|**2025-03-20**|**STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans**|Shashikant Verma et.al.|[2503.13344v2](http://arxiv.org/abs/2503.13344v2)|**[link](https://github.com/shash29-dev/STEP)**|null|
 |**2025-03-17**|**UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation**|Yinqiao Wang et.al.|[2503.13303v1](http://arxiv.org/abs/2503.13303v1)|null|null|
 |**2025-03-17**|**Uncertainty-Aware Knowledge Distillation for Compact and Efficient 6DoF Pose Estimation**|Nassim Ali Ousalah et.al.|[2503.13053v1](http://arxiv.org/abs/2503.13053v1)|null|null|
 |**2025-03-17**|**PoseSyn: Synthesizing Diverse 3D Pose Data from In-the-Wild 2D Data**|ChangHee Yang et.al.|[2503.13025v1](http://arxiv.org/abs/2503.13025v1)|null|null|
@@ -57,7 +57,7 @@ layout: default
 |**2025-03-14**|**Online Test-time Adaptation for 3D Human Pose Estimation: A Practical Perspective with Estimated 2D Poses**|Qiuxia Lin et.al.|[2503.11194v1](http://arxiv.org/abs/2503.11194v1)|null|null|
 |**2025-03-14**|**Fast and Robust Localization for Humanoid Soccer Robot via Iterative Landmark Matching**|Ruochen Hou et.al.|[2503.11020v1](http://arxiv.org/abs/2503.11020v1)|null|null|
 |**2025-03-13**|**Clothes-Changing Person Re-identification Based On Skeleton Dynamics**|Asaf Joseph et.al.|[2503.10759v1](http://arxiv.org/abs/2503.10759v1)|null|null|
-|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**[link](https://github.com/mperneel/Kantool)**|null|
+|**2025-03-13**|**Consistent multi-animal pose estimation in cattle using dynamic Kalman filter based tracking**|Maarten Perneel et.al.|[2503.10450v1](http://arxiv.org/abs/2503.10450v1)|**[link](https://github.com/mperneel/Kantool)**|**[link](https://github.com/mperneel/Kantool)**|
 |**2025-03-13**|**6D Object Pose Tracking in Internet Videos for Robotic Manipulation**|Georgy Ponimatkin et.al.|[2503.10307v1](http://arxiv.org/abs/2503.10307v1)|null|null|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286v1](http://arxiv.org/abs/2503.10286v1)|null|null|
 |**2025-03-12**|**Physics-Aware Human-Object Rendering from Sparse Views via 3D Gaussian Splatting**|Weiquan Wang et.al.|[2503.09640v1](http://arxiv.org/abs/2503.09640v1)|null|null|
@@ -69,7 +69,7 @@ layout: default
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|null|null|
 |**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016v1](http://arxiv.org/abs/2503.08016v1)|null|null|
 |**2025-03-10**|**Better Pose Initialization for Fast and Robust 2D/3D Pelvis Registration**|Yehyun Suh et.al.|[2503.07767v1](http://arxiv.org/abs/2503.07767v1)|null|null|
-|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597v1](http://arxiv.org/abs/2503.07597v1)|null|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597v1](http://arxiv.org/abs/2503.07597v1)|**[link](https://github.com/zhangyuhong01/HumanMM-code)**|null|
 |**2025-03-11**|**AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements**|Calvin Yeung et.al.|[2503.07499v2](http://arxiv.org/abs/2503.07499v2)|**[link](https://github.com/calvinyeungck/athletepose3d)**|**[link](https://github.com/calvinyeungck/athletepose3d)**|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|[link](https://github.com/MacavityT/REF-VLM)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**[link](https://github.com/parskatt/dad)**|**[link](https://github.com/parskatt/dad)**|
@@ -126,7 +126,7 @@ layout: default
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v1](http://arxiv.org/abs/2502.16495v1)|null|null|
 |**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419v1](http://arxiv.org/abs/2502.16419v1)|[link](https://github.com/wujinhuan/depropose)|**[link](https://github.com/wujinhuan/depropose)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|null|
-|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251v1](http://arxiv.org/abs/2502.15251v1)|**[link](https://github.com/ut-vision/simhand)**|null|
+|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251v1](http://arxiv.org/abs/2502.15251v1)|**[link](https://github.com/ut-vision/simhand)**|**[link](https://github.com/ut-vision/simhand)**|
 |**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179v1](http://arxiv.org/abs/2502.15179v1)|null|null|
 |**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|null|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|null|
@@ -180,7 +180,7 @@ layout: default
 |**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439v1](http://arxiv.org/abs/2501.14439v1)|null|null|
 |**2025-01-24**|**Causal-Inspired Multitask Learning for Video-Based Human Pose Estimation**|Haipeng Chen et.al.|[2501.14356v1](http://arxiv.org/abs/2501.14356v1)|null|null|
 |**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|null|
-|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|**[link](https://github.com/facebookresearch/fast3r)**|null|
+|**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928v1](http://arxiv.org/abs/2501.13928v1)|**[link](https://github.com/facebookresearch/fast3r)**|**[link](https://github.com/facebookresearch/fast3r)**|
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805v1](http://arxiv.org/abs/2501.13805v1)|[link](https://github.com/whisperyi/mmvr)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|null|
 |**2025-01-22**|**Deep Learning-Based Image Recovery and Pose Estimation for Resident Space Objects**|Louis Aberdeen et.al.|[2501.13009v1](http://arxiv.org/abs/2501.13009v1)|null|null|
