@@ -4,14 +4,14 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2025.03.31
+### Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363v1](http://arxiv.org/abs/2503.22363v1)|null|null|
 |**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349v1](http://arxiv.org/abs/2503.22349v1)|null|null|
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958v1](http://arxiv.org/abs/2503.21958v1)|null|null|
-|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|null|null|
+|**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|[link](https://github.com/Davidyao99/uni4d)|null|
 |**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|null|null|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|null|null|
 |**2025-03-27**|**RapidPoseTriangulation: Multi-view Multi-person Whole-body Human Pose Triangulation in a Millisecond**|Daniel Bermuth et.al.|[2503.21692v1](http://arxiv.org/abs/2503.21692v1)|null|null|

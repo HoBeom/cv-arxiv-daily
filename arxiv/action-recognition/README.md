@@ -1,13 +1,13 @@
 ## Action Recognition
 
-### Updated on 2025.03.31
+### Updated on 2025.04.01
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363v1](http://arxiv.org/abs/2503.22363v1)|null|null|
 |**2025-03-27**|**What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning**|Chi-Hsi Kung et.al.|[2503.21055v1](http://arxiv.org/abs/2503.21055v1)|null|null|
 |**2025-03-26**|**Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**|Muxin Pu et.al.|[2503.20436v1](http://arxiv.org/abs/2503.20436v1)|null|null|
-|**2025-03-25**|**Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings**|Chengan Che et.al.|[2503.19740v1](http://arxiv.org/abs/2503.19740v1)|null|null|
+|**2025-03-25**|**Surg-3M: A Dataset and Foundation Model for Perception in Surgical Settings**|Chengan Che et.al.|[2503.19740v1](http://arxiv.org/abs/2503.19740v1)|[link](https://github.com/visurg-ai/surg-3m)|null|
 |**2025-03-25**|**fine-CLIP: Enhancing Zero-Shot Fine-Grained Surgical Action Recognition with Vision-Language Models**|Saurav Sharma et.al.|[2503.19670v1](http://arxiv.org/abs/2503.19670v1)|null|null|
 |**2025-03-24**|**LLaVAction: evaluating and training multi-modal large language models for action recognition**|Shaokai Ye et.al.|[2503.18712v1](http://arxiv.org/abs/2503.18712v1)|[link](https://github.com/adaptivemotorcontrollab/llavaction)|null|
 |**2025-03-24**|**Context-Enhanced Memory-Refined Transformer for Online Action Detection**|Zhanzhong Pang et.al.|[2503.18359v1](http://arxiv.org/abs/2503.18359v1)|[link](https://github.com/pangzhan27/CMeRT)|null|
