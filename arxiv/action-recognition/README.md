@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-03-30**|**CA^2ST: Cross-Attention in Audio, Space, and Time for Holistic Video Recognition**|Jongseo Lee et.al.|[2503.23447v1](http://arxiv.org/abs/2503.23447v1)|null|null|
+|**2025-03-30**|**OwlSight: A Robust Illumination Adaptation Framework for Dark Video Human Action Recognition**|Shihao Cheng et.al.|[2503.23266v1](http://arxiv.org/abs/2503.23266v1)|null|null|
+|**2025-03-29**|**Action Recognition in Real-World Ambient Assisted Living Environment**|Vincent Gbouna Zakka et.al.|[2503.23214v1](http://arxiv.org/abs/2503.23214v1)|[link](https://github.com/Gbouna/RE-TCN)|null|
 |**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363v1](http://arxiv.org/abs/2503.22363v1)|null|null|
 |**2025-03-27**|**What Changed and What Could Have Changed? State-Change Counterfactuals for Procedure-Aware Video Representation Learning**|Chi-Hsi Kung et.al.|[2503.21055v1](http://arxiv.org/abs/2503.21055v1)|null|null|
 |**2025-03-26**|**Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**|Muxin Pu et.al.|[2503.20436v1](http://arxiv.org/abs/2503.20436v1)|null|null|
