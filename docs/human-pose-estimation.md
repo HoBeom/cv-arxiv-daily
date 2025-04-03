@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|null|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|null|null|
+|**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394v1](http://arxiv.org/abs/2504.00394v1)|null|null|
+|**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|null|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|[link](https://github.com/inception3d/easi3r)|null|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664v1](http://arxiv.org/abs/2503.23664v1)|null|null|
 |**2025-03-30**|**PhysPose: Refining 6D Object Poses with Physical Constraints**|Martin Malenický et.al.|[2503.23587v1](http://arxiv.org/abs/2503.23587v1)|null|null|

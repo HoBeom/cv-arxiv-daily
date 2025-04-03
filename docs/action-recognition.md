@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890v1](http://arxiv.org/abs/2504.01890v1)|null|null|
+|**2025-04-01**|**FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection**|Xinnan Zhu et.al.|[2504.00647v1](http://arxiv.org/abs/2504.00647v1)|null|null|
+|**2025-04-01**|**Sample-level Adaptive Knowledge Distillation for Action Recognition**|Ping Li et.al.|[2504.00606v1](http://arxiv.org/abs/2504.00606v1)|null|null|
 |**2025-03-30**|**CA^2ST: Cross-Attention in Audio, Space, and Time for Holistic Video Recognition**|Jongseo Lee et.al.|[2503.23447v1](http://arxiv.org/abs/2503.23447v1)|null|null|
 |**2025-03-30**|**OwlSight: A Robust Illumination Adaptation Framework for Dark Video Human Action Recognition**|Shihao Cheng et.al.|[2503.23266v1](http://arxiv.org/abs/2503.23266v1)|null|null|
 |**2025-03-29**|**Action Recognition in Real-World Ambient Assisted Living Environment**|Vincent Gbouna Zakka et.al.|[2503.23214v1](http://arxiv.org/abs/2503.23214v1)|[link](https://github.com/Gbouna/RE-TCN)|null|
