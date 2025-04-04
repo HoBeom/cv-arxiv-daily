@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
+|**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|null|null|
+|**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v1](http://arxiv.org/abs/2504.02279v1)|null|null|
+|**2025-04-02**|**LSC-ADL: An Activity of Daily Living (ADL)-Annotated Lifelog Dataset Generated via Semi-Automatic Clustering**|Minh-Quan Ho-Le et.al.|[2504.02060v1](http://arxiv.org/abs/2504.02060v1)|null|null|
 |**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890v1](http://arxiv.org/abs/2504.01890v1)|null|null|
 |**2025-04-01**|**FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection**|Xinnan Zhu et.al.|[2504.00647v1](http://arxiv.org/abs/2504.00647v1)|null|null|
 |**2025-04-01**|**Sample-level Adaptive Knowledge Distillation for Action Recognition**|Ping Li et.al.|[2504.00606v1](http://arxiv.org/abs/2504.00606v1)|null|null|
