@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|null|null|
 |**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|null|null|
 |**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v1](http://arxiv.org/abs/2504.02279v1)|null|null|

@@ -8,10 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602v1](http://arxiv.org/abs/2504.03602v1)|null|null|
+|**2025-04-04**|**Learning Dual-Arm Coordination for Grasping Large Flat Objects**|Yongliang Wang et.al.|[2504.03500v1](http://arxiv.org/abs/2504.03500v1)|null|null|
+|**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198v1](http://arxiv.org/abs/2504.03198v1)|null|null|
+|**2025-04-03**|**Cooperative Inference for Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks**|Hyun-Ho Choi et.al.|[2504.03052v1](http://arxiv.org/abs/2504.03052v1)|null|null|
 |**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|null|
 |**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|null|null|
-|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|[link](https://github.com/bigrayss/motion2vec)|**[link](https://github.com/bigrayss/motion2vec)**|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
+|**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|[link](https://github.com/bigrayss/motion2vec)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|[link](https://github.com/aerialroboticsgroup/forest-vo)|null|
 |**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394v1](http://arxiv.org/abs/2504.00394v1)|null|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|null|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|[link](https://github.com/inception3d/easi3r)|**[link](https://github.com/inception3d/easi3r)**|
