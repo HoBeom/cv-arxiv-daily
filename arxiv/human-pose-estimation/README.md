@@ -8,12 +8,12 @@
 |**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|null|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|null|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|[link](https://github.com/SeungBack/graspclutter6dAPI)|null|
-|**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677v1](http://arxiv.org/abs/2504.06677v1)|null|null|
+|**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677v1](http://arxiv.org/abs/2504.06677v1)|[link](https://github.com/alexandrebanks6/dv-stear_public)|null|
 |**2025-04-09**|**HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network**|Hu Cui et.al.|[2504.06638v1](http://arxiv.org/abs/2504.06638v1)|null|null|
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789v1](http://arxiv.org/abs/2504.05789v1)|null|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727v1](http://arxiv.org/abs/2504.05727v1)|[link](https://github.com/HopeYless/SAP-CoPE-Project)|null|
-|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|null|null|
-|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|null|null|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|[link](https://github.com/wyddmw/pomato)|null|
+|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|[link](https://github.com/stilcrad/denseaffine)|null|
 |**2025-04-10**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v2](http://arxiv.org/abs/2504.04445v2)|null|null|
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294v1](http://arxiv.org/abs/2504.04294v1)|null|null|
 |**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602v1](http://arxiv.org/abs/2504.03602v1)|null|null|

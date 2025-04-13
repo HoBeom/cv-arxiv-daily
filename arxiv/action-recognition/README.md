@@ -11,7 +11,7 @@
 |**2025-04-08**|**SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning**|Fida Mohammad Thoker et.al.|[2504.05706v1](http://arxiv.org/abs/2504.05706v1)|null|null|
 |**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|null|null|
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535v1](http://arxiv.org/abs/2504.04535v1)|null|null|
-|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|null|null|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|null|
 |**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|null|null|
 |**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v2](http://arxiv.org/abs/2504.02279v2)|null|null|
