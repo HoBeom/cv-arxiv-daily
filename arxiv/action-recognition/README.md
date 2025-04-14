@@ -11,10 +11,10 @@
 |**2025-04-08**|**SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning**|Fida Mohammad Thoker et.al.|[2504.05706v1](http://arxiv.org/abs/2504.05706v1)|null|null|
 |**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|null|null|
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535v1](http://arxiv.org/abs/2504.04535v1)|null|null|
-|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|null|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|**[link](https://github.com/siatheindochinese/sia_act)**|
 |**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|null|null|
-|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v2](http://arxiv.org/abs/2504.02279v2)|null|null|
+|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v2](http://arxiv.org/abs/2504.02279v2)|**[link](https://github.com/thanhhff/multitsf)**|null|
 |**2025-04-02**|**LSC-ADL: An Activity of Daily Living (ADL)-Annotated Lifelog Dataset Generated via Semi-Automatic Clustering**|Minh-Quan Ho-Le et.al.|[2504.02060v1](http://arxiv.org/abs/2504.02060v1)|null|null|
 |**2025-04-07**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890v2](http://arxiv.org/abs/2504.01890v2)|null|null|
 |**2025-04-01**|**FDDet: Frequency-Decoupling for Boundary Refinement in Temporal Action Detection**|Xinnan Zhu et.al.|[2504.00647v1](http://arxiv.org/abs/2504.00647v1)|null|null|
@@ -155,7 +155,7 @@
 |**2024-12-02**|**Towards Universal Soccer Video Understanding**|Jiayuan Rao et.al.|[2412.01820v1](http://arxiv.org/abs/2412.01820v1)|[link](https://github.com/jyrao/UniSoccer)|**[link](https://github.com/jyrao/UniSoccer)**|
 |**2024-12-02**|**EdgeOAR: Real-time Online Action Recognition On Edge Devices**|Wei Luo et.al.|[2412.01267v1](http://arxiv.org/abs/2412.01267v1)|null|null|
 |**2024-11-29**|**SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders**|Niki Martinel et.al.|[2411.19544v1](http://arxiv.org/abs/2411.19544v1)|null|null|
-|**2024-11-28**|**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**|Yilong Wang et.al.|[2411.19041v1](http://arxiv.org/abs/2411.19041v1)|**[link](https://github.com/TJU-YDragonW/TAMT)**|null|
+|**2024-11-28**|**TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition**|Yilong Wang et.al.|[2411.19041v1](http://arxiv.org/abs/2411.19041v1)|**[link](https://github.com/TJU-YDragonW/TAMT)**|**[link](https://github.com/TJU-YDragonW/TAMT)**|
 |**2024-11-28**|**Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2411.18941v1](http://arxiv.org/abs/2411.18941v1)|[link](https://github.com/firework8/ProtoGCN)|**[link](https://github.com/firework8/ProtoGCN)**|
 |**2024-11-27**|**EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond**|Meiqi Cao et.al.|[2411.18328v1](http://arxiv.org/abs/2411.18328v1)|null|null|
 |**2024-11-27**|**An End-to-End Two-Stream Network Based on RGB Flow and Representation Flow for Human Action Recognition**|Song-Jiang Lai et.al.|[2411.18002v1](http://arxiv.org/abs/2411.18002v1)|null|null|
