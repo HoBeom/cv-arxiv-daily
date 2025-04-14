@@ -4,10 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654v1](http://arxiv.org/abs/2504.08654v1)|null|null|
+|**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646v1](http://arxiv.org/abs/2504.08646v1)|null|null|
+|**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588v1](http://arxiv.org/abs/2504.08588v1)|null|null|
+|**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252v1](http://arxiv.org/abs/2504.08252v1)|null|null|
+|**2025-04-11**|**Multi-person Physics-based Pose Estimation for Combat Sports**|Hossein Feiz et.al.|[2504.08175v1](http://arxiv.org/abs/2504.08175v1)|null|null|
+|**2025-04-10**|**Towards Unconstrained 2D Pose Estimation of the Human Spine**|Muhammad Saif Ullah Khan et.al.|[2504.08110v1](http://arxiv.org/abs/2504.08110v1)|null|null|
 |**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|null|null|
 |**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|null|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|null|null|
-|**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|[link](https://github.com/SeungBack/graspclutter6dAPI)|**[link](https://github.com/SeungBack/graspclutter6dAPI)**|
+|**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|[link](https://github.com/SeungBack/graspclutter6dAPI)|null|
 |**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677v1](http://arxiv.org/abs/2504.06677v1)|[link](https://github.com/alexandrebanks6/dv-stear_public)|**[link](https://github.com/alexandrebanks6/dv-stear_public)**|
 |**2025-04-09**|**HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network**|Hu Cui et.al.|[2504.06638v1](http://arxiv.org/abs/2504.06638v1)|null|null|
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789v1](http://arxiv.org/abs/2504.05789v1)|null|null|

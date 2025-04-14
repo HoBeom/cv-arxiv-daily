@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578v1](http://arxiv.org/abs/2504.08578v1)|null|null|
 |**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785v1](http://arxiv.org/abs/2504.07785v1)|null|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001v1](http://arxiv.org/abs/2504.07001v1)|null|null|
 |**2025-04-09**|**Exploring Ordinal Bias in Action Recognition for Instructional Videos**|Joochan Kim et.al.|[2504.06580v1](http://arxiv.org/abs/2504.06580v1)|null|null|
@@ -11,7 +12,7 @@
 |**2025-04-08**|**SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning**|Fida Mohammad Thoker et.al.|[2504.05706v1](http://arxiv.org/abs/2504.05706v1)|null|null|
 |**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|null|null|
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535v1](http://arxiv.org/abs/2504.04535v1)|null|null|
-|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|**[link](https://github.com/siatheindochinese/sia_act)**|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|null|
 |**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|null|null|
 |**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v2](http://arxiv.org/abs/2504.02279v2)|**[link](https://github.com/thanhhff/multitsf)**|null|
