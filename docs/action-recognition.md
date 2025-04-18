@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|null|null|
 |**2025-04-16**|**SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation**|Zongye Zhang et.al.|[2504.11749v1](http://arxiv.org/abs/2504.11749v1)|null|null|
 |**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676v1](http://arxiv.org/abs/2504.10676v1)|null|null|
 |**2025-04-14**|**Hierarchical Relation-augmented Representation Generalization for Few-shot Action Recognition**|Hongyu Qu et.al.|[2504.10079v1](http://arxiv.org/abs/2504.10079v1)|null|null|
