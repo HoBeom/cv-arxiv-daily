@@ -1,6 +1,6 @@
 ## Human Pose Estimation
 
-### Updated on 2025.04.22
+### Updated on 2025.04.23
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
