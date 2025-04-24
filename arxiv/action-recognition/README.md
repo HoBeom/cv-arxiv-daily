@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655v1](http://arxiv.org/abs/2504.16655v1)|null|null|
 |**2025-04-21**|**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**|Ziyi Liu et.al.|[2504.14860v1](http://arxiv.org/abs/2504.14860v1)|null|null|
 |**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621v2](http://arxiv.org/abs/2504.14621v2)|[link](https://github.com/yangzhenkui/witalk)|null|
 |**2025-04-20**|**Grounding-MD: Grounded Video-language Pre-training for Open-World Moment Detection**|Weijun Zhuang et.al.|[2504.14553v1](http://arxiv.org/abs/2504.14553v1)|null|null|
