@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2025.04.23
+### Updated on 2025.04.24
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 |**2025-04-20**|**Grounding-MD: Grounded Video-language Pre-training for Open-World Moment Detection**|Weijun Zhuang et.al.|[2504.14553v1](http://arxiv.org/abs/2504.14553v1)|null|null|
 |**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301v1](http://arxiv.org/abs/2504.14301v1)|null|null|
 |**2025-04-18**|**Are you SURE? Enhancing Multimodal Pretraining with Missing Modalities through Uncertainty Estimation**|Duy A. Nguyen et.al.|[2504.13465v1](http://arxiv.org/abs/2504.13465v1)|null|null|
-|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v1](http://arxiv.org/abs/2504.13460v1)|null|null|
+|**2025-04-23**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v2](http://arxiv.org/abs/2504.13460v2)|null|null|
 |**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|null|null|
 |**2025-04-16**|**SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation**|Zongye Zhang et.al.|[2504.11749v1](http://arxiv.org/abs/2504.11749v1)|[link](https://github.com/zzysteve/skeletonx)|null|
 |**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676v1](http://arxiv.org/abs/2504.10676v1)|null|null|
