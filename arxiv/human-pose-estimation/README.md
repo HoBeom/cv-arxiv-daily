@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716v1](http://arxiv.org/abs/2504.19716v1)|null|null|
+|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|null|
+|**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|null|
+|**2025-04-28**|**Category-Level and Open-Set Object Pose Estimation for Robotics**|Peter Hönig et.al.|[2504.19572v1](http://arxiv.org/abs/2504.19572v1)|null|null|
+|**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032v1](http://arxiv.org/abs/2504.19032v1)|null|null|
+|**2025-04-25**|**Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift**|Devansh R. Agrawal et.al.|[2504.18713v1](http://arxiv.org/abs/2504.18713v1)|null|null|
 |**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332v1](http://arxiv.org/abs/2504.18332v1)|null|null|
 |**2025-04-25**|**S3MOT: Monocular 3D Object Tracking with Selective State Space Model**|Zhuohao Yan et.al.|[2504.18068v1](http://arxiv.org/abs/2504.18068v1)|null|null|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788v1](http://arxiv.org/abs/2504.17788v1)|null|null|

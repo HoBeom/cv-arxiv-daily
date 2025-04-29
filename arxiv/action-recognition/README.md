@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041v1](http://arxiv.org/abs/2504.20041v1)|null|null|
+|**2025-04-28**|**FSBench: A Figure Skating Benchmark for Advancing Artistic Sports Understanding**|Rong Gao et.al.|[2504.19514v1](http://arxiv.org/abs/2504.19514v1)|null|null|
+|**2025-04-26**|**3DPyranet Features Fusion for Spatio-temporal Feature Learning**|Ihsan Ullah et.al.|[2504.18977v1](http://arxiv.org/abs/2504.18977v1)|null|null|
+|**2025-04-26**|**Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos**|Rezowan Shuvo et.al.|[2504.18756v1](http://arxiv.org/abs/2504.18756v1)|null|null|
+|**2025-04-25**|**M2R2: MulitModal Robotic Representation for Temporal Action Segmentation**|Daniel Sliwowski et.al.|[2504.18662v1](http://arxiv.org/abs/2504.18662v1)|null|null|
 |**2025-04-25**|**POET: Prompt Offset Tuning for Continual Human Action Adaptation**|Prachi Garg et.al.|[2504.18059v1](http://arxiv.org/abs/2504.18059v1)|null|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655v1](http://arxiv.org/abs/2504.16655v1)|null|null|
 |**2025-04-21**|**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**|Ziyi Liu et.al.|[2504.14860v1](http://arxiv.org/abs/2504.14860v1)|null|null|
