@@ -583,7 +583,7 @@ layout: default
 |**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933v1](http://arxiv.org/abs/2409.07933v1)|null|null|
 |**2024-09-12**|**GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**|Liang Feng et.al.|[2409.07798v1](http://arxiv.org/abs/2409.07798v1)|null|null|
 |**2024-09-12**|**GatedUniPose: A Novel Approach for Pose Estimation Combining UniRepLKNet and Gated Convolution**|Liang Feng et.al.|[2409.07752v1](http://arxiv.org/abs/2409.07752v1)|null|null|
-|**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571v1](http://arxiv.org/abs/2409.07571v1)|**[link](https://github.com/utiasSTARS/FaVoR)**|null|
+|**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571v1](http://arxiv.org/abs/2409.07571v1)|**[link](https://github.com/utiasSTARS/FaVoR)**|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**Benchmarking 2D Egocentric Hand Pose Datasets**|Olga Taran et.al.|[2409.07337v1](http://arxiv.org/abs/2409.07337v1)|null|null|
 |**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|[link](https://github.com/unsigned-long/ikalibr)|**[link](https://github.com/unsigned-long/ikalibr)**|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|null|
@@ -595,7 +595,7 @@ layout: default
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413v1](http://arxiv.org/abs/2409.05413v1)|null|null|
 |**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006v1](http://arxiv.org/abs/2409.05006v1)|null|null|
 |**2024-09-06**|**Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands**|Yotam Erel et.al.|[2409.04397v1](http://arxiv.org/abs/2409.04397v1)|null|null|
-|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|**[link](https://github.com/prosperolo/gst)**|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|**[link](https://github.com/prosperolo/gst)**|**[link](https://github.com/prosperolo/gst)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|null|
 |**2024-09-06**|**Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics**|Woojin Cho et.al.|[2409.04033v1](http://arxiv.org/abs/2409.04033v1)|null|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998v1](http://arxiv.org/abs/2409.03998v1)|null|null|

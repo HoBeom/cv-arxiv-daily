@@ -15,13 +15,13 @@
 |**2025-04-25**|**POET: Prompt Offset Tuning for Continual Human Action Adaptation**|Prachi Garg et.al.|[2504.18059v1](http://arxiv.org/abs/2504.18059v1)|null|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655v1](http://arxiv.org/abs/2504.16655v1)|null|null|
 |**2025-04-21**|**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**|Ziyi Liu et.al.|[2504.14860v1](http://arxiv.org/abs/2504.14860v1)|null|null|
-|**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621v2](http://arxiv.org/abs/2504.14621v2)|[link](https://github.com/yangzhenkui/witalk)|null|
+|**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621v2](http://arxiv.org/abs/2504.14621v2)|[link](https://github.com/yangzhenkui/witalk)|**[link](https://github.com/yangzhenkui/witalk)**|
 |**2025-04-20**|**Grounding-MD: Grounded Video-language Pre-training for Open-World Moment Detection**|Weijun Zhuang et.al.|[2504.14553v1](http://arxiv.org/abs/2504.14553v1)|null|null|
 |**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301v1](http://arxiv.org/abs/2504.14301v1)|null|null|
 |**2025-04-18**|**Are you SURE? Enhancing Multimodal Pretraining with Missing Modalities through Uncertainty Estimation**|Duy A. Nguyen et.al.|[2504.13465v1](http://arxiv.org/abs/2504.13465v1)|null|null|
 |**2025-04-23**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Hongwei Ji et.al.|[2504.13460v2](http://arxiv.org/abs/2504.13460v2)|null|null|
 |**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140v1](http://arxiv.org/abs/2504.13140v1)|null|null|
-|**2025-04-16**|**SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation**|Zongye Zhang et.al.|[2504.11749v1](http://arxiv.org/abs/2504.11749v1)|[link](https://github.com/zzysteve/skeletonx)|null|
+|**2025-04-16**|**SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation**|Zongye Zhang et.al.|[2504.11749v1](http://arxiv.org/abs/2504.11749v1)|[link](https://github.com/zzysteve/skeletonx)|**[link](https://github.com/zzysteve/skeletonx)**|
 |**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676v1](http://arxiv.org/abs/2504.10676v1)|null|null|
 |**2025-04-14**|**Hierarchical Relation-augmented Representation Generalization for Few-shot Action Recognition**|Hongyu Qu et.al.|[2504.10079v1](http://arxiv.org/abs/2504.10079v1)|null|null|
 |**2025-04-11**|**Knowledge Distillation for Multimodal Egocentric Action Recognition Robust to Missing Modalities**|Maria Santos-Villafranca et.al.|[2504.08578v1](http://arxiv.org/abs/2504.08578v1)|null|null|
