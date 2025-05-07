@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-05-06**|**Polar Coordinate-Based 2D Pose Prior with Neural Distance Field**|Qi Gan et.al.|[2505.03445v1](http://arxiv.org/abs/2505.03445v1)|null|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|null|null|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315v1](http://arxiv.org/abs/2505.03315v1)|null|null|
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|null|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|null|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|null|null|
