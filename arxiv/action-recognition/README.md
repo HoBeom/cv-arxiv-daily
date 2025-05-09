@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793v1](http://arxiv.org/abs/2505.04793v1)|null|null|
 |**2025-05-06**|**Action Spotting and Precise Event Detection in Sports: Datasets, Methods, and Challenges**|Hao Xu et.al.|[2505.03991v1](http://arxiv.org/abs/2505.03991v1)|null|null|
 |**2025-05-05**|**Sensing Framework Design and Performance Optimization with Action Detection for ISCC**|Weiwei Chen et.al.|[2505.02554v1](http://arxiv.org/abs/2505.02554v1)|null|null|
 |**2025-04-30**|**Direct Motion Models for Assessing Generated Videos**|Kelsey Allen et.al.|[2505.00209v1](http://arxiv.org/abs/2505.00209v1)|null|null|
