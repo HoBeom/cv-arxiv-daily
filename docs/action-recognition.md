@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-10**|**A Short Overview of Multi-Modal Wi-Fi Sensing**|Zijian Zhao et.al.|[2505.06682v1](http://arxiv.org/abs/2505.06682v1)|null|null|
 |**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|null|null|
 |**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711v1](http://arxiv.org/abs/2505.05711v1)|[link](https://github.com/dotori-hj/digit)|null|
 |**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793v1](http://arxiv.org/abs/2505.04793v1)|null|null|

@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306v1](http://arxiv.org/abs/2505.07306v1)|null|null|
+|**2025-05-12**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301v1](http://arxiv.org/abs/2505.07301v1)|null|null|
+|**2025-05-12**|**When Dance Video Archives Challenge Computer Vision**|Philippe Colantoni et.al.|[2505.07249v1](http://arxiv.org/abs/2505.07249v1)|null|null|
+|**2025-05-10**|**CompSLAM: Complementary Hierarchical Multi-Modal Localization and Mapping for Robot Autonomy in Underground Environments**|Shehryar Khattak et.al.|[2505.06483v1](http://arxiv.org/abs/2505.06483v1)|null|null|
+|**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436v1](http://arxiv.org/abs/2505.06436v1)|null|null|
 |**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182v1](http://arxiv.org/abs/2505.06182v1)|null|null|
 |**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|null|
 |**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|null|
