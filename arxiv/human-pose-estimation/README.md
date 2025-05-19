@@ -4,8 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393v1](http://arxiv.org/abs/2505.09393v1)|[link](https://github.com/kk9six/umotion)|**[link](https://github.com/kk9six/umotion)**|
-|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356v1](http://arxiv.org/abs/2505.09356v1)|[link](https://github.com/gt-arc/apr-transformer)|**[link](https://github.com/gt-arc/apr-transformer)**|
+|**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|null|null|
+|**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282v1](http://arxiv.org/abs/2505.11282v1)|null|null|
+|**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888v1](http://arxiv.org/abs/2505.10888v1)|null|null|
+|**2025-05-16**|**RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects**|Jaeguk Kim et.al.|[2505.10841v1](http://arxiv.org/abs/2505.10841v1)|null|null|
+|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393v1](http://arxiv.org/abs/2505.09393v1)|[link](https://github.com/kk9six/umotion)|null|
+|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356v1](http://arxiv.org/abs/2505.09356v1)|[link](https://github.com/gt-arc/apr-transformer)|null|
 |**2025-05-13**|**Real-time Capable Learning-based Visual Tool Pose Correction via Differentiable Simulation**|Shuyuan Yang et.al.|[2505.08875v1](http://arxiv.org/abs/2505.08875v1)|null|null|
 |**2025-05-12**|**Sleep Position Classification using Transfer Learning for Bed-based Pressure Sensors**|Olivier Papillon et.al.|[2505.08111v1](http://arxiv.org/abs/2505.08111v1)|null|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|null|
