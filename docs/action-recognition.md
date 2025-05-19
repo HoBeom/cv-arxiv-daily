@@ -8,12 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858v1](http://arxiv.org/abs/2505.09858v1)|[link](https://gitlab.com/nct_tso_public/surgvgen)|null|
+|**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858v1](http://arxiv.org/abs/2505.09858v1)|[link](https://gitlab.com/nct_tso_public/surgvgen)|**[link](https://gitlab.com/nct_tso_public/surgvgen)**|
 |**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455v1](http://arxiv.org/abs/2505.09455v1)|null|null|
 |**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561v1](http://arxiv.org/abs/2505.08561v1)|null|null|
 |**2025-05-10**|**A Short Overview of Multi-Modal Wi-Fi Sensing**|Zijian Zhao et.al.|[2505.06682v1](http://arxiv.org/abs/2505.06682v1)|null|null|
-|**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|[link](https://github.com/jaulin-bage/task-adapter-pp)|null|
-|**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711v1](http://arxiv.org/abs/2505.05711v1)|[link](https://github.com/dotori-hj/digit)|null|
+|**2025-05-09**|**Task-Adapter++: Task-specific Adaptation with Order-aware Alignment for Few-shot Action Recognition**|Congqi Cao et.al.|[2505.06002v1](http://arxiv.org/abs/2505.06002v1)|[link](https://github.com/jaulin-bage/task-adapter-pp)|**[link](https://github.com/jaulin-bage/task-adapter-pp)**|
+|**2025-05-09**|**DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer**|Ho-Joong Kim et.al.|[2505.05711v1](http://arxiv.org/abs/2505.05711v1)|[link](https://github.com/dotori-hj/digit)|**[link](https://github.com/dotori-hj/digit)**|
 |**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793v1](http://arxiv.org/abs/2505.04793v1)|null|null|
 |**2025-05-06**|**Action Spotting and Precise Event Detection in Sports: Datasets, Methods, and Challenges**|Hao Xu et.al.|[2505.03991v1](http://arxiv.org/abs/2505.03991v1)|null|null|
 |**2025-05-05**|**Sensing Framework Design and Performance Optimization with Action Detection for ISCC**|Weiwei Chen et.al.|[2505.02554v1](http://arxiv.org/abs/2505.02554v1)|null|null|
@@ -47,7 +47,7 @@ layout: default
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535v1](http://arxiv.org/abs/2504.04535v1)|null|null|
 |**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096v1](http://arxiv.org/abs/2504.03096v1)|[link](https://github.com/siatheindochinese/sia_act)|**[link](https://github.com/siatheindochinese/sia_act)**|
 |**2025-04-03**|**Towards Generalizing Temporal Action Segmentation to Unseen Views**|Emad Bahrami et.al.|[2504.02512v1](http://arxiv.org/abs/2504.02512v1)|null|null|
-|**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|**[link](https://github.com/thanhhff/multitsf)**|null|
+|**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287v1](http://arxiv.org/abs/2504.02287v1)|**[link](https://github.com/thanhhff/multitsf)**|**[link](https://github.com/thanhhff/multitsf)**|
 |**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279v2](http://arxiv.org/abs/2504.02279v2)|**[link](https://github.com/thanhhff/multitsf)**|**[link](https://github.com/thanhhff/multitsf)**|
 |**2025-04-02**|**LSC-ADL: An Activity of Daily Living (ADL)-Annotated Lifelog Dataset Generated via Semi-Automatic Clustering**|Minh-Quan Ho-Le et.al.|[2504.02060v1](http://arxiv.org/abs/2504.02060v1)|null|null|
 |**2025-04-07**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890v2](http://arxiv.org/abs/2504.01890v2)|null|null|
