@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|[link](https://github.com/dwawayu/pensieve)|null|
+|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|null|null|
+|**2025-05-19**|**The Way Up: A Dataset for Hold Usage Detection in Sport Climbing**|Anna Maschek et.al.|[2505.12854v1](http://arxiv.org/abs/2505.12854v1)|null|null|
+|**2025-05-18**|**SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving**|Muleilan Pei et.al.|[2505.12246v1](http://arxiv.org/abs/2505.12246v1)|null|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130v1](http://arxiv.org/abs/2505.12130v1)|null|null|
+|**2025-05-17**|**Black-box Adversaries from Latent Space: Unnoticeable Attacks on Human Pose and Shape Estimation**|Zhiying Li et.al.|[2505.12009v1](http://arxiv.org/abs/2505.12009v1)|null|null|
+|**2025-05-17**|**ElderFallGuard: Real-Time IoT and Computer Vision-Based Fall Detection System for Elderly Safety**|Tasrifur Riahi et.al.|[2505.11845v1](http://arxiv.org/abs/2505.11845v1)|null|null|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|null|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282v1](http://arxiv.org/abs/2505.11282v1)|null|null|
 |**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888v1](http://arxiv.org/abs/2505.10888v1)|null|null|
