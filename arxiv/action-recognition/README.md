@@ -1,12 +1,14 @@
 ## Action Recognition
 
-### Updated on 2025.05.21
+### Updated on 2025.05.22
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-05-21**|**Mouse Lockbox Dataset: Behavior Recognition for Mice Solving Lockboxes**|Patrik Reiske et.al.|[2505.15408v1](http://arxiv.org/abs/2505.15408v1)|null|null|
+|**2025-05-21**|**Leveraging Foundation Models for Multimodal Graph-Based Action Recognition**|Fatemeh Ziaeetabar et.al.|[2505.15192v1](http://arxiv.org/abs/2505.15192v1)|null|null|
 |**2025-05-20**|**Egocentric Action-aware Inertial Localization in Point Clouds**|Mingfang Zhang et.al.|[2505.14346v1](http://arxiv.org/abs/2505.14346v1)|[link](https://github.com/mf-zhang/ego-inertial-localization)|null|
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860v1](http://arxiv.org/abs/2505.13860v1)|null|null|
-|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679v1](http://arxiv.org/abs/2505.10679v1)|null|null|
+|**2025-05-15**|**Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?**|Jianyang Xie et.al.|[2505.10679v1](http://arxiv.org/abs/2505.10679v1)|[link](https://github.com/davelailai/sparse-st-gcn)|null|
 |**2025-05-14**|**Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models**|Danush Kumar Venkatesh et.al.|[2505.09858v1](http://arxiv.org/abs/2505.09858v1)|[link](https://gitlab.com/nct_tso_public/surgvgen)|null|
 |**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455v1](http://arxiv.org/abs/2505.09455v1)|null|null|
 |**2025-05-13**|**Reinforcement Learning meets Masked Video Modeling : Trajectory-Guided Adaptive Token Selection**|Ayush K. Rai et.al.|[2505.08561v1](http://arxiv.org/abs/2505.08561v1)|null|null|
