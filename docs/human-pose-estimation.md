@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215v1](http://arxiv.org/abs/2505.19215v1)|null|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|null|null|
+|**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|null|
+|**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|null|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|null|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677v1](http://arxiv.org/abs/2505.17677v1)|null|null|
 |**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475v1](http://arxiv.org/abs/2505.17475v1)|[link](https://github.com/uyoung-jeong/PoseBH)|null|
