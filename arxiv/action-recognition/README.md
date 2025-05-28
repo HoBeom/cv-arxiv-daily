@@ -1,12 +1,12 @@
 ## Action Recognition
 
-### Updated on 2025.05.27
+### Updated on 2025.05.28
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972v1](http://arxiv.org/abs/2505.19972v1)|null|null|
 |**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495v1](http://arxiv.org/abs/2505.19495v1)|null|null|
-|**2025-05-23**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048v1](http://arxiv.org/abs/2505.18048v1)|null|null|
+|**2025-05-27**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048v2](http://arxiv.org/abs/2505.18048v2)|null|null|
 |**2025-05-23**|**Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition**|Ping Li et.al.|[2505.17807v1](http://arxiv.org/abs/2505.17807v1)|null|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|null|
 |**2025-05-23**|**ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization**|Yuchen He et.al.|[2505.17555v1](http://arxiv.org/abs/2505.17555v1)|null|null|
