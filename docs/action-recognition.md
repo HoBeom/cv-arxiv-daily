@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-05-27**|**DeepConvContext: A Multi-Scale Approach to Timeseries Classification in Human Activity Recognition**|Marius Bock et.al.|[2505.20894v1](http://arxiv.org/abs/2505.20894v1)|null|null|
 |**2025-05-26**|**PHI: Bridging Domain Shift in Long-Term Action Quality Assessment via Progressive Hierarchical Instruction**|Kanglei Zhou et.al.|[2505.19972v1](http://arxiv.org/abs/2505.19972v1)|null|null|
 |**2025-05-26**|**The Role of Video Generation in Enhancing Data-Limited Action Understanding**|Wei Li et.al.|[2505.19495v1](http://arxiv.org/abs/2505.19495v1)|null|null|
 |**2025-05-27**|**SHARDeg: A Benchmark for Skeletal Human Action Recognition in Degraded Scenarios**|Simon Malzard et.al.|[2505.18048v2](http://arxiv.org/abs/2505.18048v2)|null|null|

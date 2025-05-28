@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309v1](http://arxiv.org/abs/2505.21309v1)|null|null|
+|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v1](http://arxiv.org/abs/2505.21117v1)|null|null|
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|null|
+|**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611v1](http://arxiv.org/abs/2505.20611v1)|null|null|
+|**2025-05-26**|**HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval**|Matthew Hong et.al.|[2505.20455v1](http://arxiv.org/abs/2505.20455v1)|null|null|
 |**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215v1](http://arxiv.org/abs/2505.19215v1)|null|null|
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|null|null|
 |**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|null|
