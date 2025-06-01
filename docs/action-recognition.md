@@ -4,7 +4,7 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2025.05.31
+### Updated on 2025.06.01
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
