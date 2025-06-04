@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-03**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845v1](http://arxiv.org/abs/2506.02845v1)|null|null|
+|**2025-06-03**|**Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025**|Qiaohui Chu et.al.|[2506.02550v1](http://arxiv.org/abs/2506.02550v1)|null|null|
+|**2025-06-03**|**HRTR: A Single-stage Transformer for Fine-grained Sub-second Action Segmentation in Stroke Rehabilitation**|Halil Ismail Helvaci et.al.|[2506.02472v1](http://arxiv.org/abs/2506.02472v1)|null|null|
+|**2025-06-03**|**Multi-level and Multi-modal Action Anticipation**|Seulgi Kim et.al.|[2506.02382v1](http://arxiv.org/abs/2506.02382v1)|null|null|
+|**2025-06-03**|**Photocurrent detected 2D spectroscopy via pulse shaper: insights and strategies for optimally untangling the nonlinear response**|E. Amarotti et.al.|[2506.02342v1](http://arxiv.org/abs/2506.02342v1)|null|null|
+|**2025-06-02**|**Fire360: A Benchmark for Robust Perception and Episodic Memory in Degraded 360-Degree Firefighting Videos**|Aditi Tiwari et.al.|[2506.02167v1](http://arxiv.org/abs/2506.02167v1)|null|null|
+|**2025-06-02**|**Efficient Egocentric Action Recognition with Multimodal Data**|Marco Calzavara et.al.|[2506.01757v1](http://arxiv.org/abs/2506.01757v1)|null|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|null|null|
+|**2025-06-02**|**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**|Nie Lin et.al.|[2506.01353v1](http://arxiv.org/abs/2506.01353v1)|null|null|
+|**2025-06-02**|**ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding**|Yiyang Zhou et.al.|[2506.01300v1](http://arxiv.org/abs/2506.01300v1)|null|null|
 |**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287v1](http://arxiv.org/abs/2505.24287v1)|null|null|
 |**2025-05-29**|**CLIP-AE: CLIP-assisted Cross-view Audio-Visual Enhancement for Unsupervised Temporal Action Localization**|Rui Xia et.al.|[2505.23524v1](http://arxiv.org/abs/2505.23524v1)|null|null|
 |**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012v1](http://arxiv.org/abs/2505.23012v1)|[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)|null|
