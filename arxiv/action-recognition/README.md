@@ -1,10 +1,10 @@
 ## Action Recognition
 
-### Updated on 2025.06.04
+### Updated on 2025.06.05
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
-|**2025-06-03**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845v1](http://arxiv.org/abs/2506.02845v1)|null|null|
+|**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845v2](http://arxiv.org/abs/2506.02845v2)|null|null|
 |**2025-06-03**|**Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025**|Qiaohui Chu et.al.|[2506.02550v1](http://arxiv.org/abs/2506.02550v1)|null|null|
 |**2025-06-03**|**HRTR: A Single-stage Transformer for Fine-grained Sub-second Action Segmentation in Stroke Rehabilitation**|Halil Ismail Helvaci et.al.|[2506.02472v1](http://arxiv.org/abs/2506.02472v1)|null|null|
 |**2025-06-03**|**Multi-level and Multi-modal Action Anticipation**|Seulgi Kim et.al.|[2506.02382v1](http://arxiv.org/abs/2506.02382v1)|null|null|
