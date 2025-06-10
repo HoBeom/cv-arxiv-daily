@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-09**|**SurgBench: A Unified Large-Scale Benchmark for Surgical Video Analysis**|Jianhui Wei et.al.|[2506.07603v1](http://arxiv.org/abs/2506.07603v1)|null|null|
+|**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216v1](http://arxiv.org/abs/2506.07216v1)|null|null|
+|**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631v1](http://arxiv.org/abs/2506.06631v1)|null|null|
 |**2025-06-05**|**Robustness Evaluation for Video Models with Reinforcement Learning**|Ashwin Ramesh Babu et.al.|[2506.05431v1](http://arxiv.org/abs/2506.05431v1)|null|null|
 |**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|[link](https://github.com/ucf-crcv/tf-covr)|null|
 |**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885v1](http://arxiv.org/abs/2506.03885v1)|null|null|
