@@ -4,13 +4,14 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2025.06.09
+### Updated on 2025.06.10
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|null|null|
+|**2025-06-05**|**Robustness Evaluation for Video Models with Reinforcement Learning**|Ashwin Ramesh Babu et.al.|[2506.05431v1](http://arxiv.org/abs/2506.05431v1)|null|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|[link](https://github.com/ucf-crcv/tf-covr)|null|
 |**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885v1](http://arxiv.org/abs/2506.03885v1)|null|null|
-|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662v1](http://arxiv.org/abs/2506.03662v1)|null|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662v1](http://arxiv.org/abs/2506.03662v1)|[link](https://github.com/irmvlab/egoloc)|null|
 |**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481v1](http://arxiv.org/abs/2506.03481v1)|null|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845v2](http://arxiv.org/abs/2506.02845v2)|null|null|
 |**2025-06-03**|**Technical Report for Ego4D Long-Term Action Anticipation Challenge 2025**|Qiaohui Chu et.al.|[2506.02550v1](http://arxiv.org/abs/2506.02550v1)|null|null|
