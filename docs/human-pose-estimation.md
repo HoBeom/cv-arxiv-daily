@@ -11,7 +11,7 @@ layout: default
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|null|
 |**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934v1](http://arxiv.org/abs/2506.09934v1)|null|null|
-|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895v1](http://arxiv.org/abs/2506.09895v1)|[link](https://github.com/aberdeenml/equicaps)|null|
+|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895v1](http://arxiv.org/abs/2506.09895v1)|[link](https://github.com/aberdeenml/equicaps)|**[link](https://github.com/aberdeenml/equicaps)**|
 |**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784v1](http://arxiv.org/abs/2506.09784v1)|null|null|
 |**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699v1](http://arxiv.org/abs/2506.09699v1)|null|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|null|
@@ -28,7 +28,7 @@ layout: default
 |**2025-06-06**|**You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping**|Jingshun Huang et.al.|[2506.05719v1](http://arxiv.org/abs/2506.05719v1)|null|null|
 |**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558v1](http://arxiv.org/abs/2506.05558v1)|null|null|
 |**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|null|null|
-|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117v1](http://arxiv.org/abs/2506.05117v1)|[link](https://github.com/southwestCat/text2motion-nao)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117v1](http://arxiv.org/abs/2506.05117v1)|[link](https://github.com/southwestCat/text2motion-nao)|**[link](https://github.com/southwestCat/text2motion-nao)**|
 |**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931v1](http://arxiv.org/abs/2506.04931v1)|null|null|
 |**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|null|
 |**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561v1](http://arxiv.org/abs/2506.04561v1)|null|null|
@@ -346,7 +346,7 @@ layout: default
 |**2025-02-15**|**Semantics-aware Test-time Adaptation for 3D Human Pose Estimation**|Qiuxia Lin et.al.|[2502.10724v1](http://arxiv.org/abs/2502.10724v1)|null|null|
 |**2025-02-15**|**Learning semantical dynamics and spatiotemporal collaboration for human pose estimation in video**|Runyang Feng et.al.|[2502.10616v1](http://arxiv.org/abs/2502.10616v1)|null|null|
 |**2025-02-14**|**HIPPo: Harnessing Image-to-3D Priors for Model-free Zero-shot 6D Pose Estimation**|Yibo Liu et.al.|[2502.10606v1](http://arxiv.org/abs/2502.10606v1)|null|null|
-|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090v1](http://arxiv.org/abs/2502.10090v1)|**[link](https://github.com/owensun2004/Manual2Skill)**|null|
+|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090v1](http://arxiv.org/abs/2502.10090v1)|**[link](https://github.com/owensun2004/Manual2Skill)**|**[link](https://github.com/owensun2004/Manual2Skill)**|
 |**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460v1](http://arxiv.org/abs/2502.09460v1)|null|null|
 |**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080v1](http://arxiv.org/abs/2502.09080v1)|null|null|
 |**2025-02-14**|**Siren Song: Manipulating Pose Estimation in XR Headsets Using Acoustic Attacks**|Zijian Huang et.al.|[2502.08865v2](http://arxiv.org/abs/2502.08865v2)|null|null|
@@ -457,7 +457,7 @@ layout: default
 |**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058v1](http://arxiv.org/abs/2412.13058v1)|null|null|
 |**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675v1](http://arxiv.org/abs/2412.12675v1)|null|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|null|
-|**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573v1](http://arxiv.org/abs/2412.10573v1)|**[link](https://github.com/EvenGu/ExeChecker)**|null|
+|**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573v1](http://arxiv.org/abs/2412.10573v1)|**[link](https://github.com/EvenGu/ExeChecker)**|**[link](https://github.com/EvenGu/ExeChecker)**|
 |**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431v1](http://arxiv.org/abs/2412.10431v1)|null|null|
 |**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|null|
 |**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621v1](http://arxiv.org/abs/2412.09621v1)|null|null|
