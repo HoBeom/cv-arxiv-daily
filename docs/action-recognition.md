@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-16**|**Leveraging Vision-Language Pre-training for Human Activity Recognition in Still Images**|Cristina Mahanta et.al.|[2506.13458v1](http://arxiv.org/abs/2506.13458v1)|null|null|
+|**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322v1](http://arxiv.org/abs/2506.13322v1)|null|null|
+|**2025-06-16**|**Action Dubber: Timing Audible Actions via Inflectional Flow**|Wenlong Wan et.al.|[2506.13320v1](http://arxiv.org/abs/2506.13320v1)|null|null|
 |**2025-06-13**|**Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets**|MingZe Tang et.al.|[2506.11678v1](http://arxiv.org/abs/2506.11678v1)|null|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356v1](http://arxiv.org/abs/2506.11356v1)|null|null|
 |**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|null|

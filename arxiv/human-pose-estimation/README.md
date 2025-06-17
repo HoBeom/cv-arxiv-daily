@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|null|
+|**2025-06-16**|**JENGA: Object selection and pose estimation for robotic grasping from a stack**|Sai Srinivas Jeevanandam et.al.|[2506.13425v1](http://arxiv.org/abs/2506.13425v1)|null|null|
+|**2025-06-16**|**Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours**|Roman Flepp et.al.|[2506.13292v1](http://arxiv.org/abs/2506.13292v1)|null|null|
+|**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027v1](http://arxiv.org/abs/2506.13027v1)|[link](https://github.com/SebastianJanampa/DETRPose)|null|
+|**2025-06-15**|**Semantic-Aware Visual Information Transmission With Key Information Extraction Over Wireless Networks**|Chen Zhu et.al.|[2506.12786v1](http://arxiv.org/abs/2506.12786v1)|null|null|
+|**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782v1](http://arxiv.org/abs/2506.12782v1)|null|null|
+|**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Jayjun Lee et.al.|[2506.12239v1](http://arxiv.org/abs/2506.12239v1)|null|null|
 |**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133v1](http://arxiv.org/abs/2506.11133v1)|null|null|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|null|
