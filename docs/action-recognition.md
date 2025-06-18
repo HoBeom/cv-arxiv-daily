@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-17**|**MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**|Xingan Gao et.al.|[2506.14466v1](http://arxiv.org/abs/2506.14466v1)|null|null|
 |**2025-06-16**|**Leveraging Vision-Language Pre-training for Human Activity Recognition in Still Images**|Cristina Mahanta et.al.|[2506.13458v1](http://arxiv.org/abs/2506.13458v1)|null|null|
 |**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322v1](http://arxiv.org/abs/2506.13322v1)|null|null|
 |**2025-06-16**|**Action Dubber: Timing Audible Actions via Inflectional Flow**|Wenlong Wan et.al.|[2506.13320v1](http://arxiv.org/abs/2506.13320v1)|null|null|

@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596v1](http://arxiv.org/abs/2506.14596v1)|null|null|
+|**2025-06-17**|**Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy**|Hong Huang et.al.|[2506.14180v1](http://arxiv.org/abs/2506.14180v1)|null|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178v1](http://arxiv.org/abs/2506.14178v1)|null|null|
+|**2025-06-16**|**Diffusion-based Inverse Observation Model for Artificial Skin**|Ante Maric et.al.|[2506.13986v1](http://arxiv.org/abs/2506.13986v1)|null|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|null|
 |**2025-06-16**|**JENGA: Object selection and pose estimation for robotic grasping from a stack**|Sai Srinivas Jeevanandam et.al.|[2506.13425v1](http://arxiv.org/abs/2506.13425v1)|null|null|
 |**2025-06-16**|**Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours**|Roman Flepp et.al.|[2506.13292v1](http://arxiv.org/abs/2506.13292v1)|null|null|
