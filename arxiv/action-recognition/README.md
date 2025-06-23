@@ -4,13 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-20**|**Language-driven Description Generation and Common Sense Reasoning for Video Action Recognition**|Xiaodan Hu et.al.|[2506.16701v1](http://arxiv.org/abs/2506.16701v1)|null|null|
 |**2025-06-17**|**MalGuard: Towards Real-Time, Accurate, and Actionable Detection of Malicious Packages in PyPI Ecosystem**|Xingan Gao et.al.|[2506.14466v1](http://arxiv.org/abs/2506.14466v1)|null|null|
 |**2025-06-16**|**Leveraging Vision-Language Pre-training for Human Activity Recognition in Still Images**|Cristina Mahanta et.al.|[2506.13458v1](http://arxiv.org/abs/2506.13458v1)|null|null|
 |**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322v1](http://arxiv.org/abs/2506.13322v1)|null|null|
 |**2025-06-16**|**Action Dubber: Timing Audible Actions via Inflectional Flow**|Wenlong Wan et.al.|[2506.13320v1](http://arxiv.org/abs/2506.13320v1)|null|null|
 |**2025-06-13**|**Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets**|MingZe Tang et.al.|[2506.11678v1](http://arxiv.org/abs/2506.11678v1)|null|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356v1](http://arxiv.org/abs/2506.11356v1)|null|null|
-|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|**[link](https://github.com/kpeng9510/hopadiff)**|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|null|
 |**2025-06-11**|**Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation**|Ye Niu et.al.|[2506.09422v1](http://arxiv.org/abs/2506.09422v1)|null|null|
 |**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411v1](http://arxiv.org/abs/2506.09411v1)|null|null|
 |**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345v1](http://arxiv.org/abs/2506.09345v1)|null|null|
