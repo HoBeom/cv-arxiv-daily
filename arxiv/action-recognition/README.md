@@ -10,7 +10,7 @@
 |**2025-06-16**|**Action Dubber: Timing Audible Actions via Inflectional Flow**|Wenlong Wan et.al.|[2506.13320v1](http://arxiv.org/abs/2506.13320v1)|null|null|
 |**2025-06-13**|**Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets**|MingZe Tang et.al.|[2506.11678v1](http://arxiv.org/abs/2506.11678v1)|null|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356v1](http://arxiv.org/abs/2506.11356v1)|null|null|
-|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|**[link](https://github.com/kpeng9510/hopadiff)**|
 |**2025-06-11**|**Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation**|Ye Niu et.al.|[2506.09422v1](http://arxiv.org/abs/2506.09422v1)|null|null|
 |**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411v1](http://arxiv.org/abs/2506.09411v1)|null|null|
 |**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345v1](http://arxiv.org/abs/2506.09345v1)|null|null|
@@ -18,7 +18,7 @@
 |**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216v1](http://arxiv.org/abs/2506.07216v1)|null|null|
 |**2025-06-07**|**PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments**|Minghao Zou et.al.|[2506.06631v1](http://arxiv.org/abs/2506.06631v1)|null|null|
 |**2025-06-05**|**Robustness Evaluation for Video Models with Reinforcement Learning**|Ashwin Ramesh Babu et.al.|[2506.05431v1](http://arxiv.org/abs/2506.05431v1)|null|null|
-|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|[link](https://github.com/ucf-crcv/tf-covr)|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|[link](https://github.com/ucf-crcv/tf-covr)|**[link](https://github.com/ucf-crcv/tf-covr)**|
 |**2025-06-04**|**Video, How Do Your Tokens Merge?**|Sam Pollard et.al.|[2506.03885v1](http://arxiv.org/abs/2506.03885v1)|null|null|
 |**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662v1](http://arxiv.org/abs/2506.03662v1)|[link](https://github.com/irmvlab/egoloc)|**[link](https://github.com/irmvlab/egoloc)**|
 |**2025-06-04**|**Heterogeneous Skeleton-Based Action Representation Learning**|Hongsong Wang et.al.|[2506.03481v1](http://arxiv.org/abs/2506.03481v1)|null|null|
@@ -29,10 +29,10 @@
 |**2025-06-03**|**Photocurrent detected 2D spectroscopy via pulse shaper: insights and strategies for optimally untangling the nonlinear response**|E. Amarotti et.al.|[2506.02342v1](http://arxiv.org/abs/2506.02342v1)|null|null|
 |**2025-06-02**|**Fire360: A Benchmark for Robust Perception and Episodic Memory in Degraded 360-Degree Firefighting Videos**|Aditi Tiwari et.al.|[2506.02167v1](http://arxiv.org/abs/2506.02167v1)|null|null|
 |**2025-06-02**|**Efficient Egocentric Action Recognition with Multimodal Data**|Marco Calzavara et.al.|[2506.01757v1](http://arxiv.org/abs/2506.01757v1)|null|null|
-|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|null|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|**[link](https://github.com/amathislab/epfl-smart-kitchen)**|null|
 |**2025-06-02**|**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**|Nie Lin et.al.|[2506.01353v1](http://arxiv.org/abs/2506.01353v1)|null|null|
 |**2025-06-02**|**ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding**|Yiyang Zhou et.al.|[2506.01300v1](http://arxiv.org/abs/2506.01300v1)|null|null|
-|**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287v1](http://arxiv.org/abs/2505.24287v1)|**[link](https://github.com/ardamamur/egoexor)**|null|
+|**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287v1](http://arxiv.org/abs/2505.24287v1)|**[link](https://github.com/ardamamur/egoexor)**|**[link](https://github.com/ardamamur/egoexor)**|
 |**2025-05-29**|**CLIP-AE: CLIP-assisted Cross-view Audio-Visual Enhancement for Unsupervised Temporal Action Localization**|Rui Xia et.al.|[2505.23524v1](http://arxiv.org/abs/2505.23524v1)|null|null|
 |**2025-05-29**|**Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition**|Shanaka Ramesh Gunasekara et.al.|[2505.23012v1](http://arxiv.org/abs/2505.23012v1)|[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)|**[link](https://github.com/shanakarg/stjd-spatio-temporal-joint-density-driven-learning-for-skeleton-based-action-recognition)**|
 |**2025-05-28**|**PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion**|Jaehyun Choi et.al.|[2505.22564v1](http://arxiv.org/abs/2505.22564v1)|null|null|
@@ -83,7 +83,7 @@
 |**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785v1](http://arxiv.org/abs/2504.07785v1)|null|null|
 |**2025-04-09**|**Leveraging GCN-based Action Recognition for Teleoperation in Daily Activity Assistance**|Thomas M. Kwok et.al.|[2504.07001v1](http://arxiv.org/abs/2504.07001v1)|null|null|
 |**2025-04-09**|**Exploring Ordinal Bias in Action Recognition for Instructional Videos**|Joochan Kim et.al.|[2504.06580v1](http://arxiv.org/abs/2504.06580v1)|null|null|
-|**2025-04-08**|**Temporal Alignment-Free Video Matching for Few-shot Action Recognition**|SuBeen Lee et.al.|[2504.05956v1](http://arxiv.org/abs/2504.05956v1)|**[link](https://github.com/leesb7426/team)**|null|
+|**2025-04-08**|**Temporal Alignment-Free Video Matching for Few-shot Action Recognition**|SuBeen Lee et.al.|[2504.05956v1](http://arxiv.org/abs/2504.05956v1)|**[link](https://github.com/leesb7426/team)**|**[link](https://github.com/leesb7426/team)**|
 |**2025-04-08**|**SEVERE++: Evaluating Benchmark Sensitivity in Generalization of Video Representation Learning**|Fida Mohammad Thoker et.al.|[2504.05706v1](http://arxiv.org/abs/2504.05706v1)|null|null|
 |**2025-04-08**|**Pose-Aware Weakly-Supervised Action Segmentation**|Seth Z. Zhao et.al.|[2504.05700v1](http://arxiv.org/abs/2504.05700v1)|null|null|
 |**2025-04-06**|**SnapPix: Efficient-Coding--Inspired In-Sensor Compression for Edge Vision**|Weikai Lin et.al.|[2504.04535v1](http://arxiv.org/abs/2504.04535v1)|null|null|
@@ -522,7 +522,7 @@
 |**2024-04-04**|**TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression**|Ho-Joong Kim et.al.|[2404.02405v2](http://arxiv.org/abs/2404.02405v2)|**[link](https://github.com/dotori-hj/te-tad)**|**[link](https://github.com/dotori-hj/te-tad)**|
 |**2024-04-02**|**PREGO: online mistake detection in PRocedural EGOcentric videos**|Alessandro Flaborea et.al.|[2404.01933v1](http://arxiv.org/abs/2404.01933v1)|[link](https://github.com/aleflabo/prego)|**[link](https://github.com/aleflabo/prego)**|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725v1](http://arxiv.org/abs/2404.01725v1)|[link](https://github.com/xingaoli/dp-hoi)|**[link](https://github.com/xingaoli/dp-hoi)**|
-|**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591v1](http://arxiv.org/abs/2404.01591v1)|**[link](https://github.com/ningwang2049/laiar)**|null|
+|**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591v1](http://arxiv.org/abs/2404.01591v1)|**[link](https://github.com/ningwang2049/laiar)**|**[link](https://github.com/ningwang2049/laiar)**|
 |**2024-04-02**|**Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery**|Christian Limberg et.al.|[2404.01571v1](http://arxiv.org/abs/2404.01571v1)|null|null|
 |**2024-04-04**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518v2](http://arxiv.org/abs/2404.01518v2)|[link](https://github.com/mingu6/action_seg_ot)|**[link](https://github.com/mingu6/action_seg_ot)**|
 |**2024-04-01**|**LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization**|Akshita Gupta et.al.|[2404.01282v1](http://arxiv.org/abs/2404.01282v1)|null|null|
