@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-24**|**Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation**|Weichen Zhang et.al.|[2506.19267v1](http://arxiv.org/abs/2506.19267v1)|null|null|
 |**2025-06-23**|**Including Semantic Information via Word Embeddings for Skeleton-based Action Recognition**|Dustin Aganian et.al.|[2506.18721v1](http://arxiv.org/abs/2506.18721v1)|null|null|
 |**2025-06-23**|**Improving Weakly Supervised Temporal Action Localization by Exploiting Multi-resolution Information in Temporal Domain**|Rui Su et.al.|[2506.18261v1](http://arxiv.org/abs/2506.18261v1)|null|null|
 |**2025-06-22**|**Adapting Vision-Language Models for Evaluating World Models**|Mariya Hendriksen et.al.|[2506.17967v1](http://arxiv.org/abs/2506.17967v1)|null|null|
