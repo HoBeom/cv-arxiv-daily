@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-26**|**EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception**|Sanjoy Chowdhury et.al.|[2506.21080v1](http://arxiv.org/abs/2506.21080v1)|null|null|
+|**2025-06-25**|**MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans**|Shubhankar Borse et.al.|[2506.20879v1](http://arxiv.org/abs/2506.20879v1)|null|null|
 |**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Joerg Deigmoeller et.al.|[2506.20373v1](http://arxiv.org/abs/2506.20373v1)|null|null|
 |**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342v1](http://arxiv.org/abs/2506.20342v1)|null|null|
 |**2025-06-24**|**Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation**|Weichen Zhang et.al.|[2506.19267v1](http://arxiv.org/abs/2506.19267v1)|null|null|
