@@ -24,7 +24,7 @@ layout: default
 |**2025-06-16**|**Action Dubber: Timing Audible Actions via Inflectional Flow**|Wenlong Wan et.al.|[2506.13320v1](http://arxiv.org/abs/2506.13320v1)|null|null|
 |**2025-06-13**|**Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets**|MingZe Tang et.al.|[2506.11678v1](http://arxiv.org/abs/2506.11678v1)|null|null|
 |**2025-06-12**|**GynSurg: A Comprehensive Gynecology Laparoscopic Surgery Dataset**|Sahar Nasirihaghighi et.al.|[2506.11356v1](http://arxiv.org/abs/2506.11356v1)|null|null|
-|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|null|
+|**2025-06-11**|**HopaDIFF: Holistic-Partial Aware Fourier Conditioned Diffusion for Referring Human Action Segmentation in Multi-Person Scenarios**|Kunyu Peng et.al.|[2506.09650v1](http://arxiv.org/abs/2506.09650v1)|[link](https://github.com/kpeng9510/hopadiff)|**[link](https://github.com/kpeng9510/hopadiff)**|
 |**2025-06-11**|**Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation**|Ye Niu et.al.|[2506.09422v1](http://arxiv.org/abs/2506.09422v1)|null|null|
 |**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411v1](http://arxiv.org/abs/2506.09411v1)|null|null|
 |**2025-06-11**|**An Effective End-to-End Solution for Multimodal Action Recognition**|Songping Wang et.al.|[2506.09345v1](http://arxiv.org/abs/2506.09345v1)|null|null|
@@ -43,7 +43,7 @@ layout: default
 |**2025-06-03**|**Photocurrent detected 2D spectroscopy via pulse shaper: insights and strategies for optimally untangling the nonlinear response**|E. Amarotti et.al.|[2506.02342v1](http://arxiv.org/abs/2506.02342v1)|null|null|
 |**2025-06-02**|**Fire360: A Benchmark for Robust Perception and Episodic Memory in Degraded 360-Degree Firefighting Videos**|Aditi Tiwari et.al.|[2506.02167v1](http://arxiv.org/abs/2506.02167v1)|null|null|
 |**2025-06-02**|**Efficient Egocentric Action Recognition with Multimodal Data**|Marco Calzavara et.al.|[2506.01757v1](http://arxiv.org/abs/2506.01757v1)|null|null|
-|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|**[link](https://github.com/amathislab/epfl-smart-kitchen)**|null|
+|**2025-06-02**|**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**|Andy Bonnetto et.al.|[2506.01608v1](http://arxiv.org/abs/2506.01608v1)|**[link](https://github.com/amathislab/epfl-smart-kitchen)**|**[link](https://github.com/amathislab/epfl-smart-kitchen)**|
 |**2025-06-02**|**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**|Nie Lin et.al.|[2506.01353v1](http://arxiv.org/abs/2506.01353v1)|null|null|
 |**2025-06-02**|**ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding**|Yiyang Zhou et.al.|[2506.01300v1](http://arxiv.org/abs/2506.01300v1)|null|null|
 |**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287v1](http://arxiv.org/abs/2505.24287v1)|**[link](https://github.com/ardamamur/egoexor)**|**[link](https://github.com/ardamamur/egoexor)**|
