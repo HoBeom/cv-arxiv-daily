@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-06-27**|**Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition**|Wenhan Wu et.al.|[2506.22179v1](http://arxiv.org/abs/2506.22179v1)|null|null|
 |**2025-06-26**|**EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception**|Sanjoy Chowdhury et.al.|[2506.21080v1](http://arxiv.org/abs/2506.21080v1)|null|null|
 |**2025-06-25**|**MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans**|Shubhankar Borse et.al.|[2506.20879v1](http://arxiv.org/abs/2506.20879v1)|null|null|
 |**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Joerg Deigmoeller et.al.|[2506.20373v1](http://arxiv.org/abs/2506.20373v1)|null|null|
