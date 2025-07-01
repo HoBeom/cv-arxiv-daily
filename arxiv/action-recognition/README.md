@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-06-30**|**Online Human Action Detection during Escorting**|Siddhartha Mondal et.al.|[2506.23573v1](http://arxiv.org/abs/2506.23573v1)|null|null|
+|**2025-06-29**|**DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding**|Mona Ahmadian et.al.|[2506.23196v1](http://arxiv.org/abs/2506.23196v1)|null|null|
 |**2025-06-27**|**Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition**|Wenhan Wu et.al.|[2506.22179v1](http://arxiv.org/abs/2506.22179v1)|null|null|
 |**2025-06-26**|**EgoAdapt: Adaptive Multisensory Distillation and Policy Learning for Efficient Egocentric Perception**|Sanjoy Chowdhury et.al.|[2506.21080v1](http://arxiv.org/abs/2506.21080v1)|null|null|
 |**2025-06-25**|**MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans**|Shubhankar Borse et.al.|[2506.20879v1](http://arxiv.org/abs/2506.20879v1)|null|null|
