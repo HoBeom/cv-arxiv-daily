@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-02**|**Variational Graph Convolutional Neural Networks**|Illia Oleksiienko et.al.|[2507.01699v1](http://arxiv.org/abs/2507.01699v1)|null|null|
+|**2025-07-01**|**Towards Open-World Human Action Segmentation Using Graph Convolutional Networks**|Hao Xing et.al.|[2507.00756v1](http://arxiv.org/abs/2507.00756v1)|null|null|
+|**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752v1](http://arxiv.org/abs/2507.00752v1)|null|null|
+|**2025-07-01**|**Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment**|Kai Zhou et.al.|[2507.00566v1](http://arxiv.org/abs/2507.00566v1)|null|null|
 |**2025-06-30**|**Online Human Action Detection during Escorting**|Siddhartha Mondal et.al.|[2506.23573v1](http://arxiv.org/abs/2506.23573v1)|null|null|
 |**2025-06-29**|**DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding**|Mona Ahmadian et.al.|[2506.23196v1](http://arxiv.org/abs/2506.23196v1)|null|null|
 |**2025-06-27**|**Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition**|Wenhan Wu et.al.|[2506.22179v1](http://arxiv.org/abs/2506.22179v1)|null|null|
