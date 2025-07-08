@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909v1](http://arxiv.org/abs/2507.04909v1)|null|null|
+|**2025-07-04**|**CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2507.03539v1](http://arxiv.org/abs/2507.03539v1)|null|null|
 |**2025-07-02**|**Variational Graph Convolutional Neural Networks**|Illia Oleksiienko et.al.|[2507.01699v1](http://arxiv.org/abs/2507.01699v1)|null|null|
 |**2025-07-01**|**Towards Open-World Human Action Segmentation Using Graph Convolutional Networks**|Hao Xing et.al.|[2507.00756v1](http://arxiv.org/abs/2507.00756v1)|null|null|
 |**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752v1](http://arxiv.org/abs/2507.00752v1)|null|null|
