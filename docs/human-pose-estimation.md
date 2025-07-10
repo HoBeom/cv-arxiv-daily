@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077v1](http://arxiv.org/abs/2507.07077v1)|null|null|
+|**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|null|null|
+|**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486v1](http://arxiv.org/abs/2507.06486v1)|null|null|
 |**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|null|null|
 |**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751v1](http://arxiv.org/abs/2507.05751v1)|null|null|
 |**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698v1](http://arxiv.org/abs/2507.05698v1)|null|null|
