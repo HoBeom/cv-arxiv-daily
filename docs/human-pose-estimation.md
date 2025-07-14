@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136v1](http://arxiv.org/abs/2507.08136v1)|null|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v2](http://arxiv.org/abs/2507.07994v2)|null|null|
 |**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|null|null|
 |**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|null|
