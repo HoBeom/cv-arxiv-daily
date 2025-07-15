@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265v1](http://arxiv.org/abs/2507.10265v1)|null|null|
+|**2025-07-14**|**ProGait: A Multi-Purpose Video Dataset and Benchmark for Transfemoral Prosthesis Users**|Xiangyu Yin et.al.|[2507.10223v1](http://arxiv.org/abs/2507.10223v1)|null|null|
+|**2025-07-13**|**VST-Pose: A Velocity-Integrated Spatiotem-poral Attention Network for Human WiFi Pose Estimation**|Xinyu Zhang et.al.|[2507.09672v1](http://arxiv.org/abs/2507.09672v1)|null|null|
+|**2025-07-13**|**EHPE: A Segmented Architecture for Enhanced Hand Pose Estimation**|Bolun Zheng et.al.|[2507.09560v1](http://arxiv.org/abs/2507.09560v1)|null|null|
+|**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513v1](http://arxiv.org/abs/2507.09513v1)|null|null|
+|**2025-07-12**|**PoseLLM: Enhancing Language-Guided Human Pose Estimation with MLP Alignment**|Dewen Zhang et.al.|[2507.09139v1](http://arxiv.org/abs/2507.09139v1)|null|null|
 |**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136v1](http://arxiv.org/abs/2507.08136v1)|null|null|
 |**2025-07-11**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v2](http://arxiv.org/abs/2507.07994v2)|null|null|
 |**2025-07-10**|**Attend-and-Refine: Interactive keypoint estimation and quantitative cervical vertebrae analysis for bone age assessment**|Jinhee Kim et.al.|[2507.07670v1](http://arxiv.org/abs/2507.07670v1)|null|null|

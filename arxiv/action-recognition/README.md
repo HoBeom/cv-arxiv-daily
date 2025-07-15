@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251v1](http://arxiv.org/abs/2507.10251v1)|null|null|
+|**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513v1](http://arxiv.org/abs/2507.09513v1)|null|null|
+|**2025-07-13**|**Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention**|Pengyu Liu et.al.|[2507.09512v1](http://arxiv.org/abs/2507.09512v1)|null|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|null|null|
 |**2025-07-09**|**Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**|Xu Shaowu et.al.|[2507.06603v1](http://arxiv.org/abs/2507.06603v1)|null|null|
 |**2025-07-08**|**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**|Hayat Ullah et.al.|[2507.06411v1](http://arxiv.org/abs/2507.06411v1)|null|null|
