@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|null|
+|**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336v1](http://arxiv.org/abs/2507.12336v1)|null|null|
+|**2025-07-16**|**Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation**|Antonio Finocchiaro et.al.|[2507.12292v1](http://arxiv.org/abs/2507.12292v1)|null|null|
+|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|null|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|null|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910v1](http://arxiv.org/abs/2507.11910v1)|null|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102v1](http://arxiv.org/abs/2507.11102v1)|null|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077v1](http://arxiv.org/abs/2507.11077v1)|null|null|
 |**2025-07-15**|**Joint angle model based learning to refine kinematic human pose estimation**|Chang Peng et.al.|[2507.11075v1](http://arxiv.org/abs/2507.11075v1)|null|null|

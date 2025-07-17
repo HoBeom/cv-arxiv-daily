@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426v1](http://arxiv.org/abs/2507.12426v1)|null|null|
+|**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245v1](http://arxiv.org/abs/2507.12245v1)|null|null|
 |**2025-07-15**|**Women Sport Actions Dataset for Visual Classification Using Small Scale Training Data**|Palash Ray et.al.|[2507.10969v1](http://arxiv.org/abs/2507.10969v1)|null|null|
 |**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251v1](http://arxiv.org/abs/2507.10251v1)|null|null|
 |**2025-07-13**|**Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding**|Yanchen Wang et.al.|[2507.09513v1](http://arxiv.org/abs/2507.09513v1)|null|null|
