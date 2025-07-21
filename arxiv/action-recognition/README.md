@@ -1,12 +1,12 @@
 ## Action Recognition
 
-### Updated on 2025.07.20
+### Updated on 2025.07.21
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326v1](http://arxiv.org/abs/2507.13326v1)|null|null|
 |**2025-07-16**|**Predicting Soccer Penalty Kick Direction Using Human Action Recognition**|David Freire-Obregón et.al.|[2507.12617v1](http://arxiv.org/abs/2507.12617v1)|null|null|
-|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426v1](http://arxiv.org/abs/2507.12426v1)|null|null|
+|**2025-07-18**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426v2](http://arxiv.org/abs/2507.12426v2)|null|null|
 |**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245v1](http://arxiv.org/abs/2507.12245v1)|null|null|
 |**2025-07-15**|**Women Sport Actions Dataset for Visual Classification Using Small Scale Training Data**|Palash Ray et.al.|[2507.10969v1](http://arxiv.org/abs/2507.10969v1)|null|null|
 |**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251v1](http://arxiv.org/abs/2507.10251v1)|null|null|
