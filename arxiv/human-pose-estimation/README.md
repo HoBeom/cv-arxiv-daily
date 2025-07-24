@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|null|null|
+|**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406v1](http://arxiv.org/abs/2507.17406v1)|null|null|
+|**2025-07-23**|**CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**|Chao He et.al.|[2507.17327v1](http://arxiv.org/abs/2507.17327v1)|null|null|
+|**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850v1](http://arxiv.org/abs/2507.16850v1)|null|null|
 |**2025-07-22**|**Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy: Results of the PhaKIR 2024 challenge**|Tobias Rueckert et.al.|[2507.16559v1](http://arxiv.org/abs/2507.16559v1)|null|null|
 |**2025-07-22**|**Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers**|Batu Candan et.al.|[2507.16214v1](http://arxiv.org/abs/2507.16214v1)|null|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|null|null|
