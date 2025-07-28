@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2025.07.27
+### Updated on 2025.07.28
 
 | Publish Date | Title | Authors | PDF | Code | Quick Look |
 |:---------|:-----------------------|:---------|:------|:------|:------|
