@@ -4,9 +4,9 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2025.11.11
+### Updated on 2025.11.12
 
-| Publish Date | Title | Authors | PDF | Code | Quick Look |
+|Publish Date|Title|Authors|PDF|Code|Quick Look|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2025-07-22**|**Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition**|Zefeng Qian et.al.|[2507.16287v1](http://arxiv.org/abs/2507.16287v1)|null|null|
 |**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|null|null|
