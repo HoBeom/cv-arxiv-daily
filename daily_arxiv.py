@@ -10,6 +10,8 @@ import arxiv
 import requests
 import yaml
 from arxiv import HTTPError
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 logging.basicConfig(
     format='[%(asctime)s %(levelname)s] %(message)s',
@@ -25,6 +27,38 @@ PAGE_SIZE = 10
 DELAY_SECONDS = 7
 NUM_RETRIES = 6
 MIN_BACKOFF = 5
+
+
+def _requests_session() -> requests.Session:
+    s = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=0.5,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=['GET'],
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    s.mount('http://', adapter)
+    s.mount('https://', adapter)
+    s.headers.update({
+        'User-Agent':
+        'cv-arxiv-daily/1.0 (+github.com/HoBeom/cv-arxiv-daily)'
+    })
+    return s
+
+
+_SESSION = _requests_session()
+
+
+def _get_json_safe(url: str):
+    try:
+        resp = _SESSION.get(url, timeout=5)
+        resp.raise_for_status()
+        return resp.json()
+    except Exception as e:
+        logging.error('requests error on %s: %s', url, e)
+        return None
 
 
 def _throttled_client(page_size: int = PAGE_SIZE) -> arxiv.Client:
@@ -109,10 +143,15 @@ def sort_papers(papers):
 def get_code_link(qword: str) -> str:
     query = f'{qword}'
     params = {'q': query, 'sort': 'stars', 'order': 'desc'}
-    r = requests.get(github_url, params=params)
-    results = r.json()
+    try:
+        r = _SESSION.get(github_url, params=params, timeout=5)
+        r.raise_for_status()
+        results = r.json()
+    except Exception as e:
+        logging.error('github search error: %s', e)
+        return None
     code_link = None
-    if results['total_count'] > 0:
+    if results.get('total_count', 0) > 0:
         code_link = results['items'][0]['html_url']
     return code_link
 
@@ -167,7 +206,7 @@ def get_daily_papers(query='slam', max_results=2):
             if paper_key in content:
                 continue
             try:
-                r = requests.get(code_url).json()
+                r = _get_json_safe(code_url)
                 repo_url = None
                 if 'official' in r and r['official']:
                     repo_url = r['official']['url']
@@ -224,7 +263,7 @@ def update_paper_links(filename):
                     continue
                 try:
                     code_url = base_url + paper_id  # TODO
-                    r = requests.get(code_url).json()
+                    r = _get_json_safe(code_url)
                     repo_url = None
                     if 'official' in r and r['official']:
                         repo_url = r['official']['url']
@@ -389,6 +428,8 @@ def demo(**config):
         logging.info(f'{json_file=}')
         md_file = md_readme_path[topic]
         logging.info(f'{md_file=}')
+        os.makedirs(os.path.dirname(json_file), exist_ok=True)
+        os.makedirs(os.path.dirname(md_file), exist_ok=True)
 
         if config['publish_readme']:
             if config['update_paper_links']:
