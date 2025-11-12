@@ -10,6 +10,7 @@ This repository hosts the source code for arxiv-daily, an useful sripts to fetch
 ## Table of Keywords
  * [Action Recognition](arxiv/action-recognition/)
  * [Human Pose Estimation](arxiv/human-pose-estimation/)
+ * [Theory of Mind and Dialogue Agents](arxiv/tom-agent/)
 
 ## Overview
 

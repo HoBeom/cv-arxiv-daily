@@ -21,3 +21,8 @@ keywords:
         md_readme_path: 'arxiv/human-pose-estimation/README.md'
         json_readme_path: 'arxiv/human-pose-estimation/data.json'
         qa_json_path: 'arxiv/human-pose-estimation/qa.json'
+    "Theory of Mind and Dialogue Agents":
+        queries: ["theory of mind", "ToM", "collaboration agent", "communication agent", "dialogue agent", "social reasoning", "mental state modeling"]
+        md_readme_path: 'arxiv/tom-agent/README.md'
+        json_readme_path: 'arxiv/tom-agent/data.json'
+        qa_json_path: 'arxiv/tom-agent/qa.json'
