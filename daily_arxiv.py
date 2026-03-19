@@ -6,10 +6,9 @@ import os
 import re
 import time
 
-import arxiv
+import feedparser
 import requests
 import yaml
-from arxiv import HTTPError
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -19,15 +18,13 @@ logging.basicConfig(
     level=logging.INFO,
 )
 logging.info(f'Using script: {os.path.abspath(__file__)}')
-logging.info('arxiv version=%s', getattr(arxiv, '__version__', 'unknown'))
 
 base_url = 'https://arxiv.paperswithcode.com/api/v0/papers/'
 github_url = 'https://api.github.com/search/repositories'
 
-PAGE_SIZE = 10
-DELAY_SECONDS = 7
+ARXIV_API_URL = 'https://export.arxiv.org/api/query'
+DELAY_SECONDS = 5
 NUM_RETRIES = 6
-MIN_BACKOFF = 5
 
 
 def _requests_session() -> requests.Session:
@@ -35,7 +32,7 @@ def _requests_session() -> requests.Session:
     retries = Retry(
         total=3,
         backoff_factor=0.5,
-        status_forcelist=[429, 500, 502, 503, 504],
+        status_forcelist=[500, 502, 503, 504],
         allowed_methods=['GET'],
         raise_on_status=False,
     )
@@ -44,7 +41,12 @@ def _requests_session() -> requests.Session:
     s.mount('https://', adapter)
     s.headers.update({
         'User-Agent':
-        'cv-arxiv-daily/1.0 (+github.com/HoBeom/cv-arxiv-daily)'
+        'cv-arxiv-daily/1.0 '
+        '(+github.com/HoBeom/cv-arxiv-daily; '
+        'mailto:jhb1365@gmail.com)',
+        'Accept':
+        'application/atom+xml, '
+        'application/xml;q=0.9, */*;q=0.8',
     })
     return s
 
@@ -62,31 +64,86 @@ def _get_json_safe(url: str):
         return None
 
 
-def _throttled_client(page_size: int = PAGE_SIZE) -> arxiv.Client:
-    return arxiv.Client(
-        page_size=page_size,
-        delay_seconds=DELAY_SECONDS,
-        num_retries=NUM_RETRIES,
+class ArxivAuthor:
+
+    def __init__(self, name: str):
+        self.name = name
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
+
+
+class ArxivPaper:
+
+    def __init__(self, entry: dict):
+        self.entry_id = entry.get('id', '')
+        self.title = re.sub(r'\s+', ' ', entry.get('title', '').strip())
+        self.summary = entry.get('summary', '').strip()
+        self.authors = [
+            ArxivAuthor(a.get('name', '')) for a in entry.get('authors', [])
+        ]
+        self.primary_category = entry.get('arxiv_primary_category',
+                                          {}).get('term', '')
+        self.comment = entry.get('arxiv_comment', None)
+        self.updated = self._parse_date(entry.get('updated', ''))
+        self.published = self._parse_date(entry.get('published', ''))
+
+    @staticmethod
+    def _parse_date(date_str: str) -> datetime.datetime:
+        if not date_str:
+            return datetime.datetime.now()
+        for fmt in ('%Y-%m-%dT%H:%M:%SZ', '%Y-%m-%dT%H:%M:%S%z'):
+            try:
+                return datetime.datetime.strptime(date_str, fmt)
+            except ValueError:
+                continue
+        return datetime.datetime.now()
+
+    def get_short_id(self) -> str:
+        match = re.search(r'abs/(.+)$', self.entry_id)
+        if match:
+            return match.group(1)
+        return self.entry_id.split('/')[-1]
+
+
+def fetch_arxiv(query: str, start: int = 0, max_results: int = 10) -> list:
+    params = {
+        'search_query': query,
+        'id_list': '',
+        'sortBy': 'submittedDate',
+        'sortOrder': 'descending',
+        'start': start,
+        'max_results': max_results,
+    }
+    backoff = DELAY_SECONDS
+    for attempt in range(NUM_RETRIES + 1):
+        logging.info(
+            'arXiv request (try %d): query=%s start=%d max=%d',
+            attempt,
+            query,
+            start,
+            max_results,
+        )
+        resp = _SESSION.get(ARXIV_API_URL, params=params, timeout=30)
+        if resp.status_code == 200:
+            feed = feedparser.parse(resp.text)
+            return [ArxivPaper(e) for e in feed.entries]
+        logging.warning(
+            'arXiv HTTP %d — waiting %ds before retry',
+            resp.status_code,
+            backoff,
+        )
+        time.sleep(backoff)
+        backoff = min(backoff * 2, 120)
+    logging.error(
+        'arXiv request failed after %d retries for query=%s',
+        NUM_RETRIES,
+        query,
     )
-
-
-def _results_with_backoff(client: arxiv.Client, search: arxiv.Search):
-    backoff = MIN_BACKOFF
-    while True:
-        try:
-            for r in client.results(search):
-                yield r
-            break
-        except HTTPError as e:
-            if getattr(e, 'status', None) == 429:
-                logging.warning(
-                    'HTTP 429 Too Many Requests — %ss waiting',
-                    backoff,
-                )
-                time.sleep(backoff)
-                backoff = min(backoff * 2, 120)
-            else:
-                raise
+    return []
 
 
 def load_config(config_file: str) -> dict:
@@ -169,21 +226,13 @@ def _split_or_query(query: str, max_terms: int = 2) -> list:
 
 
 def get_daily_papers(query='slam', max_results=2):
-    logging.info('[arxiv throttle] page_size=%s, delay=%ss, retries=%s' %
-                 (PAGE_SIZE, DELAY_SECONDS, NUM_RETRIES))
+    logging.info('[arxiv] delay=%ss, retries=%s', DELAY_SECONDS, NUM_RETRIES)
     content = dict()
-    logging.info(f'subqueries={_split_or_query(query)}')
-    effective_page_size = min(PAGE_SIZE, max_results)
-    client = _throttled_client(page_size=effective_page_size)
     subqueries = _split_or_query(query, max_terms=2)
+    logging.info(f'subqueries={subqueries}')
     for idx, subq in enumerate(subqueries):
-        search = arxiv.Search(
-            query=subq,
-            max_results=max_results,
-            sort_by=arxiv.SortCriterion.SubmittedDate,
-            sort_order=arxiv.SortOrder.Descending,
-        )
-        for result in _results_with_backoff(client, search):
+        results = fetch_arxiv(query=subq, max_results=max_results)
+        for result in results:
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id

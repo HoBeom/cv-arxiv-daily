@@ -3,9 +3,9 @@ import json
 import logging
 import os
 
-import arxiv
 import yaml
 
+from daily_arxiv import fetch_arxiv
 from qa.app import generate_qa
 
 api_key = os.getenv('GEMINI_API_KEY')
@@ -51,14 +51,8 @@ def load_qa_json(config):
 
 
 def get_papers_from_arxiv_ids(arxiv_ids):
-    query = ' OR '.join([f'"{arxiv_id}"' for arxiv_id in arxiv_ids])
-    search = arxiv.Search(query=query, max_results=len(arxiv_ids))
-    client = arxiv.Client(
-        page_size=10,
-        delay_seconds=7,
-        num_retries=6,
-    )
-    return client.results(search)
+    query = ' OR '.join([f'id:{arxiv_id}' for arxiv_id in arxiv_ids])
+    return fetch_arxiv(query=query, max_results=len(arxiv_ids))
 
 
 def main(config):
