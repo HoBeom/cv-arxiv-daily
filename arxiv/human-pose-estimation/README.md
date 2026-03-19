@@ -1,9 +1,34 @@
 ## Human Pose Estimation
 
-### Updated on 2026.03.18
+### Updated on 2026.03.19
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|null|
+|**2026-03-18**|**Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation**|Rui Hong et.al.|[2603.17396v1](http://arxiv.org/abs/2603.17396v1)|null|null|
+|**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868v1](http://arxiv.org/abs/2603.16868v1)|null|null|
+|**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844v1](http://arxiv.org/abs/2603.16844v1)|null|null|
+|**2026-03-17**|**FSMC-Pose: Frequency and Spatial Fusion with Multiscale Self-calibration for Cattle Mounting Pose Estimation**|Fangjing Li et.al.|[2603.16596v1](http://arxiv.org/abs/2603.16596v1)|null|null|
+|**2026-03-17**|**Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds**|Daniel Sungho Jung et.al.|[2603.16343v1](http://arxiv.org/abs/2603.16343v1)|null|null|
+|**2026-03-16**|**Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments**|Aaditya Khanal et.al.|[2603.15574v1](http://arxiv.org/abs/2603.15574v1)|null|null|
+|**2026-03-16**|**Pointing-Based Object Recognition**|Lukáš Hajdúch et.al.|[2603.15403v1](http://arxiv.org/abs/2603.15403v1)|null|null|
+|**2026-03-16**|**Fast Volume Alignment by Frequency-Marched Newton**|Fabian Kruse et.al.|[2603.15285v1](http://arxiv.org/abs/2603.15285v1)|null|null|
+|**2026-03-16**|**Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator**|Gyeongsik Moon et.al.|[2603.14726v1](http://arxiv.org/abs/2603.14726v1)|null|null|
+|**2026-03-13**|**Semantic Aware Feature Extraction for Enhanced 3D Reconstruction**|Ronald Nap et.al.|[2603.13556v1](http://arxiv.org/abs/2603.13556v1)|null|null|
+|**2026-03-11**|**Multi-Person Pose Estimation Evaluation Using Optimal Transportation and Improved Pose Matching**|Takato Moriki et.al.|[2603.10398v1](http://arxiv.org/abs/2603.10398v1)|null|null|
+|**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604v1](http://arxiv.org/abs/2603.05604v1)|null|null|
+|**2026-03-04**|**A Case Study in Responsible AI-Assisted Video Solutions: Multi-Metric Behavioral Insights in a Public Market Setting**|Mehrnoush Fereydouni et.al.|[2603.04607v1](http://arxiv.org/abs/2603.04607v1)|null|null|
+|**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|null|
+|**2026-02-25**|**UNet-Based Keypoint Regression for 3D Cone Localization in Autonomous Racing**|Mariia Baidachna et.al.|[2602.21904v1](http://arxiv.org/abs/2602.21904v1)|null|null|
+|**2026-03-03**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v3](http://arxiv.org/abs/2602.20630v3)|null|null|
+|**2026-02-17**|**SAM 3D Body: Robust Full-Body Human Mesh Recovery**|Xitong Yang et.al.|[2602.15989v1](http://arxiv.org/abs/2602.15989v1)|null|null|
+|**2026-02-25**|**Perception-Control Coupled Visual Servoing for Textureless Objects Using Keypoint-Based EKF**|Allen Tao et.al.|[2602.06834v2](http://arxiv.org/abs/2602.06834v2)|null|null|
+|**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211v1](http://arxiv.org/abs/2602.06211v1)|null|null|
+|**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348v1](http://arxiv.org/abs/2601.16348v1)|null|null|
+|**2025-11-19**|**WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion**|Sajjad Pakdamansavoji et.al.|[2511.15874v1](http://arxiv.org/abs/2511.15874v1)|null|null|
+|**2025-10-12**|**SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams**|Zhuoheng Gao et.al.|[2510.10602v1](http://arxiv.org/abs/2510.10602v1)|null|null|
+|**2025-08-21**|**Predicting Road Crossing Behaviour using Pose Detection and Sequence Modelling**|Subhasis Dasgupta et.al.|[2508.15336v1](http://arxiv.org/abs/2508.15336v1)|null|null|
+|**2025-08-10**|**An Intelligent Mobile Application to Monitor and Correct Sitting Posture Using Raspberry Pi and MediaPipe Pose Detection**|Yung-Chen et.al.|[2508.11683v1](http://arxiv.org/abs/2508.11683v1)|null|null|
 |**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|null|null|
 |**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406v1](http://arxiv.org/abs/2507.17406v1)|null|null|
 |**2025-07-23**|**CartoonAlive: Towards Expressive Live2D Modeling from Single Portraits**|Chao He et.al.|[2507.17327v1](http://arxiv.org/abs/2507.17327v1)|null|null|
@@ -51,7 +76,7 @@
 |**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|null|null|
 |**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486v1](http://arxiv.org/abs/2507.06486v1)|null|null|
-|**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v1](http://arxiv.org/abs/2507.05861v1)|null|null|
+|**2025-12-12**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861v2](http://arxiv.org/abs/2507.05861v2)|null|null|
 |**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751v1](http://arxiv.org/abs/2507.05751v1)|null|null|
 |**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698v1](http://arxiv.org/abs/2507.05698v1)|null|null|
 |**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|null|
@@ -204,7 +229,7 @@
 |**2025-05-05**|**Unsupervised training of keypoint-agnostic descriptors for flexible retinal image registration**|David Rivas-Villar et.al.|[2505.02787v1](http://arxiv.org/abs/2505.02787v1)|null|null|
 |**2025-05-05**|**Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance**|David Rivas-Villar et.al.|[2505.02779v1](http://arxiv.org/abs/2505.02779v1)|null|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|null|null|
-|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v1](http://arxiv.org/abs/2505.02664v1)|null|null|
+|**2026-01-08**|**Grasp the Graph (GtG) 2.0: Ensemble of Graph Neural Networks for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664v2](http://arxiv.org/abs/2505.02664v2)|null|null|
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|null|null|
 |**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481v1](http://arxiv.org/abs/2505.02481v1)|[link](https://github.com/xiongjunguan/draco)|**[link](https://github.com/xiongjunguan/draco)**|
 |**2025-05-05**|**6D Pose Estimation on Spoons and Hands**|Kevin Tan et.al.|[2505.02335v1](http://arxiv.org/abs/2505.02335v1)|null|null|

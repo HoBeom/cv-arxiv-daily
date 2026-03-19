@@ -1,9 +1,39 @@
 ## Action Recognition
 
-### Updated on 2026.03.18
+### Updated on 2026.03.19
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004v1](http://arxiv.org/abs/2603.18004v1)|null|null|
+|**2026-03-16**|**KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition**|Yuhan Chen et.al.|[2603.16943v1](http://arxiv.org/abs/2603.16943v1)|null|null|
+|**2026-03-17**|**Disentangling Single- and Biexciton Dynamics with Photoelectron-Detected Two-Dimensional Electronic Spectroscopy**|Luisa Brenneis et.al.|[2603.16484v1](http://arxiv.org/abs/2603.16484v1)|null|null|
+|**2026-03-15**|**Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks**|Nengbo Zhang et.al.|[2603.14475v1](http://arxiv.org/abs/2603.14475v1)|null|null|
+|**2026-03-13**|**SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**|Sampath Rapuri et.al.|[2603.13024v1](http://arxiv.org/abs/2603.13024v1)|null|null|
+|**2026-03-13**|**SAVA-X: Ego-to-Exo Imitation Error Detection via Scene-Adaptive View Alignment and Bidirectional Cross View Fusion**|Xiang Li et.al.|[2603.12764v1](http://arxiv.org/abs/2603.12764v1)|null|null|
+|**2026-03-12**|**Surg-R1: A Hierarchical Reasoning Foundation Model for Scalable and Interpretable Surgical Decision Support with Multi-Center Clinical Validation**|Jian Jiang et.al.|[2603.12430v1](http://arxiv.org/abs/2603.12430v1)|null|null|
+|**2026-03-13**|**HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**|Jiayue Pu et.al.|[2603.11975v2](http://arxiv.org/abs/2603.11975v2)|null|null|
+|**2026-03-12**|**Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction**|Zhaoda Du et.al.|[2603.10061v2](http://arxiv.org/abs/2603.10061v2)|null|null|
+|**2026-03-11**|**ENIGMA-360: An Ego-Exo Dataset for Human Behavior Understanding in Industrial Scenarios**|Francesco Ragusa et.al.|[2603.09741v2](http://arxiv.org/abs/2603.09741v2)|null|null|
+|**2026-03-10**|**M3GCLR: Multi-View Mini-Max Infinite Skeleton-Data Game Contrastive Learning For Skeleton-Based Action Recognition**|Yanshan Li et.al.|[2603.09367v1](http://arxiv.org/abs/2603.09367v1)|null|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551v1](http://arxiv.org/abs/2603.08551v1)|null|null|
+|**2026-03-09**|**Human-AI Divergence in Ego-centric Action Recognition under Spatial and Spatiotemporal Manipulations**|Sadegh Rahmaniboldaji et.al.|[2603.08317v1](http://arxiv.org/abs/2603.08317v1)|null|null|
+|**2026-03-09**|**Novel Semantic Prompting for Zero-Shot Action Recognition**|Salman Iqbal et.al.|[2603.08289v1](http://arxiv.org/abs/2603.08289v1)|null|null|
+|**2026-03-06**|**Point-Supervised Skeleton-Based Human Action Segmentation**|Hongsong Wang et.al.|[2603.06201v1](http://arxiv.org/abs/2603.06201v1)|null|null|
+|**2026-03-01**|**MMTA: Multi Membership Temporal Attention for Fine-Grained Stroke Rehabilitation Assessment**|Halil Ismail Helvaci et.al.|[2603.00878v1](http://arxiv.org/abs/2603.00878v1)|null|null|
+|**2026-02-27**|**Hierarchical Action Learning for Weakly-Supervised Action Segmentation**|Junxian Huang et.al.|[2602.24275v1](http://arxiv.org/abs/2602.24275v1)|null|null|
+|**2026-02-27**|**Multimodal Optimal Transport for Unsupervised Temporal Segmentation in Surgical Robotics**|Omar Mohamed et.al.|[2602.24138v1](http://arxiv.org/abs/2602.24138v1)|null|null|
+|**2026-02-26**|**Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception**|Yiding Sun et.al.|[2602.23069v1](http://arxiv.org/abs/2602.23069v1)|null|null|
+|**2026-02-24**|**Exploring Vision-Language Models for Open-Vocabulary Zero-Shot Action Segmentation**|Asim Unmesh et.al.|[2602.21406v1](http://arxiv.org/abs/2602.21406v1)|null|null|
+|**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718v1](http://arxiv.org/abs/2602.05718v1)|null|null|
+|**2026-02-02**|**WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?**|Pei Li et.al.|[2602.01850v1](http://arxiv.org/abs/2602.01850v1)|null|null|
+|**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257v1](http://arxiv.org/abs/2602.01257v1)|null|null|
+|**2026-01-28**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v1](http://arxiv.org/abs/2601.21078v1)|null|null|
+|**2026-02-23**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v2](http://arxiv.org/abs/2601.16210v2)|null|null|
+|**2025-12-22**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v2](http://arxiv.org/abs/2512.16504v2)|null|null|
+|**2025-12-12**|**Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization**|Anh-Kiet Duong et.al.|[2512.11189v1](http://arxiv.org/abs/2512.11189v1)|null|null|
+|**2025-12-01**|**TBT-Former: Learning Temporal Boundary Distributions for Action Localization**|Thisara Rathnayaka et.al.|[2512.01298v1](http://arxiv.org/abs/2512.01298v1)|null|null|
+|**2025-11-20**|**FOOTPASS: A Multi-Modal Multi-Agent Tactical Context Dataset for Play-by-Play Action Spotting in Soccer Broadcast Videos**|Jeremie Ochin et.al.|[2511.16183v1](http://arxiv.org/abs/2511.16183v1)|null|null|
+|**2025-11-17**|**MGCA-Net: Multi-Grained Category-Aware Network for Open-Vocabulary Temporal Action Localization**|Zhenying Fang et.al.|[2511.13039v1](http://arxiv.org/abs/2511.13039v1)|null|null|
 |**2025-07-22**|**Beyond Label Semantics: Language-Guided Action Anatomy for Few-shot Action Recognition**|Zefeng Qian et.al.|[2507.16287v1](http://arxiv.org/abs/2507.16287v1)|null|null|
 |**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|null|null|
 |**2025-07-22**|**AI-Enhanced Precision in Sport Taekwondo: Increasing Fairness, Speed, and Trust in Competition (FST.ai)**|Keivan Shariatmadar et.al.|[2507.14657v2](http://arxiv.org/abs/2507.14657v2)|null|null|
