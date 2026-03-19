@@ -1,4 +1,4 @@
-arxiv
+arxiv>=2.4.1,<3
 flatdict
 google-generativeai
 PyMuPDF

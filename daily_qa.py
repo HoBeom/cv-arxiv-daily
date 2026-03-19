@@ -51,9 +51,14 @@ def load_qa_json(config):
 
 
 def get_papers_from_arxiv_ids(arxiv_ids):
-    query = 'OR'.join([f'"{arxiv_id}"' for arxiv_id in arxiv_ids])
-    papers = arxiv.Search(query=query, max_results=len(arxiv_ids))
-    return papers.results()
+    query = ' OR '.join([f'"{arxiv_id}"' for arxiv_id in arxiv_ids])
+    search = arxiv.Search(query=query, max_results=len(arxiv_ids))
+    client = arxiv.Client(
+        page_size=10,
+        delay_seconds=7,
+        num_retries=6,
+    )
+    return client.results(search)
 
 
 def main(config):

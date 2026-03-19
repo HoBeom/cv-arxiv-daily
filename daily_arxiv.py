@@ -19,6 +19,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 logging.info(f'Using script: {os.path.abspath(__file__)}')
+logging.info('arxiv version=%s', getattr(arxiv, '__version__', 'unknown'))
 
 base_url = 'https://arxiv.paperswithcode.com/api/v0/papers/'
 github_url = 'https://api.github.com/search/repositories'
@@ -208,7 +209,7 @@ def get_daily_papers(query='slam', max_results=2):
             try:
                 r = _get_json_safe(code_url)
                 repo_url = None
-                if 'official' in r and r['official']:
+                if r and 'official' in r and r['official']:
                     repo_url = r['official']['url']
                 if repo_url is not None:
                     content[paper_key] = (
@@ -265,7 +266,7 @@ def update_paper_links(filename):
                     code_url = base_url + paper_id  # TODO
                     r = _get_json_safe(code_url)
                     repo_url = None
-                    if 'official' in r and r['official']:
+                    if r and 'official' in r and r['official']:
                         repo_url = r['official']['url']
                         if repo_url is not None:
                             new_cont = contents.replace(
