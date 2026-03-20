@@ -1,9 +1,11 @@
 ## Human Pose Estimation
 
-### Updated on 2026.03.19
+### Updated on 2026.03.20
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774v1](http://arxiv.org/abs/2603.18774v1)|null|null|
+|**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739v1](http://arxiv.org/abs/2603.18739v1)|null|null|
 |**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|null|
 |**2026-03-18**|**Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation**|Rui Hong et.al.|[2603.17396v1](http://arxiv.org/abs/2603.17396v1)|null|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868v1](http://arxiv.org/abs/2603.16868v1)|null|null|

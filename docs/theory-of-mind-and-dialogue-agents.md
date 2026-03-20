@@ -4,10 +4,13 @@ layout: default
 
 ## Theory of Mind and Dialogue Agents
 
-### Updated on 2026.03.19
+### Updated on 2026.03.20
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-19**|**Proceedings of the 2nd Workshop on Advancing Artificial Intelligence through Theory of Mind**|Nitay Alon et.al.|[2603.18786v1](http://arxiv.org/abs/2603.18786v1)|null|null|
+|**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|null|
+|**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|null|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|null|
 |**2026-03-17**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v1](http://arxiv.org/abs/2603.16496v1)|null|null|
 |**2026-03-17**|**Adaptive Theory of Mind for LLM-based Multi-Agent Coordination**|Chunjiang Mu et.al.|[2603.16264v1](http://arxiv.org/abs/2603.16264v1)|null|null|

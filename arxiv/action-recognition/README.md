@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.03.19
+### Updated on 2026.03.20
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2026-03-18**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v1](http://arxiv.org/abs/2603.18062v1)|null|null|
 |**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004v1](http://arxiv.org/abs/2603.18004v1)|null|null|
 |**2026-03-16**|**KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition**|Yuhan Chen et.al.|[2603.16943v1](http://arxiv.org/abs/2603.16943v1)|null|null|
 |**2026-03-17**|**Disentangling Single- and Biexciton Dynamics with Photoelectron-Detected Two-Dimensional Electronic Spectroscopy**|Luisa Brenneis et.al.|[2603.16484v1](http://arxiv.org/abs/2603.16484v1)|null|null|
