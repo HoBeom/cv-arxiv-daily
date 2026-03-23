@@ -8,6 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170v1](http://arxiv.org/abs/2603.20170v1)|null|null|
 |**2026-03-19**|**Proceedings of the 2nd Workshop on Advancing Artificial Intelligence through Theory of Mind**|Nitay Alon et.al.|[2603.18786v1](http://arxiv.org/abs/2603.18786v1)|null|null|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|null|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|null|
