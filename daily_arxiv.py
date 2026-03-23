@@ -204,13 +204,20 @@ def sort_papers(papers):
     return output
 
 
-def get_hf_repo_url(paper_id: str) -> str:
-    """Fetch GitHub repo URL from HuggingFace Papers API."""
+def get_hf_paper_info(paper_id: str) -> dict:
+    """Fetch paper info from HuggingFace Papers API.
+
+    Returns dict with keys: exists, repo_url, upvotes.
+    """
     url = HF_PAPERS_API + paper_id
     r = _get_json_safe(url)
-    if r and r.get('githubRepo'):
-        return r['githubRepo']
-    return None
+    if r is None:
+        return {'exists': False, 'repo_url': None, 'upvotes': 0}
+    return {
+        'exists': True,
+        'repo_url': r.get('githubRepo') or None,
+        'upvotes': r.get('upvotes', 0),
+    }
 
 
 def _split_or_query(query: str, max_terms: int = 2) -> list:
@@ -254,10 +261,14 @@ def get_daily_papers(query='slam', max_results=2):
             if paper_key in content:
                 continue
             try:
-                hf_link = (f'[HF](https://huggingface.co/papers/'
-                           f'{paper_key})')
-                repo_url = get_hf_repo_url(paper_key)
-                code_cell = (f'[link]({repo_url})' if repo_url else 'null')
+                hf = get_hf_paper_info(paper_key)
+                code_cell = (f'[link]({hf["repo_url"]})'
+                             if hf['repo_url'] else 'null')
+                if hf['exists']:
+                    hf_url = ('https://huggingface.co/papers/' + paper_key)
+                    hf_cell = f'[{hf["upvotes"]}]({hf_url})'
+                else:
+                    hf_cell = 'null'
                 content[paper_key] = (
                     '|**{}**|**{}**|{} et.al.|[{}]({})|{}|{}|\n'.format(
                         update_time,
@@ -266,7 +277,7 @@ def get_daily_papers(query='slam', max_results=2):
                         paper_id,
                         paper_url,
                         code_cell,
-                        hf_link,
+                        hf_cell,
                     ))
             except Exception as e:
                 logging.error(f'exception: {e} with id: {paper_key}')
@@ -301,22 +312,23 @@ def update_paper_links(filename):
                 logging.info(f'Requests:{paper_id=}')
                 try:
                     new_cont = contents
-                    if needs_code:
-                        repo_url = get_hf_repo_url(paper_id)
-                        if repo_url is not None:
-                            new_cont = new_cont.replace(
-                                '|null|', f'|[link]({repo_url})|', 1)
-                            logging.info('ID=%s code=%s', paper_id, repo_url)
+                    hf = get_hf_paper_info(paper_id)
 
-                    if needs_hf:
-                        hf_link = (f'[HF](https://huggingface.co'
-                                   f'/papers/{paper_id})')
+                    if needs_code and hf['repo_url']:
+                        new_cont = new_cont.replace(
+                            '|null|', f'|[link]({hf["repo_url"]})|', 1)
+                        logging.info('ID=%s code=%s', paper_id, hf['repo_url'])
+
+                    if needs_hf and hf['exists']:
+                        hf_url = ('https://huggingface.co'
+                                  f'/papers/{paper_id}')
+                        hf_cell = f'[{hf["upvotes"]}]({hf_url})'
                         new_cont = new_cont.rstrip('\n')
                         if new_cont.endswith('|null|'):
                             new_cont = (
-                                new_cont[:-len('null|')] + hf_link + '|\n')
+                                new_cont[:-len('null|')] + hf_cell + '|\n')
                         elif new_cont.endswith('|'):
-                            new_cont = (new_cont[:-1] + hf_link + '|\n')
+                            new_cont = (new_cont[:-1] + hf_cell + '|\n')
 
                     json_data[keywords][paper_id] = str(new_cont)
                 except Exception as e:
@@ -410,11 +422,11 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True):
 
             if use_title:
                 if to_web:
-                    f.write('|Publish Date|Title|Authors|PDF|Code|HF Paper|\n')
+                    f.write('|Date|Title|Authors|PDF|Code|Stars|\n')
                     f.write('|:---------|:-----------------------|:---------|'
                             ':------|:------|:------|\n')
                 else:
-                    f.write('|Publish Date|Title|Authors|PDF|Code|HF Paper|\n')
+                    f.write('|Date|Title|Authors|PDF|Code|Stars|\n')
                     f.write('|---|---|---|---|---|---|\n')
 
             day_content = sort_papers(day_content)
