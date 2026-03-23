@@ -266,7 +266,9 @@ def get_daily_papers(query='slam', max_results=2):
                              if hf['repo_url'] else 'null')
                 if hf['exists']:
                     hf_url = ('https://huggingface.co/papers/' + paper_key)
-                    hf_cell = f'[{hf["upvotes"]}]({hf_url})'
+                    ups = hf['upvotes']
+                    hf_cell = (f'[\U0001F917\U0001F44D{ups}]'
+                               f'({hf_url})')
                 else:
                     hf_cell = 'null'
                 content[paper_key] = (
@@ -322,7 +324,9 @@ def update_paper_links(filename):
                     if needs_hf and hf['exists']:
                         hf_url = ('https://huggingface.co'
                                   f'/papers/{paper_id}')
-                        hf_cell = f'[{hf["upvotes"]}]({hf_url})'
+                        ups = hf['upvotes']
+                        hf_cell = (f'[\U0001F917\U0001F44D{ups}]'
+                                   f'({hf_url})')
                         new_cont = new_cont.rstrip('\n')
                         if new_cont.endswith('|null|'):
                             new_cont = (
