@@ -1,11 +1,17 @@
 ## Human Pose Estimation
 
-### Updated on 2026.03.22
+### Updated on 2026.03.23
 
 |Publish Date|Title|Authors|PDF|Code|Quick Look|
 |---|---|---|---|---|---|
+|**2026-03-20**|**Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation**|Nassim Ali Ousalah et.al.|[2603.19961v1](http://arxiv.org/abs/2603.19961v1)|null|null|
+|**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770v1](http://arxiv.org/abs/2603.19770v1)|null|null|
+|**2026-03-20**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Weisheng Xu et.al.|[2603.19709v1](http://arxiv.org/abs/2603.19709v1)|null|null|
+|**2026-03-20**|**IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1**|Jun Wang et.al.|[2603.19625v1](http://arxiv.org/abs/2603.19625v1)|null|null|
+|**2026-03-20**|**UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair**|Chuanrui Zhang et.al.|[2603.19616v1](http://arxiv.org/abs/2603.19616v1)|null|null|
+|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609v1](http://arxiv.org/abs/2603.19609v1)|null|null|
 |**2026-03-19**|**Measuring 3D Spatial Geometric Consistency in Dynamic Generated Videos**|Weijia Dou et.al.|[2603.19048v1](http://arxiv.org/abs/2603.19048v1)|null|null|
-|**2026-03-19**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|Hui Yang et.al.|[2603.19013v1](http://arxiv.org/abs/2603.19013v1)|null|null|
+|**2026-03-20**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|Hui Yang et.al.|[2603.19013v2](http://arxiv.org/abs/2603.19013v2)|null|null|
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774v1](http://arxiv.org/abs/2603.18774v1)|null|null|
 |**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739v1](http://arxiv.org/abs/2603.18739v1)|null|null|
 |**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|null|
@@ -30,7 +36,7 @@
 |**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211v1](http://arxiv.org/abs/2602.06211v1)|null|null|
 |**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348v1](http://arxiv.org/abs/2601.16348v1)|null|null|
 |**2025-11-19**|**WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion**|Sajjad Pakdamansavoji et.al.|[2511.15874v1](http://arxiv.org/abs/2511.15874v1)|null|null|
-|**2025-10-12**|**SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams**|Zhuoheng Gao et.al.|[2510.10602v1](http://arxiv.org/abs/2510.10602v1)|null|null|
+|**2026-03-20**|**SpikeGrasp: A Benchmark for 6-DoF Grasp Pose Detection from Stereo Spike Streams**|Zhuoheng Gao et.al.|[2510.10602v2](http://arxiv.org/abs/2510.10602v2)|null|null|
 |**2025-08-21**|**Predicting Road Crossing Behaviour using Pose Detection and Sequence Modelling**|Subhasis Dasgupta et.al.|[2508.15336v1](http://arxiv.org/abs/2508.15336v1)|null|null|
 |**2025-08-10**|**An Intelligent Mobile Application to Monitor and Correct Sitting Posture Using Raspberry Pi and MediaPipe Pose Detection**|Yung-Chen et.al.|[2508.11683v1](http://arxiv.org/abs/2508.11683v1)|null|null|
 |**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|null|null|
