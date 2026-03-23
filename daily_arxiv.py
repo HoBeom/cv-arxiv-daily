@@ -41,8 +41,8 @@ def _requests_session() -> requests.Session:
     s.mount('https://', adapter)
     s.headers.update({
         'User-Agent':
-        'cv-arxiv-daily/1.0 '
-        '(+github.com/HoBeom/cv-arxiv-daily; '
+        'arxiv-daily/1.0 '
+        '(+github.com/HoBeom/arxiv-daily; '
         'mailto:jhb1365@gmail.com)',
         'Accept':
         'application/atom+xml, '
@@ -446,10 +446,17 @@ def format_keyword_name(keyword):
 
 
 def update_homepage(config, homepage_path='docs/index.md'):
+    user_name = config.get('user_name', 'HoBeom')
+    repo_name = config.get('repo_name', 'arxiv-daily')
+    repo_url = f'https://github.com/{user_name}/{repo_name}'
+
     homepage_content = '## Topics\n\n'
     for topic, details in config['keywords'].items():
         keyward_path = format_keyword_name(topic)
         homepage_content += f'- [{topic}](./{keyward_path}.md)\n\n'
+
+    homepage_content += '---\n\n'
+    homepage_content += (f'[GitHub Repository]({repo_url})\n')
 
     os.makedirs(os.path.dirname(homepage_path), exist_ok=True)
     with open(homepage_path, 'w', encoding='utf-8') as f:
