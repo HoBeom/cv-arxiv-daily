@@ -53,14 +53,21 @@ def _requests_session() -> requests.Session:
 _SESSION = _requests_session()
 
 
-def _get_json_safe(url: str):
-    try:
-        resp = _SESSION.get(url, timeout=5)
-        resp.raise_for_status()
-        return resp.json()
-    except Exception as e:
-        logging.error('requests error on %s: %s', url, e)
-        return None
+def _get_json_safe(url: str, retries: int = 3, backoff: float = 2.0):
+    for attempt in range(retries):
+        try:
+            resp = _SESSION.get(url, timeout=10)
+            if resp.status_code == 429:
+                wait = backoff * (2**attempt)
+                logging.warning('HTTP 429 on %s — waiting %.0fs', url, wait)
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            return resp.json()
+        except Exception as e:
+            logging.error('requests error on %s: %s', url, e)
+            return None
+    return None
 
 
 class ArxivAuthor:
@@ -247,29 +254,20 @@ def get_daily_papers(query='slam', max_results=2):
             if paper_key in content:
                 continue
             try:
+                hf_link = (f'[HF](https://huggingface.co/papers/'
+                           f'{paper_key})')
                 repo_url = get_hf_repo_url(paper_key)
-                if repo_url is not None:
-                    content[paper_key] = (
-                        '|**{}**|**{}**|{} et.al.|[{}]({})|[link]({})|null|\n'.
-                        format(
-                            update_time,
-                            paper_title,
-                            paper_first_author,
-                            paper_id,
-                            paper_url,
-                            repo_url,
-                        ))
-                else:
-                    content[paper_key] = (
-                        '|**{}**|**{}**|{} et.al.|[{}]({})|null|null|\n'.
-                        format(
-                            update_time,
-                            paper_title,
-                            paper_first_author,
-                            paper_id,
-                            paper_url,
-                        ))
-
+                code_cell = (f'[link]({repo_url})' if repo_url else 'null')
+                content[paper_key] = (
+                    '|**{}**|**{}**|{} et.al.|[{}]({})|{}|{}|\n'.format(
+                        update_time,
+                        paper_title,
+                        paper_first_author,
+                        paper_id,
+                        paper_url,
+                        code_cell,
+                        hf_link,
+                    ))
             except Exception as e:
                 logging.error(f'exception: {e} with id: {paper_key}')
         if idx != len(subqueries) - 1:
@@ -293,23 +291,34 @@ def update_paper_links(filename):
         for keywords, v in json_data.items():
             logging.info(f'{keywords=}')
             for paper_id, contents in v.items():
-                logging.info(f'Requests:{paper_id=}')
                 contents = str(contents)
 
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
+                needs_code = '|null|' in contents
+                needs_hf = 'huggingface.co/papers' not in contents
+                if not needs_code and not needs_hf:
                     continue
+
+                logging.info(f'Requests:{paper_id=}')
                 try:
-                    repo_url = get_hf_repo_url(paper_id)
-                    if repo_url is not None:
-                        new_cont = contents.replace(
-                            '|null|', f'|**[link]({repo_url})**|')
-                        logging.info(
-                            'ID=%s contents=%s',
-                            paper_id,
-                            new_cont,
-                        )
-                        json_data[keywords][paper_id] = str(new_cont)
+                    new_cont = contents
+                    if needs_code:
+                        repo_url = get_hf_repo_url(paper_id)
+                        if repo_url is not None:
+                            new_cont = new_cont.replace(
+                                '|null|', f'|[link]({repo_url})|', 1)
+                            logging.info('ID=%s code=%s', paper_id, repo_url)
+
+                    if needs_hf:
+                        hf_link = (f'[HF](https://huggingface.co'
+                                   f'/papers/{paper_id})')
+                        new_cont = new_cont.rstrip('\n')
+                        if new_cont.endswith('|null|'):
+                            new_cont = (
+                                new_cont[:-len('null|')] + hf_link + '|\n')
+                        elif new_cont.endswith('|'):
+                            new_cont = (new_cont[:-1] + hf_link + '|\n')
+
+                    json_data[keywords][paper_id] = str(new_cont)
                 except Exception as e:
                     logging.error(f'exception: {e} with id: {paper_id}')
         # dump to json file
@@ -401,13 +410,11 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True):
 
             if use_title:
                 if to_web:
-                    f.write(
-                        '|Publish Date|Title|Authors|PDF|Code|Quick Look|\n')
+                    f.write('|Publish Date|Title|Authors|PDF|Code|HF Paper|\n')
                     f.write('|:---------|:-----------------------|:---------|'
                             ':------|:------|:------|\n')
                 else:
-                    f.write(
-                        '|Publish Date|Title|Authors|PDF|Code|Quick Look|\n')
+                    f.write('|Publish Date|Title|Authors|PDF|Code|HF Paper|\n')
                     f.write('|---|---|---|---|---|---|\n')
 
             day_content = sort_papers(day_content)
