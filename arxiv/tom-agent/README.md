@@ -35,5 +35,5 @@
 |**2026-01-28**|**Persona Prompting as a Lens on LLM Social Reasoning**|Jing Yang et.al.|[2601.20757v1](http://arxiv.org/abs/2601.20757v1)|null|null|
 |**2026-01-24**|**MARO: Learning Stronger Reasoning from Social Interaction**|Yin Cai et.al.|[2601.12323v2](http://arxiv.org/abs/2601.12323v2)|null|null|
 
-<p align=right>(<a href=## Theory of Mind and Dialogue Agents>back to top</a>)</p>
+<p align=right>(<a href="#">back to top</a>)</p>
 

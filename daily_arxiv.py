@@ -434,8 +434,8 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True):
 
             f.write('\n')
 
-            f.write(f'<p align=right>(<a href=## {keyword}>back to top</a>)'
-                    f'</p>\n\n')
+            f.write('<p align=right>(<a href="#">back to top</a>)'
+                    '</p>\n\n')
 
     logging.info(f'{task} finished')
 
