@@ -19,8 +19,7 @@ logging.basicConfig(
 )
 logging.info(f'Using script: {os.path.abspath(__file__)}')
 
-base_url = 'https://arxiv.paperswithcode.com/api/v0/papers/'
-github_url = 'https://api.github.com/search/repositories'
+HF_PAPERS_API = 'https://huggingface.co/api/papers/'
 
 ARXIV_API_URL = 'https://export.arxiv.org/api/query'
 DELAY_SECONDS = 5
@@ -198,20 +197,13 @@ def sort_papers(papers):
     return output
 
 
-def get_code_link(qword: str) -> str:
-    query = f'{qword}'
-    params = {'q': query, 'sort': 'stars', 'order': 'desc'}
-    try:
-        r = _SESSION.get(github_url, params=params, timeout=5)
-        r.raise_for_status()
-        results = r.json()
-    except Exception as e:
-        logging.error('github search error: %s', e)
-        return None
-    code_link = None
-    if results.get('total_count', 0) > 0:
-        code_link = results['items'][0]['html_url']
-    return code_link
+def get_hf_repo_url(paper_id: str) -> str:
+    """Fetch GitHub repo URL from HuggingFace Papers API."""
+    url = HF_PAPERS_API + paper_id
+    r = _get_json_safe(url)
+    if r and r.get('githubRepo'):
+        return r['githubRepo']
+    return None
 
 
 def _split_or_query(query: str, max_terms: int = 2) -> list:
@@ -236,7 +228,6 @@ def get_daily_papers(query='slam', max_results=2):
             paper_id = result.get_short_id()
             paper_title = result.title
             paper_url = result.entry_id
-            code_url = base_url + paper_id
             paper_first_author = get_authors(result.authors, first_author=True)
             update_time = result.updated.date()
 
@@ -256,10 +247,7 @@ def get_daily_papers(query='slam', max_results=2):
             if paper_key in content:
                 continue
             try:
-                r = _get_json_safe(code_url)
-                repo_url = None
-                if r and 'official' in r and r['official']:
-                    repo_url = r['official']['url']
+                repo_url = get_hf_repo_url(paper_key)
                 if repo_url is not None:
                     content[paper_key] = (
                         '|**{}**|**{}**|{} et.al.|[{}]({})|[link]({})|null|\n'.
@@ -312,20 +300,16 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id  # TODO
-                    r = _get_json_safe(code_url)
-                    repo_url = None
-                    if r and 'official' in r and r['official']:
-                        repo_url = r['official']['url']
-                        if repo_url is not None:
-                            new_cont = contents.replace(
-                                '|null|', f'|**[link]({repo_url})**|')
-                            logging.info(
-                                'ID=%s contents=%s',
-                                paper_id,
-                                new_cont,
-                            )
-                            json_data[keywords][paper_id] = str(new_cont)
+                    repo_url = get_hf_repo_url(paper_id)
+                    if repo_url is not None:
+                        new_cont = contents.replace(
+                            '|null|', f'|**[link]({repo_url})**|')
+                        logging.info(
+                            'ID=%s contents=%s',
+                            paper_id,
+                            new_cont,
+                        )
+                        json_data[keywords][paper_id] = str(new_cont)
                 except Exception as e:
                     logging.error(f'exception: {e} with id: {paper_id}')
         # dump to json file
