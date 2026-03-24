@@ -4,6 +4,10 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-23**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717v1](http://arxiv.org/abs/2603.21717v1)|null|null|
+|**2026-03-23**|**MIND: Multi-agent inference for negotiation dialogue in travel planning**|Hunmin Do et.al.|[2603.21696v1](http://arxiv.org/abs/2603.21696v1)|null|null|
+|**2026-03-21**|**BenchBench: Benchmarking Automated Benchmark Generation**|Yandan Zheng et.al.|[2603.20807v1](http://arxiv.org/abs/2603.20807v1)|null|null|
+|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170v1](http://arxiv.org/abs/2603.20170v1)|null|null|
 |**2026-03-19**|**Proceedings of the 2nd Workshop on Advancing Artificial Intelligence through Theory of Mind**|Nitay Alon et.al.|[2603.18786v1](http://arxiv.org/abs/2603.18786v1)|null|null|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|null|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|null|
@@ -27,6 +31,7 @@
 |**2026-02-05**|**Observer-based Control of Multi-agent Systems under STL Specifications**|Tommaso Zaccherini et.al.|[2602.05586v1](http://arxiv.org/abs/2602.05586v1)|null|null|
 |**2026-01-28**|**Persona Prompting as a Lens on LLM Social Reasoning**|Jing Yang et.al.|[2601.20757v1](http://arxiv.org/abs/2601.20757v1)|[link](https://github.com/jingyng/PP-social-reasoning)|[🤗👍3](https://huggingface.co/papers/2601.20757)|
 |**2026-01-24**|**MARO: Learning Stronger Reasoning from Social Interaction**|Yin Cai et.al.|[2601.12323v2](http://arxiv.org/abs/2601.12323v2)|null|null|
+|**2020-07-31**|**HARMONIC: A Multimodal Dataset of Assistive Human-Robot Collaboration**|Benjamin A. Newman et.al.|[1807.11154v2](http://arxiv.org/abs/1807.11154v2)|null|null|
 
 <p align=right>(<a href="#">back to top</a>)</p>
 
