@@ -20,6 +20,7 @@ logging.basicConfig(
 logging.info(f'Using script: {os.path.abspath(__file__)}')
 
 HF_PAPERS_API = 'https://huggingface.co/api/papers/'
+HF_CACHE_FILE = 'hf_cache/daily_papers.json'
 
 ARXIV_API_URL = 'https://export.arxiv.org/api/query'
 DELAY_SECONDS = 5
@@ -207,11 +208,42 @@ def sort_papers(papers):
     return output
 
 
+_hf_cache = None
+
+
+def _load_hf_cache() -> dict:
+    """Load HF daily papers cache (paper_id -> info)."""
+    global _hf_cache
+    if _hf_cache is not None:
+        return _hf_cache
+    _hf_cache = {}
+    if os.path.exists(HF_CACHE_FILE):
+        try:
+            with open(HF_CACHE_FILE, 'r') as f:
+                raw = json.load(f)
+            for date_data in raw.values():
+                for pid, info in date_data.get('papers', {}).items():
+                    _hf_cache[pid] = info
+            logging.info('HF cache loaded: %d papers', len(_hf_cache))
+        except Exception as e:
+            logging.warning('Failed to load HF cache: %s', e)
+    return _hf_cache
+
+
 def get_hf_paper_info(paper_id: str) -> dict:
-    """Fetch paper info from HuggingFace Papers API.
+    """Get paper info from cache first, then HF API as fallback.
 
     Returns dict with keys: exists, repo_url, upvotes.
     """
+    cache = _load_hf_cache()
+    if paper_id in cache:
+        c = cache[paper_id]
+        return {
+            'exists': True,
+            'repo_url': c.get('github_repo'),
+            'upvotes': c.get('upvotes', 0),
+        }
+
     url = HF_PAPERS_API + paper_id
     r = _get_json_safe(url)
     if r is None:

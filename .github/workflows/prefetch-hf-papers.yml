@@ -1,0 +1,43 @@
+name: Pre-fetch HuggingFace Daily Papers
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run weekdays (Mon-Fri) at 09:00 UTC (after daily arxiv at 00:00/12:00)
+    - cron: "0 9 * * 1-5"
+
+env:
+  GITHUB_USER_NAME: HoBeom
+  GITHUB_USER_EMAIL: jhb1365@gmail.com
+
+jobs:
+  prefetch:
+    name: prefetch-hf-papers
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python Env
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Pre-fetch HF daily papers
+        run: |
+          python prefetch_hf_papers.py
+
+      - name: Commit cache
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "data: update HF daily papers cache"
+          rebase: 'true'
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}
