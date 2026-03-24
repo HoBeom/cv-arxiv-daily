@@ -28,8 +28,8 @@ logging.basicConfig(
 HF_DAILY_API = 'https://huggingface.co/api/daily_papers'
 CACHE_DIR = 'hf_cache'
 CACHE_FILE = os.path.join(CACHE_DIR, 'daily_papers.json')
-LOWER_BOUND = '2026-01-01'
-REFRESH_DAYS = 7
+LOWER_BOUND = '2025-01-01'
+REFRESH_DAYS = 30
 REQUEST_DELAY = 1.0
 
 
