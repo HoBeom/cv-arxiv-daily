@@ -4,10 +4,14 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.03.23
+### Updated on 2026.03.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-22**|**Geometrically Plausible Object Pose Refinement using Differentiable Simulation**|Anil Zeybek et.al.|[2603.20992v1](http://arxiv.org/abs/2603.20992v1)|null|null|
+|**2026-03-21**|**PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization**|Xiaoya Cheng et.al.|[2603.20778v1](http://arxiv.org/abs/2603.20778v1)|null|null|
+|**2026-03-21**|**Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework**|Logan Banker et.al.|[2603.20575v1](http://arxiv.org/abs/2603.20575v1)|null|null|
+|**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428v1](http://arxiv.org/abs/2603.20428v1)|null|null|
 |**2026-03-20**|**Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation**|Nassim Ali Ousalah et.al.|[2603.19961v1](http://arxiv.org/abs/2603.19961v1)|null|null|
 |**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770v1](http://arxiv.org/abs/2603.19770v1)|null|null|
 |**2026-03-20**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Weisheng Xu et.al.|[2603.19709v1](http://arxiv.org/abs/2603.19709v1)|null|null|

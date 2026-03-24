@@ -4,16 +4,17 @@ layout: default
 
 ## Theory of Mind and Dialogue Agents
 
-### Updated on 2026.03.23
+### Updated on 2026.03.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-21**|**BenchBench: Benchmarking Automated Benchmark Generation**|Yandan Zheng et.al.|[2603.20807v1](http://arxiv.org/abs/2603.20807v1)|null|null|
 |**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170v1](http://arxiv.org/abs/2603.20170v1)|null|null|
 |**2026-03-19**|**Proceedings of the 2nd Workshop on Advancing Artificial Intelligence through Theory of Mind**|Nitay Alon et.al.|[2603.18786v1](http://arxiv.org/abs/2603.18786v1)|null|null|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|null|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|null|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|null|
-|**2026-03-17**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v1](http://arxiv.org/abs/2603.16496v1)|null|[🤗👍12](https://huggingface.co/papers/2603.16496)|
+|**2026-03-17**|**AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents**|Shannan Yan et.al.|[2603.16496v1](http://arxiv.org/abs/2603.16496v1)|null|[🤗👍13](https://huggingface.co/papers/2603.16496)|
 |**2026-03-17**|**Adaptive Theory of Mind for LLM-based Multi-Agent Coordination**|Chunjiang Mu et.al.|[2603.16264v1](http://arxiv.org/abs/2603.16264v1)|null|null|
 |**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|null|
 |**2026-03-15**|**Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models**|Thuy Ngoc Nguyen et.al.|[2603.14646v1](http://arxiv.org/abs/2603.14646v1)|null|null|
