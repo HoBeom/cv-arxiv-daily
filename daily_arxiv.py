@@ -53,13 +53,15 @@ def _requests_session() -> requests.Session:
 _SESSION = _requests_session()
 
 
-def _get_json_safe(url: str, retries: int = 3, backoff: float = 2.0):
+def _get_json_safe(url: str, retries: int = 4, backoff: float = 60.0):
     for attempt in range(retries):
         try:
             resp = _SESSION.get(url, timeout=10)
             if resp.status_code == 429:
-                wait = backoff * (2**attempt)
-                logging.warning('HTTP 429 on %s — waiting %.0fs', url, wait)
+                wait = backoff * (2**attempt)  # 60, 120, 240, 480
+                logging.warning(
+                    'HTTP 429 on %s — waiting %.0fs (attempt %d/%d)', url,
+                    wait, attempt + 1, retries)
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
@@ -67,6 +69,7 @@ def _get_json_safe(url: str, retries: int = 3, backoff: float = 2.0):
         except Exception as e:
             logging.error('requests error on %s: %s', url, e)
             return None
+    logging.error('Max retries exceeded for %s', url)
     return None
 
 
@@ -260,6 +263,7 @@ def get_daily_papers(query='slam', max_results=2):
 
             if paper_key in content:
                 continue
+            time.sleep(1)  # rate limit: avoid 429
             try:
                 hf = get_hf_paper_info(paper_key)
                 code_cell = (f'[link]({hf["repo_url"]})'
@@ -288,57 +292,79 @@ def get_daily_papers(query='slam', max_results=2):
     return content
 
 
-def update_paper_links(filename):
-    """
-    weekly update paper links in json file
-    """
-    with open(filename, 'r') as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
+def _extract_date(contents: str) -> str:
+    """Extract date string from paper entry for sorting."""
+    import re
+    m = re.search(r'\*\*(\d{4}-\d{2}-\d{2})\*\*', contents)
+    return m.group(1) if m else '0000-00-00'
 
-        json_data = m.copy()
 
+def _apply_hf_info(paper_id, contents, needs_code, needs_hf):
+    """Fetch HF info and update a paper entry."""
+    hf = get_hf_paper_info(paper_id)
+    new_cont = contents
+
+    if needs_code and hf['repo_url']:
+        new_cont = new_cont.replace('|null|', f'|[link]({hf["repo_url"]})|', 1)
+        logging.info('ID=%s code=%s', paper_id, hf['repo_url'])
+
+    if needs_hf and hf['exists']:
+        hf_url = f'https://huggingface.co/papers/{paper_id}'
+        ups = hf['upvotes']
+        hf_cell = f'[\U0001F917\U0001F44D{ups}]({hf_url})'
+        new_cont = new_cont.rstrip('\n')
+        if new_cont.endswith('|null|'):
+            new_cont = new_cont[:-len('null|')] + hf_cell + '|\n'
+        elif new_cont.endswith('|'):
+            new_cont = new_cont[:-1] + hf_cell + '|\n'
+
+    return str(new_cont)
+
+
+def update_paper_links_all(json_file_path: dict):
+    """Update paper links across ALL topic files, newest papers first."""
+    # Load all files
+    file_data = {}
+    for topic, filepath in json_file_path.items():
+        try:
+            with open(filepath, 'r') as f:
+                content = f.read()
+            file_data[filepath] = json.loads(content) if content else {}
+        except FileNotFoundError:
+            file_data[filepath] = {}
+
+    # Collect pending papers across all files/topics
+    pending = []
+    for filepath, json_data in file_data.items():
         for keywords, v in json_data.items():
-            logging.info(f'{keywords=}')
             for paper_id, contents in v.items():
                 contents = str(contents)
-
                 needs_code = '|null|' in contents
                 needs_hf = 'huggingface.co/papers' not in contents
                 if not needs_code and not needs_hf:
                     continue
+                date = _extract_date(contents)
+                pending.append((date, filepath, keywords, paper_id, contents,
+                                needs_code, needs_hf))
 
-                logging.info(f'Requests:{paper_id=}')
-                try:
-                    new_cont = contents
-                    hf = get_hf_paper_info(paper_id)
+    # Sort newest first
+    pending.sort(key=lambda x: x[0], reverse=True)
+    logging.info('update_paper_links: %d papers to update across %d files',
+                 len(pending), len(file_data))
 
-                    if needs_code and hf['repo_url']:
-                        new_cont = new_cont.replace(
-                            '|null|', f'|[link]({hf["repo_url"]})|', 1)
-                        logging.info('ID=%s code=%s', paper_id, hf['repo_url'])
+    for date, filepath, keywords, paper_id, contents, nc, nh in pending:
+        logging.info('Requests: paper_id=%s date=%s topic=%s', paper_id, date,
+                     keywords)
+        time.sleep(1)
+        try:
+            new_cont = _apply_hf_info(paper_id, contents, nc, nh)
+            file_data[filepath][keywords][paper_id] = new_cont
+        except Exception as e:
+            logging.error(f'exception: {e} with id: {paper_id}')
 
-                    if needs_hf and hf['exists']:
-                        hf_url = ('https://huggingface.co'
-                                  f'/papers/{paper_id}')
-                        ups = hf['upvotes']
-                        hf_cell = (f'[\U0001F917\U0001F44D{ups}]'
-                                   f'({hf_url})')
-                        new_cont = new_cont.rstrip('\n')
-                        if new_cont.endswith('|null|'):
-                            new_cont = (
-                                new_cont[:-len('null|')] + hf_cell + '|\n')
-                        elif new_cont.endswith('|'):
-                            new_cont = (new_cont[:-1] + hf_cell + '|\n')
-
-                    json_data[keywords][paper_id] = str(new_cont)
-                except Exception as e:
-                    logging.error(f'exception: {e} with id: {paper_id}')
-        # dump to json file
-        with open(filename, 'w') as f:
+    # Write back all files
+    for filepath, json_data in file_data.items():
+        with open(filepath, 'w') as f:
             json.dump(json_data, f)
 
 
@@ -484,6 +510,10 @@ def demo(**config):
         for k, v in config['keywords'].items()
     }
 
+    # Update paper links mode: process all files at once, newest first
+    if config['update_paper_links']:
+        update_paper_links_all(json_file_path)
+
     for topic, query in keywords.items():
         logging.info(f'{topic=}')
         logging.info(f'{query=}')
@@ -496,9 +526,7 @@ def demo(**config):
         os.makedirs(os.path.dirname(md_file), exist_ok=True)
 
         if config['publish_readme']:
-            if config['update_paper_links']:
-                update_paper_links(json_file)
-            else:
+            if not config['update_paper_links']:
                 content = get_daily_papers(
                     query=query, max_results=max_results)
                 update_json_file(json_file, [{topic: content}])
