@@ -449,7 +449,7 @@ def json_to_md(filename, md_filename, task='', to_web=False, use_title=True):
 
 def format_keyword_name(keyword):
     """Format the keyword name to lowercase with spaces replaced by dashes."""
-    return keyword.lower().replace(' ', '-')
+    return keyword.lower().replace(' & ', '-and-').replace(' ', '-')
 
 
 def update_homepage(config, homepage_path='docs/index.md'):
