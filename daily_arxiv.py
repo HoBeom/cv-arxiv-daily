@@ -22,6 +22,8 @@ logging.info(f'Using script: {os.path.abspath(__file__)}')
 HF_PAPERS_API = 'https://huggingface.co/api/papers/'
 HF_CACHE_FILE = 'hf_cache/daily_papers.json'
 ALPHAXIV_API = 'https://api.alphaxiv.org/v2/papers/'
+ALPHAXIV_CACHE_FILE = 'hf_cache/alphaxiv_cache.json'
+ALPHAXIV_REFRESH_DAYS = 30
 
 ARXIV_API_URL = 'https://export.arxiv.org/api/query'
 DELAY_SECONDS = 5
@@ -245,19 +247,94 @@ def _load_hf_cache() -> dict:
     return _hf_cache
 
 
-def get_alphaxiv_code_url(paper_id: str):
-    """Fetch code URL from AlphaXiv API."""
+_alphaxiv_cache = None
+
+
+def _load_alphaxiv_cache() -> dict:
+    """Load AlphaXiv cache {paper_id: {upvotes, code_url, fetched_at}}."""
+    global _alphaxiv_cache
+    if _alphaxiv_cache is not None:
+        return _alphaxiv_cache
+    _alphaxiv_cache = {}
+    if os.path.exists(ALPHAXIV_CACHE_FILE):
+        try:
+            with open(ALPHAXIV_CACHE_FILE, 'r') as f:
+                _alphaxiv_cache = json.load(f)
+            logging.info('AlphaXiv cache: %d papers', len(_alphaxiv_cache))
+        except Exception as e:
+            logging.warning('Failed to load AlphaXiv cache: %s', e)
+    return _alphaxiv_cache
+
+
+def _save_alphaxiv_cache():
+    global _alphaxiv_cache
+    if _alphaxiv_cache is None:
+        return
+    os.makedirs(os.path.dirname(ALPHAXIV_CACHE_FILE), exist_ok=True)
+    with open(ALPHAXIV_CACHE_FILE, 'w') as f:
+        json.dump(_alphaxiv_cache, f, ensure_ascii=False)
+
+
+def get_alphaxiv_info(paper_id: str) -> dict:
+    """Fetch paper metadata from AlphaXiv API.
+
+    Returns {upvotes, code_url} or None on failure.
+    """
     url = ALPHAXIV_API + paper_id + '/metadata'
     r = _get_json_safe(url)
     if not r:
         return None
     try:
-        gh = r['data']['paper_group']['resources']['github']
-        if gh and gh.get('url'):
-            return gh['url']
+        pg = r['data']['paper_group']
+        metrics = pg.get('metrics', {})
+        gh = pg.get('resources', {}).get('github')
+        return {
+            'upvotes': metrics.get('public_total_votes', 0),
+            'code_url': gh['url'] if gh and gh.get('url') else None,
+            'fetched_at': datetime.datetime.now().isoformat(),
+        }
     except (KeyError, TypeError):
-        pass
-    return None
+        return None
+
+
+def get_alphaxiv_cached(paper_id: str, paper_date: str = '') -> dict:
+    """Get AlphaXiv info with caching.
+
+    Fetches from API only if:
+    - Not cached yet, or
+    - Paper is within ALPHAXIV_REFRESH_DAYS and cache is stale.
+    """
+    cache = _load_alphaxiv_cache()
+    cached = cache.get(paper_id)
+    today = datetime.datetime.now()
+
+    needs_refresh = False
+    if not cached:
+        needs_refresh = True
+    elif paper_date:
+        try:
+            pd = datetime.datetime.strptime(paper_date, '%Y-%m-%d')
+            age = (today - pd).days
+            if age <= ALPHAXIV_REFRESH_DAYS:
+                # Refresh if fetched more than 1 day ago
+                fetched = datetime.datetime.fromisoformat(
+                    cached.get('fetched_at', '2000-01-01'))
+                if (today - fetched).days >= 1:
+                    needs_refresh = True
+        except ValueError:
+            pass
+
+    if needs_refresh:
+        time.sleep(0.5)
+        info = get_alphaxiv_info(paper_id)
+        if info:
+            cache[paper_id] = info
+            return info
+        elif cached:
+            return cached
+        return None
+
+    return cached
 
 
 def get_hf_paper_info(paper_id: str) -> dict:
@@ -332,18 +409,14 @@ def get_daily_papers(query='slam', max_results=2):
                 code_url = result.code_url
                 if not code_url and cached:
                     code_url = cached.get('github_repo')
-                if not code_url:
-                    time.sleep(1)
-                    code_url = get_alphaxiv_code_url(paper_key)
+                # alphaxiv fallback for code
+                ax = get_alphaxiv_cached(paper_key, str(update_time))
+                if not code_url and ax and ax.get('code_url'):
+                    code_url = ax['code_url']
                 code_cell = (f'[link]({code_url})' if code_url else 'null')
-                # HF upvotes
-                if cached:
-                    hf_url = ('https://huggingface.co/papers/' + paper_key)
-                    ups = cached.get('upvotes', 0)
-                    hf_cell = (f'[\U0001F917\U0001F44D{ups}]'
-                               f'({hf_url})')
-                else:
-                    hf_cell = 'null'
+                # Stars: HF + AlphaXiv
+                stars_cell = _build_stars_cell(paper_key, cached,
+                                               str(update_time))
                 content[paper_key] = (
                     '|**{}**|**{}**|{} et.al.|[{}]({})|{}|{}|\n'.format(
                         update_time,
@@ -352,13 +425,31 @@ def get_daily_papers(query='slam', max_results=2):
                         paper_id,
                         paper_url,
                         code_cell,
-                        hf_cell,
+                        stars_cell,
                     ))
             except Exception as e:
                 logging.error(f'exception: {e} with id: {paper_key}')
         if idx != len(subqueries) - 1:
             time.sleep(5)
+    _save_alphaxiv_cache()
     return content
+
+
+def _build_stars_cell(paper_id, hf_cached, paper_date=''):
+    """Build the Stars column with HF + AlphaXiv links."""
+    parts = []
+    # HF upvotes
+    if hf_cached:
+        hf_url = f'https://huggingface.co/papers/{paper_id}'
+        ups = hf_cached.get('upvotes', 0)
+        parts.append(f'[\U0001F917\U0001F44D{ups}]({hf_url})')
+    # AlphaXiv upvotes
+    ax = get_alphaxiv_cached(paper_id, paper_date)
+    if ax:
+        ax_url = f'https://alphaxiv.org/abs/{paper_id}'
+        ax_ups = ax.get('upvotes', 0)
+        parts.append(f'[\u03B1X\u2191{ax_ups}]({ax_url})')
+    return ' '.join(parts) if parts else 'null'
 
 
 def _extract_date(contents: str) -> str:
@@ -368,43 +459,50 @@ def _extract_date(contents: str) -> str:
     return m.group(1) if m else '0000-00-00'
 
 
-def _update_entry(paper_id, contents, needs_code, needs_hf, cache):
-    """Update a paper entry: HF cache -> AlphaXiv fallback."""
-    new_cont = contents
-    cached = cache.get(paper_id)
+def _update_entry(paper_id,
+                  contents,
+                  needs_code,
+                  needs_stars,
+                  hf_cache,
+                  paper_date=''):
+    """Update a paper entry: code + stars (HF + AlphaXiv).
 
-    # --- code link ---
+    Entry format: |date|title|authors|pdf|code|stars|\\n
+    """
+    # Parse into columns
+    line = contents.rstrip('\n')
+    cols = line.split('|')
+    # cols: ['', date, title, authors, pdf, code, stars, '']
+    if len(cols) < 8:
+        return contents
+
+    # --- code link (col 5) ---
     if needs_code:
         code_url = None
-        if cached:
-            code_url = cached.get('github_repo')
-        if not code_url:
-            time.sleep(1)
-            code_url = get_alphaxiv_code_url(paper_id)
+        hf_cached = hf_cache.get(paper_id)
+        if hf_cached:
+            code_url = hf_cached.get('github_repo')
+        ax = get_alphaxiv_cached(paper_id, paper_date)
+        if not code_url and ax and ax.get('code_url'):
+            code_url = ax['code_url']
         if code_url:
-            new_cont = new_cont.replace('|null|', f'|[link]({code_url})|', 1)
+            cols[5] = f'[link]({code_url})'
 
-    # --- HF upvotes / link ---
-    if needs_hf and cached:
-        hf_url = f'https://huggingface.co/papers/{paper_id}'
-        ups = cached.get('upvotes', 0)
-        hf_cell = f'[\U0001F917\U0001F44D{ups}]({hf_url})'
-        new_cont = new_cont.rstrip('\n')
-        if new_cont.endswith('|null|'):
-            new_cont = (new_cont[:-len('null|')] + hf_cell + '|\n')
-        elif new_cont.endswith('|'):
-            new_cont = new_cont[:-1] + hf_cell + '|\n'
+    # --- stars (col 6) ---
+    if needs_stars:
+        hf_cached = hf_cache.get(paper_id)
+        cols[6] = _build_stars_cell(paper_id, hf_cached, paper_date)
 
-    return str(new_cont)
+    return '|'.join(cols) + '\n'
 
 
 def update_paper_links_all(json_file_path: dict):
-    """Update paper links across ALL topic files using HF cache.
+    """Update paper links across ALL topic files.
 
-    No API calls — uses only the pre-fetched HF daily papers cache.
-    Papers not in cache are skipped (not on HF daily papers).
+    Code links: HF cache -> AlphaXiv API.
+    Stars: HF upvotes + AlphaXiv upvotes (recent 30d refreshed).
     """
-    cache = _load_hf_cache()
+    hf_cache = _load_hf_cache()
 
     # Load all files
     file_data = {}
@@ -423,32 +521,26 @@ def update_paper_links_all(json_file_path: dict):
             for paper_id, contents in v.items():
                 contents = str(contents)
                 needs_code = '|null|' in contents
-                needs_hf = 'huggingface.co/papers' not in contents
-                if not needs_code and not needs_hf:
+                needs_stars = 'alphaxiv.org' not in contents
+                if not needs_code and not needs_stars:
                     continue
                 date = _extract_date(contents)
                 pending.append((date, filepath, keywords, paper_id, contents,
-                                needs_code, needs_hf))
+                                needs_code, needs_stars))
 
     # Sort newest first
     pending.sort(key=lambda x: x[0], reverse=True)
-
-    cache_hits = 0
-    api_calls = 0
-    for date, filepath, kw, pid, contents, nc, nh in pending:
-        if pid in cache:
-            cache_hits += 1
-        else:
-            api_calls += 1
-    logging.info('update_paper_links: %d papers (%d in cache, %d alphaxiv)',
-                 len(pending), cache_hits, api_calls)
+    logging.info('update_paper_links: %d papers to process', len(pending))
 
     for date, filepath, kw, pid, contents, nc, nh in pending:
         try:
-            new_cont = _update_entry(pid, contents, nc, nh, cache)
+            new_cont = _update_entry(pid, contents, nc, nh, hf_cache, date)
             file_data[filepath][kw][pid] = new_cont
         except Exception as e:
             logging.error(f'exception: {e} with id: {pid}')
+
+    # Save AlphaXiv cache
+    _save_alphaxiv_cache()
 
     # Write back all files
     for filepath, json_data in file_data.items():
