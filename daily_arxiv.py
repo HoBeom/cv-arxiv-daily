@@ -295,14 +295,26 @@ def get_daily_papers(query='slam', max_results=2):
 
             if paper_key in content:
                 continue
-            time.sleep(1)  # rate limit: avoid 429
             try:
-                hf = get_hf_paper_info(paper_key)
-                code_cell = (f'[link]({hf["repo_url"]})'
-                             if hf['repo_url'] else 'null')
-                if hf['exists']:
+                cache = _load_hf_cache()
+                cached = cache.get(paper_key)
+                # code link: cache -> HF API fallback
+                code_url = None
+                if cached and cached.get('github_repo'):
+                    code_url = cached['github_repo']
+                if not code_url and not cached:
+                    time.sleep(1)
+                    hf = get_hf_paper_info(paper_key)
+                    code_url = hf.get('repo_url')
+                    if hf.get('exists'):
+                        cached = {
+                            'upvotes': hf.get('upvotes', 0),
+                        }
+                code_cell = (f'[link]({code_url})' if code_url else 'null')
+                # HF upvotes
+                if cached:
                     hf_url = ('https://huggingface.co/papers/' + paper_key)
-                    ups = hf['upvotes']
+                    ups = cached.get('upvotes', 0)
                     hf_cell = (f'[\U0001F917\U0001F44D{ups}]'
                                f'({hf_url})')
                 else:
@@ -331,22 +343,27 @@ def _extract_date(contents: str) -> str:
     return m.group(1) if m else '0000-00-00'
 
 
-def _apply_hf_info(paper_id, contents, needs_code, needs_hf):
-    """Fetch HF info and update a paper entry."""
-    hf = get_hf_paper_info(paper_id)
+def _update_entry(paper_id, contents, needs_code, needs_hf, cache):
+    """Update a paper entry using HF cache only (no API calls)."""
     new_cont = contents
+    cached = cache.get(paper_id)
 
-    if needs_code and hf['repo_url']:
-        new_cont = new_cont.replace('|null|', f'|[link]({hf["repo_url"]})|', 1)
-        logging.info('ID=%s code=%s', paper_id, hf['repo_url'])
+    if not cached:
+        return contents  # not in HF daily papers, skip
 
-    if needs_hf and hf['exists']:
+    # --- code link ---
+    if needs_code and cached.get('github_repo'):
+        new_cont = new_cont.replace('|null|',
+                                    f'|[link]({cached["github_repo"]})|', 1)
+
+    # --- HF upvotes / link ---
+    if needs_hf:
         hf_url = f'https://huggingface.co/papers/{paper_id}'
-        ups = hf['upvotes']
+        ups = cached.get('upvotes', 0)
         hf_cell = f'[\U0001F917\U0001F44D{ups}]({hf_url})'
         new_cont = new_cont.rstrip('\n')
         if new_cont.endswith('|null|'):
-            new_cont = new_cont[:-len('null|')] + hf_cell + '|\n'
+            new_cont = (new_cont[:-len('null|')] + hf_cell + '|\n')
         elif new_cont.endswith('|'):
             new_cont = new_cont[:-1] + hf_cell + '|\n'
 
@@ -354,7 +371,13 @@ def _apply_hf_info(paper_id, contents, needs_code, needs_hf):
 
 
 def update_paper_links_all(json_file_path: dict):
-    """Update paper links across ALL topic files, newest papers first."""
+    """Update paper links across ALL topic files using HF cache.
+
+    No API calls — uses only the pre-fetched HF daily papers cache.
+    Papers not in cache are skipped (not on HF daily papers).
+    """
+    cache = _load_hf_cache()
+
     # Load all files
     file_data = {}
     for topic, filepath in json_file_path.items():
@@ -381,18 +404,23 @@ def update_paper_links_all(json_file_path: dict):
 
     # Sort newest first
     pending.sort(key=lambda x: x[0], reverse=True)
-    logging.info('update_paper_links: %d papers to update across %d files',
-                 len(pending), len(file_data))
 
-    for date, filepath, keywords, paper_id, contents, nc, nh in pending:
-        logging.info('Requests: paper_id=%s date=%s topic=%s', paper_id, date,
-                     keywords)
-        time.sleep(1)
+    cache_hits = 0
+    api_calls = 0
+    for date, filepath, kw, pid, contents, nc, nh in pending:
+        if pid in cache:
+            cache_hits += 1
+        else:
+            api_calls += 1
+    logging.info('update_paper_links: %d papers (%d in cache, %d skipped)',
+                 len(pending), cache_hits, api_calls)
+
+    for date, filepath, kw, pid, contents, nc, nh in pending:
         try:
-            new_cont = _apply_hf_info(paper_id, contents, nc, nh)
-            file_data[filepath][keywords][paper_id] = new_cont
+            new_cont = _update_entry(pid, contents, nc, nh, cache)
+            file_data[filepath][kw][pid] = new_cont
         except Exception as e:
-            logging.error(f'exception: {e} with id: {paper_id}')
+            logging.error(f'exception: {e} with id: {pid}')
 
     # Write back all files
     for filepath, json_data in file_data.items():
