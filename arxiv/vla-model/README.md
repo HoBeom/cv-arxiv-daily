@@ -4,19 +4,20 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|null|
-|**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991v1](http://arxiv.org/abs/2603.22991v1)|null|null|
-|**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|null|
-|**2026-03-24**|**Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models**|Ruixing Jin et.al.|[2603.22876v1](http://arxiv.org/abs/2603.22876v1)|null|null|
-|**2026-03-24**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846v1](http://arxiv.org/abs/2603.22846v1)|null|null|
-|**2026-03-24**|**SG-VLA: Learning Spatially-Grounded Vision-Language-Action Models for Mobile Manipulation**|Ruisen Tu et.al.|[2603.22760v1](http://arxiv.org/abs/2603.22760v1)|null|null|
-|**2026-03-23**|**DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models**|Zhide Zhong et.al.|[2603.22280v1](http://arxiv.org/abs/2603.22280v1)|null|null|
-|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126v1](http://arxiv.org/abs/2603.22126v1)|null|null|
-|**2026-03-23**|**VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models**|Zixuan Wang et.al.|[2603.22003v1](http://arxiv.org/abs/2603.22003v1)|null|null|
-|**2026-03-23**|**AI Token Futures Market: Commoditization of Compute and Derivatives Contract Design**|Yicai Xing et.al.|[2603.21690v1](http://arxiv.org/abs/2603.21690v1)|null|null|
-|**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Dongyoung Kim et.al.|[2603.21341v1](http://arxiv.org/abs/2603.21341v1)|null|[🤗👍21](https://huggingface.co/papers/2603.21341)|
-|**2026-03-21**|**RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models**|Zihao Zheng et.al.|[2603.20711v1](http://arxiv.org/abs/2603.20711v1)|null|null|
-|**2026-03-21**|**ROI-Driven Foveated Attention for Unified Egocentric Representations in Vision-Language-Action Systems**|Xinhai Sun et.al.|[2603.20668v1](http://arxiv.org/abs/2603.20668v1)|null|null|
+|**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23202)|
+|**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23117)|
+|**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991v1](http://arxiv.org/abs/2603.22991v1)|[link](https://github.com/Chengjt1999/VLA-IAP)|[αX↑0](https://alphaxiv.org/abs/2603.22991)|
+|**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22899)|
+|**2026-03-24**|**Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models**|Ruixing Jin et.al.|[2603.22876v1](http://arxiv.org/abs/2603.22876v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.22876)|
+|**2026-03-24**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846v1](http://arxiv.org/abs/2603.22846v1)|[link](https://github.com/wlqcode/CoMaTrack-Bench)|[αX↑0](https://alphaxiv.org/abs/2603.22846)|
+|**2026-03-24**|**SG-VLA: Learning Spatially-Grounded Vision-Language-Action Models for Mobile Manipulation**|Ruisen Tu et.al.|[2603.22760v1](http://arxiv.org/abs/2603.22760v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22760)|
+|**2026-03-23**|**DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models**|Zhide Zhong et.al.|[2603.22280v1](http://arxiv.org/abs/2603.22280v1)|[link](https://github.com/Livfour/DualCoT-VLA)|[αX↑3](https://alphaxiv.org/abs/2603.22280)|
+|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126v1](http://arxiv.org/abs/2603.22126v1)|[link](https://github.com/liveplex-cpu/robogate)|[αX↑1](https://alphaxiv.org/abs/2603.22126)|
+|**2026-03-23**|**VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models**|Zixuan Wang et.al.|[2603.22003v1](http://arxiv.org/abs/2603.22003v1)|[link](https://github.com/JIA-Lab-research/VP-VLA)|[αX↑3](https://alphaxiv.org/abs/2603.22003)|
+|**2026-03-23**|**AI Token Futures Market: Commoditization of Compute and Derivatives Contract Design**|Yicai Xing et.al.|[2603.21690v1](http://arxiv.org/abs/2603.21690v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.21690)|
+|**2026-03-22**|**RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models**|Dongyoung Kim et.al.|[2603.21341v1](http://arxiv.org/abs/2603.21341v1)|null|[🤗👍22](https://huggingface.co/papers/2603.21341) [αX↑2](https://alphaxiv.org/abs/2603.21341)|
+|**2026-03-21**|**RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models**|Zihao Zheng et.al.|[2603.20711v1](http://arxiv.org/abs/2603.20711v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.20711)|
+|**2026-03-21**|**ROI-Driven Foveated Attention for Unified Egocentric Representations in Vision-Language-Action Systems**|Xinhai Sun et.al.|[2603.20668v1](http://arxiv.org/abs/2603.20668v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.20668)|
 |**2026-03-21**|**StageCraft: Execution Aware Mitigation of Distractor and Obstruction Failures in VLA Models**|Kartikay Milind Pangaonkar et.al.|[2603.20659v1](http://arxiv.org/abs/2603.20659v1)|null|null|
 |**2026-03-21**|**Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models**|Zhilong Zhang et.al.|[2603.20607v1](http://arxiv.org/abs/2603.20607v1)|null|null|
 |**2026-03-20**|**Understanding Behavior Cloning with Action Quantization**|Haoqun Cao et.al.|[2603.20538](https://arxiv.org/abs/2603.20538)|null|[🤗👍1](https://huggingface.co/papers/2603.20538)|
