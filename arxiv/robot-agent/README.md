@@ -1,9 +1,12 @@
 ## Robot & Agent
 
-### Updated on 2026.03.24
+### Updated on 2026.03.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|null|
+|**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796v1](http://arxiv.org/abs/2603.22796v1)|null|null|
+|**2026-03-23**|**GIFT: Generalizing Intent for Flexible Test-Time Rewards**|Fin Amin et.al.|[2603.22574v1](http://arxiv.org/abs/2603.22574v1)|null|null|
 |**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126v1](http://arxiv.org/abs/2603.22126v1)|null|null|
 |**2026-03-23**|**Mind over Space: Can Multimodal Large Language Models Mentally Navigate?**|Qihui Zhu et.al.|[2603.21577v1](http://arxiv.org/abs/2603.21577v1)|null|null|
 |**2026-03-21**|**ROI-Driven Foveated Attention for Unified Egocentric Representations in Vision-Language-Action Systems**|Xinhai Sun et.al.|[2603.20668](https://arxiv.org/abs/2603.20668)|null|null|
@@ -12,7 +15,7 @@
 |**2026-03-20**|**Sense4HRI: A ROS 2 HRI Framework for Physiological Sensor Integration and Synchronized Logging**|Manuel Scheibl et.al.|[2603.19914](https://arxiv.org/abs/2603.19914)|null|null|
 |**2026-03-20**|**Embodied Science: Closing the Discovery Loop with Agentic Embodied AI**|Xiang Zhuang et.al.|[2603.19782v1](http://arxiv.org/abs/2603.19782v1)|null|null|
 |**2026-03-20**|**Legged Autonomous Surface Science In Analogue Environments (LASSIE): Making Every Robotic Step Count in Planetary Exploration**|Cristina G. Wilson et.al.|[2603.19661](https://arxiv.org/abs/2603.19661)|null|null|
-|**2026-03-20**|**Semantic Audio-Visual Navigation in Continuous Environments**|Yichen Zeng et.al.|[2603.19660v1](http://arxiv.org/abs/2603.19660v1)|[link](https://github.com/yichenzeng24/SAVN-CE)|[🤗👍0](https://huggingface.co/papers/2603.19660)|
+|**2026-03-20**|**Semantic Audio-Visual Navigation in Continuous Environments**|Yichen Zeng et.al.|[2603.19660v1](http://arxiv.org/abs/2603.19660v1)|[link](https://github.com/yichenzeng24/SAVN-CE)|[🤗👍1](https://huggingface.co/papers/2603.19660)|
 |**2026-03-20**|**CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation**|Haoyu Xi et.al.|[2603.19602](https://arxiv.org/abs/2603.19602)|null|null|
 |**2026-03-19**|**SOFTMAP: Sim2Real Soft Robot Forward Modeling via Topological Mesh Alignment and Physics Prior**|Ziyong Ma et.al.|[2603.19384](https://arxiv.org/abs/2603.19384)|null|null|
 |**2026-03-19**|**From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**|Zhuofan Li et.al.|[2603.19131v1](http://arxiv.org/abs/2603.19131v1)|null|null|

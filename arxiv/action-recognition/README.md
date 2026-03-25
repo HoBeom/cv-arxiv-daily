@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.03.24
+### Updated on 2026.03.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|null|
 |**2026-03-22**|**Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication**|Idris Zakariyya et.al.|[2603.21305v1](http://arxiv.org/abs/2603.21305v1)|null|null|
 |**2026-03-22**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v1](http://arxiv.org/abs/2603.21048v1)|null|null|
 |**2026-03-20**|**Subspace Kernel Learning on Tensor Sequences**|Lei Wang et.al.|[2603.19546v1](http://arxiv.org/abs/2603.19546v1)|null|null|

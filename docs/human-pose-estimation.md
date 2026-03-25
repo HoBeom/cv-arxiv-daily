@@ -4,14 +4,18 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.03.24
+### Updated on 2026.03.25
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|null|null|
+|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v1](http://arxiv.org/abs/2603.22792v1)|null|null|
+|**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|null|
+|**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631v1](http://arxiv.org/abs/2603.22631v1)|null|null|
 |**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193v1](http://arxiv.org/abs/2603.22193v1)|null|null|
 |**2026-03-22**|**Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing**|Haodong Zheng et.al.|[2603.21410v1](http://arxiv.org/abs/2603.21410v1)|null|null|
 |**2026-03-22**|**Geometrically Plausible Object Pose Refinement using Differentiable Simulation**|Anil Zeybek et.al.|[2603.20992v1](http://arxiv.org/abs/2603.20992v1)|null|null|
-|**2026-03-21**|**PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization**|Xiaoya Cheng et.al.|[2603.20778v1](http://arxiv.org/abs/2603.20778v1)|null|null|
+|**2026-03-24**|**PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization**|Xiaoya Cheng et.al.|[2603.20778v2](http://arxiv.org/abs/2603.20778v2)|null|null|
 |**2026-03-21**|**Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework**|Logan Banker et.al.|[2603.20575v1](http://arxiv.org/abs/2603.20575v1)|null|null|
 |**2026-03-20**|**Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis**|Jhacson Meza et.al.|[2603.20428v1](http://arxiv.org/abs/2603.20428v1)|null|null|
 |**2026-03-20**|**Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation**|Nassim Ali Ousalah et.al.|[2603.19961v1](http://arxiv.org/abs/2603.19961v1)|null|null|
