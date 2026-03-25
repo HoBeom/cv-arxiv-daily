@@ -21,6 +21,7 @@ logging.info(f'Using script: {os.path.abspath(__file__)}')
 
 HF_PAPERS_API = 'https://huggingface.co/api/papers/'
 HF_CACHE_FILE = 'hf_cache/daily_papers.json'
+ALPHAXIV_API = 'https://api.alphaxiv.org/v2/papers/'
 
 ARXIV_API_URL = 'https://export.arxiv.org/api/query'
 DELAY_SECONDS = 5
@@ -100,6 +101,20 @@ class ArxivPaper:
         self.comment = entry.get('arxiv_comment', None)
         self.updated = self._parse_date(entry.get('updated', ''))
         self.published = self._parse_date(entry.get('published', ''))
+        self.code_url = self._extract_code_url(entry)
+
+    @staticmethod
+    def _extract_code_url(entry: dict):
+        """Extract code URL from arxiv comment or links."""
+        comment = entry.get('arxiv_comment', '') or ''
+        # Authors often put "Code: https://github.com/..." in comment
+        m = re.search(
+            r'https?://github\.com/[^\s<>"\')\],;]+',
+            comment,
+        )
+        if m:
+            return m.group(0).rstrip('.')
+        return None
 
     @staticmethod
     def _parse_date(date_str: str) -> datetime.datetime:
@@ -230,6 +245,21 @@ def _load_hf_cache() -> dict:
     return _hf_cache
 
 
+def get_alphaxiv_code_url(paper_id: str):
+    """Fetch code URL from AlphaXiv API."""
+    url = ALPHAXIV_API + paper_id + '/metadata'
+    r = _get_json_safe(url)
+    if not r:
+        return None
+    try:
+        gh = r['data']['paper_group']['resources']['github']
+        if gh and gh.get('url'):
+            return gh['url']
+    except (KeyError, TypeError):
+        pass
+    return None
+
+
 def get_hf_paper_info(paper_id: str) -> dict:
     """Get paper info from cache first, then HF API as fallback.
 
@@ -298,18 +328,13 @@ def get_daily_papers(query='slam', max_results=2):
             try:
                 cache = _load_hf_cache()
                 cached = cache.get(paper_key)
-                # code link: cache -> HF API fallback
-                code_url = None
-                if cached and cached.get('github_repo'):
-                    code_url = cached['github_repo']
-                if not code_url and not cached:
+                # code: arxiv comment -> HF cache -> alphaxiv
+                code_url = result.code_url
+                if not code_url and cached:
+                    code_url = cached.get('github_repo')
+                if not code_url:
                     time.sleep(1)
-                    hf = get_hf_paper_info(paper_key)
-                    code_url = hf.get('repo_url')
-                    if hf.get('exists'):
-                        cached = {
-                            'upvotes': hf.get('upvotes', 0),
-                        }
+                    code_url = get_alphaxiv_code_url(paper_key)
                 code_cell = (f'[link]({code_url})' if code_url else 'null')
                 # HF upvotes
                 if cached:
@@ -344,20 +369,23 @@ def _extract_date(contents: str) -> str:
 
 
 def _update_entry(paper_id, contents, needs_code, needs_hf, cache):
-    """Update a paper entry using HF cache only (no API calls)."""
+    """Update a paper entry: HF cache -> AlphaXiv fallback."""
     new_cont = contents
     cached = cache.get(paper_id)
 
-    if not cached:
-        return contents  # not in HF daily papers, skip
-
     # --- code link ---
-    if needs_code and cached.get('github_repo'):
-        new_cont = new_cont.replace('|null|',
-                                    f'|[link]({cached["github_repo"]})|', 1)
+    if needs_code:
+        code_url = None
+        if cached:
+            code_url = cached.get('github_repo')
+        if not code_url:
+            time.sleep(1)
+            code_url = get_alphaxiv_code_url(paper_id)
+        if code_url:
+            new_cont = new_cont.replace('|null|', f'|[link]({code_url})|', 1)
 
     # --- HF upvotes / link ---
-    if needs_hf:
+    if needs_hf and cached:
         hf_url = f'https://huggingface.co/papers/{paper_id}'
         ups = cached.get('upvotes', 0)
         hf_cell = f'[\U0001F917\U0001F44D{ups}]({hf_url})'
@@ -412,7 +440,7 @@ def update_paper_links_all(json_file_path: dict):
             cache_hits += 1
         else:
             api_calls += 1
-    logging.info('update_paper_links: %d papers (%d in cache, %d skipped)',
+    logging.info('update_paper_links: %d papers (%d in cache, %d alphaxiv)',
                  len(pending), cache_hits, api_calls)
 
     for date, filepath, kw, pid, contents, nc, nh in pending:
