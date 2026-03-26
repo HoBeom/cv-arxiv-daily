@@ -4,15 +4,16 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484v1](http://arxiv.org/abs/2603.24484v1)|[link](https://github.com/Founce/VisionToM)|[αX↑0](https://alphaxiv.org/abs/2603.24484)|
 |**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717v2](http://arxiv.org/abs/2603.21717v2)|null|[αX↑0](https://alphaxiv.org/abs/2603.21717)|
-|**2026-03-23**|**MIND: Multi-agent inference for negotiation dialogue in travel planning**|Hunmin Do et.al.|[2603.21696v1](http://arxiv.org/abs/2603.21696v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.21696)|
+|**2026-03-23**|**MIND: Multi-agent inference for negotiation dialogue in travel planning**|Hunmin Do et.al.|[2603.21696v1](http://arxiv.org/abs/2603.21696v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.21696)|
 |**2026-03-21**|**BenchBench: Benchmarking Automated Benchmark Generation**|Yandan Zheng et.al.|[2603.20807v1](http://arxiv.org/abs/2603.20807v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.20807)|
-|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170v1](http://arxiv.org/abs/2603.20170v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.20170)|
+|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170v1](http://arxiv.org/abs/2603.20170v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.20170)|
 |**2026-03-19**|**Proceedings of the 2nd Workshop on Advancing Artificial Intelligence through Theory of Mind**|Nitay Alon et.al.|[2603.18786v1](http://arxiv.org/abs/2603.18786v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18786)|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|null|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.18304)|
-|**2026-03-17**|**Adaptive Theory of Mind for LLM-based Multi-Agent Coordination**|Chunjiang Mu et.al.|[2603.16264v1](http://arxiv.org/abs/2603.16264v1)|[link](https://github.com/ChunjiangMonkey/Adaptive-ToM)|[αX↑3](https://alphaxiv.org/abs/2603.16264)|
-|**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.15121)|
+|**2026-03-17**|**Adaptive Theory of Mind for LLM-based Multi-Agent Coordination**|Chunjiang Mu et.al.|[2603.16264v1](http://arxiv.org/abs/2603.16264v1)|[link](https://github.com/ChunjiangMonkey/Adaptive-ToM)|[αX↑4](https://alphaxiv.org/abs/2603.16264)|
+|**2026-03-16**|**Establishing Construct Validity in LLM Capability Benchmarks Requires Nomological Networks**|Timo Freiesleben et.al.|[2603.15121v1](http://arxiv.org/abs/2603.15121v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.15121)|
 |**2026-03-15**|**Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models**|Thuy Ngoc Nguyen et.al.|[2603.14646v1](http://arxiv.org/abs/2603.14646v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.14646)|
 |**2026-03-12**|**CoMMET: To What Extent Can LLMs Perform Theory of Mind Tasks?**|Ruirui Chen et.al.|[2603.11915v1](http://arxiv.org/abs/2603.11915v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.11915)|
 |**2026-03-12**|**ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**|Songlin Yang et.al.|[2603.11421v1](http://arxiv.org/abs/2603.11421v1)|[link](https://github.com/Songlin1998/ShotVerse)|[🤗👍34](https://huggingface.co/papers/2603.11421)|
