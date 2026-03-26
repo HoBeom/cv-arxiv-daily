@@ -1,14 +1,15 @@
 ## Human Pose Estimation
 
-### Updated on 2026.03.25
+### Updated on 2026.03.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995v1](http://arxiv.org/abs/2603.23995v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23995)|
 |**2026-03-24**|**Object Pose Transformer: Unifying Unseen Object Pose Estimation**|Weihang Li et.al.|[2603.23370v1](http://arxiv.org/abs/2603.23370v1)|[link](https://github.com/colin-de/OPT-Pose)|[αX↑0](https://alphaxiv.org/abs/2603.23370)|
 |**2026-03-24**|**PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals**|Jesse F. d'Almeida et.al.|[2603.23365v1](http://arxiv.org/abs/2603.23365v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23365)|
 |**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v1](http://arxiv.org/abs/2603.23324v1)|[link](https://github.com/zcq15/PFGS360)|[αX↑0](https://alphaxiv.org/abs/2603.23324)|
 |**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|[link](https://github.com/roth-hex-lab/IEEE-VR-2026-MultiCam)|[αX↑0](https://alphaxiv.org/abs/2603.22839)|
-|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v1](http://arxiv.org/abs/2603.22792v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22792)|
+|**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v2](http://arxiv.org/abs/2603.22792v2)|null|[αX↑0](https://alphaxiv.org/abs/2603.22792)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631v1](http://arxiv.org/abs/2603.22631v1)|[link](https://github.com/nam1410/cam3r)|[αX↑0](https://alphaxiv.org/abs/2603.22631)|
 |**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193v1](http://arxiv.org/abs/2603.22193v1)|[link](https://github.com/GasaiYU/PAM)|[αX↑4](https://alphaxiv.org/abs/2603.22193)|

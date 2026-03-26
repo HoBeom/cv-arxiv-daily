@@ -1,9 +1,10 @@
 ## Vision Language Action Model
 
-### Updated on 2026.03.25
+### Updated on 2026.03.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al.|[2603.24060v1](http://arxiv.org/abs/2603.24060v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24060)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23202)|
 |**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23117)|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991v1](http://arxiv.org/abs/2603.22991v1)|[link](https://github.com/Chengjt1999/VLA-IAP)|[αX↑0](https://alphaxiv.org/abs/2603.22991)|

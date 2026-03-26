@@ -4,10 +4,15 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.03.25
+### Updated on 2026.03.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Adidev Jhunjhunwala et.al.|[2603.24350v1](http://arxiv.org/abs/2603.24350v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24350)|
+|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24328)|
+|**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257v1](http://arxiv.org/abs/2603.24257v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24257)|
+|**2026-03-25**|**ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**|Bingqing Wei et.al.|[2603.24018v1](http://arxiv.org/abs/2603.24018v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24018)|
+|**2026-03-25**|**See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning**|Yuxi Wei et.al.|[2603.23864v1](http://arxiv.org/abs/2603.23864v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23864)|
 |**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23227)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23202)|
 |**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22899)|

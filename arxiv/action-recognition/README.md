@@ -1,9 +1,14 @@
 ## Action Recognition
 
-### Updated on 2026.03.25
+### Updated on 2026.03.26
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245v1](http://arxiv.org/abs/2603.24245v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24245)|
+|**2026-03-25**|**Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2603.24134v1](http://arxiv.org/abs/2603.24134v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24134)|
+|**2026-03-25**|**LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation**|Haoyu Ji et.al.|[2603.24097v1](http://arxiv.org/abs/2603.24097v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24097)|
+|**2026-03-25**|**Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2603.24030v1](http://arxiv.org/abs/2603.24030v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24030)|
+|**2026-03-25**|**CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning**|Hieu Hoang et.al.|[2603.23988v1](http://arxiv.org/abs/2603.23988v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23988)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-22**|**Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication**|Idris Zakariyya et.al.|[2603.21305v1](http://arxiv.org/abs/2603.21305v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.21305)|
 |**2026-03-22**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v1](http://arxiv.org/abs/2603.21048v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.21048)|
