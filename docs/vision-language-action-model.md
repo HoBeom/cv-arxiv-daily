@@ -4,13 +4,23 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.03.26
+### Updated on 2026.03.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v1](http://arxiv.org/abs/2603.25741v1)|[link](https://github.com/zuosc19/Vega)|[αX↑0](https://alphaxiv.org/abs/2603.25741)|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740v1](http://arxiv.org/abs/2603.25740v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25740)|
+|**2026-03-26**|**Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance**|Wenxuan Song et.al.|[2603.25661v1](http://arxiv.org/abs/2603.25661v1)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑1](https://alphaxiv.org/abs/2603.25661)|
+|**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481v1](http://arxiv.org/abs/2603.25481v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25481)|
+|**2026-03-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al.|[2603.25406v1](http://arxiv.org/abs/2603.25406v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25406)|
+|**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399v1](http://arxiv.org/abs/2603.25399v1)|[link](https://github.com/SummerWXK/lamp-project-page)|[αX↑0](https://alphaxiv.org/abs/2603.25399)|
+|**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al.|[2603.25044v1](http://arxiv.org/abs/2603.25044v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25044)|
+|**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038v1](http://arxiv.org/abs/2603.25038v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25038)|
+|**2026-03-26**|**Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models**|Peiju Liu et.al.|[2603.24941v1](http://arxiv.org/abs/2603.24941v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24941)|
+|**2026-03-26**|**SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models**|Xiyang Wu et.al.|[2603.24935v1](http://arxiv.org/abs/2603.24935v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24935)|
 |**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584v1](http://arxiv.org/abs/2603.24584v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24584)|
 |**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Bin Yu et.al.|[2603.24393v1](http://arxiv.org/abs/2603.24393v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24393)|
-|**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al.|[2603.24060v1](http://arxiv.org/abs/2603.24060v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24060)|
+|**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al.|[2603.24060v1](http://arxiv.org/abs/2603.24060v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24060)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.23202)|
 |**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23117)|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991v1](http://arxiv.org/abs/2603.22991v1)|[link](https://github.com/Chengjt1999/VLA-IAP)|[αX↑1](https://alphaxiv.org/abs/2603.22991)|

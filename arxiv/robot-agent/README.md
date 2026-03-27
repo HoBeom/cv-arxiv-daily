@@ -1,13 +1,19 @@
 ## Robot & Agent
 
-### Updated on 2026.03.26
+### Updated on 2026.03.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725v1](http://arxiv.org/abs/2603.25725v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25725)|
+|**2026-03-26**|**Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition**|Yuyang Xiao et.al.|[2603.25583v1](http://arxiv.org/abs/2603.25583v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25583)|
+|**2026-03-26**|**VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents**|George Eskandar et.al.|[2603.25420v1](http://arxiv.org/abs/2603.25420v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25420)|
+|**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble et.al.|[2603.25415v1](http://arxiv.org/abs/2603.25415v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25415)|
+|**2026-03-25**|**FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions**|Xirui Shi et.al.|[2603.24806v1](http://arxiv.org/abs/2603.24806v1)|[link](https://github.com/hca-lab-UofAlberta/FODMP)|[αX↑0](https://alphaxiv.org/abs/2603.24806)|
+|**2026-03-25**|**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**|Shengli Zhou et.al.|[2603.24721v1](http://arxiv.org/abs/2603.24721v1)|[link](https://github.com/fz-zsl/QuatRoPE)|[αX↑0](https://alphaxiv.org/abs/2603.24721)|
 |**2026-03-25**|**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**|Xinying Guo et.al.|[2603.24576v1](http://arxiv.org/abs/2603.24576v1)|[link](https://github.com/gxyes/MARS_Chameleon)|[αX↑1](https://alphaxiv.org/abs/2603.24576)|
-|**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Adidev Jhunjhunwala et.al.|[2603.24350v1](http://arxiv.org/abs/2603.24350v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24350)|
+|**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Adidev Jhunjhunwala et.al.|[2603.24350v1](http://arxiv.org/abs/2603.24350v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24350)|
 |**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24328)|
-|**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257v1](http://arxiv.org/abs/2603.24257v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24257)|
+|**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257v1](http://arxiv.org/abs/2603.24257v1)|[link](https://github.com/hsp-iit/epos-vlm)|[αX↑2](https://alphaxiv.org/abs/2603.24257)|
 |**2026-03-25**|**ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**|Bingqing Wei et.al.|[2603.24018v1](http://arxiv.org/abs/2603.24018v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24018)|
 |**2026-03-25**|**See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning**|Yuxi Wei et.al.|[2603.23864v1](http://arxiv.org/abs/2603.23864v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23864)|
 |**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.23227)|

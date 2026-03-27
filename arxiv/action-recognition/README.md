@@ -1,14 +1,16 @@
 ## Action Recognition
 
-### Updated on 2026.03.26
+### Updated on 2026.03.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245v1](http://arxiv.org/abs/2603.24245v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24245)|
-|**2026-03-25**|**Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2603.24134v1](http://arxiv.org/abs/2603.24134v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24134)|
-|**2026-03-25**|**LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation**|Haoyu Ji et.al.|[2603.24097v1](http://arxiv.org/abs/2603.24097v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24097)|
-|**2026-03-25**|**Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2603.24030v1](http://arxiv.org/abs/2603.24030v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24030)|
-|**2026-03-25**|**CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning**|Hieu Hoang et.al.|[2603.23988v1](http://arxiv.org/abs/2603.23988v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23988)|
+|**2026-03-26**|**CHIRP dataset: towards long-term, individual-level, behavioral monitoring of bird populations in the wild**|Alex Hoi Hang Chan et.al.|[2603.25524v1](http://arxiv.org/abs/2603.25524v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25524)|
+|**2026-03-26**|**AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation**|Md Mushfiqur Azam et.al.|[2603.25175v1](http://arxiv.org/abs/2603.25175v1)|[link](https://github.com/Mushfiq5647/AG-EgoPose)|[αX↑0](https://alphaxiv.org/abs/2603.25175)|
+|**2026-03-25**|**B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition**|Nishit Poddar et.al.|[2603.24245v1](http://arxiv.org/abs/2603.24245v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.24245)|
+|**2026-03-25**|**Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation**|Haoyu Ji et.al.|[2603.24134v1](http://arxiv.org/abs/2603.24134v1)|[link](https://github.com/HaoyuJi/SpecScalpel)|[αX↑4](https://alphaxiv.org/abs/2603.24134)|
+|**2026-03-25**|**LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation**|Haoyu Ji et.al.|[2603.24097v1](http://arxiv.org/abs/2603.24097v1)|[link](https://github.com/HaoyuJi/LaDy)|[αX↑3](https://alphaxiv.org/abs/2603.24097)|
+|**2026-03-25**|**Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2603.24030v1](http://arxiv.org/abs/2603.24030v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.24030)|
+|**2026-03-25**|**CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning**|Hieu Hoang et.al.|[2603.23988v1](http://arxiv.org/abs/2603.23988v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.23988)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-22**|**Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication**|Idris Zakariyya et.al.|[2603.21305v1](http://arxiv.org/abs/2603.21305v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.21305)|
 |**2026-03-22**|**A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors**|Gia-Bao Doan et.al.|[2603.21048v1](http://arxiv.org/abs/2603.21048v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.21048)|
@@ -37,7 +39,7 @@
 |**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718v1](http://arxiv.org/abs/2602.05718v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.05718)|
 |**2026-02-02**|**WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?**|Pei Li et.al.|[2602.01850v1](http://arxiv.org/abs/2602.01850v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.01850)|
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257v1](http://arxiv.org/abs/2602.01257v1)|null|[αX↑4](https://alphaxiv.org/abs/2602.01257)|
-|**2026-01-28**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v1](http://arxiv.org/abs/2601.21078v1)|null|[αX↑6](https://alphaxiv.org/abs/2601.21078)|
+|**2026-03-25**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v2](http://arxiv.org/abs/2601.21078v2)|null|[αX↑6](https://alphaxiv.org/abs/2601.21078)|
 |**2026-02-23**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v2](http://arxiv.org/abs/2601.16210v2)|null|[αX↑22](https://alphaxiv.org/abs/2601.16210)|
 |**2025-12-22**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v2](http://arxiv.org/abs/2512.16504v2)|null|[αX↑2](https://alphaxiv.org/abs/2512.16504)|
 |**2025-12-12**|**Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization**|Anh-Kiet Duong et.al.|[2512.11189v1](http://arxiv.org/abs/2512.11189v1)|null|[αX↑0](https://alphaxiv.org/abs/2512.11189)|

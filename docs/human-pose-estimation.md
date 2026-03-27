@@ -4,14 +4,21 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.03.26
+### Updated on 2026.03.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995v1](http://arxiv.org/abs/2603.23995v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23995)|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726v1](http://arxiv.org/abs/2603.25726v1)|[link](https://github.com/chen-si-cs/AnyHand)|[αX↑0](https://alphaxiv.org/abs/2603.25726)|
+|**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555v1](http://arxiv.org/abs/2603.25555v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25555)|
+|**2026-03-26**|**CHIRP dataset: towards long-term, individual-level, behavioral monitoring of bird populations in the wild**|Alex Hoi Hang Chan et.al.|[2603.25524v1](http://arxiv.org/abs/2603.25524v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25524)|
+|**2026-03-26**|**Training-free Detection and 6D Pose Estimation of Unseen Surgical Instruments**|Jonas Hein et.al.|[2603.25228v1](http://arxiv.org/abs/2603.25228v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25228)|
+|**2026-03-26**|**AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation**|Md Mushfiqur Azam et.al.|[2603.25175v1](http://arxiv.org/abs/2603.25175v1)|[link](https://github.com/Mushfiq5647/AG-EgoPose)|[αX↑0](https://alphaxiv.org/abs/2603.25175)|
+|**2026-03-26**|**EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions**|Taegyoon Yoon et.al.|[2603.25135v1](http://arxiv.org/abs/2603.25135v1)|[link](https://github.com/taegyoun88/EgoXtreme)|[αX↑0](https://alphaxiv.org/abs/2603.25135)|
+|**2026-03-25**|**OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video**|Selim Gilon et.al.|[2603.24733v1](http://arxiv.org/abs/2603.24733v1)|[link](https://github.com/utahmobl/opencap-monocular)|[αX↑0](https://alphaxiv.org/abs/2603.24733)|
+|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995v1](http://arxiv.org/abs/2603.23995v1)|[link](https://github.com/junhengl/mirror)|[αX↑2](https://alphaxiv.org/abs/2603.23995)|
 |**2026-03-24**|**Object Pose Transformer: Unifying Unseen Object Pose Estimation**|Weihang Li et.al.|[2603.23370v1](http://arxiv.org/abs/2603.23370v1)|[link](https://github.com/colin-de/OPT-Pose)|[αX↑3](https://alphaxiv.org/abs/2603.23370)|
 |**2026-03-24**|**PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals**|Jesse F. d'Almeida et.al.|[2603.23365v1](http://arxiv.org/abs/2603.23365v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.23365)|
-|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v1](http://arxiv.org/abs/2603.23324v1)|[link](https://github.com/zcq15/PFGS360)|[αX↑0](https://alphaxiv.org/abs/2603.23324)|
+|**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v2](http://arxiv.org/abs/2603.23324v2)|[link](https://github.com/zcq15/PFGS360)|[αX↑0](https://alphaxiv.org/abs/2603.23324)|
 |**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|[link](https://github.com/roth-hex-lab/IEEE-VR-2026-MultiCam)|[αX↑1](https://alphaxiv.org/abs/2603.22839)|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v2](http://arxiv.org/abs/2603.22792v2)|null|[αX↑1](https://alphaxiv.org/abs/2603.22792)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22690)|
