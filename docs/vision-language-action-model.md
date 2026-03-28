@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.03.27
+### Updated on 2026.03.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -18,11 +18,11 @@ layout: default
 |**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038v1](http://arxiv.org/abs/2603.25038v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25038)|
 |**2026-03-26**|**Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models**|Peiju Liu et.al.|[2603.24941v1](http://arxiv.org/abs/2603.24941v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24941)|
 |**2026-03-26**|**SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models**|Xiyang Wu et.al.|[2603.24935v1](http://arxiv.org/abs/2603.24935v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24935)|
-|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584v1](http://arxiv.org/abs/2603.24584v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24584)|
-|**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Bin Yu et.al.|[2603.24393v1](http://arxiv.org/abs/2603.24393v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24393)|
+|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584v1](http://arxiv.org/abs/2603.24584v1)|null|[αX↑17](https://alphaxiv.org/abs/2603.24584)|
+|**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Bin Yu et.al.|[2603.24393v1](http://arxiv.org/abs/2603.24393v1)|[link](https://github.com/ZGC-EmbodyAI/3DMix-for-VLA)|[αX↑10](https://alphaxiv.org/abs/2603.24393)|
 |**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al.|[2603.24060v1](http://arxiv.org/abs/2603.24060v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24060)|
-|**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.23202)|
-|**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23117)|
+|**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.23202)|
+|**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang et.al.|[2603.23117v1](http://arxiv.org/abs/2603.23117v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.23117)|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991v1](http://arxiv.org/abs/2603.22991v1)|[link](https://github.com/Chengjt1999/VLA-IAP)|[αX↑1](https://alphaxiv.org/abs/2603.22991)|
 |**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.22899)|
 |**2026-03-24**|**Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models**|Ruixing Jin et.al.|[2603.22876v1](http://arxiv.org/abs/2603.22876v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22876)|

@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.03.27
+### Updated on 2026.03.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -14,18 +14,18 @@ layout: default
 |**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble et.al.|[2603.25415v1](http://arxiv.org/abs/2603.25415v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25415)|
 |**2026-03-25**|**FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions**|Xirui Shi et.al.|[2603.24806v1](http://arxiv.org/abs/2603.24806v1)|[link](https://github.com/hca-lab-UofAlberta/FODMP)|[αX↑0](https://alphaxiv.org/abs/2603.24806)|
 |**2026-03-25**|**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**|Shengli Zhou et.al.|[2603.24721v1](http://arxiv.org/abs/2603.24721v1)|[link](https://github.com/fz-zsl/QuatRoPE)|[αX↑0](https://alphaxiv.org/abs/2603.24721)|
-|**2026-03-25**|**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**|Xinying Guo et.al.|[2603.24576v1](http://arxiv.org/abs/2603.24576v1)|[link](https://github.com/gxyes/MARS_Chameleon)|[αX↑1](https://alphaxiv.org/abs/2603.24576)|
+|**2026-03-25**|**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**|Xinying Guo et.al.|[2603.24576v1](http://arxiv.org/abs/2603.24576v1)|[link](https://github.com/gxyes/MARS_Chameleon)|[αX↑11](https://alphaxiv.org/abs/2603.24576)|
 |**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Adidev Jhunjhunwala et.al.|[2603.24350v1](http://arxiv.org/abs/2603.24350v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24350)|
 |**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24328)|
 |**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257v1](http://arxiv.org/abs/2603.24257v1)|[link](https://github.com/hsp-iit/epos-vlm)|[αX↑2](https://alphaxiv.org/abs/2603.24257)|
 |**2026-03-25**|**ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**|Bingqing Wei et.al.|[2603.24018v1](http://arxiv.org/abs/2603.24018v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24018)|
 |**2026-03-25**|**See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning**|Yuxi Wei et.al.|[2603.23864v1](http://arxiv.org/abs/2603.23864v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23864)|
-|**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.23227)|
+|**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|[link](https://github.com/zql-kk/E3Flow)|[αX↑3](https://alphaxiv.org/abs/2603.23227)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.23202)|
 |**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.22899)|
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796v1](http://arxiv.org/abs/2603.22796v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22796)|
 |**2026-03-23**|**GIFT: Generalizing Intent for Flexible Test-Time Rewards**|Fin Amin et.al.|[2603.22574v1](http://arxiv.org/abs/2603.22574v1)|[link](https://github.com/MIT-CLEAR-Lab/GIFT)|[αX↑0](https://alphaxiv.org/abs/2603.22574)|
-|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126v1](http://arxiv.org/abs/2603.22126v1)|[link](https://github.com/liveplex-cpu/robogate)|[αX↑1](https://alphaxiv.org/abs/2603.22126)|
+|**2026-03-23**|**ROBOGATE: Adaptive Failure Discovery for Safe Robot Policy Deployment via Two-Stage Boundary-Focused Sampling**|Byungjin Kim et.al.|[2603.22126v1](http://arxiv.org/abs/2603.22126v1)|[link](https://github.com/liveplex-cpu/robogate)|[αX↑2](https://alphaxiv.org/abs/2603.22126)|
 |**2026-03-23**|**Mind over Space: Can Multimodal Large Language Models Mentally Navigate?**|Qihui Zhu et.al.|[2603.21577v1](http://arxiv.org/abs/2603.21577v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.21577)|
 |**2026-03-21**|**ROI-Driven Foveated Attention for Unified Egocentric Representations in Vision-Language-Action Systems**|Xinhai Sun et.al.|[2603.20668](https://arxiv.org/abs/2603.20668)|null|null|
 |**2026-03-20**|**Multi-Robot Learning-Informed Task Planning Under Uncertainty**|Abhish Khanal et.al.|[2603.20544v1](http://arxiv.org/abs/2603.20544v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.20544)|
@@ -43,7 +43,7 @@ layout: default
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520](https://arxiv.org/abs/2603.18520)|null|null|
 |**2026-03-19**|**MemoAct: Atkinson-Shiffrin-Inspired Memory-Augmented Visuomotor Policy for Robotic Manipulation**|Liufan Tan et.al.|[2603.18494v1](http://arxiv.org/abs/2603.18494v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.18494)|
 |**2026-03-18**|**HRI-SA: A Multimodal Dataset for Online Assessment of Human Situational Awareness during Remote Human-Robot Teaming**|Hashini Senaratne et.al.|[2603.18344](https://arxiv.org/abs/2603.18344)|null|null|
-|**2026-03-18**|**Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model**|Yanchuan Tang et.al.|[2603.18342v1](http://arxiv.org/abs/2603.18342v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.18342)|
+|**2026-03-18**|**Shifting Uncertainty to Critical Moments: Towards Reliable Uncertainty Quantification for VLA Model**|Yanchuan Tang et.al.|[2603.18342v1](http://arxiv.org/abs/2603.18342v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.18342)|
 |**2026-03-18**|**Final Report for the Workshop on Robotics & AI in Medicine**|Juan P Wachs et.al.|[2603.18130](https://arxiv.org/abs/2603.18130)|null|null|
 |**2026-03-18**|**DexViTac: Collecting Human Visuo-Tactile-Kinematic Demonstrations for Contact-Rich Dexterous Manipulation**|Xitong Chen et.al.|[2603.17851v1](http://arxiv.org/abs/2603.17851v1)|null|null|
 |**2026-03-18**|**Consistency-Driven Dual LSTM Models for Kinematic Control of a Wearable Soft Robotic Arm**|Xingyu Chen et.al.|[2603.17672](https://arxiv.org/abs/2603.17672)|null|null|
@@ -51,8 +51,8 @@ layout: default
 |**2026-03-18**|**Grid Spatial Understanding: A Dataset for Textual Spatial Reasoning over Grids, Embodied Settings, and Coordinate Structures**|Risham Sidhu et.al.|[2603.17333v1](http://arxiv.org/abs/2603.17333v1)|null|null|
 |**2026-03-18**|**DexEXO: A Wearability-First Dexterous Exoskeleton for Operator-Agnostic Demonstration and Learning**|Alvin Zhu et.al.|[2603.17323v1](http://arxiv.org/abs/2603.17323v1)|null|null|
 |**2026-03-18**|**Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress**|Yuelin Zhang et.al.|[2603.17312](https://arxiv.org/abs/2603.17312)|null|null|
-|**2026-03-18**|**ReSteer: Quantifying and Refining the Steerability of Multitask Robot Policies**|Zhenyang Chen et.al.|[2603.17300v1](http://arxiv.org/abs/2603.17300v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.17300)|
-|**2026-03-21**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240v2](http://arxiv.org/abs/2603.17240v2)|[link](https://github.com/open-gigaai/giga-world-policy)|[🤗👍24](https://huggingface.co/papers/2603.17240) [αX↑49](https://alphaxiv.org/abs/2603.17240)|
+|**2026-03-18**|**ReSteer: Quantifying and Refining the Steerability of Multitask Robot Policies**|Zhenyang Chen et.al.|[2603.17300v1](http://arxiv.org/abs/2603.17300v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.17300)|
+|**2026-03-21**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240v2](http://arxiv.org/abs/2603.17240v2)|[link](https://github.com/open-gigaai/giga-world-policy)|[🤗👍24](https://huggingface.co/papers/2603.17240) [αX↑59](https://alphaxiv.org/abs/2603.17240)|
 |**2026-03-17**|**Influence of Gripper Design on Human Demonstration Quality for Robot Learning**|Gina L. Georgadarellis et.al.|[2603.17189](https://arxiv.org/abs/2603.17189)|null|null|
 |**2026-03-17**|**MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**|Abhay Deshpande et.al.|[2603.16861](https://arxiv.org/abs/2603.16861)|[link](https://huggingface.co/models/allenai/MolmoBot-SPOC-FR3PickPlace)|[🤗👍4](https://huggingface.co/papers/2603.16861)|
 |**2026-03-18**|**DexGrasp-Zero: A Morphology-Aligned Policy for Zero-Shot Cross-Embodiment Dexterous Grasping**|Yuliang Wu et.al.|[2603.16806](https://arxiv.org/abs/2603.16806)|null|null|
