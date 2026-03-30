@@ -1,20 +1,22 @@
 ## Vision Language Action Model
 
-### Updated on 2026.03.28
+### Updated on 2026.03.30
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v1](http://arxiv.org/abs/2603.25741v1)|[link](https://github.com/zuosc19/Vega)|[αX↑0](https://alphaxiv.org/abs/2603.25741)|
-|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740v1](http://arxiv.org/abs/2603.25740v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25740)|
+|**2026-03-27**|**VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**|Zhide Zhong et.al.|[2603.26666v1](http://arxiv.org/abs/2603.26666v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.26666)|
+|**2026-03-26**|**ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models**|Yiru Wang et.al.|[2603.25766v1](http://arxiv.org/abs/2603.25766v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25766)|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v1](http://arxiv.org/abs/2603.25741v1)|[link](https://github.com/zuosc19/Vega)|[αX↑9](https://alphaxiv.org/abs/2603.25741)|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740v1](http://arxiv.org/abs/2603.25740v1)|[link](https://github.com/tasl-lab/DMW)|[αX↑5](https://alphaxiv.org/abs/2603.25740)|
 |**2026-03-26**|**Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance**|Wenxuan Song et.al.|[2603.25661v1](http://arxiv.org/abs/2603.25661v1)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑1](https://alphaxiv.org/abs/2603.25661)|
-|**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481v1](http://arxiv.org/abs/2603.25481v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25481)|
-|**2026-03-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al.|[2603.25406v1](http://arxiv.org/abs/2603.25406v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25406)|
+|**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481v1](http://arxiv.org/abs/2603.25481v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.25481)|
+|**2026-03-27**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al.|[2603.25406v2](http://arxiv.org/abs/2603.25406v2)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑12](https://alphaxiv.org/abs/2603.25406)|
 |**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399v1](http://arxiv.org/abs/2603.25399v1)|[link](https://github.com/SummerWXK/lamp-project-page)|[αX↑0](https://alphaxiv.org/abs/2603.25399)|
-|**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al.|[2603.25044v1](http://arxiv.org/abs/2603.25044v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25044)|
+|**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al.|[2603.25044v1](http://arxiv.org/abs/2603.25044v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.25044)|
 |**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038v1](http://arxiv.org/abs/2603.25038v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25038)|
-|**2026-03-26**|**Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models**|Peiju Liu et.al.|[2603.24941v1](http://arxiv.org/abs/2603.24941v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24941)|
-|**2026-03-26**|**SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models**|Xiyang Wu et.al.|[2603.24935v1](http://arxiv.org/abs/2603.24935v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24935)|
-|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584v1](http://arxiv.org/abs/2603.24584v1)|null|[αX↑17](https://alphaxiv.org/abs/2603.24584)|
+|**2026-03-26**|**Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models**|Peiju Liu et.al.|[2603.24941v1](http://arxiv.org/abs/2603.24941v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24941)|
+|**2026-03-26**|**SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models**|Xiyang Wu et.al.|[2603.24935v1](http://arxiv.org/abs/2603.24935v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24935)|
+|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou et.al.|[2603.24584v1](http://arxiv.org/abs/2603.24584v1)|null|[αX↑23](https://alphaxiv.org/abs/2603.24584)|
 |**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Bin Yu et.al.|[2603.24393v1](http://arxiv.org/abs/2603.24393v1)|[link](https://github.com/ZGC-EmbodyAI/3DMix-for-VLA)|[αX↑10](https://alphaxiv.org/abs/2603.24393)|
 |**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al.|[2603.24060v1](http://arxiv.org/abs/2603.24060v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24060)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.23202)|
