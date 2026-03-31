@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.03.30
+### Updated on 2026.03.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-28**|**Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring**|Jakub Masłowski et.al.|[2603.27404v1](http://arxiv.org/abs/2603.27404v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27404)|
 |**2026-03-27**|**Selective Deficits in LLM Mental Self-Modeling in a Behavior-Based Test of Theory of Mind**|Christopher Ackerman et.al.|[2603.26089v1](http://arxiv.org/abs/2603.26089v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.26089)|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484v1](http://arxiv.org/abs/2603.24484v1)|[link](https://github.com/Founce/VisionToM)|[αX↑3](https://alphaxiv.org/abs/2603.24484)|
 |**2026-03-24**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717v2](http://arxiv.org/abs/2603.21717v2)|null|[αX↑3](https://alphaxiv.org/abs/2603.21717)|

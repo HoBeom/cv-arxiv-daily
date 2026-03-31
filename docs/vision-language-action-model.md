@@ -4,18 +4,23 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.03.30
+### Updated on 2026.03.31
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670v1](http://arxiv.org/abs/2603.27670v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27670)|
+|**2026-03-28**|**Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**|Qiqi Liu et.al.|[2603.27287v1](http://arxiv.org/abs/2603.27287v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27287)|
 |**2026-03-27**|**VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**|Zhide Zhong et.al.|[2603.26666v1](http://arxiv.org/abs/2603.26666v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.26666)|
+|**2026-03-27**|**Realtime-VLA V2: Learning to Run VLAs Fast, Smooth, and Accurate**|Chen Yang et.al.|[2603.26360v1](http://arxiv.org/abs/2603.26360v1)|[link](https://github.com/dexmal/realtime-vla-v2)|[αX↑8](https://alphaxiv.org/abs/2603.26360)|
+|**2026-03-27**|**DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion**|Iana Zhura et.al.|[2603.26322v1](http://arxiv.org/abs/2603.26322v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.26322)|
+|**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320v1](http://arxiv.org/abs/2603.26320v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.26320)|
 |**2026-03-26**|**ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models**|Yiru Wang et.al.|[2603.25766v1](http://arxiv.org/abs/2603.25766v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25766)|
-|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v1](http://arxiv.org/abs/2603.25741v1)|[link](https://github.com/zuosc19/Vega)|[αX↑9](https://alphaxiv.org/abs/2603.25741)|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v1](http://arxiv.org/abs/2603.25741v1)|[link](https://github.com/zuosc19/Vega)|[🤗👍4](https://huggingface.co/papers/2603.25741) [αX↑9](https://alphaxiv.org/abs/2603.25741)|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740v1](http://arxiv.org/abs/2603.25740v1)|[link](https://github.com/tasl-lab/DMW)|[αX↑5](https://alphaxiv.org/abs/2603.25740)|
-|**2026-03-26**|**Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance**|Wenxuan Song et.al.|[2603.25661v1](http://arxiv.org/abs/2603.25661v1)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑1](https://alphaxiv.org/abs/2603.25661)|
+|**2026-03-27**|**Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance**|Wenxuan Song et.al.|[2603.25661v2](http://arxiv.org/abs/2603.25661v2)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑24](https://alphaxiv.org/abs/2603.25661)|
 |**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara et.al.|[2603.25481v1](http://arxiv.org/abs/2603.25481v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.25481)|
 |**2026-03-27**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al.|[2603.25406v2](http://arxiv.org/abs/2603.25406v2)|[link](https://github.com/yliu-cs/MMaDA-VLA)|[αX↑12](https://alphaxiv.org/abs/2603.25406)|
-|**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399v1](http://arxiv.org/abs/2603.25399v1)|[link](https://github.com/SummerWXK/lamp-project-page)|[αX↑0](https://alphaxiv.org/abs/2603.25399)|
+|**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al.|[2603.25399v1](http://arxiv.org/abs/2603.25399v1)|[link](https://github.com/SummerWXK/lamp-project-page)|[αX↑14](https://alphaxiv.org/abs/2603.25399)|
 |**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al.|[2603.25044v1](http://arxiv.org/abs/2603.25044v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.25044)|
 |**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker et.al.|[2603.25038v1](http://arxiv.org/abs/2603.25038v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25038)|
 |**2026-03-26**|**Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models**|Peiju Liu et.al.|[2603.24941v1](http://arxiv.org/abs/2603.24941v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24941)|
