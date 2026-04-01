@@ -1,19 +1,20 @@
 ## Vision Language Action Model
 
-### Updated on 2026.03.31
+### Updated on 2026.04.01
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844v1](http://arxiv.org/abs/2603.29844v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.29844)|
 |**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Yichi Zhang et.al.|[2603.28740v1](http://arxiv.org/abs/2603.28740v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.28740)|
 |**2026-03-30**|**StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**|Yiran Shi et.al.|[2603.28565v1](http://arxiv.org/abs/2603.28565v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.28565)|
 |**2026-03-30**|**ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**|Yu Sun et.al.|[2603.28545v1](http://arxiv.org/abs/2603.28545v1)|[link](https://github.com/maniparena/maniparena-repo)|[αX↑0](https://alphaxiv.org/abs/2603.28545)|
 |**2026-03-30**|**LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models**|Chanyoung Kim et.al.|[2603.28301v1](http://arxiv.org/abs/2603.28301v1)|[link](https://github.com/cau-hai-lab/LIBERO-Para)|[αX↑0](https://alphaxiv.org/abs/2603.28301)|
 |**2026-03-30**|**Learning Multi-View Spatial Reasoning from Cross-View Relations**|Suchae Jeong et.al.|[2603.27967v1](http://arxiv.org/abs/2603.27967v1)|[link](https://github.com/songjaehwi/XVR)|[αX↑0](https://alphaxiv.org/abs/2603.27967)|
-|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670v1](http://arxiv.org/abs/2603.27670v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27670)|
-|**2026-03-28**|**Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**|Qiqi Liu et.al.|[2603.27287v1](http://arxiv.org/abs/2603.27287v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27287)|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670v1](http://arxiv.org/abs/2603.27670v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.27670)|
+|**2026-03-28**|**Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**|Qiqi Liu et.al.|[2603.27287v1](http://arxiv.org/abs/2603.27287v1)|[link](https://github.com/LogosRoboticsGroup/UniWorldVLA)|[αX↑6](https://alphaxiv.org/abs/2603.27287)|
 |**2026-03-27**|**VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**|Zhide Zhong et.al.|[2603.26666v1](http://arxiv.org/abs/2603.26666v1)|null|[αX↑8](https://alphaxiv.org/abs/2603.26666)|
-|**2026-03-27**|**Realtime-VLA V2: Learning to Run VLAs Fast, Smooth, and Accurate**|Chen Yang et.al.|[2603.26360v1](http://arxiv.org/abs/2603.26360v1)|[link](https://github.com/dexmal/realtime-vla-v2)|[αX↑8](https://alphaxiv.org/abs/2603.26360)|
-|**2026-03-27**|**DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion**|Iana Zhura et.al.|[2603.26322v1](http://arxiv.org/abs/2603.26322v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.26322)|
+|**2026-03-27**|**Realtime-VLA V2: Learning to Run VLAs Fast, Smooth, and Accurate**|Chen Yang et.al.|[2603.26360v1](http://arxiv.org/abs/2603.26360v1)|[link](https://github.com/dexmal/realtime-vla-v2)|[αX↑17](https://alphaxiv.org/abs/2603.26360)|
+|**2026-03-27**|**DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion**|Iana Zhura et.al.|[2603.26322v1](http://arxiv.org/abs/2603.26322v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.26322)|
 |**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen et.al.|[2603.26320v1](http://arxiv.org/abs/2603.26320v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.26320)|
 |**2026-03-26**|**ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models**|Yiru Wang et.al.|[2603.25766v1](http://arxiv.org/abs/2603.25766v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.25766)|
 |**2026-03-30**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741v2](http://arxiv.org/abs/2603.25741v2)|[link](https://github.com/zuosc19/Vega)|[🤗👍4](https://huggingface.co/papers/2603.25741) [αX↑13](https://alphaxiv.org/abs/2603.25741)|
