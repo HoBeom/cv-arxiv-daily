@@ -4,14 +4,14 @@ layout: default
 
 ## Dialogue Agents
 
-### Updated on 2026.04.01
+### Updated on 2026.04.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-03-28**|**The Hidden Costs of AI-Mediated Political Outreach: Persuasion and AI Penalties in the US and UK**|Andreas Jungherr et.al.|[2603.27413v1](http://arxiv.org/abs/2603.27413v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27413)|
-|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.24328)|
-|**2026-03-25**|**HyDRA: Hybrid Domain-Aware Robust Architecture for Heterogeneous Collaborative Perception**|Minwoo Song et.al.|[2603.23975v1](http://arxiv.org/abs/2603.23975v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.23975)|
-|**2026-03-22**|**The AI Scientific Community: Agentic Virtual Lab Swarms**|Ulisses Braga-Neto et.al.|[2603.21344v1](http://arxiv.org/abs/2603.21344v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.21344)|
+|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24328)|
+|**2026-03-25**|**HyDRA: Hybrid Domain-Aware Robust Architecture for Heterogeneous Collaborative Perception**|Minwoo Song et.al.|[2603.23975v1](http://arxiv.org/abs/2603.23975v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23975)|
+|**2026-03-22**|**The AI Scientific Community: Agentic Virtual Lab Swarms**|Ulisses Braga-Neto et.al.|[2603.21344v1](http://arxiv.org/abs/2603.21344v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.21344)|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18520)|
 |**2026-03-18**|**Forward-Backward Dynamic Programming for LQG Dynamic Games with Partial and Asymmetric Information**|Yuxiang Guan et.al.|[2603.18304v1](http://arxiv.org/abs/2603.18304v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18304)|
 |**2026-03-17**|**SpokenUS: A Spoken User Simulator for Task-Oriented Dialogue**|Jonggeun Lee et.al.|[2603.16783v1](http://arxiv.org/abs/2603.16783v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.16783)|

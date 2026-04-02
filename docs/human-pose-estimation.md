@@ -4,14 +4,16 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.01
+### Updated on 2026.04.02
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00852)|
+|**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00682)|
 |**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.29570)|
 |**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.29383)|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.29185)|
-|**2026-03-30**|**FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation**|Liuzhou Zhang et.al.|[2603.27915v1](http://arxiv.org/abs/2603.27915v1)|[link](https://github.com/AIGeeksGroup/FlashSign)|[αX↑0](https://alphaxiv.org/abs/2603.27915)|
+|**2026-03-30**|**FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation**|Liuzhou Zhang et.al.|[2603.27915v1](http://arxiv.org/abs/2603.27915v1)|[link](https://github.com/AIGeeksGroup/FlashSign)|[αX↑2](https://alphaxiv.org/abs/2603.27915)|
 |**2026-03-29**|**Demo-Pose: Depth-Monocular Modality Fusion For Object Pose Estimation**|Rachit Agarwal et.al.|[2603.27533v1](http://arxiv.org/abs/2603.27533v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27533)|
 |**2026-03-28**|**Mind the Shape Gap: A Benchmark and Baseline for Deformation-Aware 6D Pose Estimation of Agricultural Produce**|Nikolas Chatzis et.al.|[2603.27429v1](http://arxiv.org/abs/2603.27429v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27429)|
 |**2026-03-28**|**Human-Centric Perception for Child Sexual Abuse Imagery**|Camila Laranjeira et.al.|[2603.27290v1](http://arxiv.org/abs/2603.27290v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27290)|
@@ -35,7 +37,7 @@ layout: default
 |**2026-03-24**|**PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals**|Jesse F. d'Almeida et.al.|[2603.23365v1](http://arxiv.org/abs/2603.23365v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.23365)|
 |**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v2](http://arxiv.org/abs/2603.23324v2)|[link](https://github.com/zcq15/PFGS360)|[αX↑0](https://alphaxiv.org/abs/2603.23324)|
 |**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|[link](https://github.com/roth-hex-lab/IEEE-VR-2026-MultiCam)|[αX↑2](https://alphaxiv.org/abs/2603.22839)|
-|**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v2](http://arxiv.org/abs/2603.22792v2)|null|[αX↑4](https://alphaxiv.org/abs/2603.22792)|
+|**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v2](http://arxiv.org/abs/2603.22792v2)|null|[αX↑5](https://alphaxiv.org/abs/2603.22792)|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22690)|
 |**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631v1](http://arxiv.org/abs/2603.22631v1)|[link](https://github.com/nam1410/cam3r)|[αX↑3](https://alphaxiv.org/abs/2603.22631)|
 |**2026-03-25**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193v2](http://arxiv.org/abs/2603.22193v2)|[link](https://github.com/GasaiYU/PAM)|[αX↑8](https://alphaxiv.org/abs/2603.22193)|
