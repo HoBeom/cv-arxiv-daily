@@ -9,7 +9,7 @@ layout: default
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[2604.00761v1](http://arxiv.org/abs/2604.00761v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00761)|
-|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.29777)|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.29777)|
 |**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|[link](https://github.com/NingWang2049/skeletoncontext)|[αX↑0](https://alphaxiv.org/abs/2603.29692)|
 |**2026-03-28**|**LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model**|Ruosi Wang et.al.|[2603.27103v1](http://arxiv.org/abs/2603.27103v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.27103)|
 |**2026-03-25**|**RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization**|Ting Yu Tsai et.al.|[2603.26780v1](http://arxiv.org/abs/2603.26780v1)|[link](https://github.com/UA-CVML/RatSeizure)|[αX↑0](https://alphaxiv.org/abs/2603.26780)|
