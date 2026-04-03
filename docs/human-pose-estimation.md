@@ -4,12 +4,19 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.02
+### Updated on 2026.04.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00852)|
-|**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00682)|
+|**2026-04-02**|**ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking**|Lukas Bergs et.al.|[2604.02109v1](http://arxiv.org/abs/2604.02109v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02109)|
+|**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107v1](http://arxiv.org/abs/2604.02107v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02107)|
+|**2026-04-02**|**Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception**|Haoyuan Li et.al.|[2604.01747v1](http://arxiv.org/abs/2604.01747v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01747)|
+|**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720v1](http://arxiv.org/abs/2604.01720v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01720)|
+|**2026-04-01**|**Nonlinear Methods for Analyzing Pose in Behavioral Research**|Carter Sale et.al.|[2604.01453v1](http://arxiv.org/abs/2604.01453v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01453)|
+|**2026-04-01**|**Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars**|Derek Austin et.al.|[2604.01447v1](http://arxiv.org/abs/2604.01447v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01447)|
+|**2026-04-01**|**Human Pose Estimation in Trampoline Gymnastics: Improving Performance Using a New Synthetic Dataset**|Léa Drolet-Roy et.al.|[2604.01322v1](http://arxiv.org/abs/2604.01322v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01322)|
+|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.00852)|
+|**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|[link](https://github.com/clementinegrethen/MoonAnything)|[αX↑1](https://alphaxiv.org/abs/2604.00682)|
 |**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|[link](https://github.com/jagidsh/Generating-Key-Postures-of-Bharatanatyam-Adavus-with-Pose-Estimation)|[αX↑1](https://alphaxiv.org/abs/2603.29570)|
 |**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.29383)|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|[link](https://github.com/HqiTao/SplatHLoc)|[αX↑0](https://alphaxiv.org/abs/2603.29185)|
@@ -26,8 +33,8 @@ layout: default
 |**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.25892)|
 |**2026-03-26**|**Occlusion-Aware Multimodal Beam Prediction and Pose Estimation for mmWave V2I**|Abidemi Orimogunje et.al.|[2603.25799v1](http://arxiv.org/abs/2603.25799v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25799)|
 |**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726v1](http://arxiv.org/abs/2603.25726v1)|[link](https://github.com/chen-si-cs/AnyHand)|[αX↑7](https://alphaxiv.org/abs/2603.25726)|
-|**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555v1](http://arxiv.org/abs/2603.25555v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.25555)|
-|**2026-03-26**|**CHIRP dataset: towards long-term, individual-level, behavioral monitoring of bird populations in the wild**|Alex Hoi Hang Chan et.al.|[2603.25524v1](http://arxiv.org/abs/2603.25524v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.25524)|
+|**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555v1](http://arxiv.org/abs/2603.25555v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.25555)|
+|**2026-03-26**|**CHIRP dataset: towards long-term, individual-level, behavioral monitoring of bird populations in the wild**|Alex Hoi Hang Chan et.al.|[2603.25524v1](http://arxiv.org/abs/2603.25524v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.25524)|
 |**2026-03-26**|**Training-free Detection and 6D Pose Estimation of Unseen Surgical Instruments**|Jonas Hein et.al.|[2603.25228v1](http://arxiv.org/abs/2603.25228v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25228)|
 |**2026-03-26**|**AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation**|Md Mushfiqur Azam et.al.|[2603.25175v1](http://arxiv.org/abs/2603.25175v1)|[link](https://github.com/Mushfiq5647/AG-EgoPose)|[αX↑0](https://alphaxiv.org/abs/2603.25175)|
 |**2026-03-26**|**EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions**|Taegyoon Yoon et.al.|[2603.25135v1](http://arxiv.org/abs/2603.25135v1)|[link](https://github.com/taegyoun88/EgoXtreme)|[αX↑0](https://alphaxiv.org/abs/2603.25135)|

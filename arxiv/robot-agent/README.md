@@ -1,17 +1,17 @@
 ## Robot & Agent
 
-### Updated on 2026.04.02
+### Updated on 2026.04.03
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01224)|
-|**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265v1](http://arxiv.org/abs/2604.00265v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00265)|
+|**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265v1](http://arxiv.org/abs/2604.00265v1)|[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)|[αX↑0](https://alphaxiv.org/abs/2604.00265)|
 |**2026-03-31**|**Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis**|Han Deng et.al.|[2603.29828v1](http://arxiv.org/abs/2603.29828v1)|[link](https://github.com/OpenOwlab/AuraID)|[αX↑2](https://alphaxiv.org/abs/2603.29828)|
 |**2026-03-31**|**SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**|Léopold Maillard et.al.|[2603.29798v1](http://arxiv.org/abs/2603.29798v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2603.29798)|
 |**2026-03-31**|**Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning**|Sen Wang et.al.|[2603.29192v1](http://arxiv.org/abs/2603.29192v1)|[link](https://github.com/SanMumumu/GenSplat)|[αX↑2](https://alphaxiv.org/abs/2603.29192)|
-|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.28730)|
-|**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|[link](https://github.com/coolmaoguo/DRIVE-Nav)|[αX↑2](https://alphaxiv.org/abs/2603.28691)|
-|**2026-03-30**|**Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web**|Xiaohang Nie et.al.|[2603.28428v1](http://arxiv.org/abs/2603.28428v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.28428)|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|[αX↑9](https://alphaxiv.org/abs/2603.28730)|
+|**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|[link](https://github.com/coolmaoguo/DRIVE-Nav)|[αX↑5](https://alphaxiv.org/abs/2603.28691)|
+|**2026-03-30**|**Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web**|Xiaohang Nie et.al.|[2603.28428v1](http://arxiv.org/abs/2603.28428v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.28428)|
 |**2026-03-30**|**HeteroHub: An Applicable Data Management Framework for Heterogeneous Multi-Embodied Agent System**|Xujia Li et.al.|[2603.28010v1](http://arxiv.org/abs/2603.28010v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.28010)|
 |**2026-03-29**|**Structured Observation Language for Efficient and Generalizable Vision-Language Navigation**|Daojie Peng et.al.|[2603.27577v1](http://arxiv.org/abs/2603.27577v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27577)|
 |**2026-03-30**|**Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning**|Xinqi Lucas Liu et.al.|[2603.26660v2](http://arxiv.org/abs/2603.26660v2)|[link](https://github.com/ruka-hand-v2/RUKA-v2)|[αX↑6](https://alphaxiv.org/abs/2603.26660)|
@@ -19,7 +19,7 @@
 |**2026-03-26**|**Emergent Neural Automaton Policies: Learning Symbolic Structure from Visuomotor Trajectories**|Yiyuan Pan et.al.|[2603.25903v1](http://arxiv.org/abs/2603.25903v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.25903)|
 |**2026-03-26**|**SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**|Masoud Moghani et.al.|[2603.25725v1](http://arxiv.org/abs/2603.25725v1)|null|[αX↑13](https://alphaxiv.org/abs/2603.25725)|
 |**2026-03-26**|**Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition**|Yuyang Xiao et.al.|[2603.25583v1](http://arxiv.org/abs/2603.25583v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.25583)|
-|**2026-03-26**|**VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents**|George Eskandar et.al.|[2603.25420v1](http://arxiv.org/abs/2603.25420v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.25420)|
+|**2026-03-26**|**VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents**|George Eskandar et.al.|[2603.25420v1](http://arxiv.org/abs/2603.25420v1)|null|[αX↑8](https://alphaxiv.org/abs/2603.25420)|
 |**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble et.al.|[2603.25415v1](http://arxiv.org/abs/2603.25415v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25415)|
 |**2026-03-25**|**FODMP: Fast One-Step Diffusion of Movement Primitives Generation for Time-Dependent Robot Actions**|Xirui Shi et.al.|[2603.24806v1](http://arxiv.org/abs/2603.24806v1)|[link](https://github.com/hca-lab-UofAlberta/FODMP)|[αX↑3](https://alphaxiv.org/abs/2603.24806)|
 |**2026-03-25**|**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**|Shengli Zhou et.al.|[2603.24721v1](http://arxiv.org/abs/2603.24721v1)|[link](https://github.com/fz-zsl/QuatRoPE)|[αX↑7](https://alphaxiv.org/abs/2603.24721)|
