@@ -8,6 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-02**|**SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2604.02222v1](http://arxiv.org/abs/2604.02222v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02222)|
 |**2026-04-02**|**Combining Boundary Supervision and Segment-Level Regularization for Fine-Grained Action Segmentation**|Hinako Mitsuoka et.al.|[2604.01859v1](http://arxiv.org/abs/2604.01859v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01859)|
 |**2026-04-01**|**ViTs for Action Classification in Videos: An Approach to Risky Tackle Detection in American Football Practice Videos**|Syed Ahsan Masud Zaidi et.al.|[2604.01318v1](http://arxiv.org/abs/2604.01318v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01318)|
 |**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[2604.00761v1](http://arxiv.org/abs/2604.00761v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.00761)|

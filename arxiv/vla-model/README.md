@@ -4,6 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241v1](http://arxiv.org/abs/2604.02241v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02241)|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[2604.02190v1](http://arxiv.org/abs/2604.02190v1)|[link](https://github.com/xiaomi-research/unidrivevla)|[αX↑0](https://alphaxiv.org/abs/2604.02190)|
 |**2026-04-02**|**Posterior Optimization with Clipped Objective for Bridging Efficiency and Stability in Generative Policy Learning**|Yuhui Chen et.al.|[2604.01860v1](http://arxiv.org/abs/2604.01860v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01860)|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765v1](http://arxiv.org/abs/2604.01765v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.01765)|
