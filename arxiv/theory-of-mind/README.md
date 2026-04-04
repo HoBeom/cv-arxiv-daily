@@ -1,11 +1,11 @@
 ## Theory of Mind
 
-### Updated on 2026.04.03
+### Updated on 2026.04.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-03-31**|**Omni-MMSI: Toward Identity-attributed Social Interaction Understanding**|Xinpeng Li et.al.|[2604.00267v1](http://arxiv.org/abs/2604.00267v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑1](https://alphaxiv.org/abs/2604.00267)|
-|**2026-03-30**|**Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs**|Junsol Kim et.al.|[2603.28925v1](http://arxiv.org/abs/2603.28925v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.28925)|
+|**2026-03-30**|**Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs**|Junsol Kim et.al.|[2603.28925v1](http://arxiv.org/abs/2603.28925v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.28925)|
 |**2026-03-28**|**Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring**|Jakub Masłowski et.al.|[2603.27404v1](http://arxiv.org/abs/2603.27404v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27404)|
 |**2026-03-27**|**Selective Deficits in LLM Mental Self-Modeling in a Behavior-Based Test of Theory of Mind**|Christopher Ackerman et.al.|[2603.26089v1](http://arxiv.org/abs/2603.26089v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.26089)|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484v1](http://arxiv.org/abs/2603.24484v1)|[link](https://github.com/Founce/VisionToM)|[αX↑7](https://alphaxiv.org/abs/2603.24484)|

@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.03
+### Updated on 2026.04.04
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -27,10 +27,10 @@ layout: default
 |**2026-03-28**|**Autonomous overtaking trajectory optimization using reinforcement learning and opponent pose estimation**|Matej Rene Cihlar et.al.|[2603.27207v1](http://arxiv.org/abs/2603.27207v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27207)|
 |**2026-03-28**|**K $α$ LOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks**|David Tschirschwitz et.al.|[2603.27197v1](http://arxiv.org/abs/2603.27197v1)|[link](https://github.com/Madave94/kalos)|[αX↑0](https://alphaxiv.org/abs/2603.27197)|
 |**2026-03-28**|**MultiLoc: Multi-view Guided Relative Pose Regression for Fast and Robust Visual Re-Localization**|Nobel Dang et.al.|[2603.27170v1](http://arxiv.org/abs/2603.27170v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27170)|
-|**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760v1](http://arxiv.org/abs/2603.26760v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.26760)|
+|**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760v1](http://arxiv.org/abs/2603.26760v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.26760)|
 |**2026-03-27**|**Image-based Quantification of Postural Deviations on Patients with Cervical Dystonia: A Machine Learning Approach Using Synthetic Training Data**|Roland Stenger et.al.|[2603.26444v1](http://arxiv.org/abs/2603.26444v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.26444)|
 |**2026-03-26**|**Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals**|Isaac Han et.al.|[2603.25906v1](http://arxiv.org/abs/2603.25906v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25906)|
-|**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.25892)|
+|**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.25892)|
 |**2026-03-26**|**Occlusion-Aware Multimodal Beam Prediction and Pose Estimation for mmWave V2I**|Abidemi Orimogunje et.al.|[2603.25799v1](http://arxiv.org/abs/2603.25799v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25799)|
 |**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726v1](http://arxiv.org/abs/2603.25726v1)|[link](https://github.com/chen-si-cs/AnyHand)|[αX↑7](https://alphaxiv.org/abs/2603.25726)|
 |**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555v1](http://arxiv.org/abs/2603.25555v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.25555)|
