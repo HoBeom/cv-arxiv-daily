@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-02**|**Care-Conditioned Neuromodulation for Autonomy-Preserving Supportive Dialogue Agents**|Shalima Binta Manir et.al.|[2604.01576v1](http://arxiv.org/abs/2604.01576v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01576)|
 |**2026-03-28**|**The Hidden Costs of AI-Mediated Political Outreach: Persuasion and AI Penalties in the US and UK**|Andreas Jungherr et.al.|[2603.27413v1](http://arxiv.org/abs/2603.27413v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27413)|
-|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.24328)|
+|**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.24328)|
 |**2026-03-25**|**HyDRA: Hybrid Domain-Aware Robust Architecture for Heterogeneous Collaborative Perception**|Minwoo Song et.al.|[2603.23975v1](http://arxiv.org/abs/2603.23975v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23975)|
 |**2026-03-22**|**The AI Scientific Community: Agentic Virtual Lab Swarms**|Ulisses Braga-Neto et.al.|[2603.21344v1](http://arxiv.org/abs/2603.21344v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.21344)|
 |**2026-03-19**|**Robotic Agentic Platform for Intelligent Electric Vehicle Disassembly**|Zachary Allen et.al.|[2603.18520v1](http://arxiv.org/abs/2603.18520v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.18520)|
