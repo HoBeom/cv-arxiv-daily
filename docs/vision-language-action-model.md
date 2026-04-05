@@ -4,11 +4,11 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.04.04
+### Updated on 2026.04.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241v1](http://arxiv.org/abs/2604.02241v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02241)|
+|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241v1](http://arxiv.org/abs/2604.02241v1)|[link](https://github.com/Hub-Tian/UAV-Track_VLA)|[αX↑4](https://alphaxiv.org/abs/2604.02241)|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[2604.02190v1](http://arxiv.org/abs/2604.02190v1)|[link](https://github.com/xiaomi-research/unidrivevla)|[αX↑12](https://alphaxiv.org/abs/2604.02190)|
 |**2026-04-02**|**Posterior Optimization with Clipped Objective for Bridging Efficiency and Stability in Generative Policy Learning**|Yuhui Chen et.al.|[2604.01860v1](http://arxiv.org/abs/2604.01860v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01860)|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765v1](http://arxiv.org/abs/2604.01765v1)|[link](https://github.com/youngzhou1999/DriveDreamer-Policy)|[αX↑4](https://alphaxiv.org/abs/2604.01765)|
@@ -16,7 +16,7 @@ layout: default
 |**2026-04-02**|**Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models**|Jiawei Chen et.al.|[2604.01618v1](http://arxiv.org/abs/2604.01618v1)|[link](https://github.com/vla-attack/tex3d)|[αX↑4](https://alphaxiv.org/abs/2604.01618)|
 |**2026-04-01**|**AffordTissue: Dense Affordance Prediction for Tool-Action Specific Tissue Interaction**|Aiza Maksutova et.al.|[2604.01371v1](http://arxiv.org/abs/2604.01371v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01371)|
 |**2026-04-01**|**DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale**|Sicheng Zuo et.al.|[2604.00813v1](http://arxiv.org/abs/2604.00813v1)|[link](https://github.com/wzzheng/DVGT})|[αX↑16](https://alphaxiv.org/abs/2604.00813)|
-|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844v1](http://arxiv.org/abs/2603.29844v1)|[link](https://github.com/xpeng-robotics/DIAL)|[αX↑19](https://alphaxiv.org/abs/2603.29844)|
+|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844v1](http://arxiv.org/abs/2603.29844v1)|[link](https://github.com/xpeng-robotics/DIAL)|[αX↑22](https://alphaxiv.org/abs/2603.29844)|
 |**2026-03-30**|**FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**|Yichi Zhang et.al.|[2603.28740v1](http://arxiv.org/abs/2603.28740v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.28740)|
 |**2026-03-30**|**StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**|Yiran Shi et.al.|[2603.28565v1](http://arxiv.org/abs/2603.28565v1)|null|[αX↑13](https://alphaxiv.org/abs/2603.28565)|
 |**2026-03-30**|**ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**|Yu Sun et.al.|[2603.28545v1](http://arxiv.org/abs/2603.28545v1)|[link](https://github.com/maniparena/maniparena-repo)|[αX↑9](https://alphaxiv.org/abs/2603.28545)|

@@ -4,7 +4,7 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.04
+### Updated on 2026.04.05
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -17,7 +17,7 @@ layout: default
 |**2026-04-01**|**Human Pose Estimation in Trampoline Gymnastics: Improving Performance Using a New Synthetic Dataset**|Léa Drolet-Roy et.al.|[2604.01322v1](http://arxiv.org/abs/2604.01322v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01322)|
 |**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.00852)|
 |**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|[link](https://github.com/clementinegrethen/MoonAnything)|[αX↑2](https://alphaxiv.org/abs/2604.00682)|
-|**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|[link](https://github.com/jagidsh/Generating-Key-Postures-of-Bharatanatyam-Adavus-with-Pose-Estimation)|[αX↑1](https://alphaxiv.org/abs/2603.29570)|
+|**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|[link](https://github.com/jagidsh/Generating-Key-Postures-of-Bharatanatyam-Adavus-with-Pose-Estimation)|[αX↑2](https://alphaxiv.org/abs/2603.29570)|
 |**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.29383)|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|[link](https://github.com/HqiTao/SplatHLoc)|[αX↑0](https://alphaxiv.org/abs/2603.29185)|
 |**2026-03-30**|**FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation**|Liuzhou Zhang et.al.|[2603.27915v1](http://arxiv.org/abs/2603.27915v1)|[link](https://github.com/AIGeeksGroup/FlashSign)|[αX↑2](https://alphaxiv.org/abs/2603.27915)|
@@ -30,7 +30,7 @@ layout: default
 |**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760v1](http://arxiv.org/abs/2603.26760v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.26760)|
 |**2026-03-27**|**Image-based Quantification of Postural Deviations on Patients with Cervical Dystonia: A Machine Learning Approach Using Synthetic Training Data**|Roland Stenger et.al.|[2603.26444v1](http://arxiv.org/abs/2603.26444v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.26444)|
 |**2026-03-26**|**Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals**|Isaac Han et.al.|[2603.25906v1](http://arxiv.org/abs/2603.25906v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25906)|
-|**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.25892)|
+|**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑8](https://alphaxiv.org/abs/2603.25892)|
 |**2026-03-26**|**Occlusion-Aware Multimodal Beam Prediction and Pose Estimation for mmWave V2I**|Abidemi Orimogunje et.al.|[2603.25799v1](http://arxiv.org/abs/2603.25799v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.25799)|
 |**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726v1](http://arxiv.org/abs/2603.25726v1)|[link](https://github.com/chen-si-cs/AnyHand)|[αX↑7](https://alphaxiv.org/abs/2603.25726)|
 |**2026-03-26**|**Towards Comprehensive Real-Time Scene Understanding in Ophthalmic Surgery through Multimodal Image Fusion**|Nikolo Rohrmoser et.al.|[2603.25555v1](http://arxiv.org/abs/2603.25555v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.25555)|
