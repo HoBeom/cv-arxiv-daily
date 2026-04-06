@@ -1,9 +1,13 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.05
+### Updated on 2026.04.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191v1](http://arxiv.org/abs/2604.03191v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03191)|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181v1](http://arxiv.org/abs/2604.03181v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03181)|
+|**2026-04-03**|**Open-Loop Planning, Closed-Loop Verification: Speculative Verification for VLA**|Zihua Wang et.al.|[2604.02965v1](http://arxiv.org/abs/2604.02965v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02965)|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Zihao Sheng et.al.|[2604.02714v1](http://arxiv.org/abs/2604.02714v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02714)|
 |**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241v1](http://arxiv.org/abs/2604.02241v1)|[link](https://github.com/Hub-Tian/UAV-Track_VLA)|[αX↑4](https://alphaxiv.org/abs/2604.02241)|
 |**2026-04-02**|**UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**|Yongkang Li et.al.|[2604.02190v1](http://arxiv.org/abs/2604.02190v1)|[link](https://github.com/xiaomi-research/unidrivevla)|[αX↑16](https://alphaxiv.org/abs/2604.02190)|
 |**2026-04-02**|**Posterior Optimization with Clipped Objective for Bridging Efficiency and Stability in Generative Policy Learning**|Yuhui Chen et.al.|[2604.01860v1](http://arxiv.org/abs/2604.01860v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.01860)|

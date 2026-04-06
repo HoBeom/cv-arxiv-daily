@@ -4,10 +4,11 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.04.05
+### Updated on 2026.04.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-03**|**Learning from Synthetic Data via Provenance-Based Input Gradient Guidance**|Koshiro Nagano et.al.|[2604.02946v1](http://arxiv.org/abs/2604.02946v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02946)|
 |**2026-04-02**|**SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2604.02222v1](http://arxiv.org/abs/2604.02222v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.02222)|
 |**2026-04-02**|**Combining Boundary Supervision and Segment-Level Regularization for Fine-Grained Action Segmentation**|Hinako Mitsuoka et.al.|[2604.01859v1](http://arxiv.org/abs/2604.01859v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01859)|
 |**2026-04-01**|**ViTs for Action Classification in Videos: An Approach to Risky Tackle Detection in American Football Practice Videos**|Syed Ahsan Masud Zaidi et.al.|[2604.01318v1](http://arxiv.org/abs/2604.01318v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.01318)|
@@ -15,7 +16,7 @@ layout: default
 |**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.29777)|
 |**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|[link](https://github.com/NingWang2049/skeletoncontext)|[αX↑2](https://alphaxiv.org/abs/2603.29692)|
 |**2026-03-28**|**LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model**|Ruosi Wang et.al.|[2603.27103v1](http://arxiv.org/abs/2603.27103v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.27103)|
-|**2026-03-25**|**RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization**|Ting Yu Tsai et.al.|[2603.26780v1](http://arxiv.org/abs/2603.26780v1)|[link](https://github.com/UA-CVML/RatSeizure)|[αX↑1](https://alphaxiv.org/abs/2603.26780)|
+|**2026-03-25**|**RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization**|Ting Yu Tsai et.al.|[2603.26780v1](http://arxiv.org/abs/2603.26780v1)|[link](https://github.com/UA-CVML/RatSeizure)|[αX↑2](https://alphaxiv.org/abs/2603.26780)|
 |**2026-03-27**|**From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition**|Nazia Aslam et.al.|[2603.26336v1](http://arxiv.org/abs/2603.26336v1)|[link](https://github.com/Rabusi/From-Pixels-to-Privacy-Temporally-Consistent-Video-Anonymization-via-Token-Pruning-for-Privacy-Pres/tree/main)|[αX↑2](https://alphaxiv.org/abs/2603.26336)|
 |**2026-03-27**|**Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs**|Jiazheng Xing et.al.|[2603.26033v1](http://arxiv.org/abs/2603.26033v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.26033)|
 |**2026-03-26**|**Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals**|Isaac Han et.al.|[2603.25906v1](http://arxiv.org/abs/2603.25906v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.25906)|

@@ -1,15 +1,16 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.05
+### Updated on 2026.04.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
 |**2026-04-02**|**ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking**|Lukas Bergs et.al.|[2604.02109v1](http://arxiv.org/abs/2604.02109v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.02109)|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107v1](http://arxiv.org/abs/2604.02107v1)|[link](https://github.com/Geneta2580/HyVGGT-VO)|[αX↑4](https://alphaxiv.org/abs/2604.02107)|
 |**2026-04-02**|**Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception**|Haoyuan Li et.al.|[2604.01747v1](http://arxiv.org/abs/2604.01747v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01747)|
 |**2026-04-02**|**Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping**|Zhiliu Yang et.al.|[2604.01720v1](http://arxiv.org/abs/2604.01720v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.01720)|
 |**2026-04-01**|**Nonlinear Methods for Analyzing Pose in Behavioral Research**|Carter Sale et.al.|[2604.01453v1](http://arxiv.org/abs/2604.01453v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.01453)|
-|**2026-04-01**|**Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars**|Derek Austin et.al.|[2604.01447v1](http://arxiv.org/abs/2604.01447v1)|[link](https://github.com/dcaustin33/better_rigs_not_bigger_networks)|[αX↑1](https://alphaxiv.org/abs/2604.01447)|
+|**2026-04-03**|**Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars**|Derek Austin et.al.|[2604.01447v2](http://arxiv.org/abs/2604.01447v2)|[link](https://github.com/dcaustin33/better_rigs_not_bigger_networks)|[αX↑1](https://alphaxiv.org/abs/2604.01447)|
 |**2026-04-01**|**Human Pose Estimation in Trampoline Gymnastics: Improving Performance Using a New Synthetic Dataset**|Léa Drolet-Roy et.al.|[2604.01322v1](http://arxiv.org/abs/2604.01322v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.01322)|
 |**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.00852)|
 |**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|[link](https://github.com/clementinegrethen/MoonAnything)|[αX↑3](https://alphaxiv.org/abs/2604.00682)|
@@ -23,7 +24,7 @@
 |**2026-03-28**|**Autonomous overtaking trajectory optimization using reinforcement learning and opponent pose estimation**|Matej Rene Cihlar et.al.|[2603.27207v1](http://arxiv.org/abs/2603.27207v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.27207)|
 |**2026-03-28**|**K $α$ LOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks**|David Tschirschwitz et.al.|[2603.27197v1](http://arxiv.org/abs/2603.27197v1)|[link](https://github.com/Madave94/kalos)|[αX↑0](https://alphaxiv.org/abs/2603.27197)|
 |**2026-03-28**|**MultiLoc: Multi-view Guided Relative Pose Regression for Fast and Robust Visual Re-Localization**|Nobel Dang et.al.|[2603.27170v1](http://arxiv.org/abs/2603.27170v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.27170)|
-|**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760v1](http://arxiv.org/abs/2603.26760v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.26760)|
+|**2026-03-23**|**An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction**|Chandramouli Haldar et.al.|[2603.26760v1](http://arxiv.org/abs/2603.26760v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.26760)|
 |**2026-03-27**|**Image-based Quantification of Postural Deviations on Patients with Cervical Dystonia: A Machine Learning Approach Using Synthetic Training Data**|Roland Stenger et.al.|[2603.26444v1](http://arxiv.org/abs/2603.26444v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.26444)|
 |**2026-03-26**|**Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals**|Isaac Han et.al.|[2603.25906v1](http://arxiv.org/abs/2603.25906v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.25906)|
 |**2026-03-26**|**THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond**|Letian Wang et.al.|[2603.25892v1](http://arxiv.org/abs/2603.25892v1)|null|[αX↑8](https://alphaxiv.org/abs/2603.25892)|

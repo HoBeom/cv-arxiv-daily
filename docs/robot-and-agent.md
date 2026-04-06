@@ -4,15 +4,19 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.05
+### Updated on 2026.04.06
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.01224)|
+|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812v1](http://arxiv.org/abs/2604.02812v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02812)|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
+|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02523)|
+|**2026-04-02**|**Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation**|Teng Liu et.al.|[2604.02391v1](http://arxiv.org/abs/2604.02391v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02391)|
+|**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑8](https://alphaxiv.org/abs/2604.01224)|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265v1](http://arxiv.org/abs/2604.00265v1)|[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)|[αX↑2](https://alphaxiv.org/abs/2604.00265)|
 |**2026-03-31**|**Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis**|Han Deng et.al.|[2603.29828v1](http://arxiv.org/abs/2603.29828v1)|[link](https://github.com/OpenOwlab/AuraID)|[αX↑8](https://alphaxiv.org/abs/2603.29828)|
-|**2026-03-31**|**SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**|Léopold Maillard et.al.|[2603.29798v1](http://arxiv.org/abs/2603.29798v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑5](https://alphaxiv.org/abs/2603.29798)|
-|**2026-03-31**|**Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning**|Sen Wang et.al.|[2603.29192v1](http://arxiv.org/abs/2603.29192v1)|[link](https://github.com/SanMumumu/GenSplat)|[αX↑4](https://alphaxiv.org/abs/2603.29192)|
+|**2026-03-31**|**SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**|Léopold Maillard et.al.|[2603.29798v1](http://arxiv.org/abs/2603.29798v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑7](https://alphaxiv.org/abs/2603.29798)|
+|**2026-03-31**|**Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning**|Sen Wang et.al.|[2603.29192v1](http://arxiv.org/abs/2603.29192v1)|[link](https://github.com/SanMumumu/GenSplat)|[αX↑5](https://alphaxiv.org/abs/2603.29192)|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|[αX↑14](https://alphaxiv.org/abs/2603.28730)|
 |**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|[link](https://github.com/coolmaoguo/DRIVE-Nav)|[αX↑8](https://alphaxiv.org/abs/2603.28691)|
 |**2026-03-30**|**Synergy: A Next-Generation General-Purpose Agent for Open Agentic Web**|Xiaohang Nie et.al.|[2603.28428v1](http://arxiv.org/abs/2603.28428v1)|[link](https://github.com/SII-Holos/synergy)|[αX↑6](https://alphaxiv.org/abs/2603.28428)|
@@ -33,7 +37,7 @@ layout: default
 |**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Tommaso Galliena et.al.|[2603.24257v1](http://arxiv.org/abs/2603.24257v1)|[link](https://github.com/hsp-iit/epos-vlm)|[αX↑2](https://alphaxiv.org/abs/2603.24257)|
 |**2026-03-25**|**ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**|Bingqing Wei et.al.|[2603.24018v1](http://arxiv.org/abs/2603.24018v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.24018)|
 |**2026-03-25**|**See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning**|Yuxi Wei et.al.|[2603.23864v1](http://arxiv.org/abs/2603.23864v1)|null|[αX↑0](https://alphaxiv.org/abs/2603.23864)|
-|**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|[link](https://github.com/zql-kk/E3Flow)|[αX↑6](https://alphaxiv.org/abs/2603.23227)|
+|**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Qinglun Zhang et.al.|[2603.23227v1](http://arxiv.org/abs/2603.23227v1)|[link](https://github.com/zql-kk/E3Flow)|[αX↑7](https://alphaxiv.org/abs/2603.23227)|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani et.al.|[2603.23202v1](http://arxiv.org/abs/2603.23202v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.23202)|
 |**2026-03-24**|**Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**|Teng Yan et.al.|[2603.22899v1](http://arxiv.org/abs/2603.22899v1)|null|[αX↑1](https://alphaxiv.org/abs/2603.22899)|
 |**2026-03-24**|**PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding**|Lirong Che et.al.|[2603.22796v1](http://arxiv.org/abs/2603.22796v1)|null|[αX↑2](https://alphaxiv.org/abs/2603.22796)|
