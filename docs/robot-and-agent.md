@@ -4,10 +4,13 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.06
+### Updated on 2026.04.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-05**|**Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation**|Peixin Chen et.al.|[2604.04108v1](http://arxiv.org/abs/2604.04108v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04108)|
+|**2026-04-04**|**A Multi-View 3D Telepresence System for XR Robot Teleoperation**|Enes Ulas Dincer et.al.|[2604.03730v1](http://arxiv.org/abs/2604.03730v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03730)|
+|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552v1](http://arxiv.org/abs/2604.03552v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03552)|
 |**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812v1](http://arxiv.org/abs/2604.02812v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02812)|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
 |**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02523)|

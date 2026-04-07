@@ -4,10 +4,16 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.06
+### Updated on 2026.04.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04117)|
+|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878v1](http://arxiv.org/abs/2604.03878v1)|[link](https://github.com/cvlab-stonybrook/TCO)|[αX↑0](https://alphaxiv.org/abs/2604.03878)|
+|**2026-04-04**|**InCaRPose: In-Cabin Relative Camera Pose Estimation Model and Dataset**|Felix Stillger et.al.|[2604.03814v1](http://arxiv.org/abs/2604.03814v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03814)|
+|**2026-04-04**|**CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping**|Lei Zhao et.al.|[2604.03747v1](http://arxiv.org/abs/2604.03747v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03747)|
+|**2026-04-04**|**Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation**|Ruochen Li et.al.|[2604.03652v1](http://arxiv.org/abs/2604.03652v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03652)|
+|**2026-04-03**|**ViBA: Implicit Bundle Adjustment with Geometric and Temporal Consistency for Robust Visual Matching**|Xiaoji Niu et.al.|[2604.03377v1](http://arxiv.org/abs/2604.03377v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03377)|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
 |**2026-04-02**|**ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking**|Lukas Bergs et.al.|[2604.02109v1](http://arxiv.org/abs/2604.02109v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.02109)|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107v1](http://arxiv.org/abs/2604.02107v1)|[link](https://github.com/Geneta2580/HyVGGT-VO)|[αX↑5](https://alphaxiv.org/abs/2604.02107)|

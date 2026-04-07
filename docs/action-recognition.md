@@ -4,10 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.04.06
+### Updated on 2026.04.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-05**|**Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders**|Atahan Dokme et.al.|[2604.03919v1](http://arxiv.org/abs/2604.03919v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03919)|
+|**2026-04-04**|**Single-agent vs. Multi-agents for Automated Video Analysis of On-Screen Collaborative Learning Behaviors**|Likai Peng et.al.|[2604.03631v1](http://arxiv.org/abs/2604.03631v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03631)|
+|**2026-04-04**|**SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition**|Zhuoxuan Peng et.al.|[2604.03590v1](http://arxiv.org/abs/2604.03590v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03590)|
 |**2026-04-03**|**Learning from Synthetic Data via Provenance-Based Input Gradient Guidance**|Koshiro Nagano et.al.|[2604.02946v1](http://arxiv.org/abs/2604.02946v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02946)|
 |**2026-04-02**|**SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2604.02222v1](http://arxiv.org/abs/2604.02222v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.02222)|
 |**2026-04-02**|**Combining Boundary Supervision and Segment-Level Regularization for Fine-Grained Action Segmentation**|Hinako Mitsuoka et.al.|[2604.01859v1](http://arxiv.org/abs/2604.01859v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.01859)|
