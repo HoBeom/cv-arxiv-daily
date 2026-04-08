@@ -4,18 +4,25 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.07
+### Updated on 2026.04.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-05**|**Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation**|Peixin Chen et.al.|[2604.04108v1](http://arxiv.org/abs/2604.04108v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04108)|
-|**2026-04-04**|**A Multi-View 3D Telepresence System for XR Robot Teleoperation**|Enes Ulas Dincer et.al.|[2604.03730v1](http://arxiv.org/abs/2604.03730v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03730)|
-|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552v1](http://arxiv.org/abs/2604.03552v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03552)|
-|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812v1](http://arxiv.org/abs/2604.02812v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02812)|
+|**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05831)|
+|**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05014)|
+|**2026-04-06**|**Toward Self-Organizing Production Logistics in Circular Factories: A Multi-Agent Approach**|Jan-Felix Klein et.al.|[2604.04753v1](http://arxiv.org/abs/2604.04753v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04753)|
+|**2026-04-06**|**ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration**|Rongfeng Zhao et.al.|[2604.04664v1](http://arxiv.org/abs/2604.04664v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.04664)|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502v1](http://arxiv.org/abs/2604.04502v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.04502)|
+|**2026-04-05**|**Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair**|Aniruddh G. Puranic et.al.|[2604.04225v1](http://arxiv.org/abs/2604.04225v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04225)|
+|**2026-04-05**|**Robots Need Some Education: On the complexity of learning in evolutionary robotics**|Fuda van Diggelen et.al.|[2604.04196v1](http://arxiv.org/abs/2604.04196v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04196)|
+|**2026-04-05**|**Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation**|Peixin Chen et.al.|[2604.04108v1](http://arxiv.org/abs/2604.04108v1)|[link](https://github.com/chenpppx/Hypothesis_Graph_Refinement)|[αX↑1](https://alphaxiv.org/abs/2604.04108)|
+|**2026-04-04**|**A Multi-View 3D Telepresence System for XR Robot Teleoperation**|Enes Ulas Dincer et.al.|[2604.03730v1](http://arxiv.org/abs/2604.03730v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.03730)|
+|**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552v1](http://arxiv.org/abs/2604.03552v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.03552)|
+|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812v1](http://arxiv.org/abs/2604.02812v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.02812)|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
-|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02523)|
+|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.02523)|
 |**2026-04-02**|**Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation**|Teng Liu et.al.|[2604.02391v1](http://arxiv.org/abs/2604.02391v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02391)|
-|**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑8](https://alphaxiv.org/abs/2604.01224)|
+|**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑10](https://alphaxiv.org/abs/2604.01224)|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265v1](http://arxiv.org/abs/2604.00265v1)|[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)|[αX↑2](https://alphaxiv.org/abs/2604.00265)|
 |**2026-03-31**|**Owl-AuraID 1.0: An Intelligent System for Autonomous Scientific Instrumentation and Scientific Data Analysis**|Han Deng et.al.|[2603.29828v1](http://arxiv.org/abs/2603.29828v1)|[link](https://github.com/OpenOwlab/AuraID)|[αX↑8](https://alphaxiv.org/abs/2603.29828)|
 |**2026-03-31**|**SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**|Léopold Maillard et.al.|[2603.29798v1](http://arxiv.org/abs/2603.29798v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑7](https://alphaxiv.org/abs/2603.29798)|
