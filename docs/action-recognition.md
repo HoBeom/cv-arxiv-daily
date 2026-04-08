@@ -8,6 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-07**|**Mixture-of-Modality-Experts with Holistic Token Learning for Fine-Grained Multimodal Visual Analytics in Driver Action Recognition**|Tianyi Liu et.al.|[2604.05947v1](http://arxiv.org/abs/2604.05947v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05947)|
 |**2026-04-06**|**Semantic Reality: Interactive Context-Aware Visualization of Inter-Object Relationships in Augmented Reality**|Xiaoan Liu et.al.|[2604.05265v1](http://arxiv.org/abs/2604.05265v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05265)|
 |**2026-04-05**|**Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders**|Atahan Dokme et.al.|[2604.03919v1](http://arxiv.org/abs/2604.03919v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.03919)|
 |**2026-04-04**|**Single-agent vs. Multi-agents for Automated Video Analysis of On-Screen Collaborative Learning Behaviors**|Likai Peng et.al.|[2604.03631v1](http://arxiv.org/abs/2604.03631v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.03631)|
