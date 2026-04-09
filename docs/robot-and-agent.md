@@ -4,10 +4,11 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.08
+### Updated on 2026.04.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Khalil Abuibaid et.al.|[2604.06943v1](http://arxiv.org/abs/2604.06943v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.06943)|
 |**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v1](http://arxiv.org/abs/2604.06168v1)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[αX↑0](https://alphaxiv.org/abs/2604.06168)|
 |**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05831)|
 |**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05014)|

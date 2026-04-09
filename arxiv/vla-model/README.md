@@ -1,10 +1,10 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.08
+### Updated on 2026.04.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-07**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v1](http://arxiv.org/abs/2604.05672v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05672)|
+|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v2](http://arxiv.org/abs/2604.05672v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.05672)|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656v1](http://arxiv.org/abs/2604.05656v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05656)|
 |**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Theodor Wulff et.al.|[2604.05614v1](http://arxiv.org/abs/2604.05614v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05614)|
 |**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Baoshun Tong et.al.|[2604.05595v1](http://arxiv.org/abs/2604.05595v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.05595)|
