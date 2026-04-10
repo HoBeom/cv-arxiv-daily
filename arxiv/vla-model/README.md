@@ -4,6 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475v1](http://arxiv.org/abs/2604.08475v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑0](https://alphaxiv.org/abs/2604.08475)|
 |**2026-04-09**|**Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models**|Jing Gu et.al.|[2604.08266v1](http://arxiv.org/abs/2604.08266v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08266)|
 |**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168v1](http://arxiv.org/abs/2604.08168v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08168)|
 |**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Shuanghao Bai et.al.|[2604.07993v1](http://arxiv.org/abs/2604.07993v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07993)|
