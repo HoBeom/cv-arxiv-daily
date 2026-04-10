@@ -4,12 +4,20 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.09
+### Updated on 2026.04.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-09**|**Governed Capability Evolution for Embodied Agents: Safe Upgrade, Compatibility Checking, and Runtime Rollback for Embodied Capability Modules**|Xue Qin et.al.|[2604.08059v1](http://arxiv.org/abs/2604.08059v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08059)|
+|**2026-04-09**|**Object-Attribute-Relation Model Driven Adaptive Hierarchical Transmission for Multimodal Semantic Communication**|Chenxing Li et.al.|[2604.07859v1](http://arxiv.org/abs/2604.07859v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07859)|
+|**2026-04-09**|**Harnessing Embodied Agents: Runtime Governance for Policy-Constrained Execution**|Xue Qin et.al.|[2604.07833v1](http://arxiv.org/abs/2604.07833v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07833)|
+|**2026-04-09**|**Learning Without Losing Identity: Capability Evolution for Embodied Agents**|Xue Qin et.al.|[2604.07799v1](http://arxiv.org/abs/2604.07799v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07799)|
+|**2026-04-08**|**EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World**|Ryan Punamiya et.al.|[2604.07607v1](http://arxiv.org/abs/2604.07607v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07607)|
+|**2026-04-08**|**Active Reward Machine Inference From Raw State Trajectories**|Mohamad Louai Shehab et.al.|[2604.07480v1](http://arxiv.org/abs/2604.07480v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07480)|
+|**2026-04-08**|**HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**|Tencent Robotics X et.al.|[2604.07430v1](http://arxiv.org/abs/2604.07430v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07430)|
+|**2026-04-08**|**A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring**|Wenze Wang et.al.|[2604.07395v1](http://arxiv.org/abs/2604.07395v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07395)|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331v1](http://arxiv.org/abs/2604.07331v1)|[link](https://github.com/Jirl-upenn/RoSHI-MoCap)|[αX↑0](https://alphaxiv.org/abs/2604.07331)|
-|**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Khalil Abuibaid et.al.|[2604.06943v1](http://arxiv.org/abs/2604.06943v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.06943)|
+|**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Khalil Abuibaid et.al.|[2604.06943v1](http://arxiv.org/abs/2604.06943v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.06943)|
 |**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v1](http://arxiv.org/abs/2604.06168v1)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[🤗👍9](https://huggingface.co/papers/2604.06168) [αX↑9](https://alphaxiv.org/abs/2604.06168)|
 |**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.05831)|
 |**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|[link](https://github.com/starVLA/starVLA)|[αX↑12](https://alphaxiv.org/abs/2604.05014)|
