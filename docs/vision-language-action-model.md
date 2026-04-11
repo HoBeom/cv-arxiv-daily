@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.04.10
+### Updated on 2026.04.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -14,15 +14,15 @@ layout: default
 |**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Shuanghao Bai et.al.|[2604.07993v1](http://arxiv.org/abs/2604.07993v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07993)|
 |**2026-04-09**|**How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace**|Baining Zhao et.al.|[2604.07973v1](http://arxiv.org/abs/2604.07973v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07973)|
 |**2026-04-08**|**HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**|Tencent Robotics X et.al.|[2604.07430v1](http://arxiv.org/abs/2604.07430v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07430)|
-|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v2](http://arxiv.org/abs/2604.05672v2)|[link](https://github.com/ATeam-Research/A1)|[αX↑5](https://alphaxiv.org/abs/2604.05672)|
-|**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656v1](http://arxiv.org/abs/2604.05656v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.05656)|
-|**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Theodor Wulff et.al.|[2604.05614v1](http://arxiv.org/abs/2604.05614v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.05614)|
-|**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Baoshun Tong et.al.|[2604.05595v1](http://arxiv.org/abs/2604.05595v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.05595)|
-|**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378v1](http://arxiv.org/abs/2604.05378v1)|[link](https://github.com/icrdrive/icrdrive)|[αX↑0](https://alphaxiv.org/abs/2604.05378)|
-|**2026-04-07**|**VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy Approach for Vision-Language-Action Models Inference Acceleration and Success**|Chuhang Liu et.al.|[2604.05323v1](http://arxiv.org/abs/2604.05323v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.05323)|
-|**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|[link](https://github.com/starVLA/starVLA)|[αX↑12](https://alphaxiv.org/abs/2604.05014)|
-|**2026-04-06**|**E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes**|Jiajun Zhai et.al.|[2604.04834v1](http://arxiv.org/abs/2604.04834v1)|[link](https://github.com/JJayzee/E-VLA)|[αX↑6](https://alphaxiv.org/abs/2604.04834)|
-|**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Yuanchang Liang et.al.|[2604.04161v1](http://arxiv.org/abs/2604.04161v1)|null|[αX↑9](https://alphaxiv.org/abs/2604.04161)|
+|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v2](http://arxiv.org/abs/2604.05672v2)|[link](https://github.com/ATeam-Research/A1)|[αX↑15](https://alphaxiv.org/abs/2604.05672)|
+|**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656v1](http://arxiv.org/abs/2604.05656v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.05656)|
+|**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Theodor Wulff et.al.|[2604.05614v1](http://arxiv.org/abs/2604.05614v1)|null|[αX↑9](https://alphaxiv.org/abs/2604.05614)|
+|**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Baoshun Tong et.al.|[2604.05595v1](http://arxiv.org/abs/2604.05595v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.05595)|
+|**2026-04-07**|**ICR-Drive: Instruction Counterfactual Robustness for End-to-End Language-Driven Autonomous Driving**|Kaiser Hamid et.al.|[2604.05378v1](http://arxiv.org/abs/2604.05378v1)|[link](https://github.com/icrdrive/icrdrive)|[αX↑1](https://alphaxiv.org/abs/2604.05378)|
+|**2026-04-07**|**VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy Approach for Vision-Language-Action Models Inference Acceleration and Success**|Chuhang Liu et.al.|[2604.05323v1](http://arxiv.org/abs/2604.05323v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.05323)|
+|**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|[link](https://github.com/starVLA/starVLA)|[αX↑30](https://alphaxiv.org/abs/2604.05014)|
+|**2026-04-06**|**E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes**|Jiajun Zhai et.al.|[2604.04834v1](http://arxiv.org/abs/2604.04834v1)|[link](https://github.com/JJayzee/E-VLA)|[αX↑9](https://alphaxiv.org/abs/2604.04834)|
+|**2026-04-05**|**Adaptive Action Chunking at Inference-time for Vision-Language-Action Models**|Yuanchang Liang et.al.|[2604.04161v1](http://arxiv.org/abs/2604.04161v1)|null|[αX↑16](https://alphaxiv.org/abs/2604.04161)|
 |**2026-04-05**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Ravi Ranjan et.al.|[2604.03956v1](http://arxiv.org/abs/2604.03956v1)|[link](https://github.com/raviranjan-ai/VLA-Forget)|[αX↑6](https://alphaxiv.org/abs/2604.03956)|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191v1](http://arxiv.org/abs/2604.03191v1)|[link](https://github.com/Shibattic/the-compression-gap)|[αX↑7](https://alphaxiv.org/abs/2604.03191)|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181v1](http://arxiv.org/abs/2604.03181v1)|null|[αX↑20](https://alphaxiv.org/abs/2604.03181)|

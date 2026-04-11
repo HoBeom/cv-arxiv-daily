@@ -1,6 +1,6 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.10
+### Updated on 2026.04.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -8,13 +8,13 @@
 |**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574v1](http://arxiv.org/abs/2604.07574v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07574)|
 |**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748v1](http://arxiv.org/abs/2604.06748v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.06748)|
 |**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720v1](http://arxiv.org/abs/2604.06720v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2604.06720)|
-|**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402v1](http://arxiv.org/abs/2604.05402v1)|[link](https://github.com/xzhang-z/LSGS-Loc)|[αX↑1](https://alphaxiv.org/abs/2604.05402)|
-|**2026-04-06**|**A Muon-Accelerated Algorithm for Low Separation Rank Tensor Generalized Linear Models**|Xiao Liang et.al.|[2604.04726v1](http://arxiv.org/abs/2604.04726v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.04726)|
+|**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402v1](http://arxiv.org/abs/2604.05402v1)|[link](https://github.com/xzhang-z/LSGS-Loc)|[αX↑2](https://alphaxiv.org/abs/2604.05402)|
+|**2026-04-06**|**A Muon-Accelerated Algorithm for Low Separation Rank Tensor Generalized Linear Models**|Xiao Liang et.al.|[2604.04726v1](http://arxiv.org/abs/2604.04726v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.04726)|
 |**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690v1](http://arxiv.org/abs/2604.04690v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.04690)|
-|**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642v1](http://arxiv.org/abs/2604.04642v1)|[link](https://github.com/THU-VCLab/WaterSplat-SLAM)|[αX↑2](https://alphaxiv.org/abs/2604.04642)|
+|**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642v1](http://arxiv.org/abs/2604.04642v1)|[link](https://github.com/THU-VCLab/WaterSplat-SLAM)|[αX↑3](https://alphaxiv.org/abs/2604.04642)|
 |**2026-04-06**|**Relational Epipolar Graphs for Robust Relative Camera Pose Estimation**|Prateeth Rao et.al.|[2604.04554v1](http://arxiv.org/abs/2604.04554v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.04554)|
-|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.04117)|
-|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878v1](http://arxiv.org/abs/2604.03878v1)|[link](https://github.com/cvlab-stonybrook/TCO)|[αX↑9](https://alphaxiv.org/abs/2604.03878)|
+|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.04117)|
+|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878v1](http://arxiv.org/abs/2604.03878v1)|[link](https://github.com/cvlab-stonybrook/TCO)|[αX↑14](https://alphaxiv.org/abs/2604.03878)|
 |**2026-04-04**|**InCaRPose: In-Cabin Relative Camera Pose Estimation Model and Dataset**|Felix Stillger et.al.|[2604.03814v1](http://arxiv.org/abs/2604.03814v1)|[link](https://github.com/felixstillger/InCaRPose)|[αX↑1](https://alphaxiv.org/abs/2604.03814)|
 |**2026-04-04**|**CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping**|Lei Zhao et.al.|[2604.03747v1](http://arxiv.org/abs/2604.03747v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.03747)|
 |**2026-04-04**|**Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation**|Ruochen Li et.al.|[2604.03652v1](http://arxiv.org/abs/2604.03652v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.03652)|

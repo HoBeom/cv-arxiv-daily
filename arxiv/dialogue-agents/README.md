@@ -1,13 +1,13 @@
 ## Dialogue Agents
 
-### Updated on 2026.04.10
+### Updated on 2026.04.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-04-08**|**PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent**|Prince Zizhuang Wang et.al.|[2604.07645v1](http://arxiv.org/abs/2604.07645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07645)|
-|**2026-04-04**|**Belief Dynamics for Detecting Behavioral Shifts in Safe Collaborative Manipulation**|Devashri Naik et.al.|[2604.04967v1](http://arxiv.org/abs/2604.04967v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.04967)|
+|**2026-04-04**|**Belief Dynamics for Detecting Behavioral Shifts in Safe Collaborative Manipulation**|Devashri Naik et.al.|[2604.04967v1](http://arxiv.org/abs/2604.04967v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.04967)|
 |**2026-04-06**|**Is a Picture Worth a Thousand Words? Adaptive Multimodal Fact-Checking with Visual Evidence Necessity**|Jaeyoon Jung et.al.|[2604.04692v1](http://arxiv.org/abs/2604.04692v1)|[link](https://github.com/ssu-humane/AMuFC)|[αX↑3](https://alphaxiv.org/abs/2604.04692)|
-|**2026-04-02**|**Care-Conditioned Neuromodulation for Autonomy-Preserving Supportive Dialogue Agents**|Shalima Binta Manir et.al.|[2604.01576v1](http://arxiv.org/abs/2604.01576v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.01576)|
+|**2026-04-02**|**Care-Conditioned Neuromodulation for Autonomy-Preserving Supportive Dialogue Agents**|Shalima Binta Manir et.al.|[2604.01576v1](http://arxiv.org/abs/2604.01576v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.01576)|
 |**2026-03-28**|**The Hidden Costs of AI-Mediated Political Outreach: Persuasion and AI Penalties in the US and UK**|Andreas Jungherr et.al.|[2603.27413v1](http://arxiv.org/abs/2603.27413v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.27413)|
 |**2026-03-25**|**Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**|Ping Zhang et.al.|[2603.24328v1](http://arxiv.org/abs/2603.24328v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.24328)|
 |**2026-03-25**|**HyDRA: Hybrid Domain-Aware Robust Architecture for Heterogeneous Collaborative Perception**|Minwoo Song et.al.|[2603.23975v1](http://arxiv.org/abs/2603.23975v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.23975)|

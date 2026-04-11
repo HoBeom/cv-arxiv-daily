@@ -1,21 +1,21 @@
 ## Action Recognition
 
-### Updated on 2026.04.10
+### Updated on 2026.04.11
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-07**|**Mixture-of-Modality-Experts with Holistic Token Learning for Fine-Grained Multimodal Visual Analytics in Driver Action Recognition**|Tianyi Liu et.al.|[2604.05947v1](http://arxiv.org/abs/2604.05947v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.05947)|
+|**2026-04-07**|**Mixture-of-Modality-Experts with Holistic Token Learning for Fine-Grained Multimodal Visual Analytics in Driver Action Recognition**|Tianyi Liu et.al.|[2604.05947v1](http://arxiv.org/abs/2604.05947v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.05947)|
 |**2026-04-06**|**Semantic Reality: Interactive Context-Aware Visualization of Inter-Object Relationships in Augmented Reality**|Xiaoan Liu et.al.|[2604.05265v1](http://arxiv.org/abs/2604.05265v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.05265)|
-|**2026-04-05**|**Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders**|Atahan Dokme et.al.|[2604.03919v1](http://arxiv.org/abs/2604.03919v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.03919)|
+|**2026-04-05**|**Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders**|Atahan Dokme et.al.|[2604.03919v1](http://arxiv.org/abs/2604.03919v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.03919)|
 |**2026-04-04**|**Single-agent vs. Multi-agents for Automated Video Analysis of On-Screen Collaborative Learning Behaviors**|Likai Peng et.al.|[2604.03631v1](http://arxiv.org/abs/2604.03631v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.03631)|
-|**2026-04-04**|**SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition**|Zhuoxuan Peng et.al.|[2604.03590v1](http://arxiv.org/abs/2604.03590v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.03590)|
+|**2026-04-04**|**SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition**|Zhuoxuan Peng et.al.|[2604.03590v1](http://arxiv.org/abs/2604.03590v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.03590)|
 |**2026-04-03**|**Learning from Synthetic Data via Provenance-Based Input Gradient Guidance**|Koshiro Nagano et.al.|[2604.02946v1](http://arxiv.org/abs/2604.02946v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.02946)|
 |**2026-04-02**|**SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition**|Soroush Oraki et.al.|[2604.02222v1](http://arxiv.org/abs/2604.02222v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.02222)|
 |**2026-04-02**|**Combining Boundary Supervision and Segment-Level Regularization for Fine-Grained Action Segmentation**|Hinako Mitsuoka et.al.|[2604.01859v1](http://arxiv.org/abs/2604.01859v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.01859)|
 |**2026-04-01**|**ViTs for Action Classification in Videos: An Approach to Risky Tackle Detection in American Football Practice Videos**|Syed Ahsan Masud Zaidi et.al.|[2604.01318v1](http://arxiv.org/abs/2604.01318v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.01318)|
 |**2026-04-01**|**PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition**|Samar Ansari et.al.|[2604.00761v1](http://arxiv.org/abs/2604.00761v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.00761)|
-|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.29777)|
-|**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|[link](https://github.com/NingWang2049/skeletoncontext)|[αX↑4](https://alphaxiv.org/abs/2603.29692)|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|[αX↑5](https://alphaxiv.org/abs/2603.29777)|
+|**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|[link](https://github.com/NingWang2049/skeletoncontext)|[αX↑5](https://alphaxiv.org/abs/2603.29692)|
 |**2026-03-28**|**LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model**|Ruosi Wang et.al.|[2603.27103v1](http://arxiv.org/abs/2603.27103v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.27103)|
 |**2026-03-25**|**RatSeizure: A Benchmark and Saliency-Context Transformer for Rat Seizure Localization**|Ting Yu Tsai et.al.|[2603.26780v1](http://arxiv.org/abs/2603.26780v1)|[link](https://github.com/UA-CVML/RatSeizure)|[αX↑2](https://alphaxiv.org/abs/2603.26780)|
 |**2026-03-27**|**From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition**|Nazia Aslam et.al.|[2603.26336v1](http://arxiv.org/abs/2603.26336v1)|[link](https://github.com/Rabusi/From-Pixels-to-Privacy-Temporally-Consistent-Video-Anonymization-via-Token-Pruning-for-Privacy-Pres/tree/main)|[αX↑3](https://alphaxiv.org/abs/2603.26336)|
