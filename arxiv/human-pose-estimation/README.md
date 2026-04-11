@@ -5,9 +5,9 @@
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
 |**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543v1](http://arxiv.org/abs/2604.08543v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08543)|
-|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574v1](http://arxiv.org/abs/2604.07574v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.07574)|
-|**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748v1](http://arxiv.org/abs/2604.06748v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.06748)|
-|**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720v1](http://arxiv.org/abs/2604.06720v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2604.06720)|
+|**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574v1](http://arxiv.org/abs/2604.07574v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.07574)|
+|**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748v1](http://arxiv.org/abs/2604.06748v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.06748)|
+|**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720v1](http://arxiv.org/abs/2604.06720v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑3](https://alphaxiv.org/abs/2604.06720)|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402v1](http://arxiv.org/abs/2604.05402v1)|[link](https://github.com/xzhang-z/LSGS-Loc)|[αX↑2](https://alphaxiv.org/abs/2604.05402)|
 |**2026-04-06**|**A Muon-Accelerated Algorithm for Low Separation Rank Tensor Generalized Linear Models**|Xiao Liang et.al.|[2604.04726v1](http://arxiv.org/abs/2604.04726v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.04726)|
 |**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690v1](http://arxiv.org/abs/2604.04690v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.04690)|
