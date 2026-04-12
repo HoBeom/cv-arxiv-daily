@@ -4,7 +4,7 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.11
+### Updated on 2026.04.12
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -18,8 +18,8 @@ layout: default
 |**2026-04-08**|**A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring**|Wenze Wang et.al.|[2604.07395v1](http://arxiv.org/abs/2604.07395v1)|[link](https://github.com/WenzeWWZ123/Agentic-Loop)|[αX↑1](https://alphaxiv.org/abs/2604.07395)|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331v1](http://arxiv.org/abs/2604.07331v1)|[link](https://github.com/Jirl-upenn/RoSHI-MoCap)|[αX↑2](https://alphaxiv.org/abs/2604.07331)|
 |**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Khalil Abuibaid et.al.|[2604.06943v1](http://arxiv.org/abs/2604.06943v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.06943)|
-|**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v1](http://arxiv.org/abs/2604.06168v1)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[🤗👍9](https://huggingface.co/papers/2604.06168) [αX↑23](https://alphaxiv.org/abs/2604.06168)|
-|**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.05831)|
+|**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v1](http://arxiv.org/abs/2604.06168v1)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[🤗👍9](https://huggingface.co/papers/2604.06168) [αX↑27](https://alphaxiv.org/abs/2604.06168)|
+|**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.05831)|
 |**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|[link](https://github.com/starVLA/starVLA)|[αX↑12](https://alphaxiv.org/abs/2604.05014)|
 |**2026-04-06**|**Toward Self-Organizing Production Logistics in Circular Factories: A Multi-Agent Approach**|Jan-Felix Klein et.al.|[2604.04753v1](http://arxiv.org/abs/2604.04753v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04753)|
 |**2026-04-06**|**ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration**|Rongfeng Zhao et.al.|[2604.04664v1](http://arxiv.org/abs/2604.04664v1)|null|[αX↑8](https://alphaxiv.org/abs/2604.04664)|
@@ -31,7 +31,7 @@ layout: default
 |**2026-04-04**|**CRAFT: Video Diffusion for Bimanual Robot Data Generation**|Jason Chen et.al.|[2604.03552v1](http://arxiv.org/abs/2604.03552v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.03552)|
 |**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812v1](http://arxiv.org/abs/2604.02812v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.02812)|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02759)|
-|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑15](https://alphaxiv.org/abs/2604.02523)|
+|**2026-04-02**|**Tune to Learn: How Controller Gains Shape Robot Policy Learning**|Antonia Bronars et.al.|[2604.02523v1](http://arxiv.org/abs/2604.02523v1)|null|[αX↑17](https://alphaxiv.org/abs/2604.02523)|
 |**2026-04-02**|**Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation**|Teng Liu et.al.|[2604.02391v1](http://arxiv.org/abs/2604.02391v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.02391)|
 |**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|[αX↑12](https://alphaxiv.org/abs/2604.01224)|
 |**2026-03-31**|**Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**|Edoardo Zorzi et.al.|[2604.00265v1](http://arxiv.org/abs/2604.00265v1)|[link](https://github.com/benchmarking-interaction/benchmarking-interaction.github.io)|[αX↑2](https://alphaxiv.org/abs/2604.00265)|
