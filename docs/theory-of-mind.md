@@ -4,17 +4,18 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.04.12
+### Updated on 2026.04.13
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-06**|**Causal Stance**|Yoshiyuki Ohmura et.al.|[2604.05004v1](http://arxiv.org/abs/2604.05004v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.05004)|
-|**2026-04-05**|**Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents**|Hsieh-Ting Lin et.al.|[2604.04157v1](http://arxiv.org/abs/2604.04157v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.04157)|
+|**2026-04-09**|**Communicate-Predict-Act: Evaluating Social Intelligence of Agents**|David Shoresh et.al.|[2604.08727v1](http://arxiv.org/abs/2604.08727v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08727)|
+|**2026-04-09**|**Causal Stance**|Yoshiyuki Ohmura et.al.|[2604.05004v2](http://arxiv.org/abs/2604.05004v2)|null|[αX↑4](https://alphaxiv.org/abs/2604.05004)|
+|**2026-04-05**|**Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents**|Hsieh-Ting Lin et.al.|[2604.04157v1](http://arxiv.org/abs/2604.04157v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.04157)|
 |**2026-04-02**|**Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting**|Roland Mühlenbernd et.al.|[2604.02512v1](http://arxiv.org/abs/2604.02512v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.02512)|
 |**2026-03-31**|**Omni-MMSI: Toward Identity-attributed Social Interaction Understanding**|Xinpeng Li et.al.|[2604.00267v1](http://arxiv.org/abs/2604.00267v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑5](https://alphaxiv.org/abs/2604.00267)|
 |**2026-03-30**|**Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs**|Junsol Kim et.al.|[2603.28925v1](http://arxiv.org/abs/2603.28925v1)|null|[αX↑10](https://alphaxiv.org/abs/2603.28925)|
-|**2026-03-28**|**Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring**|Jakub Masłowski et.al.|[2603.27404v1](http://arxiv.org/abs/2603.27404v1)|null|[αX↑3](https://alphaxiv.org/abs/2603.27404)|
-|**2026-03-27**|**Selective Deficits in LLM Mental Self-Modeling in a Behavior-Based Test of Theory of Mind**|Christopher Ackerman et.al.|[2603.26089v1](http://arxiv.org/abs/2603.26089v1)|null|[αX↑6](https://alphaxiv.org/abs/2603.26089)|
+|**2026-03-28**|**Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring**|Jakub Masłowski et.al.|[2603.27404v1](http://arxiv.org/abs/2603.27404v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.27404)|
+|**2026-03-27**|**Selective Deficits in LLM Mental Self-Modeling in a Behavior-Based Test of Theory of Mind**|Christopher Ackerman et.al.|[2603.26089v1](http://arxiv.org/abs/2603.26089v1)|null|[αX↑7](https://alphaxiv.org/abs/2603.26089)|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484v1](http://arxiv.org/abs/2603.24484v1)|[link](https://github.com/Founce/VisionToM)|[αX↑8](https://alphaxiv.org/abs/2603.24484)|
 |**2026-04-05**|**Uncertainty Quantification for Distribution-to-Distribution Flow Matching in Scientific Imaging**|Dongxia Wu et.al.|[2603.21717v3](http://arxiv.org/abs/2603.21717v3)|null|[αX↑4](https://alphaxiv.org/abs/2603.21717)|
 |**2026-03-23**|**MIND: Multi-agent inference for negotiation dialogue in travel planning**|Hunmin Do et.al.|[2603.21696v1](http://arxiv.org/abs/2603.21696v1)|null|[αX↑4](https://alphaxiv.org/abs/2603.21696)|
