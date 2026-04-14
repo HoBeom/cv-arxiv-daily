@@ -1,9 +1,10 @@
 ## Robot & Agent
 
-### Updated on 2026.04.13
+### Updated on 2026.04.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-10**|**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**|Xuning Yang et.al.|[2604.09860v1](http://arxiv.org/abs/2604.09860v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09860)|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036v1](http://arxiv.org/abs/2604.09036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09036)|
 |**2026-04-09**|**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**|Yi-Hua Huang et.al.|[2604.08746v1](http://arxiv.org/abs/2604.08746v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08746)|
 |**2026-04-09**|**3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding**|Makanjuola Ogunleye et.al.|[2604.08645v1](http://arxiv.org/abs/2604.08645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08645)|

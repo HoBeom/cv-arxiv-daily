@@ -1,9 +1,12 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.13
+### Updated on 2026.04.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096v1](http://arxiv.org/abs/2604.10096v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10096)|
+|**2026-04-11**|**Vision-Language-Action Model, Robustness, Multi-modal Learning, Robot Manipulation**|Yuhan Xie et.al.|[2604.10055v1](http://arxiv.org/abs/2604.10055v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10055)|
+|**2026-04-10**|**ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models**|Nastaran Darabi et.al.|[2604.09824v1](http://arxiv.org/abs/2604.09824v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09824)|
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Zihao Zheng et.al.|[2604.09244v1](http://arxiv.org/abs/2604.09244v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09244)|
 |**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2604.09059v1](http://arxiv.org/abs/2604.09059v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09059)|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036v1](http://arxiv.org/abs/2604.09036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09036)|

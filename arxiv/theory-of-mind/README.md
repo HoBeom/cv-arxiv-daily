@@ -1,9 +1,10 @@
 ## Theory of Mind
 
-### Updated on 2026.04.13
+### Updated on 2026.04.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-11**|**CoSToM:Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models**|Mengfan Li et.al.|[2604.10031v1](http://arxiv.org/abs/2604.10031v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10031)|
 |**2026-04-09**|**Communicate-Predict-Act: Evaluating Social Intelligence of Agents**|David Shoresh et.al.|[2604.08727v1](http://arxiv.org/abs/2604.08727v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08727)|
 |**2026-04-09**|**Causal Stance**|Yoshiyuki Ohmura et.al.|[2604.05004v2](http://arxiv.org/abs/2604.05004v2)|null|[αX↑4](https://alphaxiv.org/abs/2604.05004)|
 |**2026-04-05**|**Readable Minds: Emergent Theory-of-Mind-Like Behavior in LLM Poker Agents**|Hsieh-Ting Lin et.al.|[2604.04157v1](http://arxiv.org/abs/2604.04157v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.04157)|

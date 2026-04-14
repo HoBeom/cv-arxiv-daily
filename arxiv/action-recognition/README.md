@@ -1,9 +1,10 @@
 ## Action Recognition
 
-### Updated on 2026.04.13
+### Updated on 2026.04.14
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-10**|**Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation**|Tzu Ling Liu et.al.|[2604.09955v1](http://arxiv.org/abs/2604.09955v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09955)|
 |**2026-04-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al.|[2604.09327v1](http://arxiv.org/abs/2604.09327v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09327)|
 |**2026-04-10**|**Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection**|Yicheng Qiu et.al.|[2604.09164v1](http://arxiv.org/abs/2604.09164v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09164)|
 |**2026-04-10**|**Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition**|Yuxi Zhou et.al.|[2604.09063v1](http://arxiv.org/abs/2604.09063v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09063)|
@@ -61,7 +62,7 @@
 |**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718v1](http://arxiv.org/abs/2602.05718v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.05718)|
 |**2026-02-02**|**WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?**|Pei Li et.al.|[2602.01850v1](http://arxiv.org/abs/2602.01850v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.01850)|
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257v1](http://arxiv.org/abs/2602.01257v1)|null|[αX↑4](https://alphaxiv.org/abs/2602.01257)|
-|**2026-03-25**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v2](http://arxiv.org/abs/2601.21078v2)|null|[αX↑8](https://alphaxiv.org/abs/2601.21078)|
+|**2026-04-10**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v3](http://arxiv.org/abs/2601.21078v3)|null|[αX↑8](https://alphaxiv.org/abs/2601.21078)|
 |**2026-02-23**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v2](http://arxiv.org/abs/2601.16210v2)|null|[αX↑22](https://alphaxiv.org/abs/2601.16210)|
 |**2025-12-22**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v2](http://arxiv.org/abs/2512.16504v2)|null|[αX↑2](https://alphaxiv.org/abs/2512.16504)|
 |**2025-12-12**|**Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization**|Anh-Kiet Duong et.al.|[2512.11189v1](http://arxiv.org/abs/2512.11189v1)|null|[αX↑0](https://alphaxiv.org/abs/2512.11189)|
