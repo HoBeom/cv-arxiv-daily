@@ -1,16 +1,19 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.14
+### Updated on 2026.04.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12942)|
+|**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12837)|
+|**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11992)|
 |**2026-04-13**|**AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation**|Mingyang Li et.al.|[2604.11674v1](http://arxiv.org/abs/2604.11674v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11674)|
 |**2026-04-13**|**LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization**|Jianshi Wu et.al.|[2604.11355v1](http://arxiv.org/abs/2604.11355v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11355)|
 |**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138v1](http://arxiv.org/abs/2604.11138v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11138)|
 |**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593v1](http://arxiv.org/abs/2604.10593v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10593)|
-|**2026-04-12**|**UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation**|Haopeng Chen et.al.|[2604.10485v1](http://arxiv.org/abs/2604.10485v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10485)|
+|**2026-04-12**|**UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation**|Haopeng Chen et.al.|[2604.10485v1](http://arxiv.org/abs/2604.10485v1)|[link](https://github.com/Vision-and-Multimodal-Intelligence-Lab/UDAPose)|[αX↑0](https://alphaxiv.org/abs/2604.10485)|
 |**2026-04-11**|**Warm-Started Reinforcement Learning for Iterative 3D/2D Liver Registration**|Hanyuan Zhang et.al.|[2604.10245v1](http://arxiv.org/abs/2604.10245v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10245)|
-|**2026-04-11**|**VGGT-HPE: Reframing Head Pose Estimation as Relative Pose Prediction**|Vasiliki Vasileiou et.al.|[2604.10106v1](http://arxiv.org/abs/2604.10106v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10106)|
+|**2026-04-11**|**VGGT-HPE: Reframing Head Pose Estimation as Relative Pose Prediction**|Vasiliki Vasileiou et.al.|[2604.10106v1](http://arxiv.org/abs/2604.10106v1)|[link](https://github.com/VasilikiVas/vggt-hpe)|[αX↑0](https://alphaxiv.org/abs/2604.10106)|
 |**2026-04-08**|**MuPPet: Multi-person 2D-to-3D Pose Lifting**|Thomas Markhorst et.al.|[2604.09715v1](http://arxiv.org/abs/2604.09715v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09715)|
 |**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429v1](http://arxiv.org/abs/2604.09429v1)|[link](https://github.com/wbjang/raysaspixels)|[αX↑0](https://alphaxiv.org/abs/2604.09429)|
 |**2026-04-10**|**Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application**|Junqi Liu et.al.|[2604.09421v1](http://arxiv.org/abs/2604.09421v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09421)|

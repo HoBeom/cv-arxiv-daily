@@ -4,15 +4,16 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.04.14
+### Updated on 2026.04.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-14**|**HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models**|Zixing Chen et.al.|[2604.12447v1](http://arxiv.org/abs/2604.12447v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12447)|
 |**2026-04-13**|**StarVLA- $α$ : Reducing Complexity in Vision-Language-Action Systems**|Jinhui Ye et.al.|[2604.11757v1](http://arxiv.org/abs/2604.11757v1)|[link](https://github.com/starVLA/starVLA)|[αX↑0](https://alphaxiv.org/abs/2604.11757)|
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Dujun Nie et.al.|[2604.11689v1](http://arxiv.org/abs/2604.11689v1)|[link](https://github.com/meituan-longcat/LARYBench)|[αX↑0](https://alphaxiv.org/abs/2604.11689)|
 |**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572v1](http://arxiv.org/abs/2604.11572v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11572)|
-|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096v1](http://arxiv.org/abs/2604.10096v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10096)|
-|**2026-04-11**|**Vision-Language-Action Model, Robustness, Multi-modal Learning, Robot Manipulation**|Yuhan Xie et.al.|[2604.10055v1](http://arxiv.org/abs/2604.10055v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10055)|
+|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096v1](http://arxiv.org/abs/2604.10096v1)|[link](https://github.com/amap-cvlab/ABot-Claw)|[αX↑0](https://alphaxiv.org/abs/2604.10096)|
+|**2026-04-14**|**STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations**|Yuhan Xie et.al.|[2604.10055v2](http://arxiv.org/abs/2604.10055v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.10055)|
 |**2026-04-10**|**ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models**|Nastaran Darabi et.al.|[2604.09824v1](http://arxiv.org/abs/2604.09824v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09824)|
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Zihao Zheng et.al.|[2604.09244v1](http://arxiv.org/abs/2604.09244v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09244)|
 |**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2604.09059v1](http://arxiv.org/abs/2604.09059v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2604.09059)|

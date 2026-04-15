@@ -1,12 +1,16 @@
 ## Robot & Agent
 
-### Updated on 2026.04.14
+### Updated on 2026.04.15
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-14**|**Scalable Trajectory Generation for Whole-Body Mobile Manipulation**|Yida Niu et.al.|[2604.12565v1](http://arxiv.org/abs/2604.12565v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12565)|
+|**2026-04-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371v1](http://arxiv.org/abs/2604.12371v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12371)|
+|**2026-04-14**|**Detecting Precise Hand Touch Moments in Egocentric Video**|Huy Anh Nguyen et.al.|[2604.12343v1](http://arxiv.org/abs/2604.12343v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12343)|
+|**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081v1](http://arxiv.org/abs/2604.12081v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12081)|
 |**2026-04-13**|**Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech**|Edwin C. Montiel-Vazquez et.al.|[2604.11417v1](http://arxiv.org/abs/2604.11417v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11417)|
 |**2026-04-13**|**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**|Anlan Yu et.al.|[2604.11351v1](http://arxiv.org/abs/2604.11351v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11351)|
-|**2026-04-13**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251v1](http://arxiv.org/abs/2604.11251v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11251)|
+|**2026-04-14**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251v2](http://arxiv.org/abs/2604.11251v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.11251)|
 |**2026-04-13**|**EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems**|Xue Qin et.al.|[2604.11174v1](http://arxiv.org/abs/2604.11174v1)|[link](https://github.com/s20sc/embodied-gov-bench)|[αX↑0](https://alphaxiv.org/abs/2604.11174)|
 |**2026-04-13**|**Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation**|Xue Qin et.al.|[2604.11028v1](http://arxiv.org/abs/2604.11028v1)|[link](https://github.com/s20sc/fsar-fleet-coordination)|[αX↑0](https://alphaxiv.org/abs/2604.11028)|
 |**2026-04-12**|**WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations**|Harry Freeman et.al.|[2604.10809v1](http://arxiv.org/abs/2604.10809v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10809)|
