@@ -1,6 +1,6 @@
 ## Action Recognition
 
-### Updated on 2026.04.15
+### Updated on 2026.04.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 |**2026-04-10**|**Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation**|Tzu Ling Liu et.al.|[2604.09955v1](http://arxiv.org/abs/2604.09955v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09955)|
 |**2026-04-10**|**From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection**|Narges Rashvand et.al.|[2604.09327v1](http://arxiv.org/abs/2604.09327v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09327)|
 |**2026-04-10**|**Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection**|Yicheng Qiu et.al.|[2604.09164v1](http://arxiv.org/abs/2604.09164v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09164)|
-|**2026-04-10**|**Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition**|Yuxi Zhou et.al.|[2604.09063v1](http://arxiv.org/abs/2604.09063v1)|[link](https://github.com/yuzhi535/FDSM)|[αX↑1](https://alphaxiv.org/abs/2604.09063)|
+|**2026-04-10**|**Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition**|Yuxi Zhou et.al.|[2604.09063v1](http://arxiv.org/abs/2604.09063v1)|[link](https://github.com/yuzhi535/FDSM)|[αX↑2](https://alphaxiv.org/abs/2604.09063)|
 |**2026-04-10**|**Fine-Grained Action Segmentation for Renorrhaphy in Robot-Assisted Partial Nephrectomy**|Jiaheng Dai et.al.|[2604.09051v1](http://arxiv.org/abs/2604.09051v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09051)|
 |**2026-04-09**|**Towards Generalizable Representations of Mathematical Strategies**|Siddhartha Pradhan et.al.|[2604.08693v1](http://arxiv.org/abs/2604.08693v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08693)|
 |**2026-04-07**|**Mixture-of-Modality-Experts with Holistic Token Learning for Fine-Grained Multimodal Visual Analytics in Driver Action Recognition**|Tianyi Liu et.al.|[2604.05947v1](http://arxiv.org/abs/2604.05947v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.05947)|

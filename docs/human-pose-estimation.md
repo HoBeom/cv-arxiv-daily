@@ -4,10 +4,13 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.15
+### Updated on 2026.04.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089v1](http://arxiv.org/abs/2604.14089v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14089)|
+|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13941)|
+|**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309v1](http://arxiv.org/abs/2604.13309v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13309)|
 |**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12942)|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12837)|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11992)|

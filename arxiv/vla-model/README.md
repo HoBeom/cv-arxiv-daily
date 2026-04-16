@@ -1,9 +1,12 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.15
+### Updated on 2026.04.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14125)|
+|**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Angelo Moroncelli et.al.|[2604.13733v1](http://arxiv.org/abs/2604.13733v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13733)|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654v1](http://arxiv.org/abs/2604.13654v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13654)|
 |**2026-04-14**|**HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models**|Zixing Chen et.al.|[2604.12447v1](http://arxiv.org/abs/2604.12447v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12447)|
 |**2026-04-13**|**StarVLA- $α$ : Reducing Complexity in Vision-Language-Action Systems**|Jinhui Ye et.al.|[2604.11757v1](http://arxiv.org/abs/2604.11757v1)|[link](https://github.com/starVLA/starVLA)|[αX↑0](https://alphaxiv.org/abs/2604.11757)|
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Dujun Nie et.al.|[2604.11689v1](http://arxiv.org/abs/2604.11689v1)|[link](https://github.com/meituan-longcat/LARYBench)|[αX↑1](https://alphaxiv.org/abs/2604.11689)|
@@ -20,7 +23,7 @@
 |**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Shuanghao Bai et.al.|[2604.07993v1](http://arxiv.org/abs/2604.07993v1)|null|[αX↑14](https://alphaxiv.org/abs/2604.07993)|
 |**2026-04-09**|**How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace**|Baining Zhao et.al.|[2604.07973v1](http://arxiv.org/abs/2604.07973v1)|[link](https://github.com/serenditipy-AC/Embodied-Navigation-Bench)|[αX↑2](https://alphaxiv.org/abs/2604.07973)|
 |**2026-04-08**|**HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**|Tencent Robotics X et.al.|[2604.07430v1](http://arxiv.org/abs/2604.07430v1)|[link](https://github.com/Tencent-Hunyuan/HY-Embodied)|[🤗👍158](https://huggingface.co/papers/2604.07430) [αX↑33](https://alphaxiv.org/abs/2604.07430)|
-|**2026-04-08**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v2](http://arxiv.org/abs/2604.05672v2)|[link](https://github.com/ATeam-Research/A1)|[αX↑22](https://alphaxiv.org/abs/2604.05672)|
+|**2026-04-15**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al.|[2604.05672v3](http://arxiv.org/abs/2604.05672v3)|[link](https://github.com/ATeam-Research/A1)|[αX↑22](https://alphaxiv.org/abs/2604.05672)|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656v1](http://arxiv.org/abs/2604.05656v1)|null|[αX↑14](https://alphaxiv.org/abs/2604.05656)|
 |**2026-04-07**|**Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment**|Theodor Wulff et.al.|[2604.05614v1](http://arxiv.org/abs/2604.05614v1)|null|[αX↑11](https://alphaxiv.org/abs/2604.05614)|
 |**2026-04-07**|**Uncovering Linguistic Fragility in Vision-Language-Action Models via Diversity-Aware Red Teaming**|Baoshun Tong et.al.|[2604.05595v1](http://arxiv.org/abs/2604.05595v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.05595)|

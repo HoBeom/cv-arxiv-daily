@@ -1,11 +1,14 @@
 ## Robot & Agent
 
-### Updated on 2026.04.15
+### Updated on 2026.04.16
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645v1](http://arxiv.org/abs/2604.13645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13645)|
+|**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558v1](http://arxiv.org/abs/2604.13558v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13558)|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533v1](http://arxiv.org/abs/2604.13533v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13533)|
 |**2026-04-14**|**Scalable Trajectory Generation for Whole-Body Mobile Manipulation**|Yida Niu et.al.|[2604.12565v1](http://arxiv.org/abs/2604.12565v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12565)|
-|**2026-04-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371v1](http://arxiv.org/abs/2604.12371v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12371)|
+|**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371v2](http://arxiv.org/abs/2604.12371v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.12371)|
 |**2026-04-14**|**Detecting Precise Hand Touch Moments in Egocentric Video**|Huy Anh Nguyen et.al.|[2604.12343v1](http://arxiv.org/abs/2604.12343v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12343)|
 |**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081v1](http://arxiv.org/abs/2604.12081v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12081)|
 |**2026-04-13**|**Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech**|Edwin C. Montiel-Vazquez et.al.|[2604.11417v1](http://arxiv.org/abs/2604.11417v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11417)|
@@ -17,7 +20,7 @@
 |**2026-04-12**|**LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment**|Yifu Xu et.al.|[2604.10677v1](http://arxiv.org/abs/2604.10677v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10677)|
 |**2026-04-12**|**OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction**|Shaqi Luo et.al.|[2604.10647v1](http://arxiv.org/abs/2604.10647v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10647)|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579v1](http://arxiv.org/abs/2604.10579v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.10579)|
-|**2026-04-10**|**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**|Xuning Yang et.al.|[2604.09860v1](http://arxiv.org/abs/2604.09860v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09860)|
+|**2026-04-14**|**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**|Xuning Yang et.al.|[2604.09860v2](http://arxiv.org/abs/2604.09860v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.09860)|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036v1](http://arxiv.org/abs/2604.09036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09036)|
 |**2026-04-09**|**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**|Yi-Hua Huang et.al.|[2604.08746v1](http://arxiv.org/abs/2604.08746v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08746)|
 |**2026-04-09**|**3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding**|Makanjuola Ogunleye et.al.|[2604.08645v1](http://arxiv.org/abs/2604.08645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08645)|
@@ -31,7 +34,7 @@
 |**2026-04-08**|**A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring**|Wenze Wang et.al.|[2604.07395v1](http://arxiv.org/abs/2604.07395v1)|[link](https://github.com/WenzeWWZ123/Agentic-Loop)|[αX↑2](https://alphaxiv.org/abs/2604.07395)|
 |**2026-04-08**|**RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild**|Wenjing Margaret Mao et.al.|[2604.07331v1](http://arxiv.org/abs/2604.07331v1)|[link](https://github.com/Jirl-upenn/RoSHI-MoCap)|[αX↑2](https://alphaxiv.org/abs/2604.07331)|
 |**2026-04-08**|**Sustainable Transfer Learning for Adaptive Robot Skills**|Khalil Abuibaid et.al.|[2604.06943v1](http://arxiv.org/abs/2604.06943v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.06943)|
-|**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v1](http://arxiv.org/abs/2604.06168v1)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[🤗👍14](https://huggingface.co/papers/2604.06168) [αX↑32](https://alphaxiv.org/abs/2604.06168)|
+|**2026-04-15**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Haoyu Zhen et.al.|[2604.06168v2](http://arxiv.org/abs/2604.06168v2)|[link](https://github.com/UMass-Embodied-AGI/ActionImages)|[🤗👍14](https://huggingface.co/papers/2604.06168) [αX↑32](https://alphaxiv.org/abs/2604.06168)|
 |**2026-04-07**|**BiCoord: A Bimanual Manipulation Benchmark towards Long-Horizon Spatial-Temporal Coordination**|Xingyu Peng et.al.|[2604.05831v1](http://arxiv.org/abs/2604.05831v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.05831)|
 |**2026-04-06**|**StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing**|StarVLA Community et.al.|[2604.05014v1](http://arxiv.org/abs/2604.05014v1)|[link](https://github.com/starVLA/starVLA)|[αX↑12](https://alphaxiv.org/abs/2604.05014)|
 |**2026-04-06**|**Toward Self-Organizing Production Logistics in Circular Factories: A Multi-Agent Approach**|Jan-Felix Klein et.al.|[2604.04753v1](http://arxiv.org/abs/2604.04753v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.04753)|
