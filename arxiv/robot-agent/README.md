@@ -1,12 +1,15 @@
 ## Robot & Agent
 
-### Updated on 2026.04.16
+### Updated on 2026.04.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902v1](http://arxiv.org/abs/2604.14902v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑0](https://alphaxiv.org/abs/2604.14902)|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-15**|**SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing**|Aodi Wu et.al.|[2604.14399v1](http://arxiv.org/abs/2604.14399v1)|[link](https://github.com/wuaodi/SpaceMind)|[αX↑0](https://alphaxiv.org/abs/2604.14399)|
 |**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645v1](http://arxiv.org/abs/2604.13645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13645)|
 |**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558v1](http://arxiv.org/abs/2604.13558v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13558)|
-|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533v1](http://arxiv.org/abs/2604.13533v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13533)|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533v1](http://arxiv.org/abs/2604.13533v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.13533)|
 |**2026-04-14**|**Scalable Trajectory Generation for Whole-Body Mobile Manipulation**|Yida Niu et.al.|[2604.12565v1](http://arxiv.org/abs/2604.12565v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.12565)|
 |**2026-04-15**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371v2](http://arxiv.org/abs/2604.12371v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.12371)|
 |**2026-04-14**|**Detecting Precise Hand Touch Moments in Egocentric Video**|Huy Anh Nguyen et.al.|[2604.12343v1](http://arxiv.org/abs/2604.12343v1)|[link](https://github.com/bbvisual/hice)|[αX↑0](https://alphaxiv.org/abs/2604.12343)|

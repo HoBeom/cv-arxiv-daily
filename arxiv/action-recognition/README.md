@@ -1,9 +1,12 @@
 ## Action Recognition
 
-### Updated on 2026.04.16
+### Updated on 2026.04.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[2604.15173v1](http://arxiv.org/abs/2604.15173v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15173)|
+|**2026-04-16**|**KVNN: Learnable Multi-Kernel Volterra Neural Networks**|Haoyu Yun et.al.|[2604.15141v1](http://arxiv.org/abs/2604.15141v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15141)|
+|**2026-04-16**|**Generative Data Augmentation for Skeleton Action Recognition**|Xu Dong et.al.|[2604.14933v1](http://arxiv.org/abs/2604.14933v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14933)|
 |**2026-04-13**|**STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding**|Wenhao Li et.al.|[2604.11637v1](http://arxiv.org/abs/2604.11637v1)|[link](https://github.com/Vegetebird/STS-Mixer)|[αX↑0](https://alphaxiv.org/abs/2604.11637)|
 |**2026-04-13**|**TAG-Head: Time-Aligned Graph Head for Plug-and-Play Fine-grained Action Recognition**|Imtiaz Ul Hassan et.al.|[2604.11498v1](http://arxiv.org/abs/2604.11498v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11498)|
 |**2026-04-10**|**Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation**|Tzu Ling Liu et.al.|[2604.09955v1](http://arxiv.org/abs/2604.09955v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09955)|

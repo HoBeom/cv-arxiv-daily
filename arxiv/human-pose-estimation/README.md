@@ -1,11 +1,15 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.16
+### Updated on 2026.04.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15221)|
+|**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew et.al.|[2604.14846v1](http://arxiv.org/abs/2604.14846v1)|[link](https://github.com/xHaileab/Paza-AI)|[αX↑0](https://alphaxiv.org/abs/2604.14846)|
+|**2026-04-16**|**Efficient closed-form approaches for pose estimation using Sylvester forms**|Jana Vráblíková et.al.|[2604.14747v1](http://arxiv.org/abs/2604.14747v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14747)|
+|**2026-04-15**|**Interpretable Human Activity Recognition for Subtle Robbery Detection in Surveillance Videos**|Bryan Jhoan Cazáres Leyva et.al.|[2604.14329v1](http://arxiv.org/abs/2604.14329v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14329)|
 |**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089v1](http://arxiv.org/abs/2604.14089v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14089)|
-|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13941)|
+|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|[link](https://github.com/songlin-du/SceneGlue)|[αX↑0](https://alphaxiv.org/abs/2604.13941)|
 |**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309v1](http://arxiv.org/abs/2604.13309v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13309)|
 |**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12942)|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12837)|

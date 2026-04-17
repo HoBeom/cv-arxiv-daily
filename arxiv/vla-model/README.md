@@ -1,10 +1,11 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.16
+### Updated on 2026.04.17
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14125)|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|[link](https://github.com/starVLA/starVLA)|[αX↑0](https://alphaxiv.org/abs/2604.14125)|
 |**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Angelo Moroncelli et.al.|[2604.13733v1](http://arxiv.org/abs/2604.13733v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13733)|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654v1](http://arxiv.org/abs/2604.13654v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13654)|
 |**2026-04-14**|**HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models**|Zixing Chen et.al.|[2604.12447v1](http://arxiv.org/abs/2604.12447v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12447)|
