@@ -4,6 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al.|[2604.15196v1](http://arxiv.org/abs/2604.15196v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15196)|
 |**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[2604.15173v1](http://arxiv.org/abs/2604.15173v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15173)|
 |**2026-04-16**|**KVNN: Learnable Multi-Kernel Volterra Neural Networks**|Haoyu Yun et.al.|[2604.15141v1](http://arxiv.org/abs/2604.15141v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15141)|
 |**2026-04-16**|**Generative Data Augmentation for Skeleton Action Recognition**|Xu Dong et.al.|[2604.14933v1](http://arxiv.org/abs/2604.14933v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14933)|
