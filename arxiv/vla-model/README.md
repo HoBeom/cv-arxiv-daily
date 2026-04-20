@@ -1,18 +1,19 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.19
+### Updated on 2026.04.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.14732)|
-|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|[link](https://github.com/starVLA/starVLA)|[αX↑0](https://alphaxiv.org/abs/2604.14125)|
+|**2026-04-17**|**Long-Term Memory for VLA-based Agents in Open-World Task Execution**|Xu Huang et.al.|[2604.15671v1](http://arxiv.org/abs/2604.15671v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15671)|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|[link](https://github.com/starVLA/starVLA)|[αX↑1](https://alphaxiv.org/abs/2604.14125)|
 |**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Angelo Moroncelli et.al.|[2604.13733v1](http://arxiv.org/abs/2604.13733v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13733)|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654v1](http://arxiv.org/abs/2604.13654v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13654)|
 |**2026-04-14**|**HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models**|Zixing Chen et.al.|[2604.12447v1](http://arxiv.org/abs/2604.12447v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12447)|
 |**2026-04-13**|**StarVLA- $α$ : Reducing Complexity in Vision-Language-Action Systems**|Jinhui Ye et.al.|[2604.11757v1](http://arxiv.org/abs/2604.11757v1)|[link](https://github.com/starVLA/starVLA)|[αX↑0](https://alphaxiv.org/abs/2604.11757)|
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Dujun Nie et.al.|[2604.11689v1](http://arxiv.org/abs/2604.11689v1)|[link](https://github.com/meituan-longcat/LARYBench)|[🤗👍9](https://huggingface.co/papers/2604.11689) [αX↑1](https://alphaxiv.org/abs/2604.11689)|
 |**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572v1](http://arxiv.org/abs/2604.11572v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.11572)|
-|**2026-04-11**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096v1](http://arxiv.org/abs/2604.10096v1)|[link](https://github.com/amap-cvlab/ABot-Claw)|[αX↑0](https://alphaxiv.org/abs/2604.10096)|
+|**2026-04-17**|**ABot-Claw: A Foundation for Persistent, Cooperative, and Self-Evolving Robotic Agents**|Dongjie Huo et.al.|[2604.10096v2](http://arxiv.org/abs/2604.10096v2)|[link](https://github.com/amap-cvlab/ABot-Claw)|[αX↑0](https://alphaxiv.org/abs/2604.10096)|
 |**2026-04-14**|**STRONG-VLA: Decoupled Robustness Learning for Vision-Language-Action Models under Multimodal Perturbations**|Yuhan Xie et.al.|[2604.10055v2](http://arxiv.org/abs/2604.10055v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.10055)|
 |**2026-04-10**|**ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models**|Nastaran Darabi et.al.|[2604.09824v1](http://arxiv.org/abs/2604.09824v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09824)|
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Zihao Zheng et.al.|[2604.09244v1](http://arxiv.org/abs/2604.09244v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09244)|

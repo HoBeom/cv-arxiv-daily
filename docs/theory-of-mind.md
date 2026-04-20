@@ -4,10 +4,11 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.04.19
+### Updated on 2026.04.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-17**|**SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems**|Hikaru Shindo et.al.|[2604.16022v1](http://arxiv.org/abs/2604.16022v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16022)|
 |**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666v1](http://arxiv.org/abs/2604.11666v1)|[link](https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders)|[🤗👍3](https://huggingface.co/papers/2604.11666) [αX↑0](https://alphaxiv.org/abs/2604.11666)|
 |**2026-04-11**|**CoSToM:Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models**|Mengfan Li et.al.|[2604.10031v1](http://arxiv.org/abs/2604.10031v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10031)|
 |**2026-04-09**|**Communicate-Predict-Act: Evaluating Social Intelligence of Agents**|David Shoresh et.al.|[2604.08727v1](http://arxiv.org/abs/2604.08727v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08727)|

@@ -4,10 +4,11 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.19
+### Updated on 2026.04.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15612)|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15221)|
 |**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew et.al.|[2604.14846v1](http://arxiv.org/abs/2604.14846v1)|[link](https://github.com/xHaileab/Paza-AI)|[αX↑0](https://alphaxiv.org/abs/2604.14846)|
 |**2026-04-16**|**Efficient closed-form approaches for pose estimation using Sylvester forms**|Jana Vráblíková et.al.|[2604.14747v1](http://arxiv.org/abs/2604.14747v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14747)|

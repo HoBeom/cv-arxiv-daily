@@ -4,12 +4,13 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.19
+### Updated on 2026.04.20
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-17**|**From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**|Jasper Lu et.al.|[2604.15805v1](http://arxiv.org/abs/2604.15805v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15805)|
 |**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902v1](http://arxiv.org/abs/2604.14902v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑0](https://alphaxiv.org/abs/2604.14902)|
-|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
 |**2026-04-15**|**SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing**|Aodi Wu et.al.|[2604.14399v1](http://arxiv.org/abs/2604.14399v1)|[link](https://github.com/wuaodi/SpaceMind)|[αX↑0](https://alphaxiv.org/abs/2604.14399)|
 |**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645v1](http://arxiv.org/abs/2604.13645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13645)|
 |**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558v1](http://arxiv.org/abs/2604.13558v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13558)|
