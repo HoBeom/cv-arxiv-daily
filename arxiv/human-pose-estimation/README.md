@@ -1,10 +1,17 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.20
+### Updated on 2026.04.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15612)|
+|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17971)|
+|**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17831)|
+|**2026-04-20**|**Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation**|Jiawen Duan et.al.|[2604.17688v1](http://arxiv.org/abs/2604.17688v1)|null|null|
+|**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446v1](http://arxiv.org/abs/2604.17446v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17446)|
+|**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16954)|
+|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16540)|
+|**2026-04-16**|**Fast Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v1](http://arxiv.org/abs/2604.16522v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16522)|
+|**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|[link](https://github.com/url-kaist/gaussianflow-slam)|[αX↑0](https://alphaxiv.org/abs/2604.15612)|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15221)|
 |**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew et.al.|[2604.14846v1](http://arxiv.org/abs/2604.14846v1)|[link](https://github.com/xHaileab/Paza-AI)|[αX↑0](https://alphaxiv.org/abs/2604.14846)|
 |**2026-04-16**|**Efficient closed-form approaches for pose estimation using Sylvester forms**|Jana Vráblíková et.al.|[2604.14747v1](http://arxiv.org/abs/2604.14747v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14747)|

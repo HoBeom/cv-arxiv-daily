@@ -4,10 +4,17 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.04.20
+### Updated on 2026.04.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17971)|
+|**2026-04-20**|**Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors**|Yingjie Feng et.al.|[2604.17914v1](http://arxiv.org/abs/2604.17914v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17914)|
+|**2026-04-18**|**Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17090v1](http://arxiv.org/abs/2604.17090v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17090)|
+|**2026-04-18**|**Motion-Guided Semantic Alignment with Negative Prompts for Zero-Shot Video Action Recognition**|Yiming Wang et.al.|[2604.17062v1](http://arxiv.org/abs/2604.17062v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17062)|
+|**2026-04-18**|**Towards Universal Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17013v1](http://arxiv.org/abs/2604.17013v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17013)|
+|**2026-04-17**|**Appearance-free Action Recognition: Zero-shot Generalization in Humans and a Two-Pathway Model**|Prerana Kumar et.al.|[2604.16675v1](http://arxiv.org/abs/2604.16675v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16675)|
+|**2026-04-17**|**MambaKick: Early Penalty Direction Prediction from HAR Embeddings**|Henry O. Velesaca et.al.|[2604.16588v1](http://arxiv.org/abs/2604.16588v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16588)|
 |**2026-04-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al.|[2604.15196v1](http://arxiv.org/abs/2604.15196v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15196)|
 |**2026-04-16**|**Boundary-Centric Active Learning for Temporal Action Segmentation**|Halil Ismail Helvaci et.al.|[2604.15173v1](http://arxiv.org/abs/2604.15173v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15173)|
 |**2026-04-16**|**KVNN: Learnable Multi-Kernel Volterra Neural Networks**|Haoyu Yun et.al.|[2604.15141v1](http://arxiv.org/abs/2604.15141v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15141)|

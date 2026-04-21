@@ -4,15 +4,22 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.04.20
+### Updated on 2026.04.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-17**|**From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**|Jasper Lu et.al.|[2604.15805v1](http://arxiv.org/abs/2604.15805v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15805)|
-|**2026-04-16**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902v1](http://arxiv.org/abs/2604.14902v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑0](https://alphaxiv.org/abs/2604.14902)|
-|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18000)|
+|**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969v1](http://arxiv.org/abs/2604.17969v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17969)|
+|**2026-04-20**|**ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning**|Tuan Van Vo et.al.|[2604.17800v1](http://arxiv.org/abs/2604.17800v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17800)|
+|**2026-04-19**|**FLASH: Fast Learning via GPU-Accelerated Simulation for High-Fidelity Deformable Manipulation in Minutes**|Siyuan Luo et.al.|[2604.17513v1](http://arxiv.org/abs/2604.17513v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17513)|
+|**2026-04-19**|**Seeing Isn't Believing: Mitigating Belief Inertia via Active Intervention in Embodied Agents**|Hanlin Wang et.al.|[2604.17252v1](http://arxiv.org/abs/2604.17252v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17252)|
+|**2026-04-18**|**Mini-BEHAVIOR-Gran: Revealing U-Shaped Effects of Instruction Granularity on Language-Guided Embodied Agents**|Sukai Huang et.al.|[2604.17019v1](http://arxiv.org/abs/2604.17019v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17019)|
+|**2026-04-18**|**Chain Of Interaction Benchmark (COIN): When Reasoning meets Embodied Interaction**|Xianhao Wang et.al.|[2604.16886v1](http://arxiv.org/abs/2604.16886v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16886)|
+|**2026-04-17**|**From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**|Jasper Lu et.al.|[2604.15805v1](http://arxiv.org/abs/2604.15805v1)|[link](https://github.com/jaber628/WorldComposer)|[αX↑0](https://alphaxiv.org/abs/2604.15805)|
+|**2026-04-20**|**ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints**|Pei-An Chen et.al.|[2604.14902v2](http://arxiv.org/abs/2604.14902v2)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑0](https://alphaxiv.org/abs/2604.14902)|
+|**2026-04-19**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v2](http://arxiv.org/abs/2604.14732v2)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
 |**2026-04-15**|**SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing**|Aodi Wu et.al.|[2604.14399v1](http://arxiv.org/abs/2604.14399v1)|[link](https://github.com/wuaodi/SpaceMind)|[αX↑0](https://alphaxiv.org/abs/2604.14399)|
-|**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645v1](http://arxiv.org/abs/2604.13645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13645)|
+|**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645v1](http://arxiv.org/abs/2604.13645v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.13645)|
 |**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558v1](http://arxiv.org/abs/2604.13558v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13558)|
 |**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533v1](http://arxiv.org/abs/2604.13533v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.13533)|
 |**2026-04-14**|**Scalable Trajectory Generation for Whole-Body Mobile Manipulation**|Yida Niu et.al.|[2604.12565v1](http://arxiv.org/abs/2604.12565v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.12565)|

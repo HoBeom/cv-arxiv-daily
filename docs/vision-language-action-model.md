@@ -4,12 +4,21 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.04.20
+### Updated on 2026.04.21
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18000)|
+|**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915v1](http://arxiv.org/abs/2604.17915v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17915)|
+|**2026-04-20**|**Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study**|Yubai Wei et.al.|[2604.17896v1](http://arxiv.org/abs/2604.17896v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17896)|
+|**2026-04-20**|**ST- $π$ : Structured SpatioTemporal VLA for Robotic Manipulation**|Chuanhao Ma et.al.|[2604.17880v1](http://arxiv.org/abs/2604.17880v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17880)|
+|**2026-04-20**|**OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation**|Kuanning Wang et.al.|[2604.17876v1](http://arxiv.org/abs/2604.17876v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17876)|
+|**2026-04-20**|**ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning**|Tuan Van Vo et.al.|[2604.17800v1](http://arxiv.org/abs/2604.17800v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17800)|
+|**2026-04-20**|**AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models**|Tingzheng Jia et.al.|[2604.17787v1](http://arxiv.org/abs/2604.17787v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17787)|
+|**2026-04-20**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al.|[2604.17706v1](http://arxiv.org/abs/2604.17706v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17706)|
+|**2026-04-17**|**ReconVLA: An Uncertainty-Guided and Failure-Aware Vision-Language-Action Framework for Robotic Control**|Lingling Chen et.al.|[2604.16677v1](http://arxiv.org/abs/2604.16677v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16677)|
 |**2026-04-17**|**Long-Term Memory for VLA-based Agents in Open-World Task Execution**|Xu Huang et.al.|[2604.15671v1](http://arxiv.org/abs/2604.15671v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.15671)|
-|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v1](http://arxiv.org/abs/2604.14732v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
+|**2026-04-19**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732v2](http://arxiv.org/abs/2604.14732v2)|null|[αX↑2](https://alphaxiv.org/abs/2604.14732)|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125v1](http://arxiv.org/abs/2604.14125v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍18](https://huggingface.co/papers/2604.14125) [αX↑1](https://alphaxiv.org/abs/2604.14125)|
 |**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Angelo Moroncelli et.al.|[2604.13733v1](http://arxiv.org/abs/2604.13733v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13733)|
 |**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654v1](http://arxiv.org/abs/2604.13654v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.13654)|
