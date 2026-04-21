@@ -8,6 +8,9 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-20**|**Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot**|Maximilian Du et.al.|[2604.18331v1](http://arxiv.org/abs/2604.18331v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18331)|
+|**2026-04-20**|**EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents**|Paolo Riva et.al.|[2604.18271v1](http://arxiv.org/abs/2604.18271v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18271)|
+|**2026-04-20**|**COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation**|Alex Mitrevski et.al.|[2604.18236v1](http://arxiv.org/abs/2604.18236v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18236)|
 |**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18000)|
 |**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969v1](http://arxiv.org/abs/2604.17969v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17969)|
 |**2026-04-20**|**ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning**|Tuan Van Vo et.al.|[2604.17800v1](http://arxiv.org/abs/2604.17800v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17800)|
@@ -35,7 +38,7 @@ layout: default
 |**2026-04-12**|**LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment**|Yifu Xu et.al.|[2604.10677v1](http://arxiv.org/abs/2604.10677v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10677)|
 |**2026-04-12**|**OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction**|Shaqi Luo et.al.|[2604.10647v1](http://arxiv.org/abs/2604.10647v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10647)|
 |**2026-04-12**|**AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Afford Correspondence**|Jiawei Zhang et.al.|[2604.10579v1](http://arxiv.org/abs/2604.10579v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.10579)|
-|**2026-04-14**|**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**|Xuning Yang et.al.|[2604.09860v2](http://arxiv.org/abs/2604.09860v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.09860)|
+|**2026-04-14**|**RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies**|Xuning Yang et.al.|[2604.09860v2](http://arxiv.org/abs/2604.09860v2)|[link](https://github.com/NVLabs/RoboLab)|[🤗👍2](https://huggingface.co/papers/2604.09860) [αX↑0](https://alphaxiv.org/abs/2604.09860)|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036v1](http://arxiv.org/abs/2604.09036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09036)|
 |**2026-04-09**|**AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation**|Yi-Hua Huang et.al.|[2604.08746v1](http://arxiv.org/abs/2604.08746v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08746)|
 |**2026-04-09**|**3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding**|Makanjuola Ogunleye et.al.|[2604.08645v1](http://arxiv.org/abs/2604.08645v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08645)|

@@ -4,6 +4,8 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484v1](http://arxiv.org/abs/2604.18484v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18484)|
+|**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107v1](http://arxiv.org/abs/2604.18107v1)|[link](https://github.com/zhoujiahuan1991/CVPR2026-PDF)|[αX↑0](https://alphaxiv.org/abs/2604.18107)|
 |**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18000)|
 |**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915v1](http://arxiv.org/abs/2604.17915v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17915)|
 |**2026-04-20**|**Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study**|Yubai Wei et.al.|[2604.17896v1](http://arxiv.org/abs/2604.17896v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17896)|

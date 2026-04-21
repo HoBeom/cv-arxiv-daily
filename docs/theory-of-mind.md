@@ -8,6 +8,7 @@ layout: default
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126v1](http://arxiv.org/abs/2604.18126v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18126)|
 |**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989v1](http://arxiv.org/abs/2604.17989v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17989)|
 |**2026-04-20**|**PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking**|Wang Bill Zhu et.al.|[2604.17819v1](http://arxiv.org/abs/2604.17819v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17819)|
 |**2026-04-19**|**HorizonBench: Long-Horizon Personalization with Evolving Preferences**|Shuyue Stella Li et.al.|[2604.17283v1](http://arxiv.org/abs/2604.17283v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17283)|
