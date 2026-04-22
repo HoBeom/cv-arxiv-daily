@@ -4,10 +4,11 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.04.21
+### Updated on 2026.04.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-20**|**HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**|Zijian Zeng et.al.|[2604.18791v1](http://arxiv.org/abs/2604.18791v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18791)|
 |**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484v1](http://arxiv.org/abs/2604.18484v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18484)|
 |**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107v1](http://arxiv.org/abs/2604.18107v1)|[link](https://github.com/zhoujiahuan1991/CVPR2026-PDF)|[αX↑0](https://alphaxiv.org/abs/2604.18107)|
 |**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18000)|
@@ -34,7 +35,7 @@ layout: default
 |**2026-04-10**|**2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness**|Zihao Zheng et.al.|[2604.09244v1](http://arxiv.org/abs/2604.09244v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09244)|
 |**2026-04-10**|**Learning Vision-Language-Action World Models for Autonomous Driving**|Guoqing Wang et.al.|[2604.09059v1](http://arxiv.org/abs/2604.09059v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑2](https://alphaxiv.org/abs/2604.09059)|
 |**2026-04-10**|**V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation**|Yaru Liu et.al.|[2604.09036v1](http://arxiv.org/abs/2604.09036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.09036)|
-|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475v1](http://arxiv.org/abs/2604.08475v1)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑5](https://alphaxiv.org/abs/2604.08475)|
+|**2026-04-21**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475v2](http://arxiv.org/abs/2604.08475v2)|[link](https://github.com/eliahuhorwitz/Academic-project-page-template)|[αX↑5](https://alphaxiv.org/abs/2604.08475)|
 |**2026-04-09**|**Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models**|Jing Gu et.al.|[2604.08266v1](http://arxiv.org/abs/2604.08266v1)|[link](https://github.com/tue-mps/Orion-Lite)|[αX↑7](https://alphaxiv.org/abs/2604.08266)|
 |**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168v1](http://arxiv.org/abs/2604.08168v1)|[link](https://github.com/GigaAI-research/ViVa)|[🤗👍16](https://huggingface.co/papers/2604.08168) [αX↑20](https://alphaxiv.org/abs/2604.08168)|
 |**2026-04-09**|**HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**|Shuanghao Bai et.al.|[2604.07993v1](http://arxiv.org/abs/2604.07993v1)|null|[αX↑14](https://alphaxiv.org/abs/2604.07993)|

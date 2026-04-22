@@ -1,9 +1,10 @@
 ## Dialogue Agents
 
-### Updated on 2026.04.21
+### Updated on 2026.04.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18612)|
 |**2026-04-16**|**Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships**|Seiya Mitsuno et.al.|[2604.12310v2](http://arxiv.org/abs/2604.12310v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.12310)|
 |**2026-04-13**|**Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents**|Swanand Rao et.al.|[2604.12129v1](http://arxiv.org/abs/2604.12129v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12129)|
 |**2026-04-13**|**A collaborative agent with two lightweight synergistic models for autonomous crystal materials research**|Tongyu Shi et.al.|[2604.11540v1](http://arxiv.org/abs/2604.11540v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11540)|

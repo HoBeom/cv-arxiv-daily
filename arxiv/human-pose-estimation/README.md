@@ -1,9 +1,10 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.21
+### Updated on 2026.04.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19133)|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|[link](https://github.com/akriegler/SARR)|[αX↑0](https://alphaxiv.org/abs/2604.18208)|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17971)|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17831)|

@@ -4,7 +4,7 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.04.21
+### Updated on 2026.04.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -14,7 +14,7 @@ layout: default
 |**2026-04-19**|**HorizonBench: Long-Horizon Personalization with Evolving Preferences**|Shuyue Stella Li et.al.|[2604.17283v1](http://arxiv.org/abs/2604.17283v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17283)|
 |**2026-04-18**|**LLMs can persuade only psychologically susceptible humans on societal issues, via trust in AI and emotional appeals, amid logical fallacies**|Alexis Carrillo et.al.|[2604.16935v1](http://arxiv.org/abs/2604.16935v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16935)|
 |**2026-04-17**|**SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems**|Hikaru Shindo et.al.|[2604.16022v1](http://arxiv.org/abs/2604.16022v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.16022)|
-|**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666v1](http://arxiv.org/abs/2604.11666v1)|[link](https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders)|[🤗👍4](https://huggingface.co/papers/2604.11666) [αX↑0](https://alphaxiv.org/abs/2604.11666)|
+|**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666v1](http://arxiv.org/abs/2604.11666v1)|[link](https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders)|[🤗👍4](https://huggingface.co/papers/2604.11666) [αX↑1](https://alphaxiv.org/abs/2604.11666)|
 |**2026-04-11**|**CoSToM:Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large Language Models**|Mengfan Li et.al.|[2604.10031v1](http://arxiv.org/abs/2604.10031v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10031)|
 |**2026-04-09**|**Communicate-Predict-Act: Evaluating Social Intelligence of Agents**|David Shoresh et.al.|[2604.08727v1](http://arxiv.org/abs/2604.08727v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08727)|
 |**2026-04-09**|**Causal Stance**|Yoshiyuki Ohmura et.al.|[2604.05004v2](http://arxiv.org/abs/2604.05004v2)|null|[αX↑4](https://alphaxiv.org/abs/2604.05004)|

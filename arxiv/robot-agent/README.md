@@ -1,9 +1,11 @@
 ## Robot & Agent
 
-### Updated on 2026.04.21
+### Updated on 2026.04.22
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Feng Jiang et.al.|[2604.19092v1](http://arxiv.org/abs/2604.19092v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19092)|
+|**2026-04-21**|**Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents**|Xu Chen et.al.|[2604.19034v1](http://arxiv.org/abs/2604.19034v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19034)|
 |**2026-04-20**|**Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot**|Maximilian Du et.al.|[2604.18331v1](http://arxiv.org/abs/2604.18331v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18331)|
 |**2026-04-20**|**EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents**|Paolo Riva et.al.|[2604.18271v1](http://arxiv.org/abs/2604.18271v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18271)|
 |**2026-04-20**|**COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation**|Alex Mitrevski et.al.|[2604.18236v1](http://arxiv.org/abs/2604.18236v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18236)|
