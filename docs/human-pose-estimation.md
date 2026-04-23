@@ -4,11 +4,13 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19133)|
+|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v1](http://arxiv.org/abs/2604.20689v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20689)|
+|**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20650)|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.19133)|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|[link](https://github.com/akriegler/SARR)|[αX↑0](https://alphaxiv.org/abs/2604.18208)|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑1](https://alphaxiv.org/abs/2604.17971)|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|[link](https://github.com/shravan-18/PCM-NeRF)|[αX↑1](https://alphaxiv.org/abs/2604.17831)|

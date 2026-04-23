@@ -1,15 +1,15 @@
 ## Dialogue Agents
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18612)|
+|**2026-04-14**|**Agent-GWO: Collaborative Agents for Dynamic Prompt Optimization in Large Language Models**|Xudong Wang et.al.|[2604.18612v1](http://arxiv.org/abs/2604.18612v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18612)|
 |**2026-04-16**|**Dialogue Agents that Share Family Information to Strengthen Grandparent-Grandchild Relationships**|Seiya Mitsuno et.al.|[2604.12310v2](http://arxiv.org/abs/2604.12310v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.12310)|
 |**2026-04-13**|**Aethon: A Reference-Based Replication Primitive for Constant-Time Instantiation of Stateful AI Agents**|Swanand Rao et.al.|[2604.12129v1](http://arxiv.org/abs/2604.12129v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.12129)|
 |**2026-04-13**|**A collaborative agent with two lightweight synergistic models for autonomous crystal materials research**|Tongyu Shi et.al.|[2604.11540v1](http://arxiv.org/abs/2604.11540v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11540)|
-|**2026-04-16**|**METRO: Towards Strategy Induction from Expert Dialogue Transcripts for Non-collaborative Dialogues**|Haofu Yang et.al.|[2604.11427v3](http://arxiv.org/abs/2604.11427v3)|[link](https://github.com/Humphrey-0125/METRO)|[αX↑0](https://alphaxiv.org/abs/2604.11427)|
-|**2026-04-10**|**Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents**|Huangwei Chen et.al.|[2604.08927v1](http://arxiv.org/abs/2604.08927v1)|[link](https://github.com/HovChen/Aegle)|[αX↑0](https://alphaxiv.org/abs/2604.08927)|
+|**2026-04-16**|**METRO: Towards Strategy Induction from Expert Dialogue Transcripts for Non-collaborative Dialogues**|Haofu Yang et.al.|[2604.11427v3](http://arxiv.org/abs/2604.11427v3)|[link](https://github.com/Humphrey-0125/METRO)|[αX↑2](https://alphaxiv.org/abs/2604.11427)|
+|**2026-04-22**|**Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents**|Huangwei Chen et.al.|[2604.08927v2](http://arxiv.org/abs/2604.08927v2)|[link](https://github.com/HovChen/Aegle)|[αX↑0](https://alphaxiv.org/abs/2604.08927)|
 |**2026-04-09**|**MedConceal: A Benchmark for Clinical Hidden-Concern Reasoning Under Partial Observability**|Yikun Han et.al.|[2604.08788v1](http://arxiv.org/abs/2604.08788v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.08788)|
 |**2026-04-08**|**PRIME: Training Free Proactive Reasoning via Iterative Memory Evolution for User-Centric Agent**|Prince Zizhuang Wang et.al.|[2604.07645v1](http://arxiv.org/abs/2604.07645v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.07645)|
 |**2026-04-04**|**Belief Dynamics for Detecting Behavioral Shifts in Safe Collaborative Manipulation**|Devashri Naik et.al.|[2604.04967v1](http://arxiv.org/abs/2604.04967v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.04967)|

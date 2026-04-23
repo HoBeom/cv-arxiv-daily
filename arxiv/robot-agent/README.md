@@ -1,14 +1,16 @@
 ## Robot & Agent
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-21**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683v1](http://arxiv.org/abs/2604.19683v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19683)|
+|**2026-04-22**|**VTouch++: A Multimodal Dataset with Vision-Based Tactile Enhancement for Bimanual Manipulation**|Qianxi Hua et.al.|[2604.20444v1](http://arxiv.org/abs/2604.20444v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20444)|
+|**2026-04-21**|**Environmental Understanding Vision-Language Model for Embodied Agent**|Jinsik Bang et.al.|[2604.19839v1](http://arxiv.org/abs/2604.19839v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19839)|
+|**2026-04-22**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683v2](http://arxiv.org/abs/2604.19683v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.19683)|
 |**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673v1](http://arxiv.org/abs/2604.19673v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19673)|
 |**2026-04-21**|**SafetyALFRED: Evaluating Safety-Conscious Planning of Multimodal Large Language Models**|Josue Torres-Fonseca et.al.|[2604.19638v1](http://arxiv.org/abs/2604.19638v1)|[link](https://github.com/sled-group/SafetyALFRED.git)|[αX↑0](https://alphaxiv.org/abs/2604.19638)|
-|**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Feng Jiang et.al.|[2604.19092v1](http://arxiv.org/abs/2604.19092v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19092)|
-|**2026-04-21**|**Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents**|Xu Chen et.al.|[2604.19034v1](http://arxiv.org/abs/2604.19034v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.19034)|
+|**2026-04-21**|**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**|Feng Jiang et.al.|[2604.19092v1](http://arxiv.org/abs/2604.19092v1)|[link](https://github.com/fffstrong/RoboWM-Bench)|[αX↑7](https://alphaxiv.org/abs/2604.19092)|
+|**2026-04-21**|**Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents**|Xu Chen et.al.|[2604.19034v1](http://arxiv.org/abs/2604.19034v1)|[link](https://github.com/amap-cvlab/ABot-Explorer)|[αX↑3](https://alphaxiv.org/abs/2604.19034)|
 |**2026-04-20**|**Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot**|Maximilian Du et.al.|[2604.18331v1](http://arxiv.org/abs/2604.18331v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.18331)|
 |**2026-04-20**|**EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents**|Paolo Riva et.al.|[2604.18271v1](http://arxiv.org/abs/2604.18271v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18271)|
 |**2026-04-20**|**COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation**|Alex Mitrevski et.al.|[2604.18236v1](http://arxiv.org/abs/2604.18236v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18236)|
@@ -33,7 +35,7 @@
 |**2026-04-13**|**Efficient Emotion-Aware Iconic Gesture Prediction for Robot Co-Speech**|Edwin C. Montiel-Vazquez et.al.|[2604.11417v1](http://arxiv.org/abs/2604.11417v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11417)|
 |**2026-04-13**|**WM-DAgger: Enabling Efficient Data Aggregation for Imitation Learning with World Models**|Anlan Yu et.al.|[2604.11351v1](http://arxiv.org/abs/2604.11351v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.11351)|
 |**2026-04-14**|**CLAW: Composable Language-Annotated Whole-body Motion Generation**|Jianuo Cao et.al.|[2604.11251v2](http://arxiv.org/abs/2604.11251v2)|null|[αX↑0](https://alphaxiv.org/abs/2604.11251)|
-|**2026-04-13**|**EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems**|Xue Qin et.al.|[2604.11174v1](http://arxiv.org/abs/2604.11174v1)|[link](https://github.com/s20sc/embodied-gov-bench)|[αX↑0](https://alphaxiv.org/abs/2604.11174)|
+|**2026-04-13**|**EmbodiedGovBench: A Benchmark for Governance, Recovery, and Upgrade Safety in Embodied Agent Systems**|Xue Qin et.al.|[2604.11174v1](http://arxiv.org/abs/2604.11174v1)|[link](https://github.com/s20sc/embodied-gov-bench)|[αX↑1](https://alphaxiv.org/abs/2604.11174)|
 |**2026-04-13**|**Federated Single-Agent Robotics: Multi-Robot Coordination Without Intra-Robot Multi-Agent Fragmentation**|Xue Qin et.al.|[2604.11028v1](http://arxiv.org/abs/2604.11028v1)|[link](https://github.com/s20sc/fsar-fleet-coordination)|[αX↑0](https://alphaxiv.org/abs/2604.11028)|
 |**2026-04-12**|**WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations**|Harry Freeman et.al.|[2604.10809v1](http://arxiv.org/abs/2604.10809v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.10809)|
 |**2026-04-12**|**LIDEA: Human-to-Robot Imitation Learning via Implicit Feature Distillation and Explicit Geometry Alignment**|Yifu Xu et.al.|[2604.10677v1](http://arxiv.org/abs/2604.10677v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.10677)|

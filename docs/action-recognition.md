@@ -4,10 +4,13 @@ layout: default
 
 ## Action Recognition
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-04-22**|**Exploring High-Order Self-Similarity for Video Understanding**|Manjin Kim et.al.|[2604.20760v1](http://arxiv.org/abs/2604.20760v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20760)|
+|**2026-04-22**|**Explicit Dropout: Deterministic Regularization for Transformer Architectures**|Vidhi Agrawal et.al.|[2604.20505v1](http://arxiv.org/abs/2604.20505v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20505)|
+|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070v1](http://arxiv.org/abs/2604.20070v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20070)|
 |**2026-04-20**|**Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2604.18313v1](http://arxiv.org/abs/2604.18313v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18313)|
 |**2026-04-20**|**LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics**|Zepeng Sun et.al.|[2604.18274v1](http://arxiv.org/abs/2604.18274v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.18274)|
 |**2026-04-20**|**Understanding Human Actions through the Lens of Executable Models**|Rimvydas Rubavicius et.al.|[2604.18064v1](http://arxiv.org/abs/2604.18064v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18064)|

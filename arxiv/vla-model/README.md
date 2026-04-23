@@ -1,12 +1,17 @@
 ## Vision Language Action Model
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834v1](http://arxiv.org/abs/2604.20834v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20834)|
+|**2026-04-22**|**Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models**|Shelly Francis-Meretzki et.al.|[2604.20472v1](http://arxiv.org/abs/2604.20472v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20472)|
+|**2026-04-22**|**A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking**|Yuelin Zhang et.al.|[2604.20347v1](http://arxiv.org/abs/2604.20347v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20347)|
+|**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Adriana Aida et.al.|[2604.20246v1](http://arxiv.org/abs/2604.20246v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20246)|
+|**2026-04-21**|**EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training**|Yiyang Du et.al.|[2604.20012v1](http://arxiv.org/abs/2604.20012v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20012)|
 |**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Jean Mercat et.al.|[2604.19728v1](http://arxiv.org/abs/2604.19728v1)|[link](https://github.com/TRI-ML/vla_foundry)|[αX↑1](https://alphaxiv.org/abs/2604.19728)|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710v1](http://arxiv.org/abs/2604.19710v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.19710)|
-|**2026-04-20**|**HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**|Zijian Zeng et.al.|[2604.18791v1](http://arxiv.org/abs/2604.18791v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.18791)|
+|**2026-04-20**|**HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**|Zijian Zeng et.al.|[2604.18791v1](http://arxiv.org/abs/2604.18791v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.18791)|
 |**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484v1](http://arxiv.org/abs/2604.18484v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.18484)|
 |**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107v1](http://arxiv.org/abs/2604.18107v1)|[link](https://github.com/zhoujiahuan1991/CVPR2026-PDF)|[αX↑3](https://alphaxiv.org/abs/2604.18107)|
 |**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000v1](http://arxiv.org/abs/2604.18000v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.18000)|

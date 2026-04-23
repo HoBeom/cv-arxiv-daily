@@ -1,9 +1,11 @@
 ## Theory of Mind
 
-### Updated on 2026.04.22
+### Updated on 2026.04.23
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-22**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833v1](http://arxiv.org/abs/2604.20833v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20833)|
+|**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav et.al.|[2604.20443v1](http://arxiv.org/abs/2604.20443v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20443)|
 |**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126v1](http://arxiv.org/abs/2604.18126v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.18126)|
 |**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989v1](http://arxiv.org/abs/2604.17989v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.17989)|
 |**2026-04-20**|**PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking**|Wang Bill Zhu et.al.|[2604.17819v1](http://arxiv.org/abs/2604.17819v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.17819)|
