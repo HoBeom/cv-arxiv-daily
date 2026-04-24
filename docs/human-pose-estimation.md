@@ -4,19 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.23
+### Updated on 2026.04.24
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v1](http://arxiv.org/abs/2604.20689v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20689)|
-|**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.20650)|
-|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.19133)|
+|**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154v1](http://arxiv.org/abs/2604.21154v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.21154)|
+|**2026-04-23**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v2](http://arxiv.org/abs/2604.20689v2)|[link](https://github.com/ariszxxu/FingerEye)|[αX↑4](https://alphaxiv.org/abs/2604.20689)|
+|**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.20650)|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.19133)|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|[link](https://github.com/akriegler/SARR)|[αX↑0](https://alphaxiv.org/abs/2604.18208)|
-|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑1](https://alphaxiv.org/abs/2604.17971)|
+|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑2](https://alphaxiv.org/abs/2604.17971)|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|[link](https://github.com/shravan-18/PCM-NeRF)|[αX↑1](https://alphaxiv.org/abs/2604.17831)|
-|**2026-04-20**|**Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation**|Jiawen Duan et.al.|[2604.17688v1](http://arxiv.org/abs/2604.17688v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17688)|
+|**2026-04-20**|**Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation**|Jiawen Duan et.al.|[2604.17688v1](http://arxiv.org/abs/2604.17688v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.17688)|
 |**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446v1](http://arxiv.org/abs/2604.17446v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17446)|
-|**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.16954)|
+|**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.16954)|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.16540)|
 |**2026-04-16**|**Fast Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v1](http://arxiv.org/abs/2604.16522v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.16522)|
 |**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|[link](https://github.com/url-kaist/gaussianflow-slam)|[αX↑1](https://alphaxiv.org/abs/2604.15612)|
@@ -26,7 +27,7 @@ layout: default
 |**2026-04-15**|**Interpretable Human Activity Recognition for Subtle Robbery Detection in Surveillance Videos**|Bryan Jhoan Cazáres Leyva et.al.|[2604.14329v1](http://arxiv.org/abs/2604.14329v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14329)|
 |**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang et.al.|[2604.14089v1](http://arxiv.org/abs/2604.14089v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.14089)|
 |**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941v1](http://arxiv.org/abs/2604.13941v1)|[link](https://github.com/songlin-du/SceneGlue)|[αX↑0](https://alphaxiv.org/abs/2604.13941)|
-|**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309v1](http://arxiv.org/abs/2604.13309v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.13309)|
+|**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Sreejani Chatterjee et.al.|[2604.13309v1](http://arxiv.org/abs/2604.13309v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.13309)|
 |**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12942)|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.12837)|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.11992)|
