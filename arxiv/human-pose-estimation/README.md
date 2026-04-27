@@ -1,20 +1,26 @@
 ## Human Pose Estimation
 
-### Updated on 2026.04.26
+### Updated on 2026.04.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154v1](http://arxiv.org/abs/2604.21154v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.21154)|
+|**2026-04-24**|**PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views**|Jiaxin Shi et.al.|[2604.22658v1](http://arxiv.org/abs/2604.22658v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22658)|
+|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22518)|
+|**2026-04-24**|**Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**|Federico Biagi et.al.|[2604.22378v1](http://arxiv.org/abs/2604.22378v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22378)|
+|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350v1](http://arxiv.org/abs/2604.22350v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22350)|
+|**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339v1](http://arxiv.org/abs/2604.22339v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22339)|
+|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310v1](http://arxiv.org/abs/2604.22310v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22310)|
+|**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154v1](http://arxiv.org/abs/2604.21154v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.21154)|
 |**2026-04-23**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v2](http://arxiv.org/abs/2604.20689v2)|[link](https://github.com/ariszxxu/FingerEye)|[αX↑5](https://alphaxiv.org/abs/2604.20689)|
-|**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.20650)|
-|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.19133)|
+|**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.20650)|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.19133)|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|[link](https://github.com/akriegler/SARR)|[αX↑1](https://alphaxiv.org/abs/2604.18208)|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑2](https://alphaxiv.org/abs/2604.17971)|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|[link](https://github.com/shravan-18/PCM-NeRF)|[αX↑1](https://alphaxiv.org/abs/2604.17831)|
 |**2026-04-20**|**Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation**|Jiawen Duan et.al.|[2604.17688v1](http://arxiv.org/abs/2604.17688v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.17688)|
 |**2026-04-19**|**HyKey: Hyperspectral Keypoint Detection and Matching in Minimally Invasive Surgery**|Alexander Saikia et.al.|[2604.17446v1](http://arxiv.org/abs/2604.17446v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.17446)|
 |**2026-04-18**|**TSM-Pose: Topology-Aware Learning with Semantic Mamba for Category-Level Object Pose Estimation**|Jinshuo Liu et.al.|[2604.16954v1](http://arxiv.org/abs/2604.16954v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.16954)|
-|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.16540)|
+|**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540v1](http://arxiv.org/abs/2604.16540v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.16540)|
 |**2026-04-16**|**Fast Online 3D Multi-Camera Multi-Object Tracking and Pose Estimation**|Linh Van Ma et.al.|[2604.16522v1](http://arxiv.org/abs/2604.16522v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.16522)|
 |**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612v1](http://arxiv.org/abs/2604.15612v1)|[link](https://github.com/url-kaist/gaussianflow-slam)|[αX↑1](https://alphaxiv.org/abs/2604.15612)|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221v1](http://arxiv.org/abs/2604.15221v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.15221)|

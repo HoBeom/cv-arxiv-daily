@@ -1,23 +1,25 @@
 ## Action Recognition
 
-### Updated on 2026.04.26
+### Updated on 2026.04.27
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-23**|**Deep kernel video approximation for unsupervised action segmentation**|Silvia L. Pintea et.al.|[2604.21572v1](http://arxiv.org/abs/2604.21572v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.21572)|
+|**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595v1](http://arxiv.org/abs/2604.22595v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22595)|
+|**2026-04-23**|**EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception Algorithms**|Brian VanVoorst et.al.|[2604.22036v1](http://arxiv.org/abs/2604.22036v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22036)|
+|**2026-04-23**|**Deep kernel video approximation for unsupervised action segmentation**|Silvia L. Pintea et.al.|[2604.21572v1](http://arxiv.org/abs/2604.21572v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.21572)|
 |**2026-04-22**|**Neuro-Symbolic Manipulation Understanding with Enriched Semantic Event Chains**|Fatemeh Ziaeetabar et.al.|[2604.21053v1](http://arxiv.org/abs/2604.21053v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.21053)|
-|**2026-04-22**|**Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition**|Naga VS Raviteja Chappa et.al.|[2604.21011v1](http://arxiv.org/abs/2604.21011v1)|[link](https://github.com/compsygroup/Micro-DualNet)|[αX↑2](https://alphaxiv.org/abs/2604.21011)|
+|**2026-04-22**|**Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition**|Naga VS Raviteja Chappa et.al.|[2604.21011v1](http://arxiv.org/abs/2604.21011v1)|[link](https://github.com/compsygroup/Micro-DualNet)|[αX↑3](https://alphaxiv.org/abs/2604.21011)|
 |**2026-04-22**|**Exploring High-Order Self-Similarity for Video Understanding**|Manjin Kim et.al.|[2604.20760v1](http://arxiv.org/abs/2604.20760v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.20760)|
-|**2026-04-22**|**Explicit Dropout: Deterministic Regularization for Transformer Architectures**|Vidhi Agrawal et.al.|[2604.20505v1](http://arxiv.org/abs/2604.20505v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.20505)|
-|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070v1](http://arxiv.org/abs/2604.20070v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.20070)|
+|**2026-04-22**|**Explicit Dropout: Deterministic Regularization for Transformer Architectures**|Vidhi Agrawal et.al.|[2604.20505v1](http://arxiv.org/abs/2604.20505v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.20505)|
+|**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070v1](http://arxiv.org/abs/2604.20070v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.20070)|
 |**2026-04-20**|**Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2604.18313v1](http://arxiv.org/abs/2604.18313v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.18313)|
-|**2026-04-20**|**LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics**|Zepeng Sun et.al.|[2604.18274v1](http://arxiv.org/abs/2604.18274v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.18274)|
-|**2026-04-20**|**Understanding Human Actions through the Lens of Executable Models**|Rimvydas Rubavicius et.al.|[2604.18064v1](http://arxiv.org/abs/2604.18064v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.18064)|
+|**2026-04-20**|**LiquidTAD: An Efficient Method for Temporal Action Detection via Liquid Neural Dynamics**|Zepeng Sun et.al.|[2604.18274v1](http://arxiv.org/abs/2604.18274v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.18274)|
+|**2026-04-20**|**Understanding Human Actions through the Lens of Executable Models**|Rimvydas Rubavicius et.al.|[2604.18064v1](http://arxiv.org/abs/2604.18064v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.18064)|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑2](https://alphaxiv.org/abs/2604.17971)|
-|**2026-04-20**|**Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors**|Yingjie Feng et.al.|[2604.17914v1](http://arxiv.org/abs/2604.17914v1)|[link](https://github.com/Philchieh/TranCLR)|[αX↑4](https://alphaxiv.org/abs/2604.17914)|
-|**2026-04-18**|**Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17090v1](http://arxiv.org/abs/2604.17090v1)|[link](https://github.com/jidongkuang/CoAMD)|[αX↑3](https://alphaxiv.org/abs/2604.17090)|
+|**2026-04-20**|**Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors**|Yingjie Feng et.al.|[2604.17914v1](http://arxiv.org/abs/2604.17914v1)|[link](https://github.com/Philchieh/TranCLR)|[αX↑5](https://alphaxiv.org/abs/2604.17914)|
+|**2026-04-18**|**Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17090v1](http://arxiv.org/abs/2604.17090v1)|[link](https://github.com/jidongkuang/CoAMD)|[αX↑4](https://alphaxiv.org/abs/2604.17090)|
 |**2026-04-18**|**Motion-Guided Semantic Alignment with Negative Prompts for Zero-Shot Video Action Recognition**|Yiming Wang et.al.|[2604.17062v1](http://arxiv.org/abs/2604.17062v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.17062)|
-|**2026-04-18**|**Towards Universal Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17013v1](http://arxiv.org/abs/2604.17013v1)|[link](https://github.com/jidongkuang/Universal-Skeleton)|[αX↑2](https://alphaxiv.org/abs/2604.17013)|
+|**2026-04-18**|**Towards Universal Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17013v1](http://arxiv.org/abs/2604.17013v1)|[link](https://github.com/jidongkuang/Universal-Skeleton)|[αX↑3](https://alphaxiv.org/abs/2604.17013)|
 |**2026-04-17**|**Appearance-free Action Recognition: Zero-shot Generalization in Humans and a Two-Pathway Model**|Prerana Kumar et.al.|[2604.16675v1](http://arxiv.org/abs/2604.16675v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.16675)|
 |**2026-04-17**|**MambaKick: Early Penalty Direction Prediction from HAR Embeddings**|Henry O. Velesaca et.al.|[2604.16588v1](http://arxiv.org/abs/2604.16588v1)|[link](https://github.com/hvelesaca/MambaKick)|[αX↑3](https://alphaxiv.org/abs/2604.16588)|
 |**2026-04-16**|**Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization**|Umer Ahmed et.al.|[2604.15196v1](http://arxiv.org/abs/2604.15196v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.15196)|
@@ -84,7 +86,7 @@
 |**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718v1](http://arxiv.org/abs/2602.05718v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.05718)|
 |**2026-02-02**|**WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?**|Pei Li et.al.|[2602.01850v1](http://arxiv.org/abs/2602.01850v1)|null|[αX↑2](https://alphaxiv.org/abs/2602.01850)|
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257v1](http://arxiv.org/abs/2602.01257v1)|null|[αX↑4](https://alphaxiv.org/abs/2602.01257)|
-|**2026-04-10**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v3](http://arxiv.org/abs/2601.21078v3)|null|[αX↑8](https://alphaxiv.org/abs/2601.21078)|
+|**2026-04-10**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078v3](http://arxiv.org/abs/2601.21078v3)|[link](https://github.com/JiaqiLi404/ActionVLM)|[αX↑9](https://alphaxiv.org/abs/2601.21078)|
 |**2026-02-23**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v2](http://arxiv.org/abs/2601.16210v2)|null|[αX↑22](https://alphaxiv.org/abs/2601.16210)|
 |**2025-12-22**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504v2](http://arxiv.org/abs/2512.16504v2)|null|[αX↑2](https://alphaxiv.org/abs/2512.16504)|
 |**2025-12-12**|**Multi-task Learning with Extended Temporal Shift Module for Temporal Action Localization**|Anh-Kiet Duong et.al.|[2512.11189v1](http://arxiv.org/abs/2512.11189v1)|null|[αX↑0](https://alphaxiv.org/abs/2512.11189)|
