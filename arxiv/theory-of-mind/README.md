@@ -4,7 +4,7 @@
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/COS-PLAY)|[αX↑13](https://alphaxiv.org/abs/2604.20987)|
+|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/cos-play)|[🤗👍20](https://huggingface.co/papers/2604.20987) [αX↑13](https://alphaxiv.org/abs/2604.20987)|
 |**2026-04-22**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833v1](http://arxiv.org/abs/2604.20833v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.20833)|
 |**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav et.al.|[2604.20443v1](http://arxiv.org/abs/2604.20443v1)|[link](https://github.com/Stealth-py/DialToM)|[αX↑5](https://alphaxiv.org/abs/2604.20443)|
 |**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126v1](http://arxiv.org/abs/2604.18126v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.18126)|
