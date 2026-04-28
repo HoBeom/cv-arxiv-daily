@@ -4,13 +4,20 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.04.27
+### Updated on 2026.04.28
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-24**|**PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views**|Jiaxin Shi et.al.|[2604.22658v1](http://arxiv.org/abs/2604.22658v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22658)|
-|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22518)|
-|**2026-04-24**|**Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**|Federico Biagi et.al.|[2604.22378v1](http://arxiv.org/abs/2604.22378v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22378)|
+|**2026-04-27**|**Evaluation of Pose Estimation Systems for Sign Language Translation**|Catherine O'Brien et.al.|[2604.24609v1](http://arxiv.org/abs/2604.24609v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.24609)|
+|**2026-04-27**|**Phase-Separated Complex Hilbert PCA on Markerless 3D Pose Estimation Data: A Global Phase Network and Its Extension to a Continuous Field on the Body Surface**|Hiromitsu Goto et.al.|[2604.24415v1](http://arxiv.org/abs/2604.24415v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.24415)|
+|**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312v1](http://arxiv.org/abs/2604.24312v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.24312)|
+|**2026-04-26**|**A Pose-only Geometric Constraint for Multi-Camera Pose Adjustment**|Shunkun Liang et.al.|[2604.23704v1](http://arxiv.org/abs/2604.23704v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23704)|
+|**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670v1](http://arxiv.org/abs/2604.23670v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23670)|
+|**2026-04-26**|**Geometry-Conditioned Diffusion for Occlusion-Robust In-Bed Pose Estimation**|Navid Aslankhani Khameneh et.al.|[2604.23651v1](http://arxiv.org/abs/2604.23651v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23651)|
+|**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387v1](http://arxiv.org/abs/2604.23387v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23387)|
+|**2026-04-24**|**PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views**|Jiaxin Shi et.al.|[2604.22658v1](http://arxiv.org/abs/2604.22658v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.22658)|
+|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.22518)|
+|**2026-04-24**|**Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**|Federico Biagi et.al.|[2604.22378v1](http://arxiv.org/abs/2604.22378v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.22378)|
 |**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350v1](http://arxiv.org/abs/2604.22350v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22350)|
 |**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339v1](http://arxiv.org/abs/2604.22339v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22339)|
 |**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310v1](http://arxiv.org/abs/2604.22310v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.22310)|
