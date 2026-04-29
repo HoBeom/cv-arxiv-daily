@@ -4,19 +4,19 @@ layout: default
 
 ## Theory of Mind
 
-### Updated on 2026.04.28
+### Updated on 2026.04.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-25**|**StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning**|Xuanyue Zhong et.al.|[2604.23198v1](http://arxiv.org/abs/2604.23198v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23198)|
-|**2026-04-24**|**Don't Make the LLM Read the Graph: Make the Graph Think**|Yuqi Sun et.al.|[2604.23057v1](http://arxiv.org/abs/2604.23057v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23057)|
-|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/cos-play)|[🤗👍20](https://huggingface.co/papers/2604.20987) [αX↑21](https://alphaxiv.org/abs/2604.20987)|
+|**2026-04-25**|**StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning**|Xuanyue Zhong et.al.|[2604.23198v1](http://arxiv.org/abs/2604.23198v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.23198)|
+|**2026-04-24**|**Don't Make the LLM Read the Graph: Make the Graph Think**|Yuqi Sun et.al.|[2604.23057v1](http://arxiv.org/abs/2604.23057v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.23057)|
+|**2026-04-22**|**Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**|Xiyang Wu et.al.|[2604.20987v1](http://arxiv.org/abs/2604.20987v1)|[link](https://github.com/wuxiyang1996/cos-play)|[🤗👍21](https://huggingface.co/papers/2604.20987) [αX↑24](https://alphaxiv.org/abs/2604.20987)|
 |**2026-04-26**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833v2](http://arxiv.org/abs/2604.20833v2)|null|[αX↑4](https://alphaxiv.org/abs/2604.20833)|
-|**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav et.al.|[2604.20443v1](http://arxiv.org/abs/2604.20443v1)|[link](https://github.com/Stealth-py/DialToM)|[αX↑8](https://alphaxiv.org/abs/2604.20443)|
+|**2026-04-22**|**DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories**|Neemesh Yadav et.al.|[2604.20443v1](http://arxiv.org/abs/2604.20443v1)|[link](https://github.com/Stealth-py/DialToM)|[αX↑9](https://alphaxiv.org/abs/2604.20443)|
 |**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126v1](http://arxiv.org/abs/2604.18126v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.18126)|
-|**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989v1](http://arxiv.org/abs/2604.17989v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.17989)|
-|**2026-04-20**|**PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking**|Wang Bill Zhu et.al.|[2604.17819v1](http://arxiv.org/abs/2604.17819v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.17819)|
-|**2026-04-19**|**HorizonBench: Long-Horizon Personalization with Evolving Preferences**|Shuyue Stella Li et.al.|[2604.17283v1](http://arxiv.org/abs/2604.17283v1)|[link](https://github.com/stellalisy/HorizonBench)|[αX↑13](https://alphaxiv.org/abs/2604.17283)|
+|**2026-04-20**|**AIT Academy: Cultivating the Complete Agent with a Confucian Three-Domain Curriculum**|Jiaqi Li et.al.|[2604.17989v1](http://arxiv.org/abs/2604.17989v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.17989)|
+|**2026-04-20**|**PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking**|Wang Bill Zhu et.al.|[2604.17819v1](http://arxiv.org/abs/2604.17819v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.17819)|
+|**2026-04-19**|**HorizonBench: Long-Horizon Personalization with Evolving Preferences**|Shuyue Stella Li et.al.|[2604.17283v1](http://arxiv.org/abs/2604.17283v1)|[link](https://github.com/stellalisy/HorizonBench)|[αX↑14](https://alphaxiv.org/abs/2604.17283)|
 |**2026-04-18**|**LLMs can persuade only psychologically susceptible humans on societal issues, via trust in AI and emotional appeals, amid logical fallacies**|Alexis Carrillo et.al.|[2604.16935v1](http://arxiv.org/abs/2604.16935v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.16935)|
 |**2026-04-17**|**SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems**|Hikaru Shindo et.al.|[2604.16022v1](http://arxiv.org/abs/2604.16022v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.16022)|
 |**2026-04-13**|**Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind**|Hanqi Xiao et.al.|[2604.11666v1](http://arxiv.org/abs/2604.11666v1)|[link](https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders)|[🤗👍4](https://huggingface.co/papers/2604.11666) [αX↑1](https://alphaxiv.org/abs/2604.11666)|

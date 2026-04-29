@@ -1,24 +1,25 @@
 ## Action Recognition
 
-### Updated on 2026.04.28
+### Updated on 2026.04.29
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-04-28**|**Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein**|Sayan Ghosh et.al.|[2604.25105v1](http://arxiv.org/abs/2604.25105v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.25105)|
 |**2026-04-25**|**A Heterogeneous Two-Stream Framework for Video Action Recognition with Comparative Fusion Analysis**|Md. Afzalur Rahaman et.al.|[2604.23415v1](http://arxiv.org/abs/2604.23415v1)|null|[αX↑0](https://alphaxiv.org/abs/2604.23415)|
-|**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595v1](http://arxiv.org/abs/2604.22595v1)|[link](https://github.com/AI-CV-Lab/EV-CLIP)|[αX↑1](https://alphaxiv.org/abs/2604.22595)|
+|**2026-04-24**|**EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges**|Hyo Jin Jon et.al.|[2604.22595v1](http://arxiv.org/abs/2604.22595v1)|[link](https://github.com/AI-CV-Lab/EV-CLIP)|[αX↑2](https://alphaxiv.org/abs/2604.22595)|
 |**2026-04-23**|**EgoMAGIC- An Egocentric Video Field Medicine Dataset for Training Perception Algorithms**|Brian VanVoorst et.al.|[2604.22036v1](http://arxiv.org/abs/2604.22036v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.22036)|
-|**2026-04-23**|**Deep kernel video approximation for unsupervised action segmentation**|Silvia L. Pintea et.al.|[2604.21572v1](http://arxiv.org/abs/2604.21572v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.21572)|
-|**2026-04-22**|**Neuro-Symbolic Manipulation Understanding with Enriched Semantic Event Chains**|Fatemeh Ziaeetabar et.al.|[2604.21053v1](http://arxiv.org/abs/2604.21053v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.21053)|
+|**2026-04-23**|**Deep kernel video approximation for unsupervised action segmentation**|Silvia L. Pintea et.al.|[2604.21572v1](http://arxiv.org/abs/2604.21572v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.21572)|
+|**2026-04-22**|**Neuro-Symbolic Manipulation Understanding with Enriched Semantic Event Chains**|Fatemeh Ziaeetabar et.al.|[2604.21053v1](http://arxiv.org/abs/2604.21053v1)|null|[αX↑3](https://alphaxiv.org/abs/2604.21053)|
 |**2026-04-22**|**Micro-DualNet: Dual-Path Spatio-Temporal Network for Micro-Action Recognition**|Naga VS Raviteja Chappa et.al.|[2604.21011v1](http://arxiv.org/abs/2604.21011v1)|[link](https://github.com/compsygroup/Micro-DualNet)|[αX↑3](https://alphaxiv.org/abs/2604.21011)|
-|**2026-04-22**|**Exploring High-Order Self-Similarity for Video Understanding**|Manjin Kim et.al.|[2604.20760v1](http://arxiv.org/abs/2604.20760v1)|null|[αX↑6](https://alphaxiv.org/abs/2604.20760)|
+|**2026-04-22**|**Exploring High-Order Self-Similarity for Video Understanding**|Manjin Kim et.al.|[2604.20760v1](http://arxiv.org/abs/2604.20760v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.20760)|
 |**2026-04-22**|**Explicit Dropout: Deterministic Regularization for Transformer Architectures**|Vidhi Agrawal et.al.|[2604.20505v1](http://arxiv.org/abs/2604.20505v1)|null|[αX↑5](https://alphaxiv.org/abs/2604.20505)|
 |**2026-04-22**|**Auditing and Controlling AI Agent Actions in Spreadsheets**|Sadra Sabouri et.al.|[2604.20070v1](http://arxiv.org/abs/2604.20070v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.20070)|
 |**2026-04-20**|**Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2604.18313v1](http://arxiv.org/abs/2604.18313v1)|null|[αX↑2](https://alphaxiv.org/abs/2604.18313)|
-|**2026-04-27**|**LiquidTAD: Efficient Temporal Action Detection via Parallel Liquid-Inspired Temporal Relaxation**|Zepeng Sun et.al.|[2604.18274v2](http://arxiv.org/abs/2604.18274v2)|null|[αX↑5](https://alphaxiv.org/abs/2604.18274)|
+|**2026-04-27**|**LiquidTAD: Efficient Temporal Action Detection via Parallel Liquid-Inspired Temporal Relaxation**|Zepeng Sun et.al.|[2604.18274v2](http://arxiv.org/abs/2604.18274v2)|null|[αX↑6](https://alphaxiv.org/abs/2604.18274)|
 |**2026-04-20**|**Understanding Human Actions through the Lens of Executable Models**|Rimvydas Rubavicius et.al.|[2604.18064v1](http://arxiv.org/abs/2604.18064v1)|null|[αX↑7](https://alphaxiv.org/abs/2604.18064)|
-|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑2](https://alphaxiv.org/abs/2604.17971)|
+|**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|[link](https://github.com/ana-baltaretu/bias-action-recognition)|[αX↑3](https://alphaxiv.org/abs/2604.17971)|
 |**2026-04-20**|**Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors**|Yingjie Feng et.al.|[2604.17914v1](http://arxiv.org/abs/2604.17914v1)|[link](https://github.com/Philchieh/TranCLR)|[αX↑6](https://alphaxiv.org/abs/2604.17914)|
-|**2026-04-18**|**Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17090v1](http://arxiv.org/abs/2604.17090v1)|[link](https://github.com/jidongkuang/CoAMD)|[αX↑4](https://alphaxiv.org/abs/2604.17090)|
+|**2026-04-18**|**Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17090v1](http://arxiv.org/abs/2604.17090v1)|[link](https://github.com/jidongkuang/CoAMD)|[αX↑5](https://alphaxiv.org/abs/2604.17090)|
 |**2026-04-18**|**Motion-Guided Semantic Alignment with Negative Prompts for Zero-Shot Video Action Recognition**|Yiming Wang et.al.|[2604.17062v1](http://arxiv.org/abs/2604.17062v1)|null|[αX↑4](https://alphaxiv.org/abs/2604.17062)|
 |**2026-04-18**|**Towards Universal Skeleton-Based Action Recognition**|Jidong Kuang et.al.|[2604.17013v1](http://arxiv.org/abs/2604.17013v1)|[link](https://github.com/jidongkuang/Universal-Skeleton)|[αX↑3](https://alphaxiv.org/abs/2604.17013)|
 |**2026-04-17**|**Appearance-free Action Recognition: Zero-shot Generalization in Humans and a Two-Pathway Model**|Prerana Kumar et.al.|[2604.16675v1](http://arxiv.org/abs/2604.16675v1)|null|[αX↑1](https://alphaxiv.org/abs/2604.16675)|
