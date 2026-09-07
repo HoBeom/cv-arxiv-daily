@@ -4,7 +4,7 @@ layout: default
 
 ## Vision Language Action Model
 
-### Updated on 2026.09.06
+### Updated on 2026.09.07
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
@@ -47,9 +47,9 @@ layout: default
 |**2026-08-26**|**V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models**|Yehao Lu et.al.|[2608.25308v1](http://arxiv.org/abs/2608.25308v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.25308)|
 |**2026-08-25**|**GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model**|Md Selim Sarowar et.al.|[2608.24959v1](http://arxiv.org/abs/2608.24959v1)|[link](https://github.com/GaussVLA/GaussVLA)|[αX↑10](https://alphaxiv.org/abs/2608.24959)|
 |**2026-08-25**|**Gripper-aware Vision Language Action Models**|Hanyi Zhang et.al.|[2608.24603v1](http://arxiv.org/abs/2608.24603v1)|null|[αX↑9](https://alphaxiv.org/abs/2608.24603)|
-|**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Suhwan Choi et.al.|[2608.24115v1](http://arxiv.org/abs/2608.24115v1)|null|[αX↑12](https://alphaxiv.org/abs/2608.24115)|
+|**2026-08-25**|**PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control**|Suhwan Choi et.al.|[2608.24115v1](http://arxiv.org/abs/2608.24115v1)|[link](https://github.com/worv-ai/PonderPounce)|[αX↑12](https://alphaxiv.org/abs/2608.24115)|
 |**2026-08-25**|**Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models**|Haoran Hao et.al.|[2608.24042v1](http://arxiv.org/abs/2608.24042v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.24042)|
-|**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Sangoh Lee et.al.|[2608.23478v1](http://arxiv.org/abs/2608.23478v1)|null|[αX↑17](https://alphaxiv.org/abs/2608.23478)|
+|**2026-08-24**|**Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models**|Sangoh Lee et.al.|[2608.23478v1](http://arxiv.org/abs/2608.23478v1)|[link](https://github.com/Leesangoh/INDI)|[αX↑17](https://alphaxiv.org/abs/2608.23478)|
 |**2026-08-24**|**ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots**|Nils Mandischer et.al.|[2608.23320v1](http://arxiv.org/abs/2608.23320v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.23320)|
 |**2026-08-24**|**Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation**|Xiwen Chen et.al.|[2608.23138v1](http://arxiv.org/abs/2608.23138v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.23138)|
 |**2026-08-24**|**InstructMove: A Text-Indispensable Benchmark for Instruction-Following Manipulation**|Mengao Zhao et.al.|[2608.22990v1](http://arxiv.org/abs/2608.22990v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.22990)|
