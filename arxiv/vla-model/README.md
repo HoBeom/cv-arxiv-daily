@@ -1,6 +1,6 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.07
+### Updated on 2026.09.08
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 |**2026-08-29**|**DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation**|Makoto Sato et.al.|[2608.29078v1](http://arxiv.org/abs/2608.29078v1)|null|[αX↑0](https://alphaxiv.org/abs/2608.29078)|
 |**2026-08-28**|**DeicticVLA: Unifying Instruction Modes Based on Language and Deictic Gestures in a Single VLA**|Kango Yanagida et.al.|[2608.28108v1](http://arxiv.org/abs/2608.28108v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.28108)|
 |**2026-08-27**|**PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models**|Davood Soleymanzadeh et.al.|[2608.27609v1](http://arxiv.org/abs/2608.27609v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.27609)|
-|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Senqiao Yang et.al.|[2608.27550v1](http://arxiv.org/abs/2608.27550v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍93](https://huggingface.co/papers/2608.27550) [αX↑32](https://alphaxiv.org/abs/2608.27550)|
+|**2026-08-27**|**Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models**|Senqiao Yang et.al.|[2608.27550v1](http://arxiv.org/abs/2608.27550v1)|[link](https://github.com/starVLA/starVLA)|[🤗👍94](https://huggingface.co/papers/2608.27550) [αX↑32](https://alphaxiv.org/abs/2608.27550)|
 |**2026-08-27**|**FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference**|Zekai Li et.al.|[2608.27384v1](http://arxiv.org/abs/2608.27384v1)|[link](https://github.com/z-lab/flashvla)|[αX↑35](https://alphaxiv.org/abs/2608.27384)|
 |**2026-08-27**|**TemporalFlow-VLA: Learning Physically Grounded Execution History for Long-Horizon Robot Manipulation**|Jiarui Yang et.al.|[2608.26821v1](http://arxiv.org/abs/2608.26821v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.26821)|
 |**2026-08-30**|**PredVLA: Predictive Sensorimotor Modeling for Sub-Million-Parameter Robot Manipulation**|Hiroki Sawada et.al.|[2608.26673v2](http://arxiv.org/abs/2608.26673v2)|null|[αX↑20](https://alphaxiv.org/abs/2608.26673)|
