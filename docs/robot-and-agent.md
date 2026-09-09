@@ -4,21 +4,36 @@ layout: default
 
 ## Robot & Agent
 
-### Updated on 2026.09.08
+### Updated on 2026.09.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-08**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v1](http://arxiv.org/abs/2609.09148v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.09148)|
+|**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493v1](http://arxiv.org/abs/2609.08493v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08493)|
+|**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Siyuan Li et.al.|[2609.08444v1](http://arxiv.org/abs/2609.08444v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08444)|
+|**2026-09-08**|**Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies**|Ruiyu Wang et.al.|[2609.08408v1](http://arxiv.org/abs/2609.08408v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08408)|
+|**2026-09-08**|**EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments**|Xilin Wang et.al.|[2609.08292v1](http://arxiv.org/abs/2609.08292v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.08292)|
+|**2026-09-08**|**Observe Before You Alert: Adaptive Driver Alerting with Vision-Language Models**|Yuhang Wang et.al.|[2609.08130v1](http://arxiv.org/abs/2609.08130v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08130)|
+|**2026-09-07**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Ruoqu Chen et.al.|[2609.07747v1](http://arxiv.org/abs/2609.07747v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.07747)|
+|**2026-09-07**|**PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling**|Yinan Deng et.al.|[2609.07532v1](http://arxiv.org/abs/2609.07532v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07532)|
+|**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Hongxiang Zhao et.al.|[2609.07498v1](http://arxiv.org/abs/2609.07498v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.07498)|
+|**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie et.al.|[2609.07474v1](http://arxiv.org/abs/2609.07474v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07474)|
+|**2026-09-07**|**Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy**|Ayoub Kirouane et.al.|[2609.07470v1](http://arxiv.org/abs/2609.07470v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07470)|
+|**2026-09-07**|**MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation**|Haiyang Sun et.al.|[2609.07047v1](http://arxiv.org/abs/2609.07047v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.07047)|
+|**2026-09-07**|**Networked Embodied Communication: From Collective Distinguishability to Communication Reliability**|Yewen Cao et.al.|[2609.06969v1](http://arxiv.org/abs/2609.06969v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06969)|
+|**2026-09-07**|**Mind the Phase: Effective Rank and Representation Health in Legged Locomotion**|Felipe Tommaselli et.al.|[2609.06958v1](http://arxiv.org/abs/2609.06958v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06958)|
+|**2026-09-05**|**A4A: Cross-Embodiment Transfer of Action-Oriented 4D Affordances from Human Demonstrations**|Yifan Han et.al.|[2609.05892v1](http://arxiv.org/abs/2609.05892v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.05892)|
 |**2026-09-04**|**Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models**|Wonje Jeung et.al.|[2609.05401v1](http://arxiv.org/abs/2609.05401v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.05401)|
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324v1](http://arxiv.org/abs/2609.05324v1)|[link](https://github.com/fanzhenxuan/RoboSPA)|[αX↑2](https://alphaxiv.org/abs/2609.05324)|
 |**2026-09-04**|**LIBERO-RECOVER: Beyond Task Success Towards Failure Recovery in Robotic Manipulation Models**|Lin Liu et.al.|[2609.05178v1](http://arxiv.org/abs/2609.05178v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.05178)|
-|**2026-09-04**|**A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning**|Chongwen Dong et.al.|[2609.05133v1](http://arxiv.org/abs/2609.05133v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.05133)|
+|**2026-09-04**|**A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning**|Chongwen Dong et.al.|[2609.05133v1](http://arxiv.org/abs/2609.05133v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.05133)|
 |**2026-09-04**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Zijie Zhu et.al.|[2609.04958v1](http://arxiv.org/abs/2609.04958v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.04958)|
 |**2026-09-04**|**Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents**|Tianyidan Xie et.al.|[2609.04802v1](http://arxiv.org/abs/2609.04802v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.04802)|
-|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|[αX↑9](https://alphaxiv.org/abs/2609.04193)|
+|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|[αX↑14](https://alphaxiv.org/abs/2609.04193)|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927v1](http://arxiv.org/abs/2609.03927v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.03927)|
-|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.03715)|
+|**2026-09-03**|**MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO?**|Kohei Sendai et.al.|[2609.03715v1](http://arxiv.org/abs/2609.03715v1)|null|[αX↑12](https://alphaxiv.org/abs/2609.03715)|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657v1](http://arxiv.org/abs/2609.03657v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.03657)|
-|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Howard Qian et.al.|[2609.03199v1](http://arxiv.org/abs/2609.03199v1)|[link](https://github.com/Rice-RobotPI-Lab/RoboTok-Code)|[🤗👍116](https://huggingface.co/papers/2609.03199) [αX↑16](https://alphaxiv.org/abs/2609.03199)|
+|**2026-09-02**|**RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning**|Howard Qian et.al.|[2609.03199v1](http://arxiv.org/abs/2609.03199v1)|[link](https://github.com/Rice-RobotPI-Lab/RoboTok-Code)|[🤗👍116](https://huggingface.co/papers/2609.03199) [αX↑25](https://alphaxiv.org/abs/2609.03199)|
 |**2026-09-02**|**Spatially Aware World Action Model via Geometric Latent Diffusion**|Javier Alejandro Lopetegui Gonzalez et.al.|[2609.02531v1](http://arxiv.org/abs/2609.02531v1)|null|[αX↑19](https://alphaxiv.org/abs/2609.02531)|
 |**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.02402)|
 |**2026-09-04**|**LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory**|Kun-Yang Yu et.al.|[2609.02350v2](http://arxiv.org/abs/2609.02350v2)|null|[αX↑3](https://alphaxiv.org/abs/2609.02350)|

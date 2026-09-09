@@ -1,19 +1,25 @@
 ## Action Recognition
 
-### Updated on 2026.09.08
+### Updated on 2026.09.09
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-08**|**SoftRerank: Hierarchical Soft Fusion with Candidate-Label Reranking for Long-Tailed Micro-Action Recognition**|Yichi Zhang et.al.|[2609.08221v1](http://arxiv.org/abs/2609.08221v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08221)|
+|**2026-09-08**|**Boundary Voting Network for Ambiguity-Aware Timestamp-Supervised Action Segmentation**|Runzhong Zhang et.al.|[2609.08167v1](http://arxiv.org/abs/2609.08167v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08167)|
+|**2026-09-07**|**SAFER-Activities: A Dataset for Smart Assessment of Fall Events and Routine Activities**|Diwas Lamsal et.al.|[2609.08038v1](http://arxiv.org/abs/2609.08038v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08038)|
+|**2026-09-07**|**A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models**|Kacper Mroczek et.al.|[2609.08013v1](http://arxiv.org/abs/2609.08013v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08013)|
+|**2026-09-06**|**AURA-Eval: Evaluation Framework for Acting Under Risk Awareness in LLM Agent Trajectories**|Ruoxi Shang et.al.|[2609.06783v1](http://arxiv.org/abs/2609.06783v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06783)|
+|**2026-09-06**|**An Integrated Video-AI Platform for Action-Level Microanastomosis Training and Performance Feedback**|Yan Meng et.al.|[2609.06380v1](http://arxiv.org/abs/2609.06380v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.06380)|
 |**2026-09-04**|**Few-Shot Video Recognition via Hierarchical Metric Learning**|Jiaxin Zhang et.al.|[2609.05242v1](http://arxiv.org/abs/2609.05242v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.05242)|
-|**2026-09-04**|**Hidden In Plain Gaze: Gaze Representations as Privacy Controls for Utility and Re-identification Risk in XR**|Cory Ilo et.al.|[2609.04592v1](http://arxiv.org/abs/2609.04592v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.04592)|
-|**2026-09-03**|**What Moves? Localized Motion Representations for Compositional Scene Control**|Frank Fundel et.al.|[2609.04383v1](http://arxiv.org/abs/2609.04383v1)|[link](https://github.com/CompVis/WhatMoves)|[αX↑2](https://alphaxiv.org/abs/2609.04383)|
+|**2026-09-04**|**Hidden In Plain Gaze: Gaze Representations as Privacy Controls for Utility and Re-identification Risk in XR**|Cory Ilo et.al.|[2609.04592v1](http://arxiv.org/abs/2609.04592v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.04592)|
+|**2026-09-03**|**What Moves? Localized Motion Representations for Compositional Scene Control**|Frank Fundel et.al.|[2609.04383v1](http://arxiv.org/abs/2609.04383v1)|[link](https://github.com/CompVis/WhatMoves)|[αX↑4](https://alphaxiv.org/abs/2609.04383)|
 |**2026-08-31**|**OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery**|Leonardo Borgioli et.al.|[2608.31048v1](http://arxiv.org/abs/2608.31048v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.31048)|
-|**2026-08-31**|**TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale**|Sandeep Sricharan Mukku et.al.|[2608.30614v1](http://arxiv.org/abs/2608.30614v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.30614)|
-|**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536v1](http://arxiv.org/abs/2608.30536v1)|null|[αX↑8](https://alphaxiv.org/abs/2608.30536)|
-|**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279v1](http://arxiv.org/abs/2608.30279v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30279)|
-|**2026-08-30**|**FIS-OT: Feature-Induced Optimal Transport for Unsupervised Action Segmentation**|Linxiang Peng et.al.|[2608.29980v1](http://arxiv.org/abs/2608.29980v1)|[link](https://github.com/flying05/FIS-OT)|[αX↑4](https://alphaxiv.org/abs/2608.29980)|
-|**2026-08-30**|**MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation**|Xinyao Qin et.al.|[2608.29891v1](http://arxiv.org/abs/2608.29891v1)|null|[αX↑6](https://alphaxiv.org/abs/2608.29891)|
-|**2026-08-30**|**See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning**|Yun Li et.al.|[2608.29611v1](http://arxiv.org/abs/2608.29611v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29611)|
+|**2026-08-31**|**TaxCE : A Framework for Automated Taxonomy Construction and Evaluation at Scale**|Sandeep Sricharan Mukku et.al.|[2608.30614v1](http://arxiv.org/abs/2608.30614v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.30614)|
+|**2026-08-31**|**Behavior-Skill: A Fine-Grained Benchmark for Evaluating Vision-Language-Action Policies in Long-Horizon Tasks**|Chunyun Ma et.al.|[2608.30536v1](http://arxiv.org/abs/2608.30536v1)|null|[αX↑10](https://alphaxiv.org/abs/2608.30536)|
+|**2026-08-31**|**Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding**|Wei Wang et.al.|[2608.30279v1](http://arxiv.org/abs/2608.30279v1)|null|[αX↑4](https://alphaxiv.org/abs/2608.30279)|
+|**2026-08-30**|**FIS-OT: Feature-Induced Optimal Transport for Unsupervised Action Segmentation**|Linxiang Peng et.al.|[2608.29980v1](http://arxiv.org/abs/2608.29980v1)|[link](https://github.com/flying05/FIS-OT)|[αX↑5](https://alphaxiv.org/abs/2608.29980)|
+|**2026-08-30**|**MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation**|Xinyao Qin et.al.|[2608.29891v1](http://arxiv.org/abs/2608.29891v1)|null|[αX↑7](https://alphaxiv.org/abs/2608.29891)|
+|**2026-08-30**|**See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning**|Yun Li et.al.|[2608.29611v1](http://arxiv.org/abs/2608.29611v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.29611)|
 |**2026-08-29**|**Multi-Scale Temporal Domain Alignment for Federated Video Domain Adaptation**|Lee En-Yi Hannah et.al.|[2608.29186v1](http://arxiv.org/abs/2608.29186v1)|null|[αX↑2](https://alphaxiv.org/abs/2608.29186)|
 |**2026-08-27**|**Anatomy-Guided Foundation Model Adaptation with Within-Case Prototype Supervision for Standard Plane Detection in Fetal Ultrasound Blind Sweeps**|Yuzhe Zhao et.al.|[2608.27051v1](http://arxiv.org/abs/2608.27051v1)|null|[αX↑3](https://alphaxiv.org/abs/2608.27051)|
 |**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|[αX↑5](https://alphaxiv.org/abs/2608.25701)|
