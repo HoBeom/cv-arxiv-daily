@@ -4,10 +4,15 @@ layout: default
 
 ## Human Pose Estimation
 
-### Updated on 2026.09.09
+### Updated on 2026.09.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|[link](https://github.com/KhanSimon/field_converter)|[αX↑0](https://alphaxiv.org/abs/2609.10498)|
+|**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09826)|
+|**2026-09-09**|**Recovering Biomechanical Signals from Missing Keypoints Using Temporal Interpolation in Monocular Gait Analysis**|Shubham Jariwala et.al.|[2609.09670v1](http://arxiv.org/abs/2609.09670v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09670)|
+|**2026-09-09**|**Marker-free eye-gaze estimation using a single image and depth from defocus**|David Hurtubise-Martin et.al.|[2609.09610v1](http://arxiv.org/abs/2609.09610v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09610)|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491v1](http://arxiv.org/abs/2609.09491v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09491)|
 |**2026-09-08**|**Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering**|Jiahui Zhang et.al.|[2609.09069v1](http://arxiv.org/abs/2609.09069v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09069)|
 |**2026-09-08**|**Prior-free relative 6D pose estimation of multiple object instances**|Behdad Khodabandehloo et.al.|[2609.08949v1](http://arxiv.org/abs/2609.08949v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08949)|
 |**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806v1](http://arxiv.org/abs/2609.08806v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08806)|

@@ -1,16 +1,22 @@
 ## Robot & Agent
 
-### Updated on 2026.09.09
+### Updated on 2026.09.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
-|**2026-09-08**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v1](http://arxiv.org/abs/2609.09148v1)|null|[αX↑5](https://alphaxiv.org/abs/2609.09148)|
+|**2026-09-09**|**Adaptive Shared Control with Online Bounded-Rational Human Behavior Estimation**|Henry Ascencio Trejo et.al.|[2609.10215v1](http://arxiv.org/abs/2609.10215v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10215)|
+|**2026-09-09**|**Assembling Two Parts in One Hand**|Liuao Pei et.al.|[2609.10137v1](http://arxiv.org/abs/2609.10137v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10137)|
+|**2026-09-09**|**HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy**|Zengjue Chen et.al.|[2609.09941v1](http://arxiv.org/abs/2609.09941v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09941)|
+|**2026-09-08**|**Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning**|Kousheek Chakraborty et.al.|[2609.09492v1](http://arxiv.org/abs/2609.09492v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09492)|
+|**2026-09-08**|**A Decade of Bayesian Optimization for Controller Tuning and Robot Learning: Tutorial, Review, and Future Prospects**|David Stenger et.al.|[2609.09403v1](http://arxiv.org/abs/2609.09403v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09403)|
+|**2026-09-08**|**No Free Checker: A Survey of Verifiers for Robot Policies**|Yang Wan et.al.|[2609.09250v1](http://arxiv.org/abs/2609.09250v1)|[link](https://github.com/ZJUSCL/Awesome-Robot-Verifier)|[αX↑0](https://alphaxiv.org/abs/2609.09250)|
+|**2026-09-09**|**Proxy Policy Steering**|Chuanruo Ning et.al.|[2609.09148v2](http://arxiv.org/abs/2609.09148v2)|null|[αX↑5](https://alphaxiv.org/abs/2609.09148)|
 |**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493v1](http://arxiv.org/abs/2609.08493v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08493)|
 |**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Siyuan Li et.al.|[2609.08444v1](http://arxiv.org/abs/2609.08444v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08444)|
 |**2026-09-08**|**Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies**|Ruiyu Wang et.al.|[2609.08408v1](http://arxiv.org/abs/2609.08408v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08408)|
 |**2026-09-08**|**EvoNav-Bench: Benchmarking Lifelong Navigation in Evolving Environments**|Xilin Wang et.al.|[2609.08292v1](http://arxiv.org/abs/2609.08292v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.08292)|
 |**2026-09-08**|**Observe Before You Alert: Adaptive Driver Alerting with Vision-Language Models**|Yuhang Wang et.al.|[2609.08130v1](http://arxiv.org/abs/2609.08130v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.08130)|
-|**2026-09-07**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Ruoqu Chen et.al.|[2609.07747v1](http://arxiv.org/abs/2609.07747v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.07747)|
+|**2026-09-09**|**Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Videos with Simulated Interaction**|Ruoqu Chen et.al.|[2609.07747v2](http://arxiv.org/abs/2609.07747v2)|null|[αX↑4](https://alphaxiv.org/abs/2609.07747)|
 |**2026-09-07**|**PhysReal: Learning Real-World Deformable Object Physics via Hybrid Constitutive Modeling**|Yinan Deng et.al.|[2609.07532v1](http://arxiv.org/abs/2609.07532v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07532)|
 |**2026-09-07**|**CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements**|Hongxiang Zhao et.al.|[2609.07498v1](http://arxiv.org/abs/2609.07498v1)|null|[αX↑3](https://alphaxiv.org/abs/2609.07498)|
 |**2026-09-07**|**Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition**|Peng Xie et.al.|[2609.07474v1](http://arxiv.org/abs/2609.07474v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.07474)|

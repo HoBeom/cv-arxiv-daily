@@ -1,9 +1,13 @@
 ## Vision Language Action Model
 
-### Updated on 2026.09.09
+### Updated on 2026.09.10
 
 |Date|Title|Authors|PDF|Code|Stars|
 |---|---|---|---|---|---|
+|**2026-09-09**|**Frequency-Conditioned Flow Matching for Vision-Language-Action Models**|Haochen Niu et.al.|[2609.10405v1](http://arxiv.org/abs/2609.10405v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10405)|
+|**2026-09-09**|**RoboDrop: Curating VLA Post-Training Data via Local Gradient Compatibility**|Runze Xu et.al.|[2609.10021v1](http://arxiv.org/abs/2609.10021v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.10021)|
+|**2026-09-09**|**Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models**|Shengye Dong et.al.|[2609.09925v1](http://arxiv.org/abs/2609.09925v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09925)|
+|**2026-09-09**|**Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G**|Zhuodong Liu et.al.|[2609.09591v1](http://arxiv.org/abs/2609.09591v1)|null|[αX↑0](https://alphaxiv.org/abs/2609.09591)|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Anqi Li et.al.|[2609.09158v1](http://arxiv.org/abs/2609.09158v1)|null|[αX↑4](https://alphaxiv.org/abs/2609.09158)|
 |**2026-09-08**|**DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination**|Yankai Fu et.al.|[2609.09119v1](http://arxiv.org/abs/2609.09119v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.09119)|
 |**2026-09-08**|**3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints**|Ziqin Huang et.al.|[2609.08224v1](http://arxiv.org/abs/2609.08224v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.08224)|
@@ -21,7 +25,7 @@
 |**2026-09-04**|**RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?**|Zhenxuan Fan et.al.|[2609.05324v1](http://arxiv.org/abs/2609.05324v1)|[link](https://github.com/fanzhenxuan/RoboSPA)|[αX↑2](https://alphaxiv.org/abs/2609.05324)|
 |**2026-09-04**|**Temporal Tactile Encoding and Compliance for Intent-Aware Robot-to-Human Bimanual Handover**|Pasquale Marra et.al.|[2609.05282v1](http://arxiv.org/abs/2609.05282v1)|null|[αX↑2](https://alphaxiv.org/abs/2609.05282)|
 |**2026-09-04**|**Reasoning Without Inference Cost: Latent Semantic Scaffolding for Robot VLA Policies**|Andrew Ting Yan Li et.al.|[2609.04893v1](http://arxiv.org/abs/2609.04893v1)|null|[αX↑1](https://alphaxiv.org/abs/2609.04893)|
-|**2026-09-03**|**VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models**|Chenyu Su et.al.|[2609.04355v1](http://arxiv.org/abs/2609.04355v1)|[link](https://github.com/scy-v/VLA-Precision)|[αX↑9](https://alphaxiv.org/abs/2609.04355)|
+|**2026-09-09**|**VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models**|Chenyu Su et.al.|[2609.04355v2](http://arxiv.org/abs/2609.04355v2)|[link](https://github.com/scy-v/VLA-Precision)|[αX↑9](https://alphaxiv.org/abs/2609.04355)|
 |**2026-09-03**|**FailureSpot: Label-Efficient Timestamp-Level Failure Detection for Vision-Language-Action Models**|Jie Ma et.al.|[2609.04277v1](http://arxiv.org/abs/2609.04277v1)|null|[αX↑6](https://alphaxiv.org/abs/2609.04277)|
 |**2026-09-03**|**Toward Unified Robot Learning: Bridging Representation, Vision-Language-Action, and World Models**|Shaunak A. Mehta et.al.|[2609.03927v1](http://arxiv.org/abs/2609.03927v1)|null|[αX↑10](https://alphaxiv.org/abs/2609.03927)|
 |**2026-09-04**|**FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation**|Yutian Zhang et.al.|[2609.03889v2](http://arxiv.org/abs/2609.03889v2)|null|[αX↑10](https://alphaxiv.org/abs/2609.03889)|
